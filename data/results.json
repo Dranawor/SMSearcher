@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-10T21:55:22.402544+00:00",
+    "completed_at": "2026-09-10T22:01:06.859267+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -30,7 +30,7 @@
       "Wyrmspan"
     ],
     "errors": [],
-    "pages_checked": 3,
+    "pages_checked": 1,
     "sort": "mostrecent"
   },
   "keywords": [
