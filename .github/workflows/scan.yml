@@ -13,12 +13,14 @@ jobs:
   scan:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.x"
+
       - name: Scan Workshop
         run: python scanner/scan.py
+
       - name: Commit scan results
         run: |
           git config user.name "github-actions[bot]"
@@ -26,29 +28,41 @@ jobs:
           git add data/results.json
           git diff --cached --quiet || git commit -m "Update Workshop scan results"
           git push
+
       - name: Alert on new listings
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           python - <<'PY'
           import json, subprocess
+
           with open("data/results.json", encoding="utf-8") as f:
-              d = json.load(f)
-          new = [x for x in d.get("items", []) if x.get("is_new")]
+              data = json.load(f)
+
+          new = [x for x in data.get("items", []) if x.get("is_new")]
+
           if new:
-              body = "## New Workshop matches\n\nFound **%d** new listing(s).\n\n%s" % (
-                  len(new),
-                  "\n".join(
-                      "- [%s](%s) — %s" % (
-                          x.get("title", "Untitled"),
-                          x.get("url", "#"),
-                          ", ".join(x.get("keywords", []))
-                      ) for x in new
-                  )
+              body = "## New Workshop matches
+
+"
+              body += f"Found **{len(new)}** new listing(s).
+
+"
+              body += "
+".join(
+                  f"- [{x.get('title', 'Untitled')}]({x.get('url', '#')}) — "
+                  f"{', '.join(x.get('keywords', []))}"
+                  for x in new
               )
-              subprocess.run([
-                  "gh", "issue", "create",
-                  "--title", "New Workshop matches — " + d["scan"]["completed_at"][:10],
-                  "--body", body
-              ], check=False)
+
+              subprocess.run(
+                  [
+                      "gh", "issue", "create",
+                      "--title",
+                      "New Workshop matches — "
+                      + data["scan"]["completed_at"][:10],
+                      "--body", body,
+                  ],
+                  check=False,
+              )
           PY
