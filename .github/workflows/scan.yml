@@ -1,0 +1,71 @@
+name: Scan Steam Workshop
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.x"
+
+      - name: Scan Workshop
+        run: python scanner/scan.py
+
+      - name: Commit scan results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/results.json
+          git diff --cached --quiet || git commit -m "Update Workshop scan results"
+          git push
+
+      - name: Alert on new listings
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json
+          import subprocess
+
+          with open("data/results.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          new = [x for x in data.get("items", []) if x.get("is_new")]
+
+          if new:
+              body = "## New Workshop matches\n\n"
+              body += f"Found **{len(new)}** new listing(s).\n\n"
+              body += "\n".join(
+                  f"- [{x.get('title', 'Untitled')}]({x.get('url', '#')}) — "
+                  f"{', '.join(x.get('keywords', []))}"
+                  for x in new
+              )
+
+              subprocess.run(
+                  [
+                      "gh",
+                      "issue",
+                      "create",
+                      "--title",
+                      "New Workshop matches — "
+                      + data["scan"]["completed_at"][:10],
+                      "--body",
+                      body,
+                  ],
+                  check=False,
+              )
+          PY
