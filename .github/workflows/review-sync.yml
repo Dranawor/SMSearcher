@@ -1,0 +1,50 @@
+name: Sync shared review status
+on:
+  issues:
+    types: [opened, edited, reopened]
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: read
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - name: Build shared review file
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import json, os, re, subprocess
+          repo=os.environ["GITHUB_REPOSITORY"]
+          issues=json.loads(subprocess.check_output(["gh","issue","list","--repo",repo,"--state","all","--limit","1000","--json","number,title,author,createdAt,url,body"],text=True))
+          actions={}
+          for issue in issues:
+              m=re.match(r"^\[(REVIEW|UNREVIEW)\]\s+(\d+)\b",issue.get("title",""),re.I)
+              if not m: continue
+              author=(issue.get("author") or {}).get("login")
+              if not author: continue
+              try:
+                  perm=subprocess.check_output(["gh","api",f"repos/{repo}/collaborators/{author}/permission","--jq",".permission"],text=True,stderr=subprocess.DEVNULL).strip()
+              except subprocess.CalledProcessError:
+                  continue
+              if perm not in {"admin","maintain","push","triage"}: continue
+              note=""
+              mm=re.search(r"(?ms)^Review note:\s*\n\s*(.*?)(?:\n---|\Z)",issue.get("body") or "")
+              if mm: note=mm.group(1).strip()
+              actions[m.group(2)]={"action":m.group(1).upper(),"reviewer":author,"reviewed_at":issue.get("createdAt"),"note":note,"issue_url":issue.get("url"),"number":issue["number"]}
+          reviews={}
+          for lid,v in actions.items():
+              if v["action"]=="REVIEW":
+                  reviews[lid]={"reviewed":True,"reviewer":v["reviewer"],"reviewed_at":v["reviewed_at"],"note":v["note"],"issue_url":v["issue_url"]}
+          os.makedirs("data",exist_ok=True)
+          with open("data/reviews.json","w",encoding="utf-8") as f: json.dump(reviews,f,indent=2,ensure_ascii=False); f.write("\n")
+          PY
+      - name: Commit shared review status
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/reviews.json
+          git diff --cached --quiet || git commit -m "Update shared review status"
+          git push
