@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-10T22:01:06.859267+00:00",
+    "completed_at": "2026-09-10T22:10:54.094934+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -62,204 +62,312 @@
   ],
   "items": [
     {
+      "id": "2279109147",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2279109147",
+      "title": "Steam Workshop::[Mordheim] The Hillfort",
+      "keywords": [
+        "Vantage"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1691625928970668095/8D1BB318A445B81A1EAE7F60CC4E77772866B59C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2283888902",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2283888902",
+      "title": "Steam Workshop::[Mordheim] The Hillfort, Night",
+      "keywords": [
+        "Vantage"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1678115657143336423/1E60740AD4CC4C2F44855634B5C6CAD2A2D05E5F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "1076021679",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1076021679",
-      "title": "Workshop item 1076021679",
+      "title": "Steam Workshop::Battle For Dune",
       "keywords": [
         "Scythe"
       ],
       "is_new": false,
-      "found_at": "2026-09-10"
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/829077218867827381/69E0E321CEDD8AA05E82BA1078419837413A9D59/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
-      "id": "1099504299",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1099504299",
-      "title": "Workshop item 1099504299",
+      "id": "2279216503",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2279216503",
+      "title": "Steam Workshop::Dark Souls - Irithyll Expansion (Unofficial)",
       "keywords": [
         "Scythe"
       ],
       "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1165060932",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1165060932",
-      "title": "Workshop item 1165060932",
-      "keywords": [
-        "Tapestry"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1168323052",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1168323052",
-      "title": "Workshop item 1168323052",
-      "keywords": [
-        "Smitten"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1171776167",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1171776167",
-      "title": "Workshop item 1171776167",
-      "keywords": [
-        "Euphoria"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1268025036",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1268025036",
-      "title": "Workshop item 1268025036",
-      "keywords": [
-        "Pendulum"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1462065310",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1462065310",
-      "title": "Workshop item 1462065310",
-      "keywords": [
-        "Libertalia"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1482114648",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1482114648",
-      "title": "Workshop item 1482114648",
-      "keywords": [
-        "Tapestry"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1497308706",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1497308706",
-      "title": "Workshop item 1497308706",
-      "keywords": [
-        "Pendulum"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1509145883",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1509145883",
-      "title": "Workshop item 1509145883",
-      "keywords": [
-        "Pendulum"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1542844629",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1542844629",
-      "title": "Workshop item 1542844629",
-      "keywords": [
-        "Scythe"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1666173006",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1666173006",
-      "title": "Workshop item 1666173006",
-      "keywords": [
-        "Scythe"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1741605736",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1741605736",
-      "title": "Workshop item 1741605736",
-      "keywords": [
-        "Scythe"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1969607785",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1969607785",
-      "title": "Workshop item 1969607785",
-      "keywords": [
-        "Tapestry"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "1975484036",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1975484036",
-      "title": "Workshop item 1975484036",
-      "keywords": [
-        "Tokaido"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2007619436",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2007619436",
-      "title": "Workshop item 2007619436",
-      "keywords": [
-        "Pendulum"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2046383907",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2046383907",
-      "title": "Workshop item 2046383907",
-      "keywords": [
-        "Tokaido"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1689374299607419357/2D6380A61444F06D0257BD77764A7F4457F062B3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "2065918654",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2065918654",
-      "title": "Workshop item 2065918654",
+      "title": "Steam Workshop::Distilled",
       "keywords": [
         "Viticulture"
       ],
       "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2069831897",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2069831897",
-      "title": "Workshop item 2069831897",
-      "keywords": [
-        "Tapestry"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1692751086591917460/84D01EC95A98C55DE92A56280A0DF31F3BBA3217/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "2090626706",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2090626706",
-      "title": "Workshop item 2090626706",
+      "title": "Steam Workshop::Dogs of War (including Kickstarter bonuses)",
       "keywords": [
         "Libertalia"
       ],
       "is_new": false,
-      "found_at": "2026-09-10"
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1028454512721468340/471671DFE4BB1B52DB3AB19945022623DE0BBD29/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1969607785",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1969607785",
+      "title": "Steam Workshop::Emberwind - Official Nomnivore Release",
+      "keywords": [
+        "Tapestry"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/777369495383004291/67AC8CAAC3FD8C38DA4B740D75D07FC095786EC6/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2330087825",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2330087825",
+      "title": "Steam Workshop::Experimental Dice for Wingspan: The Oceania Expansion",
+      "keywords": [
+        "Wingspan"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1653349641708693182/B5C712040F8AD13B83D6B68E75A245029DEF1663/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2316432617",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2316432617",
+      "title": "Steam Workshop::Food Time Battle in Space",
+      "keywords": [
+        "Wingspan"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1661229829654158395/FF896510A2F691624E51370A0CFE9EA4AD543B18/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2046383907",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2046383907",
+      "title": "Steam Workshop::Iello Raids",
+      "keywords": [
+        "Tokaido"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1010436924812474997/2A94CEE710D7C8C6B7170B6643FEAD25FD60D0CE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1168323052",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1168323052",
+      "title": "Steam Workshop::Kingdom Death: Monster - Lovelorn Rock w/ accurate description + Percival and Fade promo card colour edit",
+      "keywords": [
+        "Smitten"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/879750610976598012/2898018A32BA99FCFC138CB70DB51534FAE5B906/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1171776167",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1171776167",
+      "title": "Steam Workshop::Leaders of Euphoria: Choose a Better Oppressor (Official)",
+      "keywords": [
+        "Euphoria"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/869617814913108040/D5BA62B42965C6A274A73B04E5E5948A4A6C527B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1542844629",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1542844629",
+      "title": "Steam Workshop::Legitimately obtained weapons (Misc Weapons)",
+      "keywords": [
+        "Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/940582899452600421/1478150DA4D1DD722C7255B95EB74E9AF4301D33/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2069831897",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2069831897",
+      "title": "Steam Workshop::Lucent",
+      "keywords": [
+        "Tapestry"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/998053722211056311/34C14B591232CDA709CC98D8BF8EC83A2931EF55/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1666173006",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1666173006",
+      "title": "Steam Workshop::Magic The Gathering: Hope of Ghirapur Voltron Deck",
+      "keywords": [
+        "Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/963112429822918034/87C247A1E034E3913B07DA85156CE7A9969D5555/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1099504299",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1099504299",
+      "title": "Steam Workshop::Mordokh",
+      "keywords": [
+        "Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/865107479791721644/905A1B18BC8CCB5A5C905A5AA4626DE1A81CC84A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1497308706",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1497308706",
+      "title": "Steam Workshop::Nekroz Base + Djinn Support Yu-Gi-Oh TCG",
+      "keywords": [
+        "Pendulum"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/966473983710567908/A06A2D4C20BD37178E619456E31A7B4D19FF5BE1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1268025036",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1268025036",
+      "title": "Steam Workshop::Plague Pendulum (Furnace) and Doom (Screaming) Bell",
+      "keywords": [
+        "Pendulum"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1460807855411530148/533695564730261CEB6FB7AB8178E9838B6DC600/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1482114648",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1482114648",
+      "title": "Steam Workshop::SAGA - Hastings & Stamford Bridge",
+      "keywords": [
+        "Tapestry"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/964222183904353434/657B9F95F35459EED5877B3CABA0AA7D9D8F7884/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2354978148",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2354978148",
+      "title": "Steam Workshop::Saught",
+      "keywords": [
+        "Tapestry"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1670239676979613189/EE5578F5FACCA2F130929C19C319348046C5CB95/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1462065310",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1462065310",
+      "title": "Steam Workshop::Smash Bros: Libertalia",
+      "keywords": [
+        "Libertalia"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/956338348343252089/EB90A2FB430E37E65C84DEFCEA7D9BF42BF720F6/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1165060932",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1165060932",
+      "title": "Steam Workshop::STAR TREK CCG (2° Edition) Virtual Expansion",
+      "keywords": [
+        "Tapestry"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/866239626962217379/6B34C1E62D77FE99B20EA48F8F818E16250618E2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1741605736",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1741605736",
+      "title": "Steam Workshop::Tactica II, Romans vs Gauls",
+      "keywords": [
+        "Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/805493757999727210/6FE5CBFF5EBE557D8C657B2950ED0A2E95D1AF72/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1975484036",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1975484036",
+      "title": "Steam Workshop::Tigris",
+      "keywords": [
+        "Tokaido"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1812130087575980944/BF94D83DD71D07DF8BB8BCED083F0B6D489A9F22/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2257318990",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2257318990",
+      "title": "Steam Workshop::Turalia",
+      "keywords": [
+        "Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1669105919508310967/1EFDCE7B844989E03443B438D61A1B5266BD2705/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2290734191",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2290734191",
+      "title": "Steam Workshop::UNO20 Extended Deck",
+      "keywords": [
+        "Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1654472393243810140/86B4CD7ADA4A939795D5762D1FF3AE758058C1ED/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2007619436",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2007619436",
+      "title": "Steam Workshop::Yu-Gi-Oh 8-Player Draft Table with Booster Pack Generator & Battle Pack Generator",
+      "keywords": [
+        "Pendulum"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/790883529106104928/DCA40BD269A8FCC77DAC0577494450490363BDCA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1509145883",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1509145883",
+      "title": "Steam Workshop::Yu-Gi-Oh! Decks and Tools (Link Format) Over 80 Decks",
+      "keywords": [
+        "Pendulum"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/965349203185718626/02C43802EF50DD0533162EE3B961AB1534864352/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "2097811171",
@@ -378,86 +486,6 @@
       "keywords": [
         "Tokaido",
         "Wingspan"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2257318990",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2257318990",
-      "title": "Workshop item 2257318990",
-      "keywords": [
-        "Scythe"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2279109147",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2279109147",
-      "title": "Workshop item 2279109147",
-      "keywords": [
-        "Vantage"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2279216503",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2279216503",
-      "title": "Workshop item 2279216503",
-      "keywords": [
-        "Scythe"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2283888902",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2283888902",
-      "title": "Workshop item 2283888902",
-      "keywords": [
-        "Vantage"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2290734191",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2290734191",
-      "title": "Workshop item 2290734191",
-      "keywords": [
-        "Scythe"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2316432617",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2316432617",
-      "title": "Workshop item 2316432617",
-      "keywords": [
-        "Wingspan"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2330087825",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2330087825",
-      "title": "Workshop item 2330087825",
-      "keywords": [
-        "Wingspan"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2354978148",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2354978148",
-      "title": "Workshop item 2354978148",
-      "keywords": [
-        "Tapestry"
       ],
       "is_new": false,
       "found_at": "2026-09-10"
@@ -8591,6 +8619,17 @@
       "keywords": [
         "Duel of Meloch",
         "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10"
+    },
+    {
+      "id": "3798115988",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3798115988",
+      "title": "Workshop item 3798115988",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
       ],
       "is_new": false,
       "found_at": "2026-09-10"
