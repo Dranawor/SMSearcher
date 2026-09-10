@@ -55,6 +55,18 @@ function issueUrl(items,action="REVIEW"){
   return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(lines.join("\n"))}`;
 }
 
+function selectVisible(){
+  const vis=visibleItems();
+  if(!vis.length)return;
+  const allSelected=vis.every(x=>state.selected.has(String(x.id)));
+  for(const x of vis){
+    const id=String(x.id);
+    if(allSelected) state.selected.delete(id);
+    else state.selected.add(id);
+  }
+  render();
+}
+
 function bulkReview(action){
   const items=state.items.filter(x=>state.selected.has(String(x.id)));
   if(!items.length)return;
