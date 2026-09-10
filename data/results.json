@@ -1,6 +1,7 @@
 {
   "scan": {
-    "completed_at": "2026-09-10T21:25:10.077836+00:00",
+    "initialized": false,
+    "completed_at": null,
     "errors": []
   },
   "keywords": [
