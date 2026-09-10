@@ -101,9 +101,9 @@ def extract_results(html, keyword):
 
         if not title:
             anchor = re.search(
-                r"<a\b[^>]*href\s*=\s*["']"
+                r'\<a\b[^>]*href\s*=\s*["\']'
                 + re.escape(href)
-                + r"["'][^>]*>(.*?)</a>",
+                + r'["\'][^>]*>(.*?)</a>',
                 nearby,
                 re.I | re.S,
             )
@@ -180,7 +180,7 @@ def main():
     first_scan = not bool(old)
     pages = FIRST_SCAN_PAGES if first_scan else REGULAR_SCAN_PAGES
 
-    merged = dict(old)
+    merged = {listing_id: {**item, "is_new": False} for listing_id, item in old.items()}
     errors = []
     successful_keywords = 0
     now = datetime.now(timezone.utc)
