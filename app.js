@@ -40,67 +40,41 @@ function issueUrl(items,action="REVIEW"){
   const bulk=items.length>1;
   const title=bulk?`[${action} BULK] ${items.length} Workshop listings`:`[${action}] ${items[0].id} — ${items[0].title||"Workshop listing"}`;
   const lines=[];
-  if(bulk) lines.push("Workshop IDs:");
-  for(const x of items){
-    lines.push(bulk?`- ${x.id} — ${x.title||"Untitled"} — ${x.url}`:`Workshop listing: ${x.url}`);
-    if(!bulk){lines.push(`Workshop ID: ${x.id}`,`Title: ${x.title||"Untitled"}`,`Keywords: ${(x.keywords||[]).join(", ")}`)}
+  if(bulk){
+    lines.push("Workshop IDs:");
+    for(const x of items) lines.push(`- ${x.id}`);
+  }else{
+    lines.push(
+      `Workshop listing: ${items[0].url}`,
+      `Workshop ID: ${items[0].id}`,
+      `Title: ${items[0].title||"Untitled"}`,
+      `Keywords: ${(items[0].keywords||[]).join(", ")}`
+    );
   }
-  if(bulk) lines.push("","These listings were selected together for review.");
   lines.push("","Review note:","","---","This issue is used by SMSearcher to maintain the shared review queue.");
-  const body=lines.join("\n");
-  return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
-}
-
-function updateBulkBar(){
-  const n=state.selected.size;
-  $("#selected-count").textContent=n;
-  $("#bulk-bar").classList.toggle("hidden",n===0);
-  const vis=visibleItems();
-  const selectedVisible=vis.filter(x=>state.selected.has(String(x.id))).length;
-  $("#select-visible").textContent=vis.length&&selectedVisible===vis.length?"Clear visible":"Select all visible";
-}
-
-function render(){
-  const a=visibleItems();
-  $("#message").style.display=a.length?"none":"block";
-  $("#results").innerHTML=a.map(x=>{
-    const r=state.reviews[String(x.id)],img=safeImage(x.thumbnail),checked=state.selected.has(String(x.id));
-    return `<article class="card ${r?"reviewed":""}">
-      <div class="select-box"><input type="checkbox" class="item-check" data-id="${esc(x.id)}" ${checked?"checked":""} aria-label="Select ${esc(x.title||"listing")}"></div>
-      <div class="preview">
-        ${img?`<img class="thumb" src="${img}" alt="" loading="lazy">`:`<div class="thumb placeholder">No preview</div>`}
-        <div class="card-main">
-          <div class="card-head"><div><div class="title">${esc(x.title||"Untitled")}</div><div class="meta">${esc(x.creator||"Unknown creator")}</div></div>
-          <div class="meta">${x.is_new?'<span class="tag new">NEW</span> ':''}${r?'<span class="tag reviewed-tag">REVIEWED</span>':''}</div></div>
-          <div class="tags">${(x.keywords||[]).map(k=>`<span class="tag">${esc(k)}</span>`).join("")}</div>
-          <div class="description">${x.description?esc(x.description.slice(0,420))+(x.description.length>420?"…":""):"No description available."}</div>
-          ${r?`<div class="review-info">Reviewed by <strong>${esc(r.reviewer||"team member")}</strong>${r.reviewed_at?` on ${esc(new Date(r.reviewed_at).toLocaleString())}`:""}${r.note?`<div>${esc(r.note)}</div>`:""}</div>`:""}
-          <div class="actions"><a class="button primary" href="${safe(x.url)}" target="_blank" rel="noopener">Open Steam ↗</a>
-          ${r?`<a class="button secondary dark" href="${issueUrl([x],"UNREVIEW")}" target="_blank" rel="noopener">Undo Reviewed</a>`:`<a class="button review" href="${issueUrl([x])}" target="_blank" rel="noopener">Mark Reviewed</a>`}</div>
-        </div>
-      </div>
-    </article>`;
-  }).join("");
-  document.querySelectorAll(".item-check").forEach(cb=>cb.addEventListener("change",()=>{
-    const id=String(cb.dataset.id);
-    if(cb.checked)state.selected.add(id);else state.selected.delete(id);
-    updateBulkBar();
-  }));
-  updateBulkBar();
-}
-
-function selectVisible(){
-  const vis=visibleItems(),all=vis.length&&vis.every(x=>state.selected.has(String(x.id)));
-  for(const x of vis){const id=String(x.id);if(all)state.selected.delete(id);else state.selected.add(id)}
-  render();
+  return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(lines.join("\n"))}`;
 }
 
 function bulkReview(action){
   const items=state.items.filter(x=>state.selected.has(String(x.id)));
   if(!items.length)return;
-  window.open(issueUrl(items,action),"_blank","noopener");
-}
 
+  // Keep GitHub's prefilled issue URL comfortably below URL-length limits.
+  // Larger selections are split into batches and opened as separate issues.
+  const batchSize=20;
+  const batches=[];
+  for(let i=0;i<items.length;i+=batchSize)batches.push(items.slice(i,i+batchSize));
+
+  if(batches.length>1){
+    const ok=confirm(`This selection contains ${items.length} listings. It will be split into ${batches.length} GitHub issues of up to ${batchSize} listings each. Continue?`);
+    if(!ok)return;
+  }
+
+  batches.forEach((batch,i)=>{
+    const url=issueUrl(batch,action);
+    setTimeout(()=>window.open(url,"_blank","noopener"),i*250);
+  });
+}
 function esc(s){return String(s).replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]))}
 function safe(u){try{const x=new URL(u);return x.protocol==="https:"&&x.hostname==="steamcommunity.com"?x.href:"#"}catch{return"#"}}
 function safeImage(u){try{const x=new URL(u);return x.protocol==="https:"&&(x.hostname==="steamuserimages-a.akamaihd.net"||x.hostname.endsWith(".steamusercontent.com")||x.hostname==="steamcommunity.com")?x.href:""}catch{return""}}
