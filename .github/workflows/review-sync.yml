@@ -61,7 +61,7 @@ jobs:
               else:
                   body=issue.get("body") or ""
                   # Bulk issues contain lines beginning "- <numeric ID> — ..."
-                  ids=re.findall(r"(?m)^-\s+(\d+)\s+—",body)
+                  ids=re.findall(r"(?m)^-\s+(\d+)(?:\s+—|\s*$)",body)
 
               note=""
               mm=re.search(r"(?ms)^Review note:\s*\n\s*(.*?)(?:\n---|\Z)",issue.get("body") or "")
