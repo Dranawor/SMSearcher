@@ -1,4 +1,11 @@
 {
+  "866173124": {
+    "reviewed": true,
+    "reviewer": "Dranawor",
+    "reviewed_at": "2026-09-11T15:40:36Z",
+    "note": "---\nThis issue is used by SMSearcher to maintain the shared review queue.",
+    "issue_url": "https://github.com/Dranawor/SMSearcher/issues/8"
+  },
   "2090626706": {
     "reviewed": true,
     "reviewer": "Dranawor",
