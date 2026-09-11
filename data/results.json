@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-11T04:43:15.281586+00:00",
+    "completed_at": "2026-09-11T11:24:03.005076+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -161,6 +161,17 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/1653349641708693182/B5C712040F8AD13B83D6B68E75A245029DEF1663/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "2100884787",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2100884787",
+      "title": "Steam Workshop::Fancy Poker",
+      "keywords": [
+        "Pendulum"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1046470585561896655/E6156E65A1DBCEBFC8B57007D3F25E4566CE3772/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "2316432617",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2316432617",
       "title": "Steam Workshop::Food Time Battle in Space",
@@ -181,6 +192,17 @@
       "is_new": false,
       "found_at": "2026-09-10",
       "thumbnail": "https://images.steamusercontent.com/ugc/1010436924812474997/2A94CEE710D7C8C6B7170B6643FEAD25FD60D0CE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2097811171",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2097811171",
+      "title": "Steam Workshop::Imperial Coinage (Warhammer Coins)",
+      "keywords": [
+        "Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1009314841647487010/FB042DE917F8AB98F85BF38C7C70077BC4411BC0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "2168602707",
@@ -359,6 +381,17 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/805493757999727210/6FE5CBFF5EBE557D8C657B2950ED0A2E95D1AF72/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "2100554411",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2100554411",
+      "title": "Steam Workshop::Tactica II-Romans vs Pontus Miniatures Game",
+      "keywords": [
+        "Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1023951696842133353/AF2E46DC2BC87C44E7A94B917FD700B666942350/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "1975484036",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1975484036",
       "title": "Steam Workshop::Tigris",
@@ -459,44 +492,15 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/965349203185718626/02C43802EF50DD0533162EE3B961AB1534864352/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
-      "id": "2097811171",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2097811171",
-      "title": "Workshop item 2097811171",
-      "keywords": [
-        "Scythe"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2100554411",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2100554411",
-      "title": "Workshop item 2100554411",
-      "keywords": [
-        "Scythe"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
-      "id": "2100884787",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2100884787",
-      "title": "Workshop item 2100884787",
-      "keywords": [
-        "Pendulum"
-      ],
-      "is_new": false,
-      "found_at": "2026-09-10"
-    },
-    {
       "id": "2138896790",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2138896790",
-      "title": "Workshop item 2138896790",
+      "title": "Steam Workshop::Yu-Gi-Oh! game mat",
       "keywords": [
         "Pendulum"
       ],
       "is_new": false,
-      "found_at": "2026-09-10"
+      "found_at": "2026-09-10",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1249134900610663195/5B7B250EB63EA570830710CE3E484A74F52375B5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "2384140713",
@@ -8996,6 +9000,16 @@
       "keywords": [
         "My Little Scythe",
         "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-11"
+    },
+    {
+      "id": "3799513043",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799513043",
+      "title": "Workshop item 3799513043",
+      "keywords": [
+        "My Little Scythe"
       ],
       "is_new": false,
       "found_at": "2026-09-11"
