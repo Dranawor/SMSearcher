@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-11T16:30:08.168277+00:00",
+    "completed_at": "2026-09-11T20:59:05.820742+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -9029,6 +9029,17 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799613275",
       "title": "Workshop item 3799613275",
       "keywords": [
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-11"
+    },
+    {
+      "id": "3799736090",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799736090",
+      "title": "Workshop item 3799736090",
+      "keywords": [
+        "Between Two Castles",
         "Between Two Cities"
       ],
       "is_new": false,
