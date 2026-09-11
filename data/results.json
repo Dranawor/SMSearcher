@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-11T11:24:03.005076+00:00",
+    "completed_at": "2026-09-11T16:30:08.168277+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -9010,6 +9010,26 @@
       "title": "Workshop item 3799513043",
       "keywords": [
         "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-11"
+    },
+    {
+      "id": "3799585285",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799585285",
+      "title": "Workshop item 3799585285",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-11"
+    },
+    {
+      "id": "3799613275",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799613275",
+      "title": "Workshop item 3799613275",
+      "keywords": [
+        "Between Two Cities"
       ],
       "is_new": false,
       "found_at": "2026-09-11"
