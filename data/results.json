@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-11T20:59:05.820742+00:00",
+    "completed_at": "2026-09-12T04:37:33.946925+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -9044,6 +9044,49 @@
       ],
       "is_new": false,
       "found_at": "2026-09-11"
+    },
+    {
+      "id": "3799892565",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799892565",
+      "title": "Workshop item 3799892565",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Red Rising"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-12"
+    },
+    {
+      "id": "3799980940",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799980940",
+      "title": "Workshop item 3799980940",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-12"
+    },
+    {
+      "id": "3799996227",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799996227",
+      "title": "Workshop item 3799996227",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-12"
+    },
+    {
+      "id": "3800020157",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800020157",
+      "title": "Workshop item 3800020157",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-12"
     }
   ]
 }
