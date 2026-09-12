@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-12T04:37:33.946925+00:00",
+    "completed_at": "2026-09-12T10:49:37.933756+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -9084,6 +9084,16 @@
       "title": "Workshop item 3800020157",
       "keywords": [
         "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-12"
+    },
+    {
+      "id": "3800062704",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800062704",
+      "title": "Workshop item 3800062704",
+      "keywords": [
+        "Red Rising"
       ],
       "is_new": false,
       "found_at": "2026-09-12"
