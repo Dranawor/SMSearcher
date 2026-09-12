@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-12T15:33:29.993867+00:00",
+    "completed_at": "2026-09-12T20:34:38.988706+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -9103,6 +9103,37 @@
       "id": "3800185183",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800185183",
       "title": "Workshop item 3800185183",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-12"
+    },
+    {
+      "id": "3800296299",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800296299",
+      "title": "Workshop item 3800296299",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-12"
+    },
+    {
+      "id": "3800374678",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800374678",
+      "title": "Workshop item 3800374678",
+      "keywords": [
+        "Duel of Meloch"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-12"
+    },
+    {
+      "id": "3800433503",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800433503",
+      "title": "Workshop item 3800433503",
       "keywords": [
         "Origin Story"
       ],
