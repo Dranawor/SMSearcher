@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-13T11:55:03.403621+00:00",
+    "completed_at": "2026-09-13T15:39:00.181195+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -21,6 +21,7 @@
       "Scythe",
       "Smitten",
       "Stamp Swap",
+      "Stonemaier",
       "Tapestry",
       "Tokaido",
       "Vantage",
@@ -34,6 +35,7 @@
     "sort": "mostrecent"
   },
   "keywords": [
+    "Stonemaier",
     "Viticulture",
     "Euphoria",
     "Between Two Cities",
@@ -61,6 +63,61 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3800916707",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800916707",
+      "title": "Steam Workshop::Harzbahn REDUX",
+      "keywords": [
+        "Stamp Swap"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-13",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14793184349784863707/15D1381E275392626B45E3537B99E5E9C2D15D9C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3800933666",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800933666",
+      "title": "Steam Workshop::horrors of the underground",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-13",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16790112808460924321/22117E5833556BC448BAF1B83644DD9B367C2598/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2066328580",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2066328580",
+      "title": "Steam Workshop::Rolling Realms",
+      "keywords": [
+        "Stonemaier"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-13",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1003682945979548953/C82497D2C1201F70DAC703B1B1BCE93EB89F2E34/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2500366210",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2500366210",
+      "title": "Steam Workshop::Rolling Realms 中文化",
+      "keywords": [
+        "Stonemaier"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-13",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1746813561756426796/F172B29CE411B2ADB7FFA519EE84CC39E955BC5B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "2268822485",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2268822485",
+      "title": "Steam Workshop::Stonemaier:",
+      "keywords": [
+        "Stonemaier"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-13",
+      "thumbnail": "https://images.steamusercontent.com/ugc/1688247372241153526/27436EDC00F8539AB3CE02BBC7CC0393A5488FE8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
     {
       "id": "2279109147",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2279109147",
@@ -231,7 +288,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1171776167",
       "title": "Steam Workshop::Leaders of Euphoria: Choose a Better Oppressor (Official)",
       "keywords": [
-        "Euphoria"
+        "Euphoria",
+        "Stonemaier"
       ],
       "is_new": false,
       "found_at": "2026-09-10",
