@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-14T12:50:53.907640+00:00",
+    "completed_at": "2026-09-14T21:50:52.447451+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -63,6 +63,67 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3801595633",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801595633",
+      "title": "Steam Workshop::[EN] Wuthering waves: Duel TCG",
+      "keywords": [
+        "Duel of Meloch",
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15397243860638513355/58461ECA8C0E40AED466BE2101778FC12EAF4070/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3797118732",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3797118732",
+      "title": "Steam Workshop::City War 2-team 11th (Horde Setup)",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16962869328022849523/B7B13F83A8DB1BCA45F89C10147D4B55461C2A86/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801775297",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801775297",
+      "title": "Steam Workshop::Cyberpunk TCG Board w/ active Street Cred tracking",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11098264884292155586/B3C8195C84C5256EAEC71E757AFA3F906B018D6F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801719558",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801719558",
+      "title": "Steam Workshop::Republic of Nikea Armed Forces (a Firelock 198X Homebrew)",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16944552779519026395/6D145A1CD1062BDB8047AC344992DA7F10A38D25/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801628229",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801628229",
+      "title": "Steam Workshop::☢STALKER☢ AGROPROM UNDERGROUND",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe",
+        "Origin Story",
+        "Red Rising"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12336173869216887136/B2041B8B75052EEEC72D1CF4F224DDC057290603/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
     {
       "id": "2279109147",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2279109147",
