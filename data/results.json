@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-14T04:58:56.778894+00:00",
+    "completed_at": "2026-09-14T12:50:53.907640+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -63,64 +63,6 @@
     "Namiji"
   ],
   "items": [
-    {
-      "id": "3799503501",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799503501",
-      "title": "Steam Workshop::Berserker Warlord",
-      "keywords": [
-        "Origin Story"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-14",
-      "thumbnail": "https://images.steamusercontent.com/ugc/17528810118500411757/601A57D8201F3F0B92DC634B1AEC497011534855/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3789234059",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3789234059",
-      "title": "Steam Workshop::From The Deep_for playtesting_not final art",
-      "keywords": [
-        "Red Rising"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-14",
-      "thumbnail": "https://images.steamusercontent.com/ugc/13916985538653710441/01BF80A96018698B818F7840C2FAD73B9A8592E8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3801392104",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801392104",
-      "title": "Steam Workshop::Little Legends RPG - Public Playtest v4",
-      "keywords": [
-        "My Little Scythe",
-        "Origin Story"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-14",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15091815516275341329/B2DEF9E344459470BEA146E45997646D9A66F2C3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3800447213",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800447213",
-      "title": "Steam Workshop::Necromunda Map Builder",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-14",
-      "thumbnail": "https://images.steamusercontent.com/ugc/17949320397998146227/E169E3152A2C49994DA2C12752ACBFA19846A0C4/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3801255249",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801255249",
-      "title": "Steam Workshop::Pictionary 1985",
-      "keywords": [
-        "Origin Story"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-14",
-      "thumbnail": "https://images.steamusercontent.com/ugc/11833424882392221769/0F5C9517EF84973541EB5619144C914546CBCFA6/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
     {
       "id": "2279109147",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2279109147",
@@ -9297,6 +9239,64 @@
       ],
       "is_new": false,
       "found_at": "2026-09-13"
+    },
+    {
+      "id": "3799503501",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3799503501",
+      "title": "Steam Workshop::Berserker Warlord",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17528810118500411757/601A57D8201F3F0B92DC634B1AEC497011534855/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3789234059",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3789234059",
+      "title": "Steam Workshop::From The Deep_for playtesting_not final art",
+      "keywords": [
+        "Red Rising"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13916985538653710441/01BF80A96018698B818F7840C2FAD73B9A8592E8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801392104",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801392104",
+      "title": "Steam Workshop::Little Legends RPG - Public Playtest v4",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15091815516275341329/B2DEF9E344459470BEA146E45997646D9A66F2C3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3800447213",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3800447213",
+      "title": "Steam Workshop::Necromunda Map Builder",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17949320397998146227/E169E3152A2C49994DA2C12752ACBFA19846A0C4/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801255249",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801255249",
+      "title": "Steam Workshop::Pictionary 1985",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-14",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11833424882392221769/0F5C9517EF84973541EB5619144C914546CBCFA6/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
