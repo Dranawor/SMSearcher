@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-14T23:57:35.568192+00:00",
+    "completed_at": "2026-09-15T11:45:54.767381+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -63,6 +63,55 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3802058937",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802058937",
+      "title": "Steam Workshop::[Four Souls] Bbli$zard Island mini-expansion",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-15",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16415468651177572737/908177FFAEE3CF521BFDF7CA071A29E30DC666B0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802046118",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802046118",
+      "title": "Steam Workshop::Detonate!",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-15",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11037451488607285187/F2D6216563994E4BB9FB27B9C45D84A5AA99F035/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801895011",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801895011",
+      "title": "Steam Workshop::Paper Mario Superstars",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story",
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-15",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12030199178090965927/D0AE7CEB8B0A22E482BFCA449DA2897CC6586B8A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801919912",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801919912",
+      "title": "Steam Workshop::Серп",
+      "keywords": [
+        "Stonemaier"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-15",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12167830441240296659/BF0EACE5F4C0825F462F87B3B6EACBC764258AE1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
