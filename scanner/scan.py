@@ -25,6 +25,7 @@ DELAY_SECONDS = 2.0
 DETAIL_DELAY_SECONDS = 1.5
 
 MAX_RETRIES = 3
+MAX_DETAIL_ENRICHMENTS = 40
 
 
 def fetch(url):
@@ -245,17 +246,10 @@ def load_previous():
 
 
 def enrich_items(merged):
-    new_candidates = [
+    candidates = [
         x
         for x in merged.values()
-        if x.get("is_new", False)
-    ]
-
-    existing_candidates = [
-        x
-        for x in merged.values()
-        if not x.get("is_new", False)
-        and (
+        if (
             not x.get("title")
             or str(x.get("title", "")).startswith("Workshop item ")
             or not x.get("thumbnail")
@@ -264,25 +258,26 @@ def enrich_items(merged):
         )
     ]
 
-    new_candidates.sort(
+    candidates.sort(
         key=lambda x: (
+            not x.get("is_new", False),
             x.get("found_at", ""),
             str(x.get("id", "")),
         )
     )
 
-    existing_candidates.sort(
-        key=lambda x: (
-            x.get("found_at", ""),
-            str(x.get("id", "")),
-        )
+    candidates = candidates[:MAX_DETAIL_ENRICHMENTS]
+
+    new_count = sum(
+        1 for x in candidates
+        if x.get("is_new", False)
     )
 
-    candidates = new_candidates + existing_candidates
+    old_count = len(candidates) - new_count
 
     print(
         f"Enriching {len(candidates)} listing previews/details "
-        f"({len(new_candidates)} new, {len(existing_candidates)} existing)..."
+        f"({new_count} new, {old_count} existing)..."
     )
 
     for i, item in enumerate(candidates, 1):
