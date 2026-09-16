@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-15T21:22:57.595193+00:00",
+    "completed_at": "2026-09-16T04:51:24.464679+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,27 +68,17 @@
   ],
   "items": [
     {
-      "id": "3802311430",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802311430",
-      "title": "Steam Workshop::Bohnanza scripted+expasion",
+      "id": "3802314643",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802314643",
+      "title": "Steam Workshop::Ring of Leviathan REVAMP",
       "keywords": [
         "Between Two Castles",
-        "Between Two Cities"
+        "Between Two Cities",
+        "Rolling Realms"
       ],
       "is_new": true,
-      "found_at": "2026-09-15",
-      "thumbnail": "https://images.steamusercontent.com/ugc/14849510953546563170/1D01C2DB101E96B96A6D7E05F4E71CEEBF406533/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "1298564963",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1298564963",
-      "title": "Steam Workshop::Серп (RodnindoR) v0.4",
-      "keywords": [
-        "Серп"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-15",
-      "thumbnail": "https://images.steamusercontent.com/ugc/930427026039523962/46A41473318CB758F96CD23FA7040C736CF8F427/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-16",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13787558448790624980/BE4D4F4294CDDBEEFB34F2B179EEAEE63ECD9F73/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -9947,6 +9937,18 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/16415468651177572737/908177FFAEE3CF521BFDF7CA071A29E30DC666B0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3802311430",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802311430",
+      "title": "Steam Workshop::Bohnanza scripted+expasion",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-15",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14849510953546563170/1D01C2DB101E96B96A6D7E05F4E71CEEBF406533/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3802198618",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802198618",
       "title": "Steam Workshop::Built-to-Scale Solitaire: x2",
@@ -9993,6 +9995,17 @@
       "is_new": false,
       "found_at": "2026-09-15",
       "thumbnail": "https://images.steamusercontent.com/ugc/12167830441240296659/BF0EACE5F4C0825F462F87B3B6EACBC764258AE1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "1298564963",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1298564963",
+      "title": "Steam Workshop::Серп (RodnindoR) v0.4",
+      "keywords": [
+        "Серп"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-15",
+      "thumbnail": "https://images.steamusercontent.com/ugc/930427026039523962/46A41473318CB758F96CD23FA7040C736CF8F427/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
