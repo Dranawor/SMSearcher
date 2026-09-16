@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-16T11:37:26.389412+00:00",
+    "completed_at": "2026-09-16T16:58:35.408151+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,6 +67,40 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3802691268",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802691268",
+      "title": "Steam Workshop::42 All-Time Classics Expansion",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-16",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10030684069449989666/29BDDC62441A29C6A89802E8B3D708C4A1206D9C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802604731",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802604731",
+      "title": "Steam Workshop::Half-Life 2: Complete Assets (HL2, EP1, EP2)",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-16",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9340979981787619421/A52A7E2FCBF6B727D9FF951E02E86A154C921A23/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801759560",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801759560",
+      "title": "Steam Workshop::Solo Haunting",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-16",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16066857532820684694/34F2EAFF5BA3C80A65382D0DDED4D62228B516C5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
