@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-16T04:51:24.464679+00:00",
+    "completed_at": "2026-09-16T11:37:26.389412+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,19 +67,6 @@
     "Namiji"
   ],
   "items": [
-    {
-      "id": "3802314643",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802314643",
-      "title": "Steam Workshop::Ring of Leviathan REVAMP",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-16",
-      "thumbnail": "https://images.steamusercontent.com/ugc/13787558448790624980/BE4D4F4294CDDBEEFB34F2B179EEAEE63ECD9F73/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
@@ -10006,6 +9993,19 @@
       "is_new": false,
       "found_at": "2026-09-15",
       "thumbnail": "https://images.steamusercontent.com/ugc/930427026039523962/46A41473318CB758F96CD23FA7040C736CF8F427/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802314643",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802314643",
+      "title": "Steam Workshop::Ring of Leviathan REVAMP",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-16",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13787558448790624980/BE4D4F4294CDDBEEFB34F2B179EEAEE63ECD9F73/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
