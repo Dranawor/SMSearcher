@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-16T16:58:35.408151+00:00",
+    "completed_at": "2026-09-16T21:19:43.658290+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,38 +68,26 @@
   ],
   "items": [
     {
-      "id": "3802691268",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802691268",
-      "title": "Steam Workshop::42 All-Time Classics Expansion",
+      "id": "3802820873",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802820873",
+      "title": "Steam Workshop::Deckers",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
       "found_at": "2026-09-16",
-      "thumbnail": "https://images.steamusercontent.com/ugc/10030684069449989666/29BDDC62441A29C6A89802E8B3D708C4A1206D9C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/13376224443705780547/676B705ECEA549D1B564B694A28BE9399C3DA3BC/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
-      "id": "3802604731",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802604731",
-      "title": "Steam Workshop::Half-Life 2: Complete Assets (HL2, EP1, EP2)",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-16",
-      "thumbnail": "https://images.steamusercontent.com/ugc/9340979981787619421/A52A7E2FCBF6B727D9FF951E02E86A154C921A23/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3801759560",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801759560",
-      "title": "Steam Workshop::Solo Haunting",
+      "id": "3802783931",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802783931",
+      "title": "Steam Workshop::DiceOn!",
       "keywords": [
         "Rolling Realms"
       ],
       "is_new": true,
       "found_at": "2026-09-16",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16066857532820684694/34F2EAFF5BA3C80A65382D0DDED4D62228B516C5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/14344824830886003381/1E8B523821A3BD91340789E0CAD6D1B1648C2B0A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10029,6 +10017,29 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/930427026039523962/46A41473318CB758F96CD23FA7040C736CF8F427/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3802691268",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802691268",
+      "title": "Steam Workshop::42 All-Time Classics Expansion",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-16",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10030684069449989666/29BDDC62441A29C6A89802E8B3D708C4A1206D9C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802604731",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802604731",
+      "title": "Steam Workshop::Half-Life 2: Complete Assets (HL2, EP1, EP2)",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-16",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9340979981787619421/A52A7E2FCBF6B727D9FF951E02E86A154C921A23/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3802314643",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802314643",
       "title": "Steam Workshop::Ring of Leviathan REVAMP",
@@ -10040,6 +10051,17 @@
       "is_new": false,
       "found_at": "2026-09-16",
       "thumbnail": "https://images.steamusercontent.com/ugc/13787558448790624980/BE4D4F4294CDDBEEFB34F2B179EEAEE63ECD9F73/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801759560",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801759560",
+      "title": "Steam Workshop::Solo Haunting",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-16",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16066857532820684694/34F2EAFF5BA3C80A65382D0DDED4D62228B516C5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
