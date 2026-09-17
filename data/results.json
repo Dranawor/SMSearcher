@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-17T17:00:59.837027+00:00",
+    "completed_at": "2026-09-17T21:24:02.576317+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,6 +67,67 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3803327728",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803327728",
+      "title": "Steam Workshop::Dragoncraft MTG Deck",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9752968195213861422/AA669F361142E918C30CB58C93C95A7DAAF97871/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802973224",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802973224",
+      "title": "Steam Workshop::Feudal Conquest - 2 Player",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10360702789885885152/8C999743CBA17015A2A1D2FFA6BF38DE89780518/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802971436",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802971436",
+      "title": "Steam Workshop::Feudal Conquest - 3 Player",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15742836929236867087/C633F820E9B4C308383E211E3BAB2C563BA08993/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802968377",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802968377",
+      "title": "Steam Workshop::Feudal Conquest - 4 Player Start",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15331494548512457133/8C999743CBA17015A2A1D2FFA6BF38DE89780518/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803316569",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803316569",
+      "title": "Steam Workshop::STC Blighted Wilds",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14674194032013860357/D9709A320223B291AF2B402CA116AFE174A5FBA3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
