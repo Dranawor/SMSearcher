@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-17T11:44:15.890770+00:00",
+    "completed_at": "2026-09-17T17:00:59.837027+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,19 +67,6 @@
     "Namiji"
   ],
   "items": [
-    {
-      "id": "3803104112",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803104112",
-      "title": "Steam Workshop::Wuthering Waves: Duel TCG [Fanmade EN]",
-      "keywords": [
-        "Duel of Meloch",
-        "My Little Scythe",
-        "Origin Story"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-17",
-      "thumbnail": "https://images.steamusercontent.com/ugc/14050450642609253545/8C214E736FC3C6527971706365D0D7DEAFC738F7/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
@@ -10086,6 +10073,19 @@
       "is_new": false,
       "found_at": "2026-09-17",
       "thumbnail": "https://images.steamusercontent.com/ugc/17454311715842102075/EA0BF831D6EBAA6C6B86ECDF6BB8BB0707081BDA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803104112",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803104112",
+      "title": "Steam Workshop::Wuthering Waves: Duel TCG [Fanmade EN]",
+      "keywords": [
+        "Duel of Meloch",
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14050450642609253545/8C214E736FC3C6527971706365D0D7DEAFC738F7/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
