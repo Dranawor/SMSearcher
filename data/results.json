@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-17T21:24:02.576317+00:00",
+    "completed_at": "2026-09-18T04:45:56.949668+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,65 +68,26 @@
   ],
   "items": [
     {
-      "id": "3803327728",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803327728",
-      "title": "Steam Workshop::Dragoncraft MTG Deck",
+      "id": "3803483442",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803483442",
+      "title": "Steam Workshop::DnD Table V3.2",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
-      "found_at": "2026-09-17",
-      "thumbnail": "https://images.steamusercontent.com/ugc/9752968195213861422/AA669F361142E918C30CB58C93C95A7DAAF97871/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16861422368763501456/9218CCD755B74081D741A584EC1C8A43A421731C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
-      "id": "3802973224",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802973224",
-      "title": "Steam Workshop::Feudal Conquest - 2 Player",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-17",
-      "thumbnail": "https://images.steamusercontent.com/ugc/10360702789885885152/8C999743CBA17015A2A1D2FFA6BF38DE89780518/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3802971436",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802971436",
-      "title": "Steam Workshop::Feudal Conquest - 3 Player",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-17",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15742836929236867087/C633F820E9B4C308383E211E3BAB2C563BA08993/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3802968377",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802968377",
-      "title": "Steam Workshop::Feudal Conquest - 4 Player Start",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-17",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15331494548512457133/8C999743CBA17015A2A1D2FFA6BF38DE89780518/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3803316569",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803316569",
-      "title": "Steam Workshop::STC Blighted Wilds",
+      "id": "3803448476",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803448476",
+      "title": "Steam Workshop::Slay The Spire - Snap Toggler",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
-      "found_at": "2026-09-17",
-      "thumbnail": "https://images.steamusercontent.com/ugc/14674194032013860357/D9709A320223B291AF2B402CA116AFE174A5FBA3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17701134542180875251/A248CDF97905BAA599940E0B4BC9C61DE423BF0A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10125,6 +10086,56 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/16066857532820684694/34F2EAFF5BA3C80A65382D0DDED4D62228B516C5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3803327728",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803327728",
+      "title": "Steam Workshop::Dragoncraft MTG Deck",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9752968195213861422/AA669F361142E918C30CB58C93C95A7DAAF97871/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802973224",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802973224",
+      "title": "Steam Workshop::Feudal Conquest - 2 Player",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10360702789885885152/8C999743CBA17015A2A1D2FFA6BF38DE89780518/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802971436",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802971436",
+      "title": "Steam Workshop::Feudal Conquest - 3 Player",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15742836929236867087/C633F820E9B4C308383E211E3BAB2C563BA08993/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802968377",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802968377",
+      "title": "Steam Workshop::Feudal Conquest - 4 Player Start",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15331494548512457133/8C999743CBA17015A2A1D2FFA6BF38DE89780518/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3802984027",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802984027",
       "title": "Steam Workshop::Rob look at this joke I made in TT",
@@ -10134,6 +10145,17 @@
       "is_new": false,
       "found_at": "2026-09-17",
       "thumbnail": "https://images.steamusercontent.com/ugc/17454311715842102075/EA0BF831D6EBAA6C6B86ECDF6BB8BB0707081BDA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803316569",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803316569",
+      "title": "Steam Workshop::STC Blighted Wilds",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-17",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14674194032013860357/D9709A320223B291AF2B402CA116AFE174A5FBA3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3803104112",
