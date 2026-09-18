@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-18T16:25:39.999368+00:00",
+    "completed_at": "2026-09-18T20:55:48.129233+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,27 +68,60 @@
   ],
   "items": [
     {
-      "id": "3803712817",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803712817",
-      "title": "Steam Workshop::Baba Is You: The Board Game [Kickstarter Asset Rip]",
+      "id": "3803822427",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803822427",
+      "title": "Steam Workshop::[FIXED] Kraken Table for One World",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15810504542881001966/D637E7A61820643B496B50A84DF052870C9BB441/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803585764",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803585764",
+      "title": "Steam Workshop::CustomBakugan_Toon_Edition_WIP",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10535475503148304739/EE60774B508268E8AE018E676329148EA48B2978/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803962104",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803962104",
+      "title": "Steam Workshop::High Toril",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15548607011839531896/C131A561D3D4910E81F6A96517B1E267FA30DB06/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803894647",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803894647",
+      "title": "Steam Workshop::MTG Vending Machine: Evil Edition",
+      "keywords": [
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9874631068813545203/839026666F070634BEED2DB17A030A8391F4C706/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803906839",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803906839",
+      "title": "Steam Workshop::Nascar Cup Indianapolis",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
       "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/10096796613698861143/CC59E23870BFBC0B7BC337FC38920F892C941CCE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3803701807",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803701807",
-      "title": "Steam Workshop::Unicorn Overlord-The Board Game [EN]",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/14138977304462793245/05B44A555D5272F221EAE4A3ACE0AC5998871F4B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/18329629145983512604/5DFAA2C54368CE591AFABE7817D1B868686744A9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10172,6 +10205,17 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/14050450642609253545/8C214E736FC3C6527971706365D0D7DEAFC738F7/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3803712817",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803712817",
+      "title": "Steam Workshop::Baba Is You: The Board Game [Kickstarter Asset Rip]",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10096796613698861143/CC59E23870BFBC0B7BC337FC38920F892C941CCE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3803483442",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803483442",
       "title": "Steam Workshop::DnD Table V3.2",
@@ -10192,6 +10236,18 @@
       "is_new": false,
       "found_at": "2026-09-18",
       "thumbnail": "https://images.steamusercontent.com/ugc/17701134542180875251/A248CDF97905BAA599940E0B4BC9C61DE423BF0A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803701807",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803701807",
+      "title": "Steam Workshop::Unicorn Overlord-The Board Game [EN]",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14138977304462793245/05B44A555D5272F221EAE4A3ACE0AC5998871F4B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
