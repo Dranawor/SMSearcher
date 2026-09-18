@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-18T11:17:38.759045+00:00",
+    "completed_at": "2026-09-18T16:25:39.999368+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,6 +67,29 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3803712817",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803712817",
+      "title": "Steam Workshop::Baba Is You: The Board Game [Kickstarter Asset Rip]",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10096796613698861143/CC59E23870BFBC0B7BC337FC38920F892C941CCE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803701807",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803701807",
+      "title": "Steam Workshop::Unicorn Overlord-The Board Game [EN]",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14138977304462793245/05B44A555D5272F221EAE4A3ACE0AC5998871F4B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
