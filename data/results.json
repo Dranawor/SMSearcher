@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-18T04:45:56.949668+00:00",
+    "completed_at": "2026-09-18T11:17:38.759045+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,28 +67,6 @@
     "Namiji"
   ],
   "items": [
-    {
-      "id": "3803483442",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803483442",
-      "title": "Steam Workshop::DnD Table V3.2",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16861422368763501456/9218CCD755B74081D741A584EC1C8A43A421731C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3803448476",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803448476",
-      "title": "Steam Workshop::Slay The Spire - Snap Toggler",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/17701134542180875251/A248CDF97905BAA599940E0B4BC9C61DE423BF0A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
@@ -10169,6 +10147,28 @@
       "is_new": false,
       "found_at": "2026-09-17",
       "thumbnail": "https://images.steamusercontent.com/ugc/14050450642609253545/8C214E736FC3C6527971706365D0D7DEAFC738F7/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803483442",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803483442",
+      "title": "Steam Workshop::DnD Table V3.2",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16861422368763501456/9218CCD755B74081D741A584EC1C8A43A421731C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803448476",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803448476",
+      "title": "Steam Workshop::Slay The Spire - Snap Toggler",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17701134542180875251/A248CDF97905BAA599940E0B4BC9C61DE423BF0A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
