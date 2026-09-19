@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-18T20:55:48.129233+00:00",
+    "completed_at": "2026-09-19T04:39:43.368262+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,60 +68,26 @@
   ],
   "items": [
     {
-      "id": "3803822427",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803822427",
-      "title": "Steam Workshop::[FIXED] Kraken Table for One World",
+      "id": "3804082638",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804082638",
+      "title": "Steam Workshop::big shot - scripted",
+      "keywords": [
+        "Red Rising"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-19",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11725453395311485888/5196AD495F8299E082023D1B0DA434F22FE80178/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803989364",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803989364",
+      "title": "Steam Workshop::Demon Slayer Deck Builder",
       "keywords": [
         "Origin Story"
       ],
       "is_new": true,
-      "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15810504542881001966/D637E7A61820643B496B50A84DF052870C9BB441/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3803585764",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803585764",
-      "title": "Steam Workshop::CustomBakugan_Toon_Edition_WIP",
-      "keywords": [
-        "Origin Story"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/10535475503148304739/EE60774B508268E8AE018E676329148EA48B2978/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3803962104",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803962104",
-      "title": "Steam Workshop::High Toril",
-      "keywords": [
-        "Between Two Cities"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15548607011839531896/C131A561D3D4910E81F6A96517B1E267FA30DB06/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3803894647",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803894647",
-      "title": "Steam Workshop::MTG Vending Machine: Evil Edition",
-      "keywords": [
-        "Origin Story",
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/9874631068813545203/839026666F070634BEED2DB17A030A8391F4C706/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3803906839",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803906839",
-      "title": "Steam Workshop::Nascar Cup Indianapolis",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-18",
-      "thumbnail": "https://images.steamusercontent.com/ugc/18329629145983512604/5DFAA2C54368CE591AFABE7817D1B868686744A9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-19",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13468115917129315480/9FECFBE266C2D04DC82C6BCBC0952890D1078DDE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10205,6 +10171,17 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/14050450642609253545/8C214E736FC3C6527971706365D0D7DEAFC738F7/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3803822427",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803822427",
+      "title": "Steam Workshop::[FIXED] Kraken Table for One World",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15810504542881001966/D637E7A61820643B496B50A84DF052870C9BB441/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3803712817",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803712817",
       "title": "Steam Workshop::Baba Is You: The Board Game [Kickstarter Asset Rip]",
@@ -10216,6 +10193,17 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/10096796613698861143/CC59E23870BFBC0B7BC337FC38920F892C941CCE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3803585764",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803585764",
+      "title": "Steam Workshop::CustomBakugan_Toon_Edition_WIP",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10535475503148304739/EE60774B508268E8AE018E676329148EA48B2978/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3803483442",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803483442",
       "title": "Steam Workshop::DnD Table V3.2",
@@ -10225,6 +10213,40 @@
       "is_new": false,
       "found_at": "2026-09-18",
       "thumbnail": "https://images.steamusercontent.com/ugc/16861422368763501456/9218CCD755B74081D741A584EC1C8A43A421731C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803962104",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803962104",
+      "title": "Steam Workshop::High Toril",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15548607011839531896/C131A561D3D4910E81F6A96517B1E267FA30DB06/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803894647",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803894647",
+      "title": "Steam Workshop::MTG Vending Machine: Evil Edition",
+      "keywords": [
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9874631068813545203/839026666F070634BEED2DB17A030A8391F4C706/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803906839",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803906839",
+      "title": "Steam Workshop::Nascar Cup Indianapolis",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-18",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18329629145983512604/5DFAA2C54368CE591AFABE7817D1B868686744A9/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3803448476",
