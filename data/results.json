@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-19T11:01:58.073571+00:00",
+    "completed_at": "2026-09-19T15:53:55.360689+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
   ],
   "items": [
     {
-      "id": "3804230220",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804230220",
-      "title": "Steam Workshop::Set The Scene - Your Turn",
+      "id": "3804329909",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804329909",
+      "title": "Steam Workshop::Set The Scene - Bad Sport",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
       "found_at": "2026-09-19",
-      "thumbnail": "https://images.steamusercontent.com/ugc/10035116775544969930/85B348EC349CEC88EA2BAAFBD2EE68EC24DD9BEA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/15122083589409537238/FC55677AAFE96973614464CD5F4568BB79DF9658/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10281,6 +10281,17 @@
       "is_new": false,
       "found_at": "2026-09-19",
       "thumbnail": "https://images.steamusercontent.com/ugc/13468115917129315480/9FECFBE266C2D04DC82C6BCBC0952890D1078DDE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3804230220",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804230220",
+      "title": "Steam Workshop::Set The Scene - Your Turn",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-19",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10035116775544969930/85B348EC349CEC88EA2BAAFBD2EE68EC24DD9BEA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
