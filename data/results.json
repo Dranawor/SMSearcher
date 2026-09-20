@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-19T20:42:21.043576+00:00",
+    "completed_at": "2026-09-20T04:55:37.640929+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,29 +68,48 @@
   ],
   "items": [
     {
-      "id": "3804450284",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804450284",
-      "title": "Steam Workshop::CARNIVORES: D&D HUNTING GAME",
+      "id": "3804677651",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804677651",
+      "title": "Steam Workshop::Doghouse Arcade - A GODGAME Fan Expansion",
       "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "Expeditions",
-        "Rolling Realms"
+        "Stamp Swap"
       ],
       "is_new": true,
-      "found_at": "2026-09-19",
-      "thumbnail": "https://images.steamusercontent.com/ugc/18201000488353230329/709FDC866BDD53AA0396C6B39BDCDC4F80390B03/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-20",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9629793683382942838/5771E7841BFF8C6327A120A4CB999A70FAD192FE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
-      "id": "3804617625",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804617625",
-      "title": "Steam Workshop::Prototype UNO",
+      "id": "3801430360",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801430360",
+      "title": "Steam Workshop::Red 7 Scripted 带中文规则简单",
+      "keywords": [
+        "Red Rising"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-20",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17459843393922327984/9511F3998736EE55839A7545B250052CE6E8F852/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3804822892",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804822892",
+      "title": "Steam Workshop::Smiling Friends Guess Who! [100+ Characters!]",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
-      "found_at": "2026-09-19",
-      "thumbnail": "https://images.steamusercontent.com/ugc/14808862695738977250/152DB0C85CD9D1C24727A82A1342D8048AAA29A2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-20",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9342970938358612196/CEC46452C36063940314A3204036E3B157F9EF97/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3804678423",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804678423",
+      "title": "Steam Workshop::Squadbook Table (Commander scorekeeper for Discord)",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-20",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12353197002260772868/974C5652F6B36F6324F986CE6DA6C565E8F06ED1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10286,6 +10305,20 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/11725453395311485888/5196AD495F8299E082023D1B0DA434F22FE80178/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3804450284",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804450284",
+      "title": "Steam Workshop::CARNIVORES: D&D HUNTING GAME",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Expeditions",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-19",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18201000488353230329/709FDC866BDD53AA0396C6B39BDCDC4F80390B03/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3803989364",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803989364",
       "title": "Steam Workshop::Demon Slayer Deck Builder",
@@ -10295,6 +10328,17 @@
       "is_new": false,
       "found_at": "2026-09-19",
       "thumbnail": "https://images.steamusercontent.com/ugc/13468115917129315480/9FECFBE266C2D04DC82C6BCBC0952890D1078DDE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3804617625",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3804617625",
+      "title": "Steam Workshop::Prototype UNO",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-19",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14808862695738977250/152DB0C85CD9D1C24727A82A1342D8048AAA29A2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3804329909",
