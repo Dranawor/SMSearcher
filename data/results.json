@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-20T16:08:55.057723+00:00",
+    "completed_at": "2026-09-20T20:50:35.809230+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,6 +67,19 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3805168650",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805168650",
+      "title": "Steam Workshop::Strategeti",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-20",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11238455075736829975/CACE82B479309695EB9567484BCB6A7F81F91F98/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
