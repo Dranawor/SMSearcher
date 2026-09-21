@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-20T20:50:35.809230+00:00",
+    "completed_at": "2026-09-21T04:58:23.604709+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,17 +68,38 @@
   ],
   "items": [
     {
-      "id": "3805168650",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805168650",
-      "title": "Steam Workshop::Strategeti",
+      "id": "3805425846",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805425846",
+      "title": "Steam Workshop::30 Years War: Lutzen",
       "keywords": [
         "Between Two Castles",
-        "Between Two Cities",
+        "Between Two Cities"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-21",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12767207799600356725/96560C49B01835266F9EEC550AFB7F06A2A2823F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3805497065",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805497065",
+      "title": "Steam Workshop::Abducktion: dice throne hombebrew by HullK: testing well",
+      "keywords": [
         "Origin Story"
       ],
       "is_new": true,
-      "found_at": "2026-09-20",
-      "thumbnail": "https://images.steamusercontent.com/ugc/11238455075736829975/CACE82B479309695EB9567484BCB6A7F81F91F98/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-21",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17131849244499935811/DD5EC35A826C7ED90AA62734FD50227E098447B4/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3805412873",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805412873",
+      "title": "Steam Workshop::Renacards",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-21",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11176751921172509623/F70F4B8565102DD20C3DA46D7279DDB80ADCAB3E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -9276,7 +9297,8 @@
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3795526464",
       "title": "Workshop item 3795526464",
       "keywords": [
-        "My Little Scythe"
+        "My Little Scythe",
+        "Rolling Realms"
       ],
       "is_new": false,
       "found_at": "2026-09-10"
@@ -10374,6 +10396,19 @@
       "is_new": false,
       "found_at": "2026-09-20",
       "thumbnail": "https://images.steamusercontent.com/ugc/12353197002260772868/974C5652F6B36F6324F986CE6DA6C565E8F06ED1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3805168650",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805168650",
+      "title": "Steam Workshop::Strategeti",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-20",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11238455075736829975/CACE82B479309695EB9567484BCB6A7F81F91F98/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
