@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-22T04:58:49.562959+00:00",
+    "completed_at": "2026-09-22T11:41:16.506975+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,37 +68,28 @@
   ],
   "items": [
     {
-      "id": "3803865764",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803865764",
-      "title": "Steam Workshop::Cardomancy",
+      "id": "3806077653",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806077653",
+      "title": "Steam Workshop::Battle-Ravaged City Map Warhammer 44x60",
       "keywords": [
+        "Between Two Cities"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-22",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15115105662255434508/BBCEB02178EF6E9AD0D767D3B45E0F81090DDBDD/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3805921487",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805921487",
+      "title": "Steam Workshop::Bebop [Scripted]",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
         "Origin Story"
       ],
       "is_new": true,
       "found_at": "2026-09-22",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15168507177248057285/9621D98164877C1D7DE4AD823B33861778DF1C7C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3806003715",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806003715",
-      "title": "Steam Workshop::Datacard: REVAMP",
-      "keywords": [
-        "Origin Story"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-22",
-      "thumbnail": "https://images.steamusercontent.com/ugc/14416822574258221841/D2ADA3C8FAE3381C3E8BE0B4C06E2F024076DF70/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3802136455",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802136455",
-      "title": "Steam Workshop::Disney Villainous - King K. Rool Mod",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-22",
-      "thumbnail": "https://images.steamusercontent.com/ugc/9692679040911063582/8DD324EC4E165B424F414FCDA4012B33A9299D36/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/17766362801360664201/5026C4A95D6B2CE7839133D212F2466F082FFAAE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10512,6 +10503,39 @@
       "is_new": false,
       "found_at": "2026-09-21",
       "thumbnail": "https://images.steamusercontent.com/ugc/16987663708404810056/2FB6F44599B99A548CCAB90ADC1A20D83E3EF488/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3803865764",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3803865764",
+      "title": "Steam Workshop::Cardomancy",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-22",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15168507177248057285/9621D98164877C1D7DE4AD823B33861778DF1C7C/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3806003715",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806003715",
+      "title": "Steam Workshop::Datacard: REVAMP",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-22",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14416822574258221841/D2ADA3C8FAE3381C3E8BE0B4C06E2F024076DF70/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3802136455",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3802136455",
+      "title": "Steam Workshop::Disney Villainous - King K. Rool Mod",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-22",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9692679040911063582/8DD324EC4E165B424F414FCDA4012B33A9299D36/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
