@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-23T04:47:05.547706+00:00",
+    "completed_at": "2026-09-23T11:39:48.567780+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,52 +67,6 @@
     "Namiji"
   ],
   "items": [
-    {
-      "id": "3805421231",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805421231",
-      "title": "Steam Workshop::40K Ruined Battlefield 90x44",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-23",
-      "thumbnail": "https://images.steamusercontent.com/ugc/17710686791674100418/CB5392DC1B5FD92EB578DCDA39D161D7FFF956C2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3806561374",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806561374",
-      "title": "Steam Workshop::Crash Out - Set The Scene",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-23",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16860830204085184656/2A9CB419B7FE0A35A0C9541F696E87537FD9987D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3806551224",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806551224",
-      "title": "Steam Workshop::Flames of War: Mission Table 2026",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "Origin Story"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-23",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16105230574505683662/64F50DB7F4BB7168405E7109D718857EECB7C8E4/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3805970812",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805970812",
-      "title": "Steam Workshop::Forest-River Map Warhammer 44x60",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-23",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16038879215512637472/A907A646768893F29A1D2EA1C78F96DCF0F3F55D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
@@ -10642,6 +10596,52 @@
       "is_new": false,
       "found_at": "2026-09-22",
       "thumbnail": "https://images.steamusercontent.com/ugc/16851392514789904108/B396F140E3A14919553A0A38348D6D9F6FDA700F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3805421231",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805421231",
+      "title": "Steam Workshop::40K Ruined Battlefield 90x44",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-23",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17710686791674100418/CB5392DC1B5FD92EB578DCDA39D161D7FFF956C2/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3806561374",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806561374",
+      "title": "Steam Workshop::Crash Out - Set The Scene",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-23",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16860830204085184656/2A9CB419B7FE0A35A0C9541F696E87537FD9987D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3806551224",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806551224",
+      "title": "Steam Workshop::Flames of War: Mission Table 2026",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-23",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16105230574505683662/64F50DB7F4BB7168405E7109D718857EECB7C8E4/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3805970812",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805970812",
+      "title": "Steam Workshop::Forest-River Map Warhammer 44x60",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-23",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16038879215512637472/A907A646768893F29A1D2EA1C78F96DCF0F3F55D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
