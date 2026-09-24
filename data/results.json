@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-24T11:48:27.510774+00:00",
+    "completed_at": "2026-09-24T17:13:06.129568+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,16 @@
   ],
   "items": [
     {
-      "id": "3807188088",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807188088",
-      "title": "Steam Workshop::One Corrupter",
+      "id": "3807250640",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807250640",
+      "title": "Steam Workshop::Epoch Struggle Card Game BETA",
       "keywords": [
-        "My Little Scythe"
+        "Between Two Castles",
+        "Between Two Cities"
       ],
       "is_new": true,
       "found_at": "2026-09-24",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15691690267123258547/96F01F19AED844C3AD631285FF5E269A7DF99AA0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/12763213494278401868/CB71144BFE0EA78D129FB501395813387D6FC37A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10686,6 +10687,17 @@
       "is_new": false,
       "found_at": "2026-09-24",
       "thumbnail": "https://images.steamusercontent.com/ugc/14725519348948974790/97636F75EF9CCF6D41D344DAAC62F51148383534/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807188088",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807188088",
+      "title": "Steam Workshop::One Corrupter",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-24",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15691690267123258547/96F01F19AED844C3AD631285FF5E269A7DF99AA0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3806924262",
