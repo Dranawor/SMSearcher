@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-24T17:13:06.129568+00:00",
+    "completed_at": "2026-09-24T21:32:21.556489+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,16 +68,41 @@
   ],
   "items": [
     {
-      "id": "3807250640",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807250640",
-      "title": "Steam Workshop::Epoch Struggle Card Game BETA",
+      "id": "3807489555",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807489555",
+      "title": "Steam Workshop::Mazing",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-24",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12046303133220536181/0FA21EC83480D45953464FFEBF90F6F8E4D9BE48/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807494338",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807494338",
+      "title": "Steam Workshop::Set The Scene - Tabletop Warfare",
       "keywords": [
         "Between Two Castles",
         "Between Two Cities"
       ],
       "is_new": true,
       "found_at": "2026-09-24",
-      "thumbnail": "https://images.steamusercontent.com/ugc/12763213494278401868/CB71144BFE0EA78D129FB501395813387D6FC37A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/15593708905337674440/252A87BA9800010EF6E1088901E503418AB13606/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807475949",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807475949",
+      "title": "Steam Workshop::Thirty Years of Misery",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-24",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13897940730754486215/6D9FE899C5DA58FA17F083987B122463809E2495/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10687,6 +10712,18 @@
       "is_new": false,
       "found_at": "2026-09-24",
       "thumbnail": "https://images.steamusercontent.com/ugc/14725519348948974790/97636F75EF9CCF6D41D344DAAC62F51148383534/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807250640",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807250640",
+      "title": "Steam Workshop::Epoch Struggle Card Game BETA",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-24",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12763213494278401868/CB71144BFE0EA78D129FB501395813387D6FC37A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3807188088",
