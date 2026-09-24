@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-23T21:31:19.607689+00:00",
+    "completed_at": "2026-09-24T04:53:58.115261+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,26 @@
   ],
   "items": [
     {
-      "id": "3806958026",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806958026",
-      "title": "Steam Community :: Error",
+      "id": "3805455490",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3805455490",
+      "title": "Steam Workshop::Dave for Lobotomy Tabletop",
       "keywords": [
-        "My Little Scythe",
         "Origin Story"
       ],
       "is_new": true,
-      "found_at": "2026-09-23"
+      "found_at": "2026-09-24",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14725519348948974790/97636F75EF9CCF6D41D344DAAC62F51148383534/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3806924262",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806924262",
+      "title": "Steam Workshop::Tarotweaver Ttrpg Port (unofficial)",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-24",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9648231871901579929/C174422AA0628C5D6EF0BD91FC930A2727D9A57D/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10607,6 +10618,17 @@
       "is_new": false,
       "found_at": "2026-09-22",
       "thumbnail": "https://images.steamusercontent.com/ugc/16851392514789904108/B396F140E3A14919553A0A38348D6D9F6FDA700F/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3806958026",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806958026",
+      "title": "Steam Community :: Error",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-23"
     },
     {
       "id": "3805421231",
