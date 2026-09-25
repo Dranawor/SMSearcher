@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-25T11:53:26.141739+00:00",
+    "completed_at": "2026-09-25T17:13:44.887821+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,26 +68,17 @@
   ],
   "items": [
     {
-      "id": "3806051892",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806051892",
-      "title": "Steam Workshop::Monarchs x Militia Advanced Playing Cards",
+      "id": "3807856329",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807856329",
+      "title": "Steam Workshop::Mu & more: Revised Edition [Scripted]",
       "keywords": [
-        "My Little Scythe"
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
       ],
       "is_new": true,
       "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16937245465828682114/E7573417B3FDB9EC242067E64CE96CCA664F3D1B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3807647359",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807647359",
-      "title": "Steam Workshop::Uno: Advanced Warfare",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/13606273446372404826/0831CA232DD7F23596AADE4414AD32D692D71CBB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/16066047866455449386/206D771F9A0E6C0D36C72AB66C329AC2035BBCA1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10770,6 +10761,17 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/13897940730754486215/6D9FE899C5DA58FA17F083987B122463809E2495/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3806051892",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806051892",
+      "title": "Steam Workshop::Monarchs x Militia Advanced Playing Cards",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16937245465828682114/E7573417B3FDB9EC242067E64CE96CCA664F3D1B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3807552971",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807552971",
       "title": "Steam Workshop::Palace of Ruin (Mordheim Chaos Wastes)",
@@ -10791,6 +10793,17 @@
       "is_new": false,
       "found_at": "2026-09-25",
       "thumbnail": "https://images.steamusercontent.com/ugc/9640856435664520941/5AD7F4CE3BBA7C9C9B380FB231DD7EFB0E4713CB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807647359",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807647359",
+      "title": "Steam Workshop::Uno: Advanced Warfare",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13606273446372404826/0831CA232DD7F23596AADE4414AD32D692D71CBB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
