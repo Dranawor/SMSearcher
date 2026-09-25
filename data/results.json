@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-25T04:59:45.667204+00:00",
+    "completed_at": "2026-09-25T11:53:26.141739+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,27 +68,26 @@
   ],
   "items": [
     {
-      "id": "3807552971",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807552971",
-      "title": "Steam Workshop::Palace of Ruin (Mordheim Chaos Wastes)",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/13217576246099567902/F22C7192D523487A1BCBF8E23439C7985F3F0B86/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3807460418",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807460418",
-      "title": "Steam Workshop::This Place Knows Your Name",
+      "id": "3806051892",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806051892",
+      "title": "Steam Workshop::Monarchs x Militia Advanced Playing Cards",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
       "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/9640856435664520941/5AD7F4CE3BBA7C9C9B380FB231DD7EFB0E4713CB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/16937245465828682114/E7573417B3FDB9EC242067E64CE96CCA664F3D1B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807647359",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807647359",
+      "title": "Steam Workshop::Uno: Advanced Warfare",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13606273446372404826/0831CA232DD7F23596AADE4414AD32D692D71CBB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10769,6 +10768,29 @@
       "is_new": false,
       "found_at": "2026-09-24",
       "thumbnail": "https://images.steamusercontent.com/ugc/13897940730754486215/6D9FE899C5DA58FA17F083987B122463809E2495/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807552971",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807552971",
+      "title": "Steam Workshop::Palace of Ruin (Mordheim Chaos Wastes)",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13217576246099567902/F22C7192D523487A1BCBF8E23439C7985F3F0B86/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807460418",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807460418",
+      "title": "Steam Workshop::This Place Knows Your Name",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9640856435664520941/5AD7F4CE3BBA7C9C9B380FB231DD7EFB0E4713CB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
