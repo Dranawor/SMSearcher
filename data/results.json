@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-25T17:13:44.887821+00:00",
+    "completed_at": "2026-09-25T21:36:14.647850+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,17 +68,62 @@
   ],
   "items": [
     {
-      "id": "3807856329",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807856329",
-      "title": "Steam Workshop::Mu & more: Revised Edition [Scripted]",
+      "id": "3808041720",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808041720",
+      "title": "Steam Workshop::Divide and Conjure",
       "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "Origin Story"
+        "Expeditions"
       ],
       "is_new": true,
       "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16066047866455449386/206D771F9A0E6C0D36C72AB66C329AC2035BBCA1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/10276456048179966743/42BC89D0754526235AE00399E98BAB0016644D23/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807962173",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807962173",
+      "title": "Steam Workshop::Gambler",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16599177793704294324/7D1153AA3C9063B18024F4FD4498CAEA46B04FBE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807945362",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807945362",
+      "title": "Steam Workshop::Hell of a Deal [Scripted]",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11325324936192400483/1BC47A897FEA09B3C48F212E391C2E383AC48471/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807908579",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807908579",
+      "title": "Steam Workshop::Paint Rush",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13822173209616255282/26626C0D71969639B5A6A4C7CFA4F9FBB778BE80/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807986928",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807986928",
+      "title": "Steam Workshop::The Flash",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14034149616885298374/D19E820859E4A19C1BAA97DE37F755B1C84C9AAA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10770,6 +10815,19 @@
       "is_new": false,
       "found_at": "2026-09-25",
       "thumbnail": "https://images.steamusercontent.com/ugc/16937245465828682114/E7573417B3FDB9EC242067E64CE96CCA664F3D1B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807856329",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807856329",
+      "title": "Steam Workshop::Mu & more: Revised Edition [Scripted]",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16066047866455449386/206D771F9A0E6C0D36C72AB66C329AC2035BBCA1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3807552971",
