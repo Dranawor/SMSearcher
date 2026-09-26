@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-26T05:00:21.885058+00:00",
+    "completed_at": "2026-09-26T11:27:08.377381+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,41 +67,6 @@
     "Namiji"
   ],
   "items": [
-    {
-      "id": "3808111045",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808111045",
-      "title": "Steam Workshop::Dawn of the Dead",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-26",
-      "thumbnail": "https://images.steamusercontent.com/ugc/17181600777362592143/C2FAB6D7A3E30247B90E1D5FA376607E3AA10046/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3808137883",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808137883",
-      "title": "Steam Workshop::Not Enough Mana - Tradução PT-BR",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-26",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15306892500180461356/232407C86E9F1D6C0DE0F832C455FF260A82A015/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3808149188",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808149188",
-      "title": "Steam Workshop::Who Goes There - Tradução PT-BR",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-26",
-      "thumbnail": "https://images.steamusercontent.com/ugc/12433677237369639250/582885A25E0710860ECCBE4D6FFE1D01ABE78344/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
@@ -10897,6 +10862,41 @@
       "is_new": false,
       "found_at": "2026-09-25",
       "thumbnail": "https://images.steamusercontent.com/ugc/13606273446372404826/0831CA232DD7F23596AADE4414AD32D692D71CBB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808111045",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808111045",
+      "title": "Steam Workshop::Dawn of the Dead",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17181600777362592143/C2FAB6D7A3E30247B90E1D5FA376607E3AA10046/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808137883",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808137883",
+      "title": "Steam Workshop::Not Enough Mana - Tradução PT-BR",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15306892500180461356/232407C86E9F1D6C0DE0F832C455FF260A82A015/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808149188",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808149188",
+      "title": "Steam Workshop::Who Goes There - Tradução PT-BR",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12433677237369639250/582885A25E0710860ECCBE4D6FFE1D01ABE78344/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
