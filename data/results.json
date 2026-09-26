@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-26T16:25:11.497000+00:00",
+    "completed_at": "2026-09-26T21:11:48.871352+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,37 @@
   ],
   "items": [
     {
-      "id": "3808373923",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808373923",
-      "title": "Steam Workshop::Iron Warrior Siege Tyrant with powerfist",
+      "id": "3808125234",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808125234",
+      "title": "Steam Workshop::Crawl and Brawl",
       "keywords": [
-        "My Little Scythe"
+        "Between Two Castles"
       ],
       "is_new": true,
       "found_at": "2026-09-26",
-      "thumbnail": "https://images.steamusercontent.com/ugc/12500225610998018786/5855F9134789DDAD7AC44D74B347DF1E484CA5E8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/10643209449203035583/D705E0C73C9682926D0F760E6C873C0DEF085611/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808532405",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808532405",
+      "title": "Steam Workshop::Mordheim Chaos Wastes",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11845126401746123839/C76C9C40A357B19A915B23BD26F05CDCA5FBC9C8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808571053",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808571053",
+      "title": "Steam Workshop::Nyakuza [Scripted]",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15866677851809171962/67308062E82CAE22D01D261062162D96A0FD7C01/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10886,6 +10908,17 @@
       "is_new": false,
       "found_at": "2026-09-26",
       "thumbnail": "https://images.steamusercontent.com/ugc/17181600777362592143/C2FAB6D7A3E30247B90E1D5FA376607E3AA10046/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808373923",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808373923",
+      "title": "Steam Workshop::Iron Warrior Siege Tyrant with powerfist",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12500225610998018786/5855F9134789DDAD7AC44D74B347DF1E484CA5E8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3808137883",
