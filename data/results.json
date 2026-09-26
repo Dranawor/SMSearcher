@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-25T21:36:14.647850+00:00",
+    "completed_at": "2026-09-26T05:00:21.885058+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,62 +68,39 @@
   ],
   "items": [
     {
-      "id": "3808041720",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808041720",
-      "title": "Steam Workshop::Divide and Conjure",
-      "keywords": [
-        "Expeditions"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/10276456048179966743/42BC89D0754526235AE00399E98BAB0016644D23/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3807962173",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807962173",
-      "title": "Steam Workshop::Gambler",
-      "keywords": [
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16599177793704294324/7D1153AA3C9063B18024F4FD4498CAEA46B04FBE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3807945362",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807945362",
-      "title": "Steam Workshop::Hell of a Deal [Scripted]",
+      "id": "3808111045",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808111045",
+      "title": "Steam Workshop::Dawn of the Dead",
       "keywords": [
         "Between Two Castles",
         "Between Two Cities",
-        "Origin Story",
-        "Rolling Realms"
+        "My Little Scythe"
       ],
       "is_new": true,
-      "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/11325324936192400483/1BC47A897FEA09B3C48F212E391C2E383AC48471/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17181600777362592143/C2FAB6D7A3E30247B90E1D5FA376607E3AA10046/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
-      "id": "3807908579",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807908579",
-      "title": "Steam Workshop::Paint Rush",
-      "keywords": [
-        "Between Two Cities"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/13822173209616255282/26626C0D71969639B5A6A4C7CFA4F9FBB778BE80/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3807986928",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807986928",
-      "title": "Steam Workshop::The Flash",
+      "id": "3808137883",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808137883",
+      "title": "Steam Workshop::Not Enough Mana - Tradução PT-BR",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
-      "found_at": "2026-09-25",
-      "thumbnail": "https://images.steamusercontent.com/ugc/14034149616885298374/D19E820859E4A19C1BAA97DE37F755B1C84C9AAA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15306892500180461356/232407C86E9F1D6C0DE0F832C455FF260A82A015/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808149188",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808149188",
+      "title": "Steam Workshop::Who Goes There - Tradução PT-BR",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12433677237369639250/582885A25E0710860ECCBE4D6FFE1D01ABE78344/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10806,6 +10783,42 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/13897940730754486215/6D9FE899C5DA58FA17F083987B122463809E2495/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3808041720",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808041720",
+      "title": "Steam Workshop::Divide and Conjure",
+      "keywords": [
+        "Expeditions"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10276456048179966743/42BC89D0754526235AE00399E98BAB0016644D23/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807962173",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807962173",
+      "title": "Steam Workshop::Gambler",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16599177793704294324/7D1153AA3C9063B18024F4FD4498CAEA46B04FBE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807945362",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807945362",
+      "title": "Steam Workshop::Hell of a Deal [Scripted]",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11325324936192400483/1BC47A897FEA09B3C48F212E391C2E383AC48471/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3806051892",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3806051892",
       "title": "Steam Workshop::Monarchs x Militia Advanced Playing Cards",
@@ -10830,6 +10843,17 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/16066047866455449386/206D771F9A0E6C0D36C72AB66C329AC2035BBCA1/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3807908579",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807908579",
+      "title": "Steam Workshop::Paint Rush",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13822173209616255282/26626C0D71969639B5A6A4C7CFA4F9FBB778BE80/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3807552971",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807552971",
       "title": "Steam Workshop::Palace of Ruin (Mordheim Chaos Wastes)",
@@ -10840,6 +10864,17 @@
       "is_new": false,
       "found_at": "2026-09-25",
       "thumbnail": "https://images.steamusercontent.com/ugc/13217576246099567902/F22C7192D523487A1BCBF8E23439C7985F3F0B86/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3807986928",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807986928",
+      "title": "Steam Workshop::The Flash",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-25",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14034149616885298374/D19E820859E4A19C1BAA97DE37F755B1C84C9AAA/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3807460418",
