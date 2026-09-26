@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-26T11:27:08.377381+00:00",
+    "completed_at": "2026-09-26T16:25:11.497000+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,6 +67,17 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3808373923",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808373923",
+      "title": "Steam Workshop::Iron Warrior Siege Tyrant with powerfist",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-26",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12500225610998018786/5855F9134789DDAD7AC44D74B347DF1E484CA5E8/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
