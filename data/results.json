@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-27T05:20:41.647080+00:00",
+    "completed_at": "2026-09-27T12:05:05.126355+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,48 +68,26 @@
   ],
   "items": [
     {
-      "id": "3808695635",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808695635",
-      "title": "Steam Workshop::Constantinople",
+      "id": "3808876515",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808876515",
+      "title": "Steam Workshop::Go Fish for Freaks: Melodi",
       "keywords": [
         "My Little Scythe"
       ],
       "is_new": true,
       "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15381582648812408220/BCD5D9E9853ED86F4671B0562444E17E384456D0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/10352647193479904649/46C14273D68C208ECDA047E0EC47E84EA95BAEB3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
-      "id": "3808741689",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808741689",
-      "title": "Steam Workshop::Exceed Skytear (small little fixes)",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/18340319652466466434/04D458AA24DF2F261C03945C0761783854D65A25/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3808787192",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808787192",
-      "title": "Steam Workshop::MTG Playtest Gamma",
+      "id": "3807693613",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3807693613",
+      "title": "Steam Workshop::Pillage Map Creation Table",
       "keywords": [
         "Origin Story"
       ],
       "is_new": true,
       "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/15494533037522070153/765D0C69DE1AC368DDEFC1E70F204C90229FCC70/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3808769475",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808769475",
-      "title": "Steam Workshop::THE MAW",
-      "keywords": [
-        "Between Two Cities"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/16967885876628387877/753AB791C67825F89004BC0270D651992FC7DB9B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/13983062827593151230/94E5E812FF0056A52C34989D731CD740135023BE/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10985,6 +10963,50 @@
       "is_new": false,
       "found_at": "2026-09-26",
       "thumbnail": "https://images.steamusercontent.com/ugc/12433677237369639250/582885A25E0710860ECCBE4D6FFE1D01ABE78344/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808695635",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808695635",
+      "title": "Steam Workshop::Constantinople",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15381582648812408220/BCD5D9E9853ED86F4671B0562444E17E384456D0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808741689",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808741689",
+      "title": "Steam Workshop::Exceed Skytear (small little fixes)",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18340319652466466434/04D458AA24DF2F261C03945C0761783854D65A25/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808787192",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808787192",
+      "title": "Steam Workshop::MTG Playtest Gamma",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15494533037522070153/765D0C69DE1AC368DDEFC1E70F204C90229FCC70/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3808769475",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808769475",
+      "title": "Steam Workshop::THE MAW",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16967885876628387877/753AB791C67825F89004BC0270D651992FC7DB9B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
