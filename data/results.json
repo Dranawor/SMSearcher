@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-27T16:59:20.622141+00:00",
+    "completed_at": "2026-09-27T21:22:36.706611+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,41 +68,39 @@
   ],
   "items": [
     {
-      "id": "3809193397",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809193397",
-      "title": "Steam Workshop::Armies of Bonkh",
-      "keywords": [
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/12413762915116867536/3ED72912DCBAEE7F5ACF470A859473807ED2A1B0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3808866460",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808866460",
-      "title": "Steam Workshop::Labler",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/9397220840536375092/45BD47578C72EA8C2619BE3EF3763D7582194091/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3801901329",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801901329",
-      "title": "Steam Workshop::MundaRoster",
+      "id": "3809375922",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809375922",
+      "title": "Steam Workshop::D20 Cheater Dice",
       "keywords": [
         "Between Two Castles",
         "Between Two Cities",
-        "Red Rising",
         "Rolling Realms"
       ],
       "is_new": true,
       "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/12708874491620582565/55BDE5936A32B3B73442E595CC33F4BA950FACA5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "thumbnail": "https://images.steamusercontent.com/ugc/14302594000465604706/C585AA84EC142433B0F29D39BB7E939D5DF894ED/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809342028",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809342028",
+      "title": "Steam Workshop::Dragonbound Deckbuilder (Soulshards)",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13255389381087888336/7643BD917EC76004E99BBD00199085087E696663/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809310357",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809310357",
+      "title": "Steam Workshop::Yokai Pagoda [GER/ENG]",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13717972036250984240/DE94E8AB4CD6B185CE806061C1E053A0BAECEC3E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -10980,6 +10978,17 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/12433677237369639250/582885A25E0710860ECCBE4D6FFE1D01ABE78344/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3809193397",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809193397",
+      "title": "Steam Workshop::Armies of Bonkh",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12413762915116867536/3ED72912DCBAEE7F5ACF470A859473807ED2A1B0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3808695635",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808695635",
       "title": "Steam Workshop::Constantinople",
@@ -11013,6 +11022,18 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/10352647193479904649/46C14273D68C208ECDA047E0EC47E84EA95BAEB3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3808866460",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808866460",
+      "title": "Steam Workshop::Labler",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9397220840536375092/45BD47578C72EA8C2619BE3EF3763D7582194091/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3808787192",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808787192",
       "title": "Steam Workshop::MTG Playtest Gamma",
@@ -11022,6 +11043,20 @@
       "is_new": false,
       "found_at": "2026-09-27",
       "thumbnail": "https://images.steamusercontent.com/ugc/15494533037522070153/765D0C69DE1AC368DDEFC1E70F204C90229FCC70/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3801901329",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3801901329",
+      "title": "Steam Workshop::MundaRoster",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12708874491620582565/55BDE5936A32B3B73442E595CC33F4BA950FACA5/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3807693613",
