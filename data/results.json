@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-28T05:26:22.288149+00:00",
+    "completed_at": "2026-09-28T13:58:35.524745+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -67,41 +67,6 @@
     "Namiji"
   ],
   "items": [
-    {
-      "id": "3809423393",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809423393",
-      "title": "Steam Workshop::Bakugan Pro Deck Builder (Toon Edition)",
-      "keywords": [
-        "Origin Story"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-28",
-      "thumbnail": "https://images.steamusercontent.com/ugc/17801729947121967911/BFADEE43AF50C2773AA98C46E9C053D85F33BC2B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3809500062",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809500062",
-      "title": "Steam Workshop::Legends of the Pantheon",
-      "keywords": [
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-28",
-      "thumbnail": "https://images.steamusercontent.com/ugc/10415749780602211980/0343003E7588B262CF89AFD21FC7BA4457ACBBFB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3809478450",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809478450",
-      "title": "Steam Workshop::Pod People from Another Planet!",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "My Little Scythe"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-28",
-      "thumbnail": "https://images.steamusercontent.com/ugc/18210082409578836874/D33D99DDDA1D666AC2A0DAE5DA143B7A1F0325E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
     {
       "id": "3793485653",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3793485653",
@@ -11115,6 +11080,41 @@
       "is_new": false,
       "found_at": "2026-09-27",
       "thumbnail": "https://images.steamusercontent.com/ugc/13717972036250984240/DE94E8AB4CD6B185CE806061C1E053A0BAECEC3E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809423393",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809423393",
+      "title": "Steam Workshop::Bakugan Pro Deck Builder (Toon Edition)",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-28",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17801729947121967911/BFADEE43AF50C2773AA98C46E9C053D85F33BC2B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809500062",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809500062",
+      "title": "Steam Workshop::Legends of the Pantheon",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-28",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10415749780602211980/0343003E7588B262CF89AFD21FC7BA4457ACBBFB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809478450",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809478450",
+      "title": "Steam Workshop::Pod People from Another Planet!",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-28",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18210082409578836874/D33D99DDDA1D666AC2A0DAE5DA143B7A1F0325E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
