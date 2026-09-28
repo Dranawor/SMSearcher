@@ -18,14 +18,16 @@ APP_ID = 286160
 BASE = "https://steamcommunity.com"
 USER_AGENT = "SMSearcher/1.3 (+https://github.com/Dranawor/SMSearcher)"
 
-FIRST_SCAN_PAGES = 3
-REGULAR_SCAN_PAGES = 1
+FIRST_SCAN_PAGES = 5
+RECENT_SCAN_PAGES = 5
+HISTORICAL_SCAN_PAGES = 5
+HISTORICAL_START_PAGE = 6
 
 DELAY_SECONDS = 2.0
 DETAIL_DELAY_SECONDS = 1.5
 
 MAX_RETRIES = 3
-MAX_DETAIL_ENRICHMENTS = 40
+MAX_DETAIL_ENRICHMENTS = 200
 
 
 def fetch(url):
@@ -184,53 +186,71 @@ def extract_results(html, keyword):
     return results
 
 
-def search(keyword, pages):
+def search_page(keyword, page):
+    url = (
+        f"{BASE}/workshop/browse/"
+        f"?appid={APP_ID}"
+        f"&searchtext={quote(keyword)}"
+        f"&section=readytouseitems"
+        f"&browsesort=mostrecent"
+        f"&actualsort=mostrecent"
+        f"&numperpage=30"
+        f"&p={page}"
+    )
+
+    results = extract_results(fetch(url), keyword)
+
+    print(
+        f"Searching {keyword!r}, page {page}: "
+        f"{len(results)} links"
+    )
+
+    return results
+
+
+def search_pages(keyword, pages):
     found = []
     seen = set()
+    empty_page = None
 
-    for page in range(1, pages + 1):
-        url = (
-            f"{BASE}/workshop/browse/"
-            f"?appid={APP_ID}"
-            f"&searchtext={quote(keyword)}"
-            f"&section=readytouseitems"
-            f"&browsesort=mostrecent"
-            f"&actualsort=mostrecent"
-            f"&numperpage=30"
-            f"&p={page}"
-        )
+    for index, page in enumerate(pages):
+        page_results = search_page(keyword, page)
 
-        page_results = extract_results(fetch(url), keyword)
-
-        print(
-            f"Searching {keyword!r}, page {page}: "
-            f"{len(page_results)} links"
-        )
+        if not page_results and empty_page is None:
+            empty_page = page
 
         for item in page_results:
             if item["id"] not in seen:
                 seen.add(item["id"])
                 found.append(item)
 
-        if not page_results:
-            break
-
-        if page < pages:
+        if index < len(pages) - 1:
             time.sleep(DELAY_SECONDS)
 
-    return found
+    return found, empty_page
 
 
 def load_previous():
     if not OUT.exists():
-        return {}, set()
+        return {}, set(), {}
 
     try:
         data = json.loads(
             OUT.read_text(encoding="utf-8")
         )
     except Exception:
-        return {}, set()
+        return {}, set(), {}
+
+    historical_pages = data.get(
+        "scan",
+        {}
+    ).get(
+        "historical_pages",
+        {}
+    )
+
+    if not isinstance(historical_pages, dict):
+        historical_pages = {}
 
     return (
         {
@@ -242,14 +262,39 @@ def load_previous():
             data.get("scan", {})
             .get("baseline_keywords", [])
         ),
+        historical_pages,
+    )
+
+
+def get_historical_start(keyword, historical_pages):
+    value = historical_pages.get(
+        keyword,
+        HISTORICAL_START_PAGE,
+    )
+
+    try:
+        value = int(value)
+    except (TypeError, ValueError):
+        value = HISTORICAL_START_PAGE
+
+    return max(
+        HISTORICAL_START_PAGE,
+        value,
     )
 
 
 def enrich_items(merged):
-    candidates = [
+    new_candidates = [
         x
         for x in merged.values()
-        if (
+        if x.get("is_new", False)
+    ]
+
+    existing_candidates = [
+        x
+        for x in merged.values()
+        if not x.get("is_new", False)
+        and (
             not x.get("title")
             or str(x.get("title", "")).startswith("Workshop item ")
             or not x.get("thumbnail")
@@ -258,26 +303,33 @@ def enrich_items(merged):
         )
     ]
 
-    candidates.sort(
+    new_candidates.sort(
         key=lambda x: (
-            not x.get("is_new", False),
             x.get("found_at", ""),
             str(x.get("id", "")),
         )
     )
 
-    candidates = candidates[:MAX_DETAIL_ENRICHMENTS]
-
-    new_count = sum(
-        1 for x in candidates
-        if x.get("is_new", False)
+    existing_candidates.sort(
+        key=lambda x: (
+            x.get("found_at", ""),
+            str(x.get("id", "")),
+        )
     )
 
-    old_count = len(candidates) - new_count
+    existing_candidates = existing_candidates[
+        :MAX_DETAIL_ENRICHMENTS
+    ]
+
+    candidates = (
+        new_candidates
+        + existing_candidates
+    )
 
     print(
         f"Enriching {len(candidates)} listing previews/details "
-        f"({new_count} new, {old_count} existing)..."
+        f"({len(new_candidates)} new, "
+        f"{len(existing_candidates)} existing)..."
     )
 
     for i, item in enumerate(candidates, 1):
@@ -321,16 +373,40 @@ def enrich_items(merged):
             time.sleep(DETAIL_DELAY_SECONDS)
 
 
+def merge_found_items(merged, found, is_new):
+    for item in found:
+        lid = item["id"]
+
+        if lid in merged:
+            merged[lid]["keywords"] = sorted(
+                set(
+                    merged[lid].get("keywords", [])
+                    + item.get("keywords", [])
+                )
+            )
+
+            merged[lid]["url"] = item["url"]
+
+            if str(
+                merged[lid].get("title", "")
+            ).startswith("Workshop item "):
+                merged[lid]["title"] = item["title"]
+
+        else:
+            merged[lid] = {
+                **item,
+                "keywords": item.get("keywords", []),
+                "is_new": is_new,
+                "found_at": datetime.now(
+                    timezone.utc
+                ).strftime("%Y-%m-%d"),
+            }
+
+
 def main():
-    old, baseline = load_previous()
+    old, baseline, historical_pages = load_previous()
 
     first = not bool(old)
-
-    pages = (
-        FIRST_SCAN_PAGES
-        if first
-        else REGULAR_SCAN_PAGES
-    )
 
     merged = {
         k: {
@@ -344,38 +420,84 @@ def main():
     successful = 0
 
     now = datetime.now(timezone.utc)
-    today = now.strftime("%Y-%m-%d")
 
     for keyword in KEYWORDS:
         try:
-            found = search(keyword, pages)
-            successful += 1
+            if first:
+                recent_pages = list(
+                    range(
+                        1,
+                        FIRST_SCAN_PAGES + 1,
+                    )
+                )
 
-            for item in found:
-                lid = item["id"]
+                found, _ = search_pages(
+                    keyword,
+                    recent_pages,
+                )
 
-                if lid in merged:
-                    merged[lid]["keywords"] = sorted(
-                        set(
-                            merged[lid].get("keywords", [])
-                            + [keyword]
-                        )
+                merge_found_items(
+                    merged,
+                    found,
+                    bool(old),
+                )
+
+                successful += 1
+
+            else:
+                recent_pages = list(
+                    range(
+                        1,
+                        RECENT_SCAN_PAGES + 1,
+                    )
+                )
+
+                recent_found, _ = search_pages(
+                    keyword,
+                    recent_pages,
+                )
+
+                merge_found_items(
+                    merged,
+                    recent_found,
+                    True,
+                )
+
+                historical_start = get_historical_start(
+                    keyword,
+                    historical_pages,
+                )
+
+                historical_pages_to_search = list(
+                    range(
+                        historical_start,
+                        historical_start
+                        + HISTORICAL_SCAN_PAGES,
+                    )
+                )
+
+                historical_found, empty_page = search_pages(
+                    keyword,
+                    historical_pages_to_search,
+                )
+
+                merge_found_items(
+                    merged,
+                    historical_found,
+                    True,
+                )
+
+                if empty_page is not None:
+                    historical_pages[keyword] = (
+                        HISTORICAL_START_PAGE
+                    )
+                else:
+                    historical_pages[keyword] = (
+                        historical_start
+                        + HISTORICAL_SCAN_PAGES
                     )
 
-                    merged[lid]["url"] = item["url"]
-
-                    if str(
-                        merged[lid].get("title", "")
-                    ).startswith("Workshop item "):
-                        merged[lid]["title"] = item["title"]
-
-                else:
-                    merged[lid] = {
-                        **item,
-                        "keywords": [keyword],
-                        "is_new": bool(old),
-                        "found_at": today,
-                    }
+                successful += 1
 
         except Exception as exc:
             print(
@@ -405,8 +527,18 @@ def main():
             "completed_at": now.isoformat(),
             "initialized": True,
             "baseline_keywords": sorted(baseline),
+            "historical_pages": historical_pages,
             "errors": errors,
-            "pages_checked": pages,
+            "recent_pages_checked": (
+                FIRST_SCAN_PAGES
+                if first
+                else RECENT_SCAN_PAGES
+            ),
+            "historical_pages_per_scan": (
+                0
+                if first
+                else HISTORICAL_SCAN_PAGES
+            ),
             "sort": "mostrecent",
         },
         "keywords": KEYWORDS,
