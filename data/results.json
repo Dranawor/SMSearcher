@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-09-27T21:22:36.706611+00:00",
+    "completed_at": "2026-09-28T05:26:22.288149+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,39 +68,39 @@
   ],
   "items": [
     {
-      "id": "3809375922",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809375922",
-      "title": "Steam Workshop::D20 Cheater Dice",
-      "keywords": [
-        "Between Two Castles",
-        "Between Two Cities",
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/14302594000465604706/C585AA84EC142433B0F29D39BB7E939D5DF894ED/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3809342028",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809342028",
-      "title": "Steam Workshop::Dragonbound Deckbuilder (Soulshards)",
-      "keywords": [
-        "Rolling Realms"
-      ],
-      "is_new": true,
-      "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/13255389381087888336/7643BD917EC76004E99BBD00199085087E696663/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
-    },
-    {
-      "id": "3809310357",
-      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809310357",
-      "title": "Steam Workshop::Yokai Pagoda [GER/ENG]",
+      "id": "3809423393",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809423393",
+      "title": "Steam Workshop::Bakugan Pro Deck Builder (Toon Edition)",
       "keywords": [
         "Origin Story"
       ],
       "is_new": true,
-      "found_at": "2026-09-27",
-      "thumbnail": "https://images.steamusercontent.com/ugc/13717972036250984240/DE94E8AB4CD6B185CE806061C1E053A0BAECEC3E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+      "found_at": "2026-09-28",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17801729947121967911/BFADEE43AF50C2773AA98C46E9C053D85F33BC2B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809500062",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809500062",
+      "title": "Steam Workshop::Legends of the Pantheon",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-28",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10415749780602211980/0343003E7588B262CF89AFD21FC7BA4457ACBBFB/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809478450",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809478450",
+      "title": "Steam Workshop::Pod People from Another Planet!",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "is_new": true,
+      "found_at": "2026-09-28",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18210082409578836874/D33D99DDDA1D666AC2A0DAE5DA143B7A1F0325E3/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
       "id": "3793485653",
@@ -11000,6 +11000,31 @@
       "thumbnail": "https://images.steamusercontent.com/ugc/15381582648812408220/BCD5D9E9853ED86F4671B0562444E17E384456D0/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     },
     {
+      "id": "3809375922",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809375922",
+      "title": "Steam Workshop::D20 Cheater Dice",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14302594000465604706/C585AA84EC142433B0F29D39BB7E939D5DF894ED/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809342028",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809342028",
+      "title": "Steam Workshop::Dragonbound Deckbuilder (Soulshards)",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13255389381087888336/7643BD917EC76004E99BBD00199085087E696663/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
       "id": "3808741689",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3808741689",
       "title": "Steam Workshop::Exceed Skytear (small little fixes)",
@@ -11079,6 +11104,17 @@
       "is_new": false,
       "found_at": "2026-09-27",
       "thumbnail": "https://images.steamusercontent.com/ugc/16967885876628387877/753AB791C67825F89004BC0270D651992FC7DB9B/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+    },
+    {
+      "id": "3809310357",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3809310357",
+      "title": "Steam Workshop::Yokai Pagoda [GER/ENG]",
+      "keywords": [
+        "Origin Story"
+      ],
+      "is_new": false,
+      "found_at": "2026-09-27",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13717972036250984240/DE94E8AB4CD6B185CE806061C1E053A0BAECEC3E/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
     }
   ]
 }
