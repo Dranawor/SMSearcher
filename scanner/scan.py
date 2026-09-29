@@ -20,14 +20,19 @@ USER_AGENT = "SMSearcher/1.3 (+https://github.com/Dranawor/SMSearcher)"
 
 FIRST_SCAN_PAGES = 5
 RECENT_SCAN_PAGES = 5
-HISTORICAL_SCAN_PAGES = 5
 HISTORICAL_START_PAGE = 6
+HISTORICAL_PAGES_PER_RUN = 1
 
 DELAY_SECONDS = 2.0
 DETAIL_DELAY_SECONDS = 1.5
 
-MAX_RETRIES = 3
-MAX_DETAIL_ENRICHMENTS = 200
+MAX_RETRIES = 2
+MAX_DETAIL_ENRICHMENTS = 80
+MAX_429_WAIT = 30
+
+
+class SteamRateLimit(Exception):
+    pass
 
 
 def fetch(url):
@@ -50,19 +55,27 @@ def fetch(url):
         except HTTPError as exc:
             last = exc
 
-            if exc.code != 429 or attempt >= MAX_RETRIES:
-                raise
+            if exc.code == 429:
+                if attempt >= MAX_RETRIES:
+                    raise SteamRateLimit(
+                        f"Steam returned HTTP 429 after {MAX_RETRIES} retries"
+                    )
 
-            if exc.headers.get("Retry-After"):
-                try:
-                    wait = max(10, int(exc.headers.get("Retry-After")))
-                except ValueError:
-                    wait = 15 * (attempt + 1)
-            else:
-                wait = 15 * (attempt + 1)
+                retry_after = exc.headers.get("Retry-After")
 
-            print(f"Steam returned HTTP 429; waiting {wait}s...")
-            time.sleep(wait)
+                if retry_after:
+                    try:
+                        wait = min(MAX_429_WAIT, max(10, int(retry_after)))
+                    except ValueError:
+                        wait = min(MAX_429_WAIT, 10 * (attempt + 1))
+                else:
+                    wait = min(MAX_429_WAIT, 10 * (attempt + 1))
+
+                print(f"Steam returned HTTP 429; waiting {wait}s...")
+                time.sleep(wait)
+                continue
+
+            raise
 
         except URLError as exc:
             last = exc
@@ -70,7 +83,9 @@ def fetch(url):
             if attempt >= MAX_RETRIES:
                 raise
 
-            time.sleep(5 * (attempt + 1))
+            wait = 5 * (attempt + 1)
+            print(f"Network error; waiting {wait}s...")
+            time.sleep(wait)
 
     raise last
 
@@ -94,10 +109,10 @@ def meta(html, prop):
     ]
 
     for pattern in patterns:
-        m = re.search(pattern, html, re.I | re.S)
+        match = re.search(pattern, html, re.I | re.S)
 
-        if m:
-            return clean_html(m.group(1))
+        if match:
+            return clean_html(match.group(1))
 
     return ""
 
@@ -108,14 +123,14 @@ def extract_detail(html):
     description = meta(html, "og:description")
 
     if not title:
-        m = re.search(
+        match = re.search(
             r'<div[^>]+class=["\'][^"\']*workshopItemTitle[^"\']*["\'][^>]*>(.*?)</div>',
             html,
             re.I | re.S,
         )
 
-        if m:
-            title = clean_html(m.group(1))
+        if match:
+            title = clean_html(match.group(1))
 
     creator = ""
 
@@ -123,10 +138,10 @@ def extract_detail(html):
         r'<a[^>]+class=["\'][^"\']*(?:friendBlockLinkOverlay|workshop_author_link)[^"\']*["\'][^>]*>(.*?)</a>',
         r'<div[^>]+class=["\'][^"\']*workshopItemAuthor[^"\']*["\'][^>]*>.*?<a[^>]*>(.*?)</a>',
     ]:
-        m = re.search(pattern, html, re.I | re.S)
+        match = re.search(pattern, html, re.I | re.S)
 
-        if m and clean_html(m.group(1)):
-            creator = clean_html(m.group(1))
+        if match and clean_html(match.group(1)):
+            creator = clean_html(match.group(1))
             break
 
     return {
@@ -146,28 +161,28 @@ def extract_results(html, keyword):
         re.I,
     )
 
-    for m in href_re.finditer(html):
-        href = m.group(1)
-        listing_id = m.group(2)
+    for match in href_re.finditer(html):
+        href = match.group(1)
+        listing_id = match.group(2)
 
         if listing_id in seen:
             continue
 
         nearby = html[
-            max(0, m.start() - 1200):
-            min(len(html), m.end() + 1800)
+            max(0, match.start() - 1200):
+            min(len(html), match.end() + 1800)
         ]
 
         title = ""
 
-        tm = re.search(
+        title_match = re.search(
             r'class=["\'][^"\']*workshopItemTitle[^"\']*["\'][^>]*>(.*?)</',
             nearby,
             re.I | re.S,
         )
 
-        if tm:
-            title = clean_html(tm.group(1))
+        if title_match:
+            title = clean_html(title_match.group(1))
 
         seen.add(listing_id)
 
@@ -186,48 +201,43 @@ def extract_results(html, keyword):
     return results
 
 
-def search_page(keyword, page):
-    url = (
-        f"{BASE}/workshop/browse/"
-        f"?appid={APP_ID}"
-        f"&searchtext={quote(keyword)}"
-        f"&section=readytouseitems"
-        f"&browsesort=mostrecent"
-        f"&actualsort=mostrecent"
-        f"&numperpage=30"
-        f"&p={page}"
-    )
-
-    results = extract_results(fetch(url), keyword)
-
-    print(
-        f"Searching {keyword!r}, page {page}: "
-        f"{len(results)} links"
-    )
-
-    return results
-
-
-def search_pages(keyword, pages):
+def search(keyword, pages, start_page=1):
     found = []
     seen = set()
-    empty_page = None
 
-    for index, page in enumerate(pages):
-        page_results = search_page(keyword, page)
+    for offset in range(pages):
+        page = start_page + offset
 
-        if not page_results and empty_page is None:
-            empty_page = page
+        url = (
+            f"{BASE}/workshop/browse/"
+            f"?appid={APP_ID}"
+            f"&searchtext={quote(keyword)}"
+            f"&section=readytouseitems"
+            f"&browsesort=mostrecent"
+            f"&actualsort=mostrecent"
+            f"&numperpage=30"
+            f"&p={page}"
+        )
+
+        page_results = extract_results(fetch(url), keyword)
+
+        print(
+            f"Searching {keyword!r}, page {page}: "
+            f"{len(page_results)} links"
+        )
 
         for item in page_results:
             if item["id"] not in seen:
                 seen.add(item["id"])
                 found.append(item)
 
-        if index < len(pages) - 1:
+        if not page_results:
+            break
+
+        if offset < pages - 1:
             time.sleep(DELAY_SECONDS)
 
-    return found, empty_page
+    return found
 
 
 def load_previous():
@@ -241,98 +251,96 @@ def load_previous():
     except Exception:
         return {}, set(), {}
 
-    historical_pages = data.get(
-        "scan",
-        {}
-    ).get(
-        "historical_pages",
-        {}
+    old = {
+        str(x["id"]): x
+        for x in data.get("items", [])
+        if x.get("id")
+    }
+
+    baseline = set(
+        data.get("scan", {}).get("baseline_keywords", [])
+    )
+
+    historical_pages = data.get("scan", {}).get(
+        "historical_pages", {}
     )
 
     if not isinstance(historical_pages, dict):
         historical_pages = {}
 
-    return (
-        {
-            str(x["id"]): x
-            for x in data.get("items", [])
-            if x.get("id")
-        },
-        set(
-            data.get("scan", {})
-            .get("baseline_keywords", [])
-        ),
-        historical_pages,
-    )
+    return old, baseline, historical_pages
 
 
-def get_historical_start(keyword, historical_pages):
-    value = historical_pages.get(
-        keyword,
-        HISTORICAL_START_PAGE,
-    )
+def merge_items(merged, found, keyword, mark_new):
+    for item in found:
+        listing_id = item["id"]
 
-    try:
-        value = int(value)
-    except (TypeError, ValueError):
-        value = HISTORICAL_START_PAGE
+        if listing_id in merged:
+            merged[listing_id]["keywords"] = sorted(
+                set(
+                    merged[listing_id].get("keywords", [])
+                    + [keyword]
+                )
+            )
 
-    return max(
-        HISTORICAL_START_PAGE,
-        value,
-    )
+            merged[listing_id]["url"] = item["url"]
+
+            existing_title = str(
+                merged[listing_id].get("title", "")
+            )
+
+            if existing_title.startswith("Workshop item "):
+                merged[listing_id]["title"] = item["title"]
+
+        else:
+            merged[listing_id] = {
+                **item,
+                "keywords": [keyword],
+                "is_new": mark_new,
+                "found_at": datetime.now(
+                    timezone.utc
+                ).strftime("%Y-%m-%d"),
+            }
 
 
 def enrich_items(merged):
-    new_candidates = [
-        x
-        for x in merged.values()
-        if x.get("is_new", False)
-    ]
-
-    existing_candidates = [
-        x
-        for x in merged.values()
-        if not x.get("is_new", False)
-        and (
-            not x.get("title")
-            or str(x.get("title", "")).startswith("Workshop item ")
-            or not x.get("thumbnail")
-            or not x.get("creator")
-            or not x.get("description")
+    candidates = [
+        item
+        for item in merged.values()
+        if (
+            not item.get("title")
+            or str(item.get("title", "")).startswith(
+                "Workshop item "
+            )
+            or not item.get("thumbnail")
+            or not item.get("creator")
+            or not item.get("description")
         )
     ]
 
-    new_candidates.sort(
-        key=lambda x: (
-            x.get("found_at", ""),
-            str(x.get("id", "")),
+    candidates.sort(
+        key=lambda item: (
+            not item.get("is_new", False),
+            item.get("found_at", ""),
+            str(item.get("id", "")),
         )
     )
 
-    existing_candidates.sort(
-        key=lambda x: (
-            x.get("found_at", ""),
-            str(x.get("id", "")),
-        )
+    candidates = candidates[:MAX_DETAIL_ENRICHMENTS]
+
+    new_count = sum(
+        1 for item in candidates
+        if item.get("is_new", False)
     )
 
-    existing_candidates = existing_candidates[
-        :MAX_DETAIL_ENRICHMENTS
-    ]
-
-    candidates = (
-        new_candidates
-        + existing_candidates
-    )
+    existing_count = len(candidates) - new_count
 
     print(
         f"Enriching {len(candidates)} listing previews/details "
-        f"({len(new_candidates)} new, "
-        f"{len(existing_candidates)} existing)..."
+        f"({new_count} new, {existing_count} existing)..."
     )
 
-    for i, item in enumerate(candidates, 1):
+    for index, item in enumerate(candidates, 1):
         try:
             detail_url = (
                 f"{BASE}/sharedfiles/filedetails/"
@@ -359,7 +367,7 @@ def enrich_items(merged):
             )
 
             print(
-                f"  {i}/{len(candidates)} "
+                f"  {index}/{len(candidates)} "
                 f"[{label}] {item['id']}: "
                 f"{item.get('title', 'Untitled')}"
             )
@@ -369,153 +377,122 @@ def enrich_items(merged):
                 f"  detail error for {item['id']}: {exc}"
             )
 
-        if i < len(candidates):
+        if index < len(candidates):
             time.sleep(DETAIL_DELAY_SECONDS)
-
-
-def merge_found_items(merged, found, is_new):
-    for item in found:
-        lid = item["id"]
-
-        if lid in merged:
-            merged[lid]["keywords"] = sorted(
-                set(
-                    merged[lid].get("keywords", [])
-                    + item.get("keywords", [])
-                )
-            )
-
-            merged[lid]["url"] = item["url"]
-
-            if str(
-                merged[lid].get("title", "")
-            ).startswith("Workshop item "):
-                merged[lid]["title"] = item["title"]
-
-        else:
-            merged[lid] = {
-                **item,
-                "keywords": item.get("keywords", []),
-                "is_new": is_new,
-                "found_at": datetime.now(
-                    timezone.utc
-                ).strftime("%Y-%m-%d"),
-            }
 
 
 def main():
     old, baseline, historical_pages = load_previous()
 
-    first = not bool(old)
+    first_scan = not bool(old)
+
+    recent_pages = (
+        FIRST_SCAN_PAGES
+        if first_scan
+        else RECENT_SCAN_PAGES
+    )
 
     merged = {
-        k: {
-            **v,
+        listing_id: {
+            **item,
             "is_new": False,
         }
-        for k, v in old.items()
+        for listing_id, item in old.items()
     }
 
     errors = []
-    successful = 0
+    successful_recent = 0
+    successful_historical = 0
 
     now = datetime.now(timezone.utc)
 
     for keyword in KEYWORDS:
         try:
-            if first:
-                recent_pages = list(
-                    range(
-                        1,
-                        FIRST_SCAN_PAGES + 1,
-                    )
-                )
+            recent = search(
+                keyword,
+                recent_pages,
+                1,
+            )
 
-                found, _ = search_pages(
-                    keyword,
-                    recent_pages,
-                )
+            successful_recent += 1
 
-                merge_found_items(
-                    merged,
-                    found,
-                    bool(old),
-                )
-
-                successful += 1
-
-            else:
-                recent_pages = list(
-                    range(
-                        1,
-                        RECENT_SCAN_PAGES + 1,
-                    )
-                )
-
-                recent_found, _ = search_pages(
-                    keyword,
-                    recent_pages,
-                )
-
-                merge_found_items(
-                    merged,
-                    recent_found,
-                    True,
-                )
-
-                historical_start = get_historical_start(
-                    keyword,
-                    historical_pages,
-                )
-
-                historical_pages_to_search = list(
-                    range(
-                        historical_start,
-                        historical_start
-                        + HISTORICAL_SCAN_PAGES,
-                    )
-                )
-
-                historical_found, empty_page = search_pages(
-                    keyword,
-                    historical_pages_to_search,
-                )
-
-                merge_found_items(
-                    merged,
-                    historical_found,
-                    True,
-                )
-
-                if empty_page is not None:
-                    historical_pages[keyword] = (
-                        HISTORICAL_START_PAGE
-                    )
-                else:
-                    historical_pages[keyword] = (
-                        historical_start
-                        + HISTORICAL_SCAN_PAGES
-                    )
-
-                successful += 1
+            merge_items(
+                merged,
+                recent,
+                keyword,
+                not first_scan,
+            )
 
         except Exception as exc:
             print(
-                f"ERROR for {keyword!r}: {exc}"
+                f"ERROR during recent scan for "
+                f"{keyword!r}: {exc}"
             )
 
             errors.append(
                 {
                     "keyword": keyword,
+                    "stage": "recent",
                     "error": str(exc),
                 }
             )
 
         time.sleep(DELAY_SECONDS)
 
-    if not successful:
+    for keyword in KEYWORDS:
+        current_page = int(
+            historical_pages.get(
+                keyword,
+                HISTORICAL_START_PAGE,
+            )
+        )
+
+        try:
+            historical = search(
+                keyword,
+                HISTORICAL_PAGES_PER_RUN,
+                current_page,
+            )
+
+            successful_historical += 1
+
+            merge_items(
+                merged,
+                historical,
+                keyword,
+                False,
+            )
+
+            if historical:
+                historical_pages[keyword] = (
+                    current_page
+                    + HISTORICAL_PAGES_PER_RUN
+                )
+            else:
+                historical_pages[keyword] = (
+                    HISTORICAL_START_PAGE
+                )
+
+        except Exception as exc:
+            print(
+                f"ERROR during historical scan for "
+                f"{keyword!r}, page {current_page}: {exc}"
+            )
+
+            errors.append(
+                {
+                    "keyword": keyword,
+                    "stage": "historical",
+                    "page": current_page,
+                    "error": str(exc),
+                }
+            )
+
+        time.sleep(DELAY_SECONDS)
+
+    if not successful_recent:
         raise RuntimeError(
-            "Every Steam keyword search failed."
+            "Every Steam recent search failed."
         )
 
     enrich_items(merged)
@@ -527,27 +504,19 @@ def main():
             "completed_at": now.isoformat(),
             "initialized": True,
             "baseline_keywords": sorted(baseline),
-            "historical_pages": historical_pages,
             "errors": errors,
-            "recent_pages_checked": (
-                FIRST_SCAN_PAGES
-                if first
-                else RECENT_SCAN_PAGES
-            ),
-            "historical_pages_per_scan": (
-                0
-                if first
-                else HISTORICAL_SCAN_PAGES
-            ),
+            "pages_checked": recent_pages,
+            "historical_pages": historical_pages,
+            "historical_pages_checked": HISTORICAL_PAGES_PER_RUN,
             "sort": "mostrecent",
         },
         "keywords": KEYWORDS,
         "items": sorted(
             merged.values(),
-            key=lambda x: (
-                not x.get("is_new", False),
-                x.get("found_at", ""),
-                x.get("title", "").lower(),
+            key=lambda item: (
+                not item.get("is_new", False),
+                item.get("found_at", ""),
+                item.get("title", "").lower(),
             ),
         ),
     }
@@ -559,6 +528,15 @@ def main():
             ensure_ascii=False,
         ),
         encoding="utf-8",
+    )
+
+    print(
+        f"Scan complete. "
+        f"Recent searches: {successful_recent}/"
+        f"{len(KEYWORDS)}. "
+        f"Historical searches: {successful_historical}/"
+        f"{len(KEYWORDS)}. "
+        f"Listings: {len(merged)}."
     )
 
 
