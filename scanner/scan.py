@@ -1,542 +1,778 @@
-#!/usr/bin/env python3
-
+import html
 import json
 import re
 import time
-from datetime import datetime, timezone
-from html import unescape
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
-from urllib.error import HTTPError, URLError
-from urllib.parse import quote, urljoin
-from urllib.request import Request, urlopen
+from urllib.parse import quote
 
-ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "data" / "results.json"
-KEYWORDS = json.loads((ROOT / "keywords.json").read_text(encoding="utf-8"))
+import requests
 
-APP_ID = 286160
-BASE = "https://steamcommunity.com"
-USER_AGENT = "SMSearcher/1.3 (+https://github.com/Dranawor/SMSearcher)"
 
-FIRST_SCAN_PAGES = 5
-RECENT_SCAN_PAGES = 5
-HISTORICAL_START_PAGE = 6
-HISTORICAL_PAGES_PER_RUN = 1
+ROOT = Path(__file__).resolve().parent.parent
+DATA_DIR = ROOT / "data"
+RESULTS_FILE = DATA_DIR / "results.json"
+KEYWORDS_FILE = DATA_DIR / "keywords.json"
 
-DELAY_SECONDS = 2.0
+APP_ID = "286160"
+
+WINDOW_DAYS = 7
+RESULTS_PER_PAGE = 50
+MAX_RECENT_PAGES = 5
+
+SEARCH_DELAY_SECONDS = 1.5
 DETAIL_DELAY_SECONDS = 1.5
 
 MAX_RETRIES = 2
-MAX_DETAIL_ENRICHMENTS = 80
 MAX_429_WAIT = 30
 
+MAX_DETAIL_ENRICHMENTS = 100
 
-class SteamRateLimit(Exception):
-    pass
+DEFAULT_KEYWORDS = [
+    "Stonemaier",
+    "Viticulture",
+    "Euphoria",
+    "Between Two Cities",
+    "Scythe",
+    "Charterstone",
+    "My Little Scythe",
+    "Between Two Castles",
+    "Wingspan",
+    "Tapestry",
+    "Pendulum",
+    "Red Rising",
+    "Rolling Realms",
+    "Libertalia",
+    "Smitten",
+    "Expeditions",
+    "Apiary",
+    "Wyrmspan",
+    "Stamp Swap",
+    "Finspan",
+    "Vantage",
+    "Origin Story",
+    "Wingspan Pocket",
+    "Duel of Meloch",
+    "Tokaido",
+    "Namiji",
+]
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; SMSearcher/1.0)",
+    "Accept-Language": "en-US,en;q=0.9",
+}
+
+
+def now_utc():
+    return datetime.now(timezone.utc)
+
+
+def iso_now():
+    return now_utc().isoformat()
+
+
+def unix_timestamp(dt):
+    return int(dt.timestamp())
+
+
+def load_keywords():
+    if not KEYWORDS_FILE.exists():
+        return DEFAULT_KEYWORDS[:]
+
+    try:
+        with open(KEYWORDS_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+
+        if isinstance(data, list):
+            return [str(x).strip() for x in data if str(x).strip()]
+
+        if isinstance(data, dict):
+            keywords = data.get("keywords")
+
+            if isinstance(keywords, list):
+                return [str(x).strip() for x in keywords if str(x).strip()]
+
+    except Exception as e:
+        print(f"Could not read keywords.json: {e}")
+
+    return DEFAULT_KEYWORDS[:]
+
+
+def load_results():
+    if not RESULTS_FILE.exists():
+        return {}, {}
+
+    try:
+        with open(RESULTS_FILE, encoding="utf-8") as f:
+            data = json.load(f)
+
+        items = data.get("items", [])
+        previous = {}
+
+        for item in items:
+            item_id = str(item.get("id", "")).strip()
+
+            if item_id:
+                previous[item_id] = item
+
+        return previous, data
+
+    except Exception as e:
+        raise RuntimeError(
+            f"Could not read existing results.json: {e}"
+        )
+
+
+def save_results(
+    items,
+    keywords,
+    previous_data,
+    started_at,
+    completed_at,
+    pages_checked,
+    errors,
+):
+    DATA_DIR.mkdir(parents=True, exist_ok=True)
+
+    scan_data = dict(previous_data.get("scan", {}))
+
+    scan_data.update(
+        {
+            "started_at": started_at,
+            "completed_at": completed_at,
+            "window_days": WINDOW_DAYS,
+            "created_after": unix_timestamp(
+                now_utc() - timedelta(days=WINDOW_DAYS)
+            ),
+            "created_before": unix_timestamp(now_utc()),
+            "keywords_scanned": len(keywords),
+            "pages_checked": pages_checked,
+            "results_per_page": RESULTS_PER_PAGE,
+            "errors": errors,
+        }
+    )
+
+    data = dict(previous_data)
+
+    data["scan"] = scan_data
+    data["keywords"] = keywords
+    data["items"] = sorted(
+        items,
+        key=lambda x: (
+            bool(x.get("is_new")),
+            x.get("found_at", ""),
+        ),
+        reverse=True,
+    )
+
+    with open(RESULTS_FILE, "w", encoding="utf-8") as f:
+        json.dump(
+            data,
+            f,
+            indent=2,
+            ensure_ascii=False,
+        )
 
 
 def fetch(url):
-    last = None
-
     for attempt in range(MAX_RETRIES + 1):
         try:
-            req = Request(
+            response = requests.get(
                 url,
-                headers={
-                    "User-Agent": USER_AGENT,
-                    "Accept": "text/html,application/xhtml+xml",
-                    "Accept-Language": "en-US,en;q=0.9",
-                },
+                headers=HEADERS,
+                timeout=30,
             )
 
-            with urlopen(req, timeout=30) as r:
-                return r.read().decode("utf-8", "replace")
+            if response.status_code == 200:
+                return response.text
 
-        except HTTPError as exc:
-            last = exc
+            if response.status_code == 429:
+                wait = min(
+                    MAX_429_WAIT,
+                    10 * (attempt + 1),
+                )
 
-            if exc.code == 429:
-                if attempt >= MAX_RETRIES:
-                    raise SteamRateLimit(
-                        f"Steam returned HTTP 429 after {MAX_RETRIES} retries"
-                    )
+                print(
+                    f"Steam returned HTTP 429. "
+                    f"Waiting {wait} seconds before retry."
+                )
 
-                retry_after = exc.headers.get("Retry-After")
+                if attempt < MAX_RETRIES:
+                    time.sleep(wait)
+                    continue
 
-                if retry_after:
-                    try:
-                        wait = min(MAX_429_WAIT, max(10, int(retry_after)))
-                    except ValueError:
-                        wait = min(MAX_429_WAIT, 10 * (attempt + 1))
-                else:
-                    wait = min(MAX_429_WAIT, 10 * (attempt + 1))
+            print(
+                f"HTTP {response.status_code} while fetching {url}"
+            )
 
-                print(f"Steam returned HTTP 429; waiting {wait}s...")
-                time.sleep(wait)
+        except requests.RequestException as e:
+            print(f"Request error: {e}")
+
+            if attempt < MAX_RETRIES:
+                time.sleep(5)
                 continue
 
-            raise
+        break
 
-        except URLError as exc:
-            last = exc
-
-            if attempt >= MAX_RETRIES:
-                raise
-
-            wait = 5 * (attempt + 1)
-            print(f"Network error; waiting {wait}s...")
-            time.sleep(wait)
-
-    raise last
+    return None
 
 
-def clean_html(value):
-    value = unescape(value or "")
-    value = re.sub(
-        r"<script\b.*?</script>|<style\b.*?</style>",
-        " ",
-        value,
-        flags=re.I | re.S,
+def search_url(
+    keyword,
+    page,
+    start_timestamp,
+    end_timestamp,
+):
+    params = (
+        f"appid={APP_ID}"
+        f"&searchtext={quote(keyword)}"
+        f"&section=readytouseitems"
+        f"&browsesort=mostrecent"
+        f"&actualsort=mostrecent"
+        f"&num_per_page={RESULTS_PER_PAGE}"
+        f"&p={page}"
+        f"&days={WINDOW_DAYS}"
+        f"&created_date_range_filter_start={start_timestamp}"
+        f"&created_date_range_filter_end={end_timestamp}"
+        f"&updated_date_range_filter_start=0"
+        f"&updated_date_range_filter_end=0"
     )
-    value = re.sub(r"<[^>]+>", " ", value)
-    return re.sub(r"\s+", " ", value).strip()
+
+    return (
+        "https://steamcommunity.com/workshop/browse/?"
+        + params
+    )
 
 
-def meta(html, prop):
-    patterns = [
-        rf'<meta[^>]+property=["\']{re.escape(prop)}["\'][^>]+content=["\'](.*?)["\']',
-        rf'<meta[^>]+content=["\'](.*?)["\'][^>]+property=["\']{re.escape(prop)}["\']',
-    ]
-
-    for pattern in patterns:
-        match = re.search(pattern, html, re.I | re.S)
-
-        if match:
-            return clean_html(match.group(1))
-
-    return ""
-
-
-def extract_detail(html):
-    title = meta(html, "og:title")
-    image = meta(html, "og:image")
-    description = meta(html, "og:description")
-
-    if not title:
-        match = re.search(
-            r'<div[^>]+class=["\'][^"\']*workshopItemTitle[^"\']*["\'][^>]*>(.*?)</div>',
-            html,
-            re.I | re.S,
-        )
-
-        if match:
-            title = clean_html(match.group(1))
-
-    creator = ""
-
-    for pattern in [
-        r'<a[^>]+class=["\'][^"\']*(?:friendBlockLinkOverlay|workshop_author_link)[^"\']*["\'][^>]*>(.*?)</a>',
-        r'<div[^>]+class=["\'][^"\']*workshopItemAuthor[^"\']*["\'][^>]*>.*?<a[^>]*>(.*?)</a>',
-    ]:
-        match = re.search(pattern, html, re.I | re.S)
-
-        if match and clean_html(match.group(1)):
-            creator = clean_html(match.group(1))
-            break
-
-    return {
-        "title": title,
-        "creator": creator,
-        "thumbnail": image,
-        "description": description,
-    }
-
-
-def extract_results(html, keyword):
+def extract_search_results(page_html):
     results = []
+
+    pattern = re.compile(
+        r'<a[^>]+href="(https://steamcommunity\.com/sharedfiles/'
+        r'filedetails/\?id=(\d+))"[^>]*>(.*?)</a>',
+        re.IGNORECASE | re.DOTALL,
+    )
+
     seen = set()
 
-    href_re = re.compile(
-        r'''href\s*=\s*["']([^"']*sharedfiles/filedetails/\?id=(\d+)[^"']*)["']''',
-        re.I,
-    )
+    for match in pattern.finditer(page_html):
+        url = html.unescape(match.group(1))
+        item_id = match.group(2)
+        content = match.group(3)
 
-    for match in href_re.finditer(html):
-        href = match.group(1)
-        listing_id = match.group(2)
-
-        if listing_id in seen:
+        if item_id in seen:
             continue
 
-        nearby = html[
-            max(0, match.start() - 1200):
-            min(len(html), match.end() + 1800)
-        ]
+        seen.add(item_id)
 
-        title = ""
-
-        title_match = re.search(
-            r'class=["\'][^"\']*workshopItemTitle[^"\']*["\'][^>]*>(.*?)</',
-            nearby,
-            re.I | re.S,
+        text = re.sub(
+            r"<[^>]+>",
+            " ",
+            content,
         )
 
-        if title_match:
-            title = clean_html(title_match.group(1))
-
-        seen.add(listing_id)
+        text = html.unescape(text)
+        text = re.sub(
+            r"\s+",
+            " ",
+            text,
+        ).strip()
 
         results.append(
             {
-                "id": listing_id,
-                "url": urljoin(
-                    BASE + "/",
-                    unescape(href).replace("&amp;", "&"),
-                ),
-                "title": title or f"Workshop item {listing_id}",
-                "keywords": [keyword],
+                "id": item_id,
+                "url": url,
+                "title": text or "Untitled",
             }
         )
 
     return results
 
 
-def search(keyword, pages, start_page=1):
-    found = []
-    seen = set()
+def extract_detail(item, detail_html):
+    title = item.get("title") or ""
+    creator = ""
+    description = ""
+    preview = ""
 
-    for offset in range(pages):
-        page = start_page + offset
+    title_match = re.search(
+        r'<div[^>]+class="[^"]*workshopItemTitle[^"]*"'
+        r'[^>]*>(.*?)</div>',
+        detail_html,
+        re.IGNORECASE | re.DOTALL,
+    )
 
-        url = (
-            f"{BASE}/workshop/browse/"
-            f"?appid={APP_ID}"
-            f"&searchtext={quote(keyword)}"
-            f"&section=readytouseitems"
-            f"&browsesort=mostrecent"
-            f"&actualsort=mostrecent"
-            f"&numperpage=30"
-            f"&p={page}"
+    if title_match:
+        value = re.sub(
+            r"<[^>]+>",
+            " ",
+            title_match.group(1),
         )
 
-        page_results = extract_results(fetch(url), keyword)
+        value = html.unescape(value)
+        value = re.sub(
+            r"\s+",
+            " ",
+            value,
+        ).strip()
+
+        if value:
+            title = value
+
+    creator_match = re.search(
+        r'<a[^>]+href="https://steamcommunity\.com/profiles/'
+        r'[^"]+"[^>]*>(.*?)</a>',
+        detail_html,
+        re.IGNORECASE | re.DOTALL,
+    )
+
+    if creator_match:
+        value = re.sub(
+            r"<[^>]+>",
+            " ",
+            creator_match.group(1),
+        )
+
+        value = html.unescape(value)
+        value = re.sub(
+            r"\s+",
+            " ",
+            value,
+        ).strip()
+
+        if value:
+            creator = value
+
+    description_match = re.search(
+        r'<div[^>]+class="[^"]*workshopItemDescription[^"]*"'
+        r'[^>]*>(.*?)</div>',
+        detail_html,
+        re.IGNORECASE | re.DOTALL,
+    )
+
+    if description_match:
+        value = re.sub(
+            r"<[^>]+>",
+            " ",
+            description_match.group(1),
+        )
+
+        value = html.unescape(value)
+        value = re.sub(
+            r"\s+",
+            " ",
+            value,
+        ).strip()
+
+        if value:
+            description = value
+
+    preview_patterns = [
+        r'<img[^>]+class="[^"]*workshopItemPreviewImage[^"]*"'
+        r'[^>]+src="([^"]+)"',
+        r'<img[^>]+src="([^"]+)"'
+        r'[^>]+class="[^"]*workshopItemPreviewImage[^"]*"',
+        r'<img[^>]+src="(https://steamuserimages[^"]+)"',
+    ]
+
+    for pattern in preview_patterns:
+        preview_match = re.search(
+            pattern,
+            detail_html,
+            re.IGNORECASE,
+        )
+
+        if preview_match:
+            preview = html.unescape(
+                preview_match.group(1)
+            )
+            break
+
+    item["title"] = title
+    item["creator"] = creator
+    item["description"] = description
+    item["preview"] = preview
+
+    return item
+
+
+def search_keyword(
+    keyword,
+    start_timestamp,
+    end_timestamp,
+):
+    found = {}
+    pages_checked = 0
+
+    for page in range(
+        1,
+        MAX_RECENT_PAGES + 1,
+    ):
+        url = search_url(
+            keyword,
+            page,
+            start_timestamp,
+            end_timestamp,
+        )
 
         print(
-            f"Searching {keyword!r}, page {page}: "
-            f"{len(page_results)} links"
+            f"Searching '{keyword}' "
+            f"page {page}/{MAX_RECENT_PAGES}"
+        )
+
+        page_html = fetch(url)
+
+        if page_html is None:
+            raise RuntimeError(
+                f"Could not retrieve Steam results for "
+                f"keyword '{keyword}' page {page}"
+            )
+
+        pages_checked += 1
+
+        page_results = extract_search_results(
+            page_html
+        )
+
+        print(
+            f"  Found {len(page_results)} listings "
+            f"on page {page}"
         )
 
         for item in page_results:
-            if item["id"] not in seen:
-                seen.add(item["id"])
-                found.append(item)
+            item_id = str(item["id"])
 
-        if not page_results:
+            if item_id not in found:
+                found[item_id] = {
+                    "id": item_id,
+                    "url": item["url"],
+                    "title": item.get(
+                        "title",
+                        "Untitled",
+                    ),
+                    "creator": "",
+                    "description": "",
+                    "preview": "",
+                    "keywords": [keyword],
+                }
+
+            elif keyword not in found[item_id]["keywords"]:
+                found[item_id]["keywords"].append(
+                    keyword
+                )
+
+        if len(page_results) < RESULTS_PER_PAGE:
             break
 
-        if offset < pages - 1:
-            time.sleep(DELAY_SECONDS)
+        time.sleep(SEARCH_DELAY_SECONDS)
 
-    return found
-
-
-def load_previous():
-    if not OUT.exists():
-        return {}, set(), {}
-
-    try:
-        data = json.loads(
-            OUT.read_text(encoding="utf-8")
-        )
-    except Exception:
-        return {}, set(), {}
-
-    old = {
-        str(x["id"]): x
-        for x in data.get("items", [])
-        if x.get("id")
-    }
-
-    baseline = set(
-        data.get("scan", {}).get("baseline_keywords", [])
-    )
-
-    historical_pages = data.get("scan", {}).get(
-        "historical_pages", {}
-    )
-
-    if not isinstance(historical_pages, dict):
-        historical_pages = {}
-
-    return old, baseline, historical_pages
+    return found, pages_checked
 
 
-def merge_items(merged, found, keyword, mark_new):
-    for item in found:
-        listing_id = item["id"]
+def merge_results(
+    found_items,
+    previous,
+):
+    now = iso_now()
+    merged = {}
 
-        if listing_id in merged:
-            merged[listing_id]["keywords"] = sorted(
+    for item_id, item in found_items.items():
+        old = previous.get(item_id)
+
+        if old:
+            item["found_at"] = old.get(
+                "found_at",
+                now,
+            )
+
+            item["is_new"] = old.get(
+                "is_new",
+                False,
+            )
+
+            if old.get("creator"):
+                item["creator"] = old["creator"]
+
+            if old.get("description"):
+                item["description"] = old[
+                    "description"
+                ]
+
+            if old.get("preview"):
+                item["preview"] = old["preview"]
+
+            old_keywords = old.get(
+                "keywords",
+                [],
+            )
+
+            item["keywords"] = sorted(
                 set(
-                    merged[listing_id].get("keywords", [])
-                    + [keyword]
+                    old_keywords
+                    + item.get("keywords", [])
                 )
             )
 
-            merged[listing_id]["url"] = item["url"]
-
-            existing_title = str(
-                merged[listing_id].get("title", "")
-            )
-
-            if existing_title.startswith("Workshop item "):
-                merged[listing_id]["title"] = item["title"]
-
         else:
-            merged[listing_id] = {
-                **item,
-                "keywords": [keyword],
-                "is_new": mark_new,
-                "found_at": datetime.now(
-                    timezone.utc
-                ).strftime("%Y-%m-%d"),
-            }
+            item["found_at"] = now
+            item["is_new"] = True
+
+        merged[item_id] = item
+
+    for item_id, old in previous.items():
+        if item_id not in merged:
+            merged[item_id] = old
+
+    return merged
 
 
-def enrich_items(merged):
+def enrich_items(items):
     candidates = [
         item
-        for item in merged.values()
-        if (
-            not item.get("title")
-            or str(item.get("title", "")).startswith(
-                "Workshop item "
-            )
-            or not item.get("thumbnail")
-            or not item.get("creator")
+        for item in items
+        if item.get("is_new")
+        and (
+            not item.get("creator")
             or not item.get("description")
+            or not item.get("preview")
         )
     ]
 
     candidates.sort(
-        key=lambda item: (
-            not item.get("is_new", False),
-            item.get("found_at", ""),
-            str(item.get("id", "")),
-        )
+        key=lambda item: item.get(
+            "found_at",
+            "",
+        ),
+        reverse=True,
     )
 
-    candidates = candidates[:MAX_DETAIL_ENRICHMENTS]
-
-    new_count = sum(
-        1 for item in candidates
-        if item.get("is_new", False)
-    )
-
-    existing_count = len(candidates) - new_count
+    candidates = candidates[
+        :MAX_DETAIL_ENRICHMENTS
+    ]
 
     print(
-        f"Enriching {len(candidates)} listing previews/details "
-        f"({new_count} new, {existing_count} existing)..."
+        f"Enriching {len(candidates)} "
+        f"new listing previews/details..."
     )
 
-    for index, item in enumerate(candidates, 1):
-        try:
-            detail_url = (
-                f"{BASE}/sharedfiles/filedetails/"
-                f"?id={item['id']}"
-            )
+    for index, item in enumerate(
+        candidates,
+        1,
+    ):
+        print(
+            f"  Enriching {index}/{len(candidates)}: "
+            f"{item.get('title', 'Untitled')}"
+        )
 
-            detail = extract_detail(
-                fetch(detail_url)
-            )
+        detail_html = fetch(
+            item["url"]
+        )
 
-            for key in (
-                "title",
-                "creator",
-                "thumbnail",
-                "description",
-            ):
-                if detail.get(key):
-                    item[key] = detail[key]
-
-            label = (
-                "NEW"
-                if item.get("is_new")
-                else "existing"
-            )
-
-            print(
-                f"  {index}/{len(candidates)} "
-                f"[{label}] {item['id']}: "
-                f"{item.get('title', 'Untitled')}"
-            )
-
-        except Exception as exc:
-            print(
-                f"  detail error for {item['id']}: {exc}"
-            )
+        if detail_html:
+            try:
+                extract_detail(
+                    item,
+                    detail_html,
+                )
+            except Exception as e:
+                print(
+                    f"  Could not parse detail page "
+                    f"for {item['id']}: {e}"
+                )
 
         if index < len(candidates):
-            time.sleep(DETAIL_DELAY_SECONDS)
+            time.sleep(
+                DETAIL_DELAY_SECONDS
+            )
 
 
 def main():
-    old, baseline, historical_pages = load_previous()
+    started_at = iso_now()
 
-    first_scan = not bool(old)
+    keywords = load_keywords()
 
-    recent_pages = (
-        FIRST_SCAN_PAGES
-        if first_scan
-        else RECENT_SCAN_PAGES
+    if not keywords:
+        raise RuntimeError(
+            "No keywords were found."
+        )
+
+    previous, previous_data = load_results()
+
+    current_time = now_utc()
+
+    start_time = (
+        current_time
+        - timedelta(days=WINDOW_DAYS)
     )
 
-    merged = {
-        listing_id: {
-            **item,
-            "is_new": False,
-        }
-        for listing_id, item in old.items()
-    }
+    start_timestamp = unix_timestamp(
+        start_time
+    )
 
-    errors = []
-    successful_recent = 0
-    successful_historical = 0
-
-    now = datetime.now(timezone.utc)
-
-    for keyword in KEYWORDS:
-        try:
-            recent = search(
-                keyword,
-                recent_pages,
-                1,
-            )
-
-            successful_recent += 1
-
-            merge_items(
-                merged,
-                recent,
-                keyword,
-                not first_scan,
-            )
-
-        except Exception as exc:
-            print(
-                f"ERROR during recent scan for "
-                f"{keyword!r}: {exc}"
-            )
-
-            errors.append(
-                {
-                    "keyword": keyword,
-                    "stage": "recent",
-                    "error": str(exc),
-                }
-            )
-
-        time.sleep(DELAY_SECONDS)
-
-    for keyword in KEYWORDS:
-        current_page = int(
-            historical_pages.get(
-                keyword,
-                HISTORICAL_START_PAGE,
-            )
-        )
-
-        try:
-            historical = search(
-                keyword,
-                HISTORICAL_PAGES_PER_RUN,
-                current_page,
-            )
-
-            successful_historical += 1
-
-            merge_items(
-                merged,
-                historical,
-                keyword,
-                False,
-            )
-
-            if historical:
-                historical_pages[keyword] = (
-                    current_page
-                    + HISTORICAL_PAGES_PER_RUN
-                )
-            else:
-                historical_pages[keyword] = (
-                    HISTORICAL_START_PAGE
-                )
-
-        except Exception as exc:
-            print(
-                f"ERROR during historical scan for "
-                f"{keyword!r}, page {current_page}: {exc}"
-            )
-
-            errors.append(
-                {
-                    "keyword": keyword,
-                    "stage": "historical",
-                    "page": current_page,
-                    "error": str(exc),
-                }
-            )
-
-        time.sleep(DELAY_SECONDS)
-
-    if not successful_recent:
-        raise RuntimeError(
-            "Every Steam recent search failed."
-        )
-
-    enrich_items(merged)
-
-    baseline.update(KEYWORDS)
-
-    output = {
-        "scan": {
-            "completed_at": now.isoformat(),
-            "initialized": True,
-            "baseline_keywords": sorted(baseline),
-            "errors": errors,
-            "pages_checked": recent_pages,
-            "historical_pages": historical_pages,
-            "historical_pages_checked": HISTORICAL_PAGES_PER_RUN,
-            "sort": "mostrecent",
-        },
-        "keywords": KEYWORDS,
-        "items": sorted(
-            merged.values(),
-            key=lambda item: (
-                not item.get("is_new", False),
-                item.get("found_at", ""),
-                item.get("title", "").lower(),
-            ),
-        ),
-    }
-
-    OUT.write_text(
-        json.dumps(
-            output,
-            indent=2,
-            ensure_ascii=False,
-        ),
-        encoding="utf-8",
+    end_timestamp = unix_timestamp(
+        current_time
     )
 
     print(
-        f"Scan complete. "
-        f"Recent searches: {successful_recent}/"
-        f"{len(KEYWORDS)}. "
-        f"Historical searches: {successful_historical}/"
-        f"{len(KEYWORDS)}. "
-        f"Listings: {len(merged)}."
+        f"Scanning Workshop listings created "
+        f"between {start_time.isoformat()} "
+        f"and {current_time.isoformat()}"
+    )
+
+    print(
+        f"Existing listings in database: "
+        f"{len(previous)}"
+    )
+
+    print(
+        f"Keywords: {len(keywords)}"
+    )
+
+    print(
+        f"Maximum pages per keyword: "
+        f"{MAX_RECENT_PAGES}"
+    )
+
+    print(
+        f"Results per page: "
+        f"{RESULTS_PER_PAGE}"
+    )
+
+    all_found = {}
+    successful_keywords = []
+    failed_keywords = []
+    total_pages = 0
+    errors = []
+
+    for keyword in keywords:
+        try:
+            results, pages = search_keyword(
+                keyword,
+                start_timestamp,
+                end_timestamp,
+            )
+
+            total_pages += pages
+            successful_keywords.append(
+                keyword
+            )
+
+            for item_id, item in results.items():
+                if item_id not in all_found:
+                    all_found[item_id] = item
+
+                else:
+                    existing = all_found[
+                        item_id
+                    ]
+
+                    for item_keyword in item.get(
+                        "keywords",
+                        [],
+                    ):
+                        if item_keyword not in existing[
+                            "keywords"
+                        ]:
+                            existing[
+                                "keywords"
+                            ].append(
+                                item_keyword
+                            )
+
+            print(
+                f"  Total unique recent matches: "
+                f"{len(all_found)}"
+            )
+
+        except Exception as e:
+            message = (
+                f"{keyword}: {e}"
+            )
+
+            print(
+                f"ERROR: {message}"
+            )
+
+            failed_keywords.append(
+                keyword
+            )
+
+            errors.append(
+                message
+            )
+
+    if not successful_keywords:
+        raise RuntimeError(
+            "Every Steam Workshop keyword search "
+            "failed. Existing results were not changed."
+        )
+
+    merged = merge_results(
+        all_found,
+        previous,
+    )
+
+    items = list(
+        merged.values()
+    )
+
+    enrich_items(items)
+
+    completed_at = iso_now()
+
+    save_results(
+        items,
+        keywords,
+        previous_data,
+        started_at,
+        completed_at,
+        total_pages,
+        errors,
+    )
+
+    new_count = sum(
+        1
+        for item in items
+        if item.get("is_new")
+        and item.get("id") in all_found
+        and item.get("found_at") == completed_at
+    )
+
+    actual_new_count = sum(
+        1
+        for item in all_found.values()
+        if item.get("is_new")
+    )
+
+    print()
+    print("Scan complete.")
+    print(
+        f"Keywords successfully scanned: "
+        f"{len(successful_keywords)}"
+    )
+    print(
+        f"Keywords failed: "
+        f"{len(failed_keywords)}"
+    )
+    print(
+        f"Existing listings preserved: "
+        f"{len(previous)}"
+    )
+    print(
+        f"Recent listings found: "
+        f"{len(all_found)}"
+    )
+    print(
+        f"New listings added: "
+        f"{actual_new_count}"
+    )
+    print(
+        f"Total listings in database: "
+        f"{len(items)}"
+    )
+    print(
+        f"Pages checked: "
+        f"{total_pages}"
     )
 
 
