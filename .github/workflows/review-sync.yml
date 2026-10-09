@@ -1,4 +1,6 @@
+```yaml
 name: Sync shared review status
+
 on:
   issues:
     types: [opened, edited, reopened]
@@ -19,79 +21,106 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: |
           python - <<'PY'
-          import json, os, re, subprocess
+          import json
+          import os
+          import re
+          import subprocess
 
-          repo=os.environ["GITHUB_REPOSITORY"]
-          issues=json.loads(subprocess.check_output(
-              ["gh","issue","list","--repo",repo,"--state","all","--limit","1000",
-               "--json","number,title,author,createdAt,url,body"],
+          repo = os.environ["GITHUB_REPOSITORY"]
+
+          issues = json.loads(subprocess.check_output(
+              [
+                  "gh", "issue", "list",
+                  "--repo", repo,
+                  "--state", "all",
+                  "--limit", "1000",
+                  "--json", "number,title,author,createdAt,url,body"
+              ],
               text=True
           ))
 
-          actions={}
+          issues.sort(key=lambda issue: issue.get("createdAt", ""))
+
+          reviews_path = "data/reviews.json"
+
+          try:
+              with open(reviews_path, encoding="utf-8") as f:
+                  reviews = json.load(f)
+          except FileNotFoundError:
+              reviews = {}
 
           for issue in issues:
-              title=issue.get("title","")
-              single=re.match(r"^\[(REVIEW|UNREVIEW)\]\s+(\d+)\b",title,re.I)
-              bulk=re.match(r"^\[(REVIEW|UNREVIEW)\s+BULK\]\s+(\d+)\s+Workshop listings",title,re.I)
+              title = issue.get("title", "")
+
+              single = re.match(
+                  r"^\[(REVIEW|UNREVIEW)\]\s+(\d+)\b",
+                  title,
+                  re.I
+              )
+
+              bulk = re.match(
+                  r"^\[(REVIEW|UNREVIEW)\s+BULK\]\s+\d+\s+Workshop listings",
+                  title,
+                  re.I
+              )
+
               if not single and not bulk:
                   continue
 
-              author=(issue.get("author") or {}).get("login")
+              author = (issue.get("author") or {}).get("login")
+
               if not author:
                   continue
 
               try:
-                  perm=subprocess.check_output(
-                      ["gh","api",f"repos/{repo}/collaborators/{author}/permission",
-                       "--jq",".permission"],
-                      text=True,stderr=subprocess.DEVNULL
+                  permission = subprocess.check_output(
+                      [
+                          "gh", "api",
+                          f"repos/{repo}/collaborators/{author}/permission",
+                          "--jq", ".permission"
+                      ],
+                      text=True,
+                      stderr=subprocess.DEVNULL
                   ).strip()
               except subprocess.CalledProcessError:
                   continue
 
-              if perm not in {"admin","maintain","push","triage"}:
+              if permission not in {"admin", "maintain", "push", "triage"}:
                   continue
 
-              action=(single or bulk).group(1).upper()
-              ids=[]
+              action = (single or bulk).group(1).upper()
 
               if single:
-                  ids=[single.group(2)]
+                  ids = [single.group(2)]
               else:
-                  body=issue.get("body") or ""
-                  # Bulk issues contain lines beginning "- <numeric ID> — ..."
-                  ids=re.findall(r"(?m)^-\s+(\d+)(?:\s+—|\s*$)",body)
+                  body = issue.get("body") or ""
+                  ids = re.findall(r"(?m)^-\s+(\d+)\s*$", body)
 
-              note=""
-              mm=re.search(r"(?ms)^Review note:\s*\n\s*(.*?)(?:\n---|\Z)",issue.get("body") or "")
-              if mm:
-                  note=mm.group(1).strip()
+              note = ""
+              match = re.search(
+                  r"(?ms)^Review note:\s*\n(.*?)(?:\n---|\Z)",
+                  issue.get("body") or ""
+              )
 
-              for lid in ids:
-                  actions[lid]={
-                      "action":action,
-                      "reviewer":author,
-                      "reviewed_at":issue.get("createdAt"),
-                      "note":note,
-                      "issue_url":issue.get("url"),
-                      "number":issue["number"]
-                  }
+              if match:
+                  note = match.group(1).strip()
 
-          reviews={}
-          for lid,v in actions.items():
-              if v["action"]=="REVIEW":
-                  reviews[lid]={
-                      "reviewed":True,
-                      "reviewer":v["reviewer"],
-                      "reviewed_at":v["reviewed_at"],
-                      "note":v["note"],
-                      "issue_url":v["issue_url"]
-                  }
+              for listing_id in ids:
+                  if action == "REVIEW":
+                      reviews[listing_id] = {
+                          "reviewed": True,
+                          "reviewer": author,
+                          "reviewed_at": issue.get("createdAt"),
+                          "note": note,
+                          "issue_url": issue.get("url")
+                      }
+                  else:
+                      reviews.pop(listing_id, None)
 
-          os.makedirs("data",exist_ok=True)
-          with open("data/reviews.json","w",encoding="utf-8") as f:
-              json.dump(reviews,f,indent=2,ensure_ascii=False)
+          os.makedirs("data", exist_ok=True)
+
+          with open(reviews_path, "w", encoding="utf-8") as f:
+              json.dump(reviews, f, indent=2, ensure_ascii=False)
               f.write("\n")
           PY
 
@@ -102,3 +131,4 @@ jobs:
           git add data/reviews.json
           git diff --cached --quiet || git commit -m "Update shared review status"
           git push
+```
