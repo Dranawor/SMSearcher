@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-16T18:22:42.851878+00:00",
+    "completed_at": "2026-10-16T23:00:04.157499+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -73,7 +73,10 @@
     "created_after": 1791570162,
     "created_before": 1792174962,
     "keywords_scanned": 26,
-    "results_per_page": 50
+    "results_per_page": 50,
+    "baseline_at": "2026-10-16T23:00:04.157499+00:00",
+    "last_successful_scan": "2026-10-16T23:00:04.157499+00:00",
+    "new_items_added": 0
   },
   "keywords": [
     "Stonemaier",
@@ -118,7 +121,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-16T18:06:20.121688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820789066",
@@ -131,7 +134,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-16T18:06:20.121688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820756495",
@@ -144,7 +147,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-16T18:06:20.121688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820707415",
@@ -157,7 +160,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-16T18:06:20.121688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820566556",
@@ -170,7 +173,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-16T18:06:20.121688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820893077",
@@ -183,7 +186,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-16T18:06:20.121688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820663343",
@@ -196,7 +199,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-16T18:06:20.121688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820317772",
@@ -209,7 +212,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-16T18:06:20.121688+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820135727",
@@ -224,7 +227,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820066898",
@@ -237,7 +240,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820012001",
@@ -252,7 +255,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819854394",
@@ -266,7 +269,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819809778",
@@ -281,7 +284,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818190950",
@@ -296,7 +299,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820072040",
@@ -309,7 +312,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820047611",
@@ -322,7 +325,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819967528",
@@ -335,7 +338,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820251691",
@@ -348,7 +351,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819980098",
@@ -361,7 +364,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-15T18:20:39.002172+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819562571",
@@ -377,7 +380,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-14T18:40:11.189266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819465311",
@@ -392,7 +395,7 @@
         "Duel of Meloch"
       ],
       "found_at": "2026-10-14T18:40:11.189266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819716188",
@@ -406,7 +409,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-14T18:40:11.189266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819425478",
@@ -419,7 +422,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-14T18:40:11.189266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819435152",
@@ -433,7 +436,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-14T18:40:11.189266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819607709",
@@ -447,7 +450,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-14T18:40:11.189266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819515898",
@@ -460,7 +463,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-14T18:40:11.189266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819395420",
@@ -473,7 +476,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-14T18:40:11.189266+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3819083215",
@@ -488,7 +491,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-13T20:16:25.639890+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818802513",
@@ -501,7 +504,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-13T20:16:25.639890+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818984914",
@@ -514,7 +517,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-13T20:16:25.639890+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815559676",
@@ -531,7 +534,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-13T20:16:25.639890+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818282668",
@@ -546,7 +549,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-12T22:09:28.941504+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818183301",
@@ -559,7 +562,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-12T22:09:28.941504+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818650375",
@@ -572,7 +575,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-12T22:09:28.941504+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818642229",
@@ -585,7 +588,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-12T22:09:28.941504+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818199569",
@@ -598,7 +601,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-12T22:09:28.941504+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3818764936",
@@ -611,7 +614,7 @@
         "Duel of Meloch"
       ],
       "found_at": "2026-10-12T22:09:28.941504+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817842234",
@@ -626,7 +629,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-11T18:58:00.861807+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817754911",
@@ -641,7 +644,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-11T18:58:00.861807+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816754550",
@@ -657,7 +660,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-11T18:58:00.861807+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817981763",
@@ -670,7 +673,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-11T18:58:00.861807+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817929097",
@@ -683,7 +686,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-11T18:58:00.861807+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817684891",
@@ -696,7 +699,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-11T18:58:00.861807+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817348084",
@@ -709,7 +712,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-11T18:58:00.861807+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815630135",
@@ -722,7 +725,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-11T18:58:00.861807+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816964551",
@@ -736,7 +739,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816961510",
@@ -750,7 +753,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816682347",
@@ -764,7 +767,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816860608",
@@ -777,7 +780,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816815461",
@@ -790,7 +793,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816742693",
@@ -803,7 +806,7 @@
         "Between Two Castles"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817141939",
@@ -818,7 +821,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817096629",
@@ -831,7 +834,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816848823",
@@ -844,7 +847,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816902349",
@@ -857,7 +860,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817181602",
@@ -870,7 +873,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816860424",
@@ -883,7 +886,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3817243247",
@@ -896,7 +899,7 @@
         "Duel of Meloch"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814717110",
@@ -909,7 +912,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814683250",
@@ -922,7 +925,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-10T18:39:58.858895+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816607989",
@@ -935,7 +938,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816177268",
@@ -952,7 +955,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816185379",
@@ -965,7 +968,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816185103",
@@ -979,7 +982,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816158842",
@@ -992,7 +995,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816239594",
@@ -1006,7 +1009,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816452504",
@@ -1019,7 +1022,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816307971",
@@ -1032,7 +1035,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816030376",
@@ -1045,7 +1048,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3816021996",
@@ -1058,7 +1061,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-09T19:33:46.324147+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815664084",
@@ -1072,7 +1075,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-08T19:58:58.127222+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815735247",
@@ -1085,7 +1088,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-08T19:58:58.127222+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815664220",
@@ -1098,7 +1101,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-08T19:58:58.127222+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815879632",
@@ -1111,7 +1114,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-08T19:58:58.127222+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815179430",
@@ -1126,7 +1129,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-08T19:58:58.127222+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815110545",
@@ -1141,7 +1144,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815104178",
@@ -1155,7 +1158,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815353294",
@@ -1168,7 +1171,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815228833",
@@ -1181,7 +1184,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815167746",
@@ -1195,7 +1198,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815267749",
@@ -1208,7 +1211,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814948354",
@@ -1221,7 +1224,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3815372049",
@@ -1234,7 +1237,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814952784",
@@ -1247,7 +1250,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812889038",
@@ -1260,7 +1263,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-07T20:00:24.983900+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814745852",
@@ -1275,7 +1278,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814524791",
@@ -1291,7 +1294,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814464516",
@@ -1304,7 +1307,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814781169",
@@ -1317,7 +1320,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814772549",
@@ -1330,7 +1333,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814659256",
@@ -1343,7 +1346,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814589219",
@@ -1356,7 +1359,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814475707",
@@ -1369,7 +1372,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814446339",
@@ -1383,7 +1386,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814609687",
@@ -1396,7 +1399,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813868684",
@@ -1412,7 +1415,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813682762",
@@ -1425,7 +1428,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813954903",
@@ -1438,7 +1441,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813802306",
@@ -1451,7 +1454,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813780486",
@@ -1464,7 +1467,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813639240",
@@ -1477,7 +1480,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3814052990",
@@ -1490,7 +1493,7 @@
         "Duel of Meloch"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813923111",
@@ -1503,7 +1506,7 @@
         "Duel of Meloch"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813302831",
@@ -1517,7 +1520,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813275091",
@@ -1530,7 +1533,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813204518",
@@ -1543,7 +1546,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813167432",
@@ -1556,7 +1559,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813063173",
@@ -1569,7 +1572,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813025960",
@@ -1582,7 +1585,7 @@
         "Red Rising"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813303427",
@@ -1596,7 +1599,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812881827",
@@ -1609,7 +1612,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3813503322",
@@ -1622,7 +1625,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812849077",
@@ -1635,7 +1638,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812762827",
@@ -1649,7 +1652,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812341869",
@@ -1664,7 +1667,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812277339",
@@ -1679,7 +1682,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812310577",
@@ -1692,7 +1695,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812573154",
@@ -1705,7 +1708,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3811837551",
@@ -1719,7 +1722,7 @@
         "Between Two Cities"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3811860276",
@@ -1734,7 +1737,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3811645477",
@@ -1748,7 +1751,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3811960030",
@@ -1761,7 +1764,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3811895376",
@@ -1774,7 +1777,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3812051861",
@@ -1787,7 +1790,7 @@
         "Stamp Swap"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3810907337",
@@ -1800,7 +1803,7 @@
         "My Little Scythe"
       ],
       "found_at": "2026-10-06T19:51:52.276880+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3811292519",
@@ -1814,7 +1817,7 @@
         "Origin Story"
       ],
       "found_at": "2026-10-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3811266280",
@@ -1829,7 +1832,7 @@
         "Rolling Realms"
       ],
       "found_at": "2026-10-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3811100174",
