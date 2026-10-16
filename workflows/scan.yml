@@ -2,7 +2,7 @@ name: Scan Steam Workshop
 
 on:
   schedule:
-    - cron: "17 */6 * * *"
+    - cron: "17 14 */2 * *"
   workflow_dispatch:
 
 permissions:
