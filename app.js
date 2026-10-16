@@ -26,7 +26,7 @@ async function load() {
     }
 
     state.items = d.items || [];
-    state.keywords = d.keywords || [];
+    state.keywords = await getJson("keywords.json", d.keywords || []);
     state.reviews = await getJson("data/reviews.json", {});
 
     $("#last-scan").textContent =
