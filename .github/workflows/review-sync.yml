@@ -1,10 +1,14 @@
-```yaml
 name: Sync shared review status
 
 on:
   issues:
-    types: [opened, edited, reopened]
+    types: [opened, edited]
   workflow_dispatch:
+    inputs:
+      issue_number:
+        description: GitHub review issue number to replay
+        required: true
+        type: string
 
 permissions:
   contents: write
@@ -12,116 +16,79 @@ permissions:
 
 jobs:
   sync:
+    if: >-
+      github.event_name == 'workflow_dispatch' ||
+      startsWith(github.event.issue.title, '[REVIEW]') ||
+      startsWith(github.event.issue.title, '[UNREVIEW]') ||
+      startsWith(github.event.issue.title, '[REVIEW BULK]') ||
+      startsWith(github.event.issue.title, '[UNREVIEW BULK]')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
 
-      - name: Build shared review file
+      - name: Apply review issue
         env:
           GH_TOKEN: ${{ github.token }}
+          REPO: ${{ github.repository }}
+          ISSUE_NUMBER: ${{ github.event.issue.number || inputs.issue_number }}
         run: |
           python - <<'PY'
           import json
           import os
           import re
           import subprocess
+          from pathlib import Path
 
-          repo = os.environ["GITHUB_REPOSITORY"]
+          repo = os.environ["REPO"]
+          number = os.environ["ISSUE_NUMBER"].strip()
+          if not number.isdigit():
+              raise SystemExit("A valid issue number is required")
 
-          issues = json.loads(subprocess.check_output(
-              [
-                  "gh", "issue", "list",
-                  "--repo", repo,
-                  "--state", "all",
-                  "--limit", "1000",
-                  "--json", "number,title,author,createdAt,url,body"
-              ],
-              text=True
+          issue = json.loads(subprocess.check_output(
+              ["gh", "api", f"repos/{repo}/issues/{number}"], text=True
           ))
+          if "pull_request" in issue:
+              raise SystemExit("Pull requests cannot modify review status")
+          title = issue.get("title") or ""
+          single = re.match(r"^\[(REVIEW|UNREVIEW)\]\s+(\d+)\b", title, re.I)
+          bulk = re.match(r"^\[(REVIEW|UNREVIEW)\s+BULK\]\s+\d+\s+Workshop listings\b", title, re.I)
+          if not single and not bulk:
+              print("Not a review issue; no changes needed")
+              raise SystemExit(0)
 
-          issues.sort(key=lambda issue: issue.get("createdAt", ""))
+          author = (issue.get("user") or {}).get("login")
+          if not author:
+              raise SystemExit("Review issue has no identifiable author")
+          permission = subprocess.check_output(
+              ["gh", "api", f"repos/{repo}/collaborators/{author}/permission", "--jq", ".permission"],
+              text=True
+          ).strip()
+          if permission not in {"admin", "maintain", "write", "push", "triage"}:
+              raise SystemExit(f"{author} lacks permission to modify shared reviews")
 
-          reviews_path = "data/reviews.json"
-
-          try:
-              with open(reviews_path, encoding="utf-8") as f:
-                  reviews = json.load(f)
-          except FileNotFoundError:
-              reviews = {}
-
-          for issue in issues:
-              title = issue.get("title", "")
-
-              single = re.match(
-                  r"^\[(REVIEW|UNREVIEW)\]\s+(\d+)\b",
-                  title,
-                  re.I
-              )
-
-              bulk = re.match(
-                  r"^\[(REVIEW|UNREVIEW)\s+BULK\]\s+\d+\s+Workshop listings",
-                  title,
-                  re.I
-              )
-
-              if not single and not bulk:
-                  continue
-
-              author = (issue.get("author") or {}).get("login")
-
-              if not author:
-                  continue
-
-              try:
-                  permission = subprocess.check_output(
-                      [
-                          "gh", "api",
-                          f"repos/{repo}/collaborators/{author}/permission",
-                          "--jq", ".permission"
-                      ],
-                      text=True,
-                      stderr=subprocess.DEVNULL
-                  ).strip()
-              except subprocess.CalledProcessError:
-                  continue
-
-              if permission not in {"admin", "maintain", "push", "triage"}:
-                  continue
-
-              action = (single or bulk).group(1).upper()
-
-              if single:
-                  ids = [single.group(2)]
+          body = issue.get("body") or ""
+          ids = [single.group(2)] if single else re.findall(r"(?m)^-\s+(\d+)\b", body)
+          if not ids:
+              raise SystemExit("No Workshop IDs in review issue")
+          match = re.search(r"(?ms)^Review note:[ \t]*\n(.*?)(?:\n---|\Z)", body)
+          note = match.group(1).strip() if match else ""
+          reviews_path = Path("data/reviews.json")
+          reviews = json.loads(reviews_path.read_text(encoding="utf-8"))
+          action = (single or bulk).group(1).upper()
+          for listing_id in set(ids):
+              if action == "REVIEW":
+                  reviews[listing_id] = {
+                      "reviewed": True,
+                      "reviewer": author,
+                      "reviewed_at": issue.get("created_at"),
+                      "note": note,
+                      "issue_url": issue.get("html_url", "")
+                  }
               else:
-                  body = issue.get("body") or ""
-                  ids = re.findall(r"(?m)^-\s+(\d+)\s*$", body)
+                  reviews.pop(listing_id, None)
 
-              note = ""
-              match = re.search(
-                  r"(?ms)^Review note:\s*\n(.*?)(?:\n---|\Z)",
-                  issue.get("body") or ""
-              )
-
-              if match:
-                  note = match.group(1).strip()
-
-              for listing_id in ids:
-                  if action == "REVIEW":
-                      reviews[listing_id] = {
-                          "reviewed": True,
-                          "reviewer": author,
-                          "reviewed_at": issue.get("createdAt"),
-                          "note": note,
-                          "issue_url": issue.get("url")
-                      }
-                  else:
-                      reviews.pop(listing_id, None)
-
-          os.makedirs("data", exist_ok=True)
-
-          with open(reviews_path, "w", encoding="utf-8") as f:
-              json.dump(reviews, f, indent=2, ensure_ascii=False)
-              f.write("\n")
+          reviews_path.write_text(json.dumps(reviews, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+          print(f"Applied {action} for {len(set(ids))} listings from issue #{number}")
           PY
 
       - name: Commit shared review status
@@ -129,6 +96,6 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add data/reviews.json
-          git diff --cached --quiet || git commit -m "Update shared review status"
-          git push
-```
+          git diff --cached --quiet || git commit -m "Sync Workshop review issue"
+          git pull --rebase origin main
+          git push origin HEAD:main
