@@ -1,0 +1,84 @@
+name: Reset Workshop Queue
+
+on:
+  workflow_dispatch:
+    inputs:
+      confirm:
+        description: Type RESET to archive the current queue as reviewed
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  reset:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Establish reviewed baseline
+        env:
+          CONFIRM: ${{ inputs.confirm }}
+          ACTOR: ${{ github.actor }}
+        run: |
+          python - <<'PY'
+          import json
+          import os
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          if os.environ["CONFIRM"] != "RESET":
+              raise SystemExit("Confirmation must be exactly RESET")
+
+          results_path = Path("data/results.json")
+          reviews_path = Path("data/reviews.json")
+          if not results_path.is_file() or not reviews_path.is_file():
+              raise SystemExit("Expected existing results.json and reviews.json; nothing changed")
+
+          results = json.loads(results_path.read_text(encoding="utf-8"))
+          reviews = json.loads(reviews_path.read_text(encoding="utf-8"))
+          if not isinstance(results.get("items"), list) or not isinstance(reviews, dict):
+              raise SystemExit("Unexpected JSON format; nothing changed")
+
+          baseline = datetime.now(timezone.utc).isoformat()
+          added = 0
+          old_count = len(reviews)
+          for item in results["items"]:
+              listing_id = str(item.get("id", "")).strip()
+              if not listing_id or not listing_id.isdigit():
+                  raise SystemExit("Invalid listing ID; nothing changed")
+              if not reviews.get(listing_id, {}).get("reviewed", False):
+                  reviews[listing_id] = {
+                      "reviewed": True,
+                      "reviewer": os.environ["ACTOR"],
+                      "reviewed_at": baseline,
+                      "note": "Administrative queue reset; not an individual infringement determination.",
+                      "issue_url": "",
+                      "review_source": "baseline_reset"
+                  }
+                  added += 1
+              item["is_new"] = False
+
+          scan = results.setdefault("scan", {})
+          scan["baseline_at"] = baseline
+          scan["last_successful_scan"] = baseline
+          scan["completed_at"] = baseline
+          scan["new_items_added"] = 0
+          scan["errors"] = []
+          results_path.write_text(json.dumps(results, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+          reviews_path.write_text(json.dumps(reviews, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+          print(f"Existing review records retained: {old_count}")
+          print(f"Newly administratively cleared: {added}")
+          print(f"Current queue: 0 unreviewed out of {len(results['items'])} tracked listings")
+          print(f"Baseline: {baseline}")
+          PY
+
+      - name: Commit baseline
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/results.json data/reviews.json
+          git diff --cached --quiet || git commit -m "Establish reviewed Workshop queue baseline"
+          git pull --rebase origin main
+          git push origin HEAD:main
