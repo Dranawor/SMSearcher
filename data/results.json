@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-16T23:00:04.157499+00:00",
+    "completed_at": "2026-10-17T17:15:32.602221+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -34,7 +34,7 @@
       "Серп"
     ],
     "errors": [],
-    "pages_checked": 26,
+    "pages_checked": 29,
     "historical_pages": {
       "Braided Skies": 12,
       "Виноделие": 6,
@@ -68,17 +68,22 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-16T18:06:11.015822+00:00",
+    "started_at": "2026-10-17T17:15:25.203497+00:00",
     "window_days": 7,
-    "created_after": 1791570162,
-    "created_before": 1792174962,
-    "keywords_scanned": 26,
+    "created_after": 1792191604,
+    "created_before": 1792257325,
+    "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-16T23:00:04.157499+00:00",
-    "new_items_added": 0
+    "last_successful_scan": "2026-10-17T17:15:32.602221+00:00",
+    "new_items_added": 7,
+    "older_unseen_items_rejected": 0,
+    "unavailable_items_rejected": 0
   },
   "keywords": [
+    "Braided Skies",
+    "Виноделие",
+    "Серп",
     "Stonemaier",
     "Viticulture",
     "Euphoria",
@@ -107,6 +112,116 @@
     "Namiji"
   ],
   "items": [
+    {
+      "id": "3821117151",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821117151",
+      "title": "Nippon: Zaibatsu - Emperor's Edition Bonuses [Unofficial]",
+      "creator": "",
+      "description": "Contains all the game components unique to the Emperor's Edition of Nippon: Zaibatsu. Created from my own copies of the game components with an old scanner. While everything is legible, I apologize if everything might not have the best image quality. Includes: - 30 B-side factories - 3+3 starting bonus tokens - Common goals board - 9 common goal tokens Notes: The factories come on a separate card from the A-sides for ease-of-use. This is not how the physical component works, where the B-side is on the back of the A-side token. If you are trying to play the game as closely to the physical board game as possible, do not mix A- and B-side factories of the same number and type. Please support the official release!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13271391409497106519/49DD3091CA058D6202244D2E231C4CE64C160DEC/",
+      "preview": "https://images.steamusercontent.com/ugc/13271391409497106519/49DD3091CA058D6202244D2E231C4CE64C160DEC/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-16T23:10:17+00:00",
+      "found_at": "2026-10-17T17:15:25.203497+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821201647",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821201647",
+      "title": "The Forgotten Vault -A Dragons Game",
+      "creator": "",
+      "description": "The Forgotten Vault — A Dragon's Game Three adventurers enter an ancient dungeon seeking enough gold to resurrect two fallen companions: Varron the Paladin and Zero the Golem. Their journey leads through abandoned storerooms, mysterious corridors, and a cursed wooden bridge suspended above a dark abyss. Beyond the crossing sleeps the Watcher, guarding its treasure. But the greatest surprise isn't inside the dungeon. The Game Master is a dragon! Created for Tabletop Simulator's Set The Scene contest using built-in game components in creative ways, including tables repurposed as a bridge, playing cards arranged into a GM screen, miniature terrain, dice, counters, and hand-written adventure notes.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13004266336523087984/FAABB93435BF795B2E2EB644FE3AF1E9EA4E1EC4/",
+      "preview": "https://images.steamusercontent.com/ugc/13004266336523087984/FAABB93435BF795B2E2EB644FE3AF1E9EA4E1EC4/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-17T02:28:24+00:00",
+      "found_at": "2026-10-17T17:15:25.203497+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821279445",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821279445",
+      "title": "Horrors vs Humanity: Bunker Down",
+      "creator": "",
+      "description": "An original tabletop game by me. Artwork fully hand drawn. Horrors vs Humanity: Bunker Down is a PVE base building survival game where you choose a class to work together with your friends, or be a lone wolf, to survive the onslaught of horrors. You must manage and upgrade your bunker’s defenses and structural integrity using resources you find in the city. To live to see another day, you must survive the daily sieges and maintain your sanity. Make sure to find plenty of food and water! New additions and balancing will be done until I feel it is complete.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11216300269700515037/561A1D9A67E11A27281F682CA8C9305D551E213A/",
+      "preview": "https://images.steamusercontent.com/ugc/11216300269700515037/561A1D9A67E11A27281F682CA8C9305D551E213A/",
+      "keywords": [
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-17T05:52:16+00:00",
+      "found_at": "2026-10-17T17:15:25.203497+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821420254",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821420254",
+      "title": "Spinner Child",
+      "creator": "",
+      "description": "Spinner Child is a fully scripted, automated racing board game! Choose one of four unique cars and race against AI opponents or your friends. Hit turns with abandon and risk spinning out, or play conservatively to maintain your momentum. There are plenty of strategies to discover, and no two races are quite the same! But be forewarned: the track isn't as friendly as it looks. Overestimate your abilities, and you may go BOOM! Featuring entirely hand-drawn artwork, Spinner Child harkens back to the boundless imagination of childhood, when a few toy cars and a little creativity could become an entire world. So what are you waiting for? SPIN HER, CHILD! \"You done spun lucky, kid!\" — Cowboy Joe",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11131147877112202784/F97526F30012161FDC71105781EEF2F7DED09925/",
+      "preview": "https://images.steamusercontent.com/ugc/11131147877112202784/F97526F30012161FDC71105781EEF2F7DED09925/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-17T11:19:42+00:00",
+      "found_at": "2026-10-17T17:15:25.203497+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821433718",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821433718",
+      "title": "Braided Skies",
+      "creator": "",
+      "description": "",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11380634837449408543/3F9FC9A730C4F64433092BFA371D80701D930A86/",
+      "preview": "https://images.steamusercontent.com/ugc/11380634837449408543/3F9FC9A730C4F64433092BFA371D80701D930A86/",
+      "keywords": [
+        "Braided Skies"
+      ],
+      "created_at": "2026-10-17T11:45:01+00:00",
+      "found_at": "2026-10-17T17:15:25.203497+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821458005",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821458005",
+      "title": "LEX GLORIAE 0.65",
+      "creator": "",
+      "description": "LEX GLORIAE is a fantasy board game for 2-4 players of Battles, Diplomacy, and Exploration. Players lead Factions competing for dominion over the continent, but will need to drive off monsters and build castles to expand their influence. Economic, political, and military interests make relations between the Factions in play unstable. Each Faction's Mage sets out in search of ancient powers within the Legendary Territories. The knowledge gained through Research can grant exceptional powers capable of turning the tide of the conflict. Players will need to skillfully seize every favorable situation and plan the optimal strategy to lead their Faction to Glory!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15796496794775866121/2E030F55614C4802B200B5DD47768730DA6E236C/",
+      "preview": "https://images.steamusercontent.com/ugc/15796496794775866121/2E030F55614C4802B200B5DD47768730DA6E236C/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-17T12:30:57+00:00",
+      "found_at": "2026-10-17T17:15:25.203497+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821636518",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821636518",
+      "title": "Set the Scene - Tafelblad Village",
+      "creator": "",
+      "description": "The first of the fantasy maps I made for the Set the Scene Tabletop contest and part of a continuous set of maps that could be used for DND or any other fantasy TTRPG. It was a blast to try and make this using only tabletop assets and I hope that you all enjoy the work I put in to make this look nice! The context for this city is that its a small port settlement on the border of the Golden Empire and acts as it's main port for goods coming in from the neighboring continents of Akasha and Cevelliron.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12043016622401162745/748744A3E429DFA92D8FFD006AA570E671291E88/",
+      "preview": "https://images.steamusercontent.com/ugc/12043016622401162745/748744A3E429DFA92D8FFD006AA570E671291E88/",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-17T17:01:51+00:00",
+      "found_at": "2026-10-17T17:15:25.203497+00:00",
+      "is_new": true
+    },
     {
       "id": "3820641203",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3820641203",
@@ -33650,5 +33765,6 @@
       "is_new": false,
       "found_at": "2026-09-10"
     }
-  ]
+  ],
+  "ignored_ids": []
 }
