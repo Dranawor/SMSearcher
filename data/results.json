@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-17T17:15:32.602221+00:00",
+    "completed_at": "2026-10-18T17:24:59.871458+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-17T17:15:25.203497+00:00",
+    "started_at": "2026-10-18T17:24:53.380080+00:00",
     "window_days": 7,
     "created_after": 1792191604,
-    "created_before": 1792257325,
+    "created_before": 1792344293,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-17T17:15:32.602221+00:00",
-    "new_items_added": 7,
+    "last_successful_scan": "2026-10-18T17:24:59.871458+00:00",
+    "new_items_added": 14,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,226 @@
   ],
   "items": [
     {
+      "id": "3821220748",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821220748",
+      "title": "3-player Riichi \"Sanma\" Mahjong Intro",
+      "creator": "",
+      "description": "hasty setup to help with teaching \"Sannin mahjong\" which is just 3-player Riichi Mahjong! modified from my more typical (4-player) Riichi set https://steamcommunity.com/sharedfiles/filedetails/?id=3818190950 Included here: -the 108 tiles (\"Manzu\"/characters 1 & 9 only, \"Pinzu\"/circles 1-9, \"Souzu\"/bamboo 1-9, 4 winds of East/South/West/North, 3 dragons of Green/Red/White, 4 of each tile) [note: there are 3 \"akadora\" or \"red [bonus] tiles\" included, but since Manzu 5 is not used here, the tiles are Pinzu 5, Souzu 5, and White Dragon with a small red dot] -a rounded \"seat compass\" to outline the seat winds, and it also includes a \"Round\" token in the center that can toggle between East and South] -2 6-sided dice (for determining where to \"break\" the wall) -Point Sticks hidden in the green bags, also organized in separate bags (1x 10K, 3x 5K, 9x 1K, and 10x 100) -locked Reference cards on each side for the Character tiles 1 & 9 and Honor tiles (4 winds and 3 dragons) manual shuffling & wall setup may be a pain, but essentially: -move the Seat Compass, dice, and any other unlocked props out of the way -set all tiles face-down (group together if needed so the next step is easier) -use the \"Randomize\" area tool over all tiles (and do make sure that any unlocked non-tiles are not included in the area) -then assemble so each of the 3 players has a \"wall\" of 36 tiles (2 rows of 18 tiles, one row stacked on top of the other) [actual instruction to be provided by whoever runs the session; this is not automated in any way] tiles taken from workshop item \"RKK Mahjong (Autotable...)\" set up by Gray Aeon https://steamcommunity.com/sharedfiles/filedetails/?id=2420514532 cards from workshop item \"Quick and Dirty Mahjong Card Set\" set up by steam user \"valentine\" https://steamcommunity.com/sharedfiles/filedetails/?id=2863829940",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15254122440286234691/D3DD8CDA09D7B8822F30B8B5923E694F53D479AB/",
+      "preview": "https://images.steamusercontent.com/ugc/15254122440286234691/D3DD8CDA09D7B8822F30B8B5923E694F53D479AB/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-17T03:15:58+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821556128",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821556128",
+      "title": "[Lazy] STALKER GAMMA Items Pack",
+      "creator": "",
+      "description": "Hello. People usually call me “Lazy”—it’s both my curse and my excuse. I’ve been a Game Master for quite some time, but these days I mostly create various types of content for friends or on commission. And I share this content in the form of a friendly message like this one. If you search my tag in the workshop or check out my profile, you’ll find a wide variety of equipment icons from different worlds—ranging from sci-fi and fantasy to zombie survival games or even more niche genres. Icons, backpacks, and all sorts of useful little items you can use. I don’t ask for anything in return for using my content—I’m sharing it completely for free. However, if you use it, say, in a video, or upload your gameplay to YouTube or something similar, please send me the videos via DM or in the comments. I’d be interested to see from the outside how my creations are being used to improve future projects. Also, if you have any suggestions, requests, or—to put it bluntly—orders to port certain icons from games or anything else, feel free to reach out to me, and I’ll see what I can do. Also, if certain items aren't loading, they may be stored on different servers. While most of my content is stored on Steam Cloud servers, unfortunately, not all of it is. If something isn't loading, try reloading the desktop a few times. Keep doing this until everything appears in your library in the tabletop’s cache. If that doesn’t work completely, take a look. If the item contains a link to VK, your requests might be blocked due to a VPN, workarounds, or because you’re trying to load too much from there at once. If it’s just individual resources, I can’t really offer any advice on that.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14898144536937721174/512E36B1B0515B5BE342054BE459F9DFCA7565DD/",
+      "preview": "https://images.steamusercontent.com/ugc/14898144536937721174/512E36B1B0515B5BE342054BE459F9DFCA7565DD/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-17T15:02:55+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821569655",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821569655",
+      "title": "[CZB/CZN] Chaos Zero Board Game: Stand-Off (ver. 0.1)",
+      "creator": "",
+      "description": "CZB: Stand-Off is a Fan project for the Video Game “Chaos Zero Nightmare” (CZN) to celebrate its 1-Year Anniversary. CZB: Stand-Off is a PvP Action Card game designed for 4-8 Players. Heavily inspired by games like “Bang!”, “Slay the Spire”, “100% Orange Juice” and CZN (of course), CZB: Stand-Off is a fast-paced and hectic Card game with many twists and turns. [h3] Gameplay [/h3] In CZB: Stand-Off you and anywhere from 3 to 7 other Players engage in PvP Combat with one another. Each Player is dealt a Roll Card at the Start of the game, each with their own objectives to complete. At the beginning of the game, only the “Captain” roll is revealed to all Players. Everyone will need to deduce the rolls of all other Players while working together with perceived allies to achieve a common goal. Once anyone has achieved their Objective, the game ends. [h3] Make your Own Fate [/h3] Each Player gets to choose which Combatant to play as. Choosing a Combatant will add that Combatant’s unique Cards to a shared Draw Pile. Pick compatible Combatants to unlock the potential for strong synergies, or sabotage the Draw Pile with hard-to-use or even detrimental Cards. The choice is yours. [h3] Obstruct and Support [/h3] CZB: Stand-Off is meant to be highly interactive. Players have multiple means of sabotaging and empowering one another. Whether that be through Upgrade/Curse Cards, forced discards or negating damage. However, there is a limit to what you can do by yourself. You are heavily incentivised to form alliances with other Players, otherwise you may risk being sabotaged beyond repair. [h3] Rulebook [/h3] The Rulebook can be found on the Table. Alternatively you can view it here: https://drive.google.com/file/d/1NkXd5awVxdkT8zxmePEJCZCbHu9ay8re/view?usp=sharing [h3] Disclaimer [/h3] CZB:Standoff is the PVP Party game, if you're looking for the PVE project,which is a more faithful recreation of CZN’s gameplay, please go here: https://steamcommunity.com/sharedfiles/filedetails/?id=3696118002 [h3] Artists [/h3] CZN Art Team (unknown/unidentified) NA Credit: CZN Game Assets Ueast0 (@YyyDddd0) CZN Illustrator Credit: Booklet Cover illustrations, Steam Graphic, Certain Card Arts たれ(tare) (@tare_nu) CZN Webcomic Artist/Illustrator Credit: Certain Card Card Arts “Chaos Zero Nightmare” is a Copyright of Smilegate. This is a free fan project and is in no way affiliated with or endorsed by Smilegate/Super Creative.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13606225254207230708/89923DD4E444E3B40E0AAB82A06E817C30C7F523/",
+      "preview": "https://images.steamusercontent.com/ugc/13606225254207230708/89923DD4E444E3B40E0AAB82A06E817C30C7F523/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-17T15:23:17+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821662365",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821662365",
+      "title": "Keeps [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/469215/keeps][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] The year is 1345. You and three other peasants are in a struggle for safety in the trying times. Four old friends offer gestures of favor, intricate and purposeful and unique. Whoever can best utilize these favors will shore up their keep, safe and sound for the days to come... Keeps is an elegant 36-card microstrategy game that takes place over any number of 15-25 minute rounds, where two to four players maneuver to have the most coinage at the end of the round. Each player has a draw pile which hides either one of three characters (the Count, the Fool, and the Friar) or an even mix of them (the Mask). The piles move during the game, so players should track and anticipate which cards might be where. As no two cards are the same, the best players will grow to know each card and when it might be more or less useful. \"Keep\" cards can be played in front of any player for extra effects, such as the ability to draw from any pile, or to take an extra action at the end of the round. Some Keep cards are worth coins, and the player with the most coins in their keep when the round ends gets a Victory Mark. First to three Marks wins the game! [h3]Key Features[/h3] • One-Click Setup • Snap Points • Custom Table Design • [url=https://www.keepsgame.com/clarify]Rules Clarifications[/url] [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] David Buffkin [b]Artist:[/b] Elaina Buffkin [b]Publisher:[/b] (Self-Published) [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9936600502176225943/2A0D2348C43541CD0A64A1E79F75AA024EFEFAB6/",
+      "preview": "https://images.steamusercontent.com/ugc/9936600502176225943/2A0D2348C43541CD0A64A1E79F75AA024EFEFAB6/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-17T17:41:13+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821700472",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821700472",
+      "title": "Set the scene - Cozy Corner",
+      "creator": "",
+      "description": "My submission to the Set the scene contest. This is a show of dedication to the game, I spent around 5 days making the scene. It is showing games me and my partner have played, because Tabletop simulator has given us the tools to play tabletop games together, despite living on the opposite sides of the world and we're also hindered by them using Mac and me using Windows. The games shown are Big 2, Chess, Chinese Checkers, Kimble (drawn) and Poker This is my show of thanks to the game for making it possible.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14243734450938989534/8CADB50669D4681FDC471C32AD8E3683811A300E/",
+      "preview": "https://images.steamusercontent.com/ugc/14243734450938989534/8CADB50669D4681FDC471C32AD8E3683811A300E/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-17T18:38:39+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821842128",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821842128",
+      "title": "Piece Workshop — Let players create custom tokens, cards & models",
+      "creator": "",
+      "description": "[h1]Piece Workshop[/h1] Let [b]any player[/b] create custom components at your table — tokens, tiles, standees, cards and 3D models — without depending on the GM. [h2]The problem it solves[/h2] When a player tries to import a Custom object at someone else's table, TTS's import window usually pops up for the host instead of the player who placed it. With the Workshop, the player answers dialogs that appear [b]only to them[/b], and the piece is built from an image link. [h2]Pieces[/h2] [list] [*][b]Token[/b] [*][b]Tile[/b] — square, hexagon, round or rounded corners [*][b]Standee[/b] — optional back image [*][b]Card[/b] — optional back image [*][b]3D model[/b] — .obj link and optional texture [/list] Every piece gets a name and a size (small to huge) and appears in front of its creator's seat. Its description shows who made it. [h2]For the GM[/h2] [list] [*][b]Approval:[/b] when on, players' pieces wait in a queue on the board, with thumbnail, name and who asked. Approve or Reject in one click. [*]Chat notice for every new request. [*]The GM's own pieces skip the queue. [/list] [h2]My library[/h2] Each player keeps the pieces they made (tied to their Steam account) and can recreate them later without pasting the link again. [h2]How to use[/h2] [olist] [*]Take a seat and click a piece type. [*]Paste the image link (.png or .jpg — Imgur, Discord, Steam Cloud...). [*]Name it and pick a size. [/olist] [h2]Good to know[/h2] [list] [*]An image [b]link[/b] is required: the script runs on the host's computer and can't read files from players' PCs. [*]Spectators can't create pieces. [*]English and Portuguese (buttons on the board). [/list]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16490707247625791457/2EF715B079214210F8B62C82C15C8D1989530DC0/",
+      "preview": "https://images.steamusercontent.com/ugc/16490707247625791457/2EF715B079214210F8B62C82C15C8D1989530DC0/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-17T22:24:25+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821853908",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821853908",
+      "title": "Street Fighter Guess Who",
+      "creator": "",
+      "description": "A Street Fighter-themed Guess Who game. All images of the characters are official art. The background is the Ring of Power stage from Street Fighter V. All rights to the characters and Street Fighter as a whole belong to CAPCOM, a company that I am NOT affiliated with. Please support the original work.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12060554013538698686/92BE5DB841EE4372C2B61DE9BC265B813A4983EB/",
+      "preview": "https://images.steamusercontent.com/ugc/12060554013538698686/92BE5DB841EE4372C2B61DE9BC265B813A4983EB/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-17T22:45:09+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821866478",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821866478",
+      "title": "DC Villainous",
+      "creator": "",
+      "description": "A full villainous set, with 6 playable villains. Picked from the main cast of the Justice league, you can play The Joker, Lex Luthor, Sinestro, Reverse Flash, Cheetah, and Black Manta. Every Villain is completely original and new, with the same rules from the Marvel Villainous, so if your familiar with how to play with that rule set, this should be easy.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15417155282297963343/66A9DE34FC191F58DD8FE5AF3AC1806EC632FD54/",
+      "preview": "https://images.steamusercontent.com/ugc/15417155282297963343/66A9DE34FC191F58DD8FE5AF3AC1806EC632FD54/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-17T23:08:21+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821913340",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821913340",
+      "title": "FavCards Go Fish Expansion Decks",
+      "creator": "",
+      "description": "This mod is intended to be used for Go Fish For Freaks, and serves as a personal expansion pack. Two different packs are inside: One is a collection of random items, and the other is a collection of \"The Doo's.\" Thank you.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13376066178213892995/F7F14B135CB1D45D67E513348011FDA82C3D42B4/",
+      "preview": "https://images.steamusercontent.com/ugc/13376066178213892995/F7F14B135CB1D45D67E513348011FDA82C3D42B4/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-18T00:43:53+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821946618",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821946618",
+      "title": "Jornadas na Terra Média - PT-BR | Todas as Expansões",
+      "creator": "",
+      "description": "Mesa-base de Jornadas na Terra Média com cartas em português do Brasil e imagens em alta qualidade. CONTEÚDO INCLUÍDO Jogo base e todas as cinco expansões físicas: - Caminhos Obscuros - Propagação da Guerra - Vilões de Eriador - Habitantes da Escuridão - Flagelos dos Ermos Esta versão substitui 635 versões de carta, em 773 objetos contando repetições. Inclui as fichas de personagem com frente e verso, cartas de herói e profissão, equipamentos, montarias, dano, medo, títulos, terreno e condições disponíveis no acervo PT-BR. As duas formas de Beorn e os cinco versos Fuja! estão incluídos. PENDÊNCIAS As 20 cartas de Fraqueza padrão e as 20 da variante opcional continuam em inglês. Os três manuais, o guia de referência, a referência rápida e o FAQ estão em português. Os cinco tapetes de jogador, os nomes das cartas e objetos e as descrições de terreno também estão em português. Nomes próprios e códigos de peças de mapa foram preservados. A mesa usa um panorama de salão élfico com jardim e cascata. Textos embutidos em outras imagens ainda podem estar em inglês. COMO COMEÇAR Inscreva-se neste item e carregue esta mesa ao criar a sala. Para começar outra campanha, carregue novamente a mesa-base. Salve o progresso da sua campanha com outro nome. CRÉDITOS Adaptação da mesa de Bobby Chicago e djskiskyskoski: https://steamcommunity.com/sharedfiles/filedetails/?id=2166579047 Créditos da base também a FondueTime, jsmcgo e Ziggy Stardust, conforme a descrição do item original. Imagens PT-BR fornecidas por Thiago (Fahantin). Jogo original de Fantasy Flight Games. Adaptação não oficial.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10504720803196583431/7A33073D8F0125777D05C6624EC394AD9F336D7B/",
+      "preview": "https://images.steamusercontent.com/ugc/10504720803196583431/7A33073D8F0125777D05C6624EC394AD9F336D7B/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-18T02:03:17+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3821980009",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821980009",
+      "title": "Set The Scene - Downtown Lotusworth",
+      "creator": "",
+      "description": "Hello! I am Cheetles and this is my submission for the Set the Scene contest. I have made this map completely using ONLY in game assets, matching props together to make new props that we wouldn't regularly bat an eye at. But upon closer look you'll see my tricks on how I made them work. A few exciting detailed interiors to scout around in, maybe fetch a drink, or go to the bank to get money(To get more drinks!) I'm honestly surprised with myself for figuring most of this stuff out. I learned a lot and have found a new passion for making custom maps in Tabletop Simulator (All drawn assets were made by me in MS Paint and the fonts are free license off Google fonts.) Some lore tidbits. Lotusworth is a capital city in my fictional nation of Tourmel set in \"Below Skies\" My own little worldbuilding project set in the 60s, with hints of fantasy and tension between man and his fellow neighbor.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9750606330146012153/6FB147C8CC9DC6D2D577C9ACA254A7A47BEE960F/",
+      "preview": "https://images.steamusercontent.com/ugc/9750606330146012153/6FB147C8CC9DC6D2D577C9ACA254A7A47BEE960F/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Braided Skies",
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-18T03:25:16+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822126342",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822126342",
+      "title": "Battle Spirits Origins Table",
+      "creator": "",
+      "description": "Welcome to Battle Spirits Origins! This is a fan-made project dedicated to bringing the Japanese version of Battle Spirits to a wider Western audience! This Tabletop Simulator room is designed to make playing Battle Spirits easier and more accessible, featuring custom card assets, an automated playmat, and tools to help you enjoy the game with other players. What is Battle Spirits Origins? Our goal is to translate and adapt the original Japanese cards into English while preserving their original effects and mechanics. We're starting from the early sets and working our way through the history of the Japanese game, one expansion at a time. Content 4 Sets of cards, from BS01 to BS04. 2 Starter Decks, SD01 and SD02. Some Promo cards from 2008-2009. A scripted playmat to make playing the game easier. All che cards are faithfully translated and with revamped graphics, making everything more accessible. Getting Started Join our Discord server to find other players, share decklists, ask questions, report issues, and follow project updates! Discord: https://discord.gg/3PsNjrXmmv Credits & Disclaimer Special thanks to Dexef for allowing us to modify and build upon his original Tabletop Simulator room. You can visit his original table at: https://steamcommunity.com/sharedfiles/filedetails/?id=1592923384 Battle Spirits Origins is an unofficial, fan-made project and is not affiliated with or endorsed by Bandai. All original card designs, artwork, and intellectual property belong to their respective owners. Our aim is to help more people discover, play, and enjoy Battle Spirits together. Welcome to Battle Spirits Origins. The cards are ready. The battlefield is waiting.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17585980073773708190/0CEFA04A3075D93DB40980863C11C43D9BA263C2/",
+      "preview": "https://images.steamusercontent.com/ugc/17585980073773708190/0CEFA04A3075D93DB40980863C11C43D9BA263C2/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-18T09:16:12+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822363187",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822363187",
+      "title": "Set The Scene - The Vanilla Experience",
+      "creator": "",
+      "description": "My entry for the 2026 Set The Scene Contest. All art was originally created by me (Rotwolf) for this contest. The 30x30 pixelart was created using Aseperite, which was manually translated into a building manual in TTS using MS Excel. All ~1000 dominoes (900 for the art + the surrounding ones) were placed by hand. I hope you like it! :)",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17017913905132630696/80AEBF9FFD7AD29722EFC6457E3C54113F55E133/",
+      "preview": "https://images.steamusercontent.com/ugc/17017913905132630696/80AEBF9FFD7AD29722EFC6457E3C54113F55E133/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-18T15:42:48+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822372585",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822372585",
+      "title": "Set The Scene - Domino Isle Castle",
+      "creator": "",
+      "description": "A small domino castle village diarama",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18315402152026016731/E4EDE5E6DE2960C1FDA31CA2C8C8923648D0248D/",
+      "preview": "https://images.steamusercontent.com/ugc/18315402152026016731/E4EDE5E6DE2960C1FDA31CA2C8C8923648D0248D/",
+      "keywords": [
+        "Between Two Castles"
+      ],
+      "created_at": "2026-10-18T15:56:08+00:00",
+      "found_at": "2026-10-18T17:24:53.380080+00:00",
+      "is_new": true
+    },
+    {
       "id": "3821117151",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821117151",
       "title": "Nippon: Zaibatsu - Emperor's Edition Bonuses [Unofficial]",
@@ -125,7 +345,7 @@
       ],
       "created_at": "2026-10-16T23:10:17+00:00",
       "found_at": "2026-10-17T17:15:25.203497+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821201647",
@@ -141,7 +361,7 @@
       ],
       "created_at": "2026-10-17T02:28:24+00:00",
       "found_at": "2026-10-17T17:15:25.203497+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821279445",
@@ -157,7 +377,7 @@
       ],
       "created_at": "2026-10-17T05:52:16+00:00",
       "found_at": "2026-10-17T17:15:25.203497+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821420254",
@@ -174,7 +394,7 @@
       ],
       "created_at": "2026-10-17T11:19:42+00:00",
       "found_at": "2026-10-17T17:15:25.203497+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821433718",
@@ -189,7 +409,7 @@
       ],
       "created_at": "2026-10-17T11:45:01+00:00",
       "found_at": "2026-10-17T17:15:25.203497+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821458005",
@@ -205,7 +425,7 @@
       ],
       "created_at": "2026-10-17T12:30:57+00:00",
       "found_at": "2026-10-17T17:15:25.203497+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821636518",
@@ -220,7 +440,7 @@
       ],
       "created_at": "2026-10-17T17:01:51+00:00",
       "found_at": "2026-10-17T17:15:25.203497+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3820641203",
