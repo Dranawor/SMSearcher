@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-18T17:24:59.871458+00:00",
+    "completed_at": "2026-10-19T19:58:48.429495+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-18T17:24:53.380080+00:00",
+    "started_at": "2026-10-19T19:58:40.332292+00:00",
     "window_days": 7,
     "created_after": 1792191604,
-    "created_before": 1792344293,
+    "created_before": 1792439920,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-18T17:24:59.871458+00:00",
-    "new_items_added": 14,
+    "last_successful_scan": "2026-10-19T19:58:48.429495+00:00",
+    "new_items_added": 11,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,180 @@
   ],
   "items": [
     {
+      "id": "3822331046",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822331046",
+      "title": "Fate/Domination FR",
+      "creator": "",
+      "description": "🇫🇷 TRADUCTION FRANÇAISE COMPLÈTE 🇫🇷 Ceci est une traduction française non officielle du mod Fate/Domination pour Tabletop Simulator. Tout le crédit pour la création du jeu revient à l'auteur original du mod. ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Traduction à l'aide d'une IA. Je vais continuer de corriger les erreurs au fur et à mesure. Soyez indulgents. Les cartes restent en anglais. J'ai traduit les fenêtres qui apparaissent quand vous survolez une carte avec le curseur.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13290608336461593287/4D35E386C1F5E69695C90F1A4E2609DFF054F978/",
+      "preview": "https://images.steamusercontent.com/ugc/13290608336461593287/4D35E386C1F5E69695C90F1A4E2609DFF054F978/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-18T14:57:25+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822517606",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822517606",
+      "title": "Keeps",
+      "creator": "",
+      "description": "This is a tweak of Malixx's mod to fix/upgrade some scripting, add buttons to rotate Red & Blue players, and remove the hot sound.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16068821611641015769/BC765C35DA19BC18C57D9E36A6756639A0D96D33/",
+      "preview": "https://images.steamusercontent.com/ugc/16068821611641015769/BC765C35DA19BC18C57D9E36A6756639A0D96D33/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-10-18T19:20:26+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822601672",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822601672",
+      "title": "Project Hail Mary — Rocky's Premium Bangers (48 DLC Tracks)",
+      "creator": "",
+      "description": "Fist my bump! Amaze! Amaze! Amaze! 🎵🚀 The original Project Hail Mary music chip just got a PREMIUM UPGRADE! Featuring 48 tracks, including nearly all, if not all, of the music featured in the film, from Daniel Pemberton's original score to its featured songs. Enjoy the ultimate Hail Mary soundtrack experience in Tabletop Simulator, personally approved by Rocky himself! (Not really.) Warning: May cause excessive fist bumps, questionable dancing, and spontaneous Eridian celebrations. No refunds. Grace's questionable taste in music sold separately.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17601212258022555441/AB5A7B7D2BDAC353782F0231F2576C215C707BC5/",
+      "preview": "https://images.steamusercontent.com/ugc/17601212258022555441/AB5A7B7D2BDAC353782F0231F2576C215C707BC5/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-18T21:33:25+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822635294",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822635294",
+      "title": "Monopoly Junior (2005)",
+      "creator": "",
+      "description": "My recreation of the 2005 U.S. Version of Monopoly Junior. If you want to use the \"Pocket Change\" rule from the original 1990 version, simply add that money to the black counter beside \"Free Time\" whenever a player lands on \"Go To Lunch\", \"Fireworks\", or \"Water Show\"",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14870642983501608513/0005F32CD8BFC27358F7D3D2A4DF1537AA8C97D9/",
+      "preview": "https://images.steamusercontent.com/ugc/14870642983501608513/0005F32CD8BFC27358F7D3D2A4DF1537AA8C97D9/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story",
+        "Wingspan Pocket"
+      ],
+      "created_at": "2026-10-18T22:46:14+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822712616",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822712616",
+      "title": "Atmosfear: The Gatekeeper (Scripted DVD)",
+      "creator": "",
+      "description": "As the title suggests, this is a fully functional TTS Mod for Atmosfear: The Gatekeeper, down to the fully rebuilt DVD component. Now Gatekeeper runs fully inside TTS, maggots! NOTE: This is a ~2GB Mod, mostly due to the VideoPlayer asset bundle. Be warned. Credits: Salt - Original TTS Mod used as base Ian Horner, Graham Stark, Beej Dery, Ben Ulmer, and the members of the LoadingReadyRun Network: keeping my love of Atmosfear alive.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14432530937258852175/47F187BC03C7B8F76BDC429B258B5D3A23BD0A7D/",
+      "preview": "https://images.steamusercontent.com/ugc/14432530937258852175/47F187BC03C7B8F76BDC429B258B5D3A23BD0A7D/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-19T02:16:28+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822723737",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822723737",
+      "title": "Green Impact",
+      "creator": "",
+      "description": "GREEN IMPACT RULES Climate change is an issue that needs urgent attention. Fossil fuels, overconsumption, corporations and so on are the main drivers of Greenhouse Gas Emissions (GHG). However, we often feel like as individuals we are helpless and that our actions have no impactful effect. Here is where GREEN IMPACT comes in. Learn how important your actions actually are. You play as individuals where your individual actions can lead to local programs which influence national change which can finally affect global initiatives. But as in real life, natural disasters, corporations and politicians will be playing against and/or in your favour. Do not fret though, there are some IRL activists that are here to help you as well. HOW TO PLAY 1. Game Setup: Separate the cards into the following five (5) groups, shuffling each: Global Initiatives; National Laws; Local Programs; Global Conditions (Corporations and Politicians); and Player Cards (Individual Actions, Activists, and all other cards). Shuffle the Global Conditions pile and place face down in the center of the playing field. Place five (5) Global Initiative cards face up near the Global Conditions draw pile. For each player, place two (2) National Law cards face up around the Global Initiative cards (i.e. for two players, place four (4) National Law cards on the playing field). Place the remaining National Law cards face down in a pile. Place three (3) Local Program cards in front of each player. Place the remaining Local Program cards face down in a pile. Deal four (4) Individual Action cards to each player. Place the remaining Individual Action cards face down in a pile. Shuffle the Global Conditions pile and place face down in the center of the playing field. 2. The Gameplay Loop: In Green Impact, the game is made up of two distinct turns: Player Actions and Environmental Changes 3. Player Actions: The majority of gameplay occurs here. The players have the option to act simultaneously or in sequence, depending on their preference. The Player Actions turn has three distinct phases: Draw, Act and Resolve. 4. Draw: Players can do one of two things in the draw phase: Draw two (2) cards from the top of the Individual Actions pile. Discard any remaining cards in their hand and draw four (4) new cards. Any player who chooses this option must skip their Act phase. Whenever a draw pile is depleted, shuffle the discard pile for that card type to create a new draw pile. 5. Act: Each player can choose up to three (3) of the following actions during this phase (options can be chosen multiple times): Play an Individual Action from their hand onto a Local Program. Players may only play Individual Actions on their own Local Programs (the ones dealt in front of them) unless otherwise indicated by a card on the field. Play an Activist card from their hand. If there are already two (2) activist cards in play, choose one and replace it with the new one played. Assign a Local Program to a National Law. This can either be one from their hand or one launched during the current Act phase (see Launching a Program below). Assign a passed National Law to a Global Initiative. 6. Resolve: During the resolve phase: All eligible Local Programs are launched All eligible National Laws are passed Each player discards back to the maximum hand size 7. Launching a Program: When a Local Program has accrued three (3) Individual Actions, the player must discard all Individual Actions attached to it in order to launch it. The amount required can be changed by cards on the field. Any launched Local Programs not already assigned to a National Law when the Resolve phase begins are placed into the hand of the player that they belong to. Replace any Local Program launched during this turn's Act phase with a new one from the Local Programs draw pile. Discard any Player Cards used to launch a Local Program during this phase. 8. Passing a National Law: When a National Law has had three (3) Local Programs assigned, it is considered passed. This amount can be changed by cards on the field. Any passed National Law must be assigned to a Global Initiative during this phase. When assigning a National Law place it underneath the Global Initiative, discard all Local Programs assigned to the National Law and then replace the National Law with a new card from the draw pile. 9. Achieving a Global Initiative: When a Global Initiative has had three (3) National Laws assigned, it is considered achieved. This amount can be changed by cards on the field, which may affect the “achieved” status. After resolving the above, each player must discard enough cards to reduce their hands to no more than five (5) cards. This limit can be changed by cards on the field. 10. Environmental Changes: After each round of Player Actions turns, take the top card off the Global Conditions draw pile and play it face up on the field. If there are already two cards of the same type (Corporation, Politician, etc.) as the played card already face up on the field, choose one of them to replace with the new card. 11. Winning The Game: To win the game, players must complete a number of Global Initiatives equal to the number of players plus one. 12. Variations: For an added challenge, try one or more of the following variations (or feel free to come up with your own): Change the maximum number of Corporation, Politician and/or Activist cards that can be active simultaneously. Limit the number of rounds that players have to complete the game. Local Programs / National Laws / Global Initiatives require at least one of the corresponding type in order to be completed. Example: Water Local Programs require at least one Water Conservation Individual Action in order to be launched. DID YOU KNOW? Studies show that the energy supply sector accounts for 35% of global emissions, the largest contributor to global greenhouse gas emissions! This is mainly because most countries still rely on fossil fuels for energy and buildings and homes consume a lot of energy in the form of heating and cooling, among others. (UN) THE CARDS Card Type Positive or Negative Sustainable Action Fact or Quote Mechanic Made by: Lodoch4, Mister__Brain, Tatum44",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12050559052133051121/A15F524D943694D6155F41358DAD56707B74CB13/",
+      "preview": "https://images.steamusercontent.com/ugc/12050559052133051121/A15F524D943694D6155F41358DAD56707B74CB13/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-19T02:49:31+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822869675",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822869675",
+      "title": "Echoes from the South Atlantic",
+      "creator": "",
+      "description": "Echoes from the South Atlantic — the board game After the novel by Mark Strong · Studio Stronma The alternate 1986 Falklands war of the novel. Britain must keep its carriers afloat and take Stanley. Argentina must make every raid and every hill count, or win the fight in Westminster. Every card is a moment from the book. Players: 2 (Britain vs Argentina) or solo (you are Britain) · Time: 75–100 minutes · 10 turns in three acts · Nothing is bought: every ship, flight and battalion only wears down. PLAYTEST BUILD v2.3 — PROTOTYPE ART This is a work-in-progress playtest. Card and board art carry PROTOTYPE labels. Rules and balance are still changing. HOW TO PLAY • Subscribe, then in Tabletop Simulator open Games › Workshop › Echoes. • Red seat = Britain (south side). Blue seat = Argentina (north side). • Setup steps and a playtest-notes form are in the in-game Notebook (top menu › Notebook). The board is already set up for you. Here is the rulebook: https://drive.google.com/file/d/1WnqmUrLJN1kQMO6yldAAowItMmQx7grM/view?usp=sharing PLAYTEST NOTES — what I'd love to hear • Did the game finish in 75–100 minutes? Who won, on which turn? • Any rule you had to guess? Any card that felt too strong or useless? • The British raid defence and the Argentine hidden positions: tense, or fiddly? • Solo players: did the solo rules give you a real fight? Please leave a comment below, or contact me through emperormarkus.com. CREDITS Game design: Mark Strong · Studio Stronma My book on my website: https://emperormarkus.com/novel/ My book for sale on Amazon: [amazon.com/dp/B0HC48JWGM](https://www.amazon.com/dp/B0HC48JWGM). Based on the novel Echoes from the South Atlantic by Mark Strong. More: emperormarkus.com · stronma.itch.io",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10373347218165186827/504618D8BF245107DF0625ED07935F552BDAD0F8/",
+      "preview": "https://images.steamusercontent.com/ugc/10373347218165186827/504618D8BF245107DF0625ED07935F552BDAD0F8/",
+      "keywords": [
+        "My Little Scythe",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-19T11:26:14+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822890620",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822890620",
+      "title": "Snekagon",
+      "creator": "",
+      "description": "Rules in the notebook — PDF has a mistake when describing a game start, but I included it for illustrative purposes. The original game is made by Adam Španěl",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9372725558259008553/98B2124CFBA102489568DEF202B42EBD07FD903F/",
+      "preview": "https://images.steamusercontent.com/ugc/9372725558259008553/98B2124CFBA102489568DEF202B42EBD07FD903F/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-19T12:17:25+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822926263",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822926263",
+      "title": "Terrifying Table Trinkets - Ghosts",
+      "creator": "",
+      "description": "👻 Two sculpted & painted little ghosts friends to adorn your table. Free to use without attribution for non-profit use cases. Commerical use prohibited, contact me for licensing.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16944599909764295316/B29AF0B5FD76DED89EC4D368BE7EF0FDE22FA7E8/",
+      "preview": "https://images.steamusercontent.com/ugc/16944599909764295316/B29AF0B5FD76DED89EC4D368BE7EF0FDE22FA7E8/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-19T13:40:41+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822942176",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822942176",
+      "title": "Jornadas na Terra Média - PT-BR | Todas as Expansões",
+      "creator": "",
+      "description": "Mesa-base de Jornadas na Terra Média com cartas em português do Brasil e imagens em alta qualidade. CONTEÚDO INCLUÍDO Jogo base e todas as cinco expansões físicas: - Caminhos Obscuros - Propagação da Guerra - Vilões de Eriador - Habitantes da Escuridão - Flagelos dos Ermos Inclui cartas e componentes em português do Brasil, com imagens em alta qualidade. Inclui as fichas de personagem com frente e verso, cartas de herói e função, equipamentos, montarias, dano, medo, títulos, terreno e condições disponíveis no acervo PT-BR. As duas formas de Beorn e os cinco versos Fuja! estão incluídos. PREPARAÇÃO AUTOMÁTICA Use os botões Escolher Herói (verde) e Escolher Função (azul). A preparação entrega a ficha e a miniatura do herói e monta o baralho inicial com 5 cartas do herói, 6 básicas, 2 da função e 1 Fraqueza: 14 cartas embaralhadas. A carta nº 1 da função, identificada pelas estrelas no nome, já fica preparada. As cartas de evolução e figuras alternativas ficam na reserva do jogador. Ao trocar o herói ou a função, os componentes anteriores voltam à origem. Os tapetes de jogador ajudam a encaixar as cartas nos espaços. COMO COMEÇAR Inscreva-se neste item e carregue esta mesa ao criar a sala. Para começar outra campanha, carregue novamente a mesa-base. Salve o progresso da sua campanha com outro nome. CRÉDITOS Adaptação da mesa de Bobby Chicago e djskiskyskoski: https://steamcommunity.com/sharedfiles/filedetails/?id=2166579047 Créditos da base também a FondueTime, jsmcgo e Ziggy Stardust, conforme a descrição do item original. Construção e finalização do mod em PT-BR: Thiago (Fahantin). Artes e imagens das cartas fornecidas por Rodrigo de Castro (Teacher). Ideia e base inicial para a construção do mod em PT-BR: Marcelo Borba. Jogo original de Fantasy Flight Games. Adaptação não oficial.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9460742734618332798/7A33073D8F0125777D05C6624EC394AD9F336D7B/",
+      "preview": "https://images.steamusercontent.com/ugc/9460742734618332798/7A33073D8F0125777D05C6624EC394AD9F336D7B/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-19T14:13:21+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3822969956",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822969956",
+      "title": "Ark Nova - Complete Scripted + ARNO 3.0",
+      "creator": "",
+      "description": "Ark Nova - Complete Scripted with A.R.N.O. 3.0 as fully automated opponents. - 1-4 humans plus 1-3 ARNOs, difficulty levels 1-10 - ARNO plays his own turns: action cards, association, projects, breaks and final scoring - the real ARNO 3.0 action cards on the table (green for levels 1-3, red for 4+) - optional ARNO project module; Marine Worlds supported - ARNO panel with his cards, CP debt, tokens and last turn; \"Back to action choice\" for humans Three ways to play - sit in a colour and click Setup Game, then: 1. Against ARNO: choose \"ARNO opponent: Level 1-10\" for each free colour you want (up to 3 ARNOs), alone or together with other players. 2. With other players only: leave every ARNO row on Off. 3. The original solo mode: play alone and leave every ARNO row on Off. Then click Proceed. Credits: - Ark Nova: Mathias Wigge / Feuerland Spiele / Capstone Games - A.R.N.O. 3.0 solo mode and ARNO action cards: Andre K. (BGG: anke79) - Base mod \"Ark Nova - Complete Scripted\": octanion and zchryflwr - this is a modified version - ARNO decision logic: ported from the Ark Nova Solo Helper by Stefan Seifert (Apache-2.0)",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17306421097143965544/BEBACE6E4818A7B3332AE077C06AD0CD40B1709B/",
+      "preview": "https://images.steamusercontent.com/ugc/17306421097143965544/BEBACE6E4818A7B3332AE077C06AD0CD40B1709B/",
+      "keywords": [
+        "Origin Story",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-19T15:08:38+00:00",
+      "found_at": "2026-10-19T19:58:40.332292+00:00",
+      "is_new": true
+    },
+    {
       "id": "3821220748",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3821220748",
       "title": "3-player Riichi \"Sanma\" Mahjong Intro",
@@ -128,7 +302,7 @@
       ],
       "created_at": "2026-10-17T03:15:58+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821556128",
@@ -143,7 +317,7 @@
       ],
       "created_at": "2026-10-17T15:02:55+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821569655",
@@ -158,7 +332,7 @@
       ],
       "created_at": "2026-10-17T15:23:17+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821662365",
@@ -175,7 +349,7 @@
       ],
       "created_at": "2026-10-17T17:41:13+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821700472",
@@ -190,7 +364,7 @@
       ],
       "created_at": "2026-10-17T18:38:39+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821842128",
@@ -205,7 +379,7 @@
       ],
       "created_at": "2026-10-17T22:24:25+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821853908",
@@ -220,7 +394,7 @@
       ],
       "created_at": "2026-10-17T22:45:09+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821866478",
@@ -235,7 +409,7 @@
       ],
       "created_at": "2026-10-17T23:08:21+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821913340",
@@ -251,7 +425,7 @@
       ],
       "created_at": "2026-10-18T00:43:53+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821946618",
@@ -266,7 +440,7 @@
       ],
       "created_at": "2026-10-18T02:03:17+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821980009",
@@ -284,7 +458,7 @@
       ],
       "created_at": "2026-10-18T03:25:16+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822126342",
@@ -299,7 +473,7 @@
       ],
       "created_at": "2026-10-18T09:16:12+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822363187",
@@ -315,7 +489,7 @@
       ],
       "created_at": "2026-10-18T15:42:48+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822372585",
@@ -330,7 +504,7 @@
       ],
       "created_at": "2026-10-18T15:56:08+00:00",
       "found_at": "2026-10-18T17:24:53.380080+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821117151",
