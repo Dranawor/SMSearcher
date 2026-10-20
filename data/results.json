@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-19T19:58:48.429495+00:00",
+    "completed_at": "2026-10-20T18:29:17.519618+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-19T19:58:40.332292+00:00",
+    "started_at": "2026-10-20T18:29:09.452015+00:00",
     "window_days": 7,
-    "created_after": 1792191604,
-    "created_before": 1792439920,
+    "created_after": 1792267128,
+    "created_before": 1792520949,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-19T19:58:48.429495+00:00",
-    "new_items_added": 11,
+    "last_successful_scan": "2026-10-20T18:29:17.519618+00:00",
+    "new_items_added": 5,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,87 @@
   ],
   "items": [
     {
+      "id": "3823129685",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823129685",
+      "title": "Warcraft 3 Human/Orc Warchest",
+      "creator": "",
+      "description": "Various models from Warcraft 3 Definitive Edition, Warcraft Rumble and Heroes of the Storm arranged in tribute to two of the original factions and some creeps. Blizzard owns everything, and I am happy.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12304919903148244114/C21953C1B85CFA3B475211D2B204D7896C4F090F/",
+      "preview": "https://images.steamusercontent.com/ugc/12304919903148244114/C21953C1B85CFA3B475211D2B204D7896C4F090F/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-19T20:00:19+00:00",
+      "found_at": "2026-10-20T18:29:09.452015+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823225178",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823225178",
+      "title": "Atmosfear: Khufu The Mummy (Scripted DVD)",
+      "creator": "",
+      "description": "Welcome to Khufu's Casino! The house of style by the Nile, where the winners keep winning and the losers keep trying. This is the last major AtmosFear game to be released, exclusive to PAL regions (UK and Aus). The game, including the complex interactive DVD, has been faithfully ported to TTS for your enjoyment! NOTE: This is a ~2GB Mod, mostly due to the VideoPlayer asset bundle. Be warned. Credits: Salt: Original TTS Mod used as base Ian Horner, Graham Stark, Beej Dery, Ben Ulmer, and the members of the LoadingReadyRun Network: keeping my love of Atmosfear alive. Phillip Tanner & Brett Clements: Original creators of Nightmare/Atmosfear Series",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13948514237911731910/E1501EA45C143815608538BB5C2077C6F024B592/",
+      "preview": "https://images.steamusercontent.com/ugc/13948514237911731910/E1501EA45C143815608538BB5C2077C6F024B592/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-19T23:47:36+00:00",
+      "found_at": "2026-10-20T18:29:09.452015+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823247088",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823247088",
+      "title": "Erosion (2009)",
+      "creator": "",
+      "description": "This is my attempt at a port of the 2009 geomorphology card game Erosion, designed by John Douglass Ph.D. I had to remake the rock cards as I could not find quality scans of them and I do not own the game physically. I may attempt to import the expansion challenges another time.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12655939665520223896/EFE23248CA978864ACDA47334CB25CC993F3B026/",
+      "preview": "https://images.steamusercontent.com/ugc/12655939665520223896/EFE23248CA978864ACDA47334CB25CC993F3B026/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-20T00:56:45+00:00",
+      "found_at": "2026-10-20T18:29:09.452015+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823435223",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823435223",
+      "title": "젝스님트! 황소남작/6 nimmt! Baron Oxx Full Script(Kr/En)",
+      "creator": "",
+      "description": "한국어 젝스님트: 황소남작 | 자동화 · 한국어/영어 지원 익숙한 젝스님트에 색깔이 더해졌습니다! 카드를 동시에 선택하고, 숫자가 낮은 순서대로 같은 색 황소가 있는 줄에 배치하세요. 어느 줄에 놓느냐에 따라 벌점을 피할 수도, 한꺼번에 떠안을 수도 있습니다. • 2~10인 플레이 및 컴퓨터 플레이어 지원 • 카드 배분·공개·배치·점수 계산 자동화 • 기본 규칙 / 색깔만! / 승점 방식 지원 • 플레이어별 한국어·영어 선택 및 한·영 룰북 제공 • 카드 배치 속도 조절 • 게임 초기화 및 누적 점수를 유지한 다음 게임 진행 플레이 방법 자리에 앉아 언어를 선택한 뒤, 방장이 모드와 컴퓨터 참가 여부를 설정하고 게임을 시작하세요. 손패를 클릭해 낼 카드를 선택하고, 배치할 줄을 골라야 할 때는 원하는 줄을 클릭하면 됩니다. 기존 젝스님트 풀 스크립트 제작자 Ramun Flame님의 작업을 기반으로 황소남작 규칙에 맞게 수정했습니다. 오류가 발생하면 개인 메시지나 댓글로 알려주세요. 확인하겠습니다. English 6 nimmt! Baron Oxx | Automated · Korean / English A colorful twist on 6 nimmt! Choose your cards simultaneously, then resolve them in ascending numerical order. Match the bull colors on your card with the last card in a row—and choose carefully to avoid picking up penalty points! • Supports 2–10 players, including computer opponents • Automated dealing, card reveals, placement, and scoring • Three modes: Basic Rules / Colors Only! / Points Variant • Individual Korean or English language selection • Korean and English rulebooks included • Adjustable card placement speed • Reset the game or continue with cumulative scores How to Play Take a seat and select your language. The host can configure the game mode and computer opponents before starting. Click a card in your hand to select it. When prompted to choose a row, click the row you want. Adapted for Baron Oxx from the original fully scripted 6 nimmt! mod by Ramun Flame. If you encounter any issues, please send me a private message or leave a comment, and I’ll look into it.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11533079410791566725/7DD4B8648E8A334E21EB63B1CD3A6CDC247BDC8B/",
+      "preview": "https://images.steamusercontent.com/ugc/11533079410791566725/7DD4B8648E8A334E21EB63B1CD3A6CDC247BDC8B/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-20T12:35:40+00:00",
+      "found_at": "2026-10-20T18:29:09.452015+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823480228",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823480228",
+      "title": "Terravista [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/469668/terravista][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Terravista is a fast and accessible roll-and-write game for 1–6 players, where every line you draw shapes your path to victory. Designed by Eilif Svensson (Trails of Tucana) and Åsmund Svensson, it combines simple rules with rewarding route-building decisions. Each player receives an asymmetric map and sets out to build roads connecting olives, oranges, and strawberries to their markets, while also linking matching market pairs for additional progress. With virtually no setup time, the game begins in seconds but offers meaningful choices from the very first roll. Each round, two dice determine which terrain types can be connected, and all players simultaneously draw a road between adjacent spaces on their own map. Completing connections advances players along shared tracks, unlocking bonus spaces that can trigger satisfying chain reactions of additional roads. The asymmetric maps and the uneven distribution of terrain combinations on the dice create a subtle puzzle: some connections are easier to complete than others, rewarding players who plan ahead and adapt their routes as the game unfolds. The first player to complete three connections on all four tracks wins the game. Terravista includes 12 unique maps across 6 double-sided boards, special dice, dry-erase markers, and multiple game modes, including solo play, point-based scoring, and a tournament variant. [h3]Key Features[/h3] • Player Boards Randomizer • Snap Points [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Eilif Svensson, Åsmund Svensson [b]Artist:[/b] Sylvain Leroy [b]Publisher:[/b] Chilifox Games [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12677709944133976475/7AD7A773096398F5F26ECB091E2A3E5318616EC9/",
+      "preview": "https://images.steamusercontent.com/ugc/12677709944133976475/7AD7A773096398F5F26ECB091E2A3E5318616EC9/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-20T14:20:35+00:00",
+      "found_at": "2026-10-20T18:29:09.452015+00:00",
+      "is_new": true
+    },
+    {
       "id": "3822331046",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822331046",
       "title": "Fate/Domination FR",
@@ -125,7 +206,7 @@
       ],
       "created_at": "2026-10-18T14:57:25+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822517606",
@@ -140,7 +221,7 @@
       ],
       "created_at": "2026-10-18T19:20:26+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822601672",
@@ -156,7 +237,7 @@
       ],
       "created_at": "2026-10-18T21:33:25+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822635294",
@@ -173,7 +254,7 @@
       ],
       "created_at": "2026-10-18T22:46:14+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822712616",
@@ -189,7 +270,7 @@
       ],
       "created_at": "2026-10-19T02:16:28+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822723737",
@@ -205,7 +286,7 @@
       ],
       "created_at": "2026-10-19T02:49:31+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822869675",
@@ -221,7 +302,7 @@
       ],
       "created_at": "2026-10-19T11:26:14+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822890620",
@@ -236,7 +317,7 @@
       ],
       "created_at": "2026-10-19T12:17:25+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822926263",
@@ -253,7 +334,7 @@
       ],
       "created_at": "2026-10-19T13:40:41+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822942176",
@@ -268,7 +349,7 @@
       ],
       "created_at": "2026-10-19T14:13:21+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822969956",
@@ -284,7 +365,7 @@
       ],
       "created_at": "2026-10-19T15:08:38+00:00",
       "found_at": "2026-10-19T19:58:40.332292+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3821220748",
