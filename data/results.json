@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-20T18:29:17.519618+00:00",
+    "completed_at": "2026-10-21T18:41:19.920819+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-20T18:29:09.452015+00:00",
+    "started_at": "2026-10-21T18:41:11.864405+00:00",
     "window_days": 7,
-    "created_after": 1792267128,
-    "created_before": 1792520949,
+    "created_after": 1792348157,
+    "created_before": 1792608071,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-20T18:29:17.519618+00:00",
-    "new_items_added": 5,
+    "last_successful_scan": "2026-10-21T18:41:19.920819+00:00",
+    "new_items_added": 7,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,114 @@
   ],
   "items": [
     {
+      "id": "3822623414",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822623414",
+      "title": "MTG 6 player Cactuar Ver",
+      "creator": "",
+      "description": "MTG 6 player table, Cactuar Ver: our playgroup's version of \"MTG 6 player table - scripted\" by Oops I Baked a Pie (all credit for the table and its scripts goes to them), with a deck browser added. Click Cactuar decks to search our Commander collection by tier, bracket, category or owner, and Load into my seat puts the deck in your library zone, the commander in your Commander Zone and the tokens beside it.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13188015508425246725/C9109D0D2822AA25527F38336AEB918852FC1426/",
+      "preview": "https://images.steamusercontent.com/ugc/13188015508425246725/C9109D0D2822AA25527F38336AEB918852FC1426/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-18T22:19:36+00:00",
+      "found_at": "2026-10-21T18:41:11.864405+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823667762",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823667762",
+      "title": "[Lazy] TARKOV Items List",
+      "creator": "",
+      "description": "Hello. People usually call me “Lazy”—it’s both my curse and my excuse. I’ve been a Game Master for quite some time, but these days I mostly create various types of content for friends or on commission. And I share this content in the form of a friendly message like this one. If you search my tag in the workshop or check out my profile, you’ll find a wide variety of equipment icons from different worlds—ranging from sci-fi and fantasy to zombie survival games or even more niche genres. Icons, backpacks, and all sorts of useful little items you can use. I don’t ask for anything in return for using my content—I’m sharing it completely for free. However, if you use it, say, in a video, or upload your gameplay to YouTube or something similar, please send me the videos via DM or in the comments. I’d be interested to see from the outside how my creations are being used to improve future projects. Also, if you have any suggestions, requests, or—to put it bluntly—orders to port certain icons from games or anything else, feel free to reach out to me, and I’ll see what I can do. Also, if certain items aren't loading, they may be stored on different servers. While most of my content is stored on Steam Cloud servers, unfortunately, not all of it is. If something isn't loading, try reloading the desktop a few times. Keep doing this until everything appears in your library in the tabletop’s cache. If that doesn’t work completely, take a look. If the item contains a link to VK, your requests might be blocked due to a VPN, workarounds, or because you’re trying to load too much from there at once. If it’s just individual resources, I can’t really offer any advice on that.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11611086461299988613/A4D58275677A791B45808A80A58A7391DAD45A5A/",
+      "preview": "https://images.steamusercontent.com/ugc/11611086461299988613/A4D58275677A791B45808A80A58A7391DAD45A5A/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-20T20:13:59+00:00",
+      "found_at": "2026-10-21T18:41:11.864405+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823708980",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823708980",
+      "title": "[Lazy] Shroud of the Avatar Spell Icons",
+      "creator": "",
+      "description": "Hello. People usually call me “Lazy”—it’s both my curse and my excuse. I’ve been a Game Master for quite some time, but these days I mostly create various types of content for friends or on commission. And I share this content in the form of a friendly message like this one. If you search my tag in the workshop or check out my profile, you’ll find a wide variety of equipment icons from different worlds—ranging from sci-fi and fantasy to zombie survival games or even more niche genres. Icons, backpacks, and all sorts of useful little items you can use. I don’t ask for anything in return for using my content—I’m sharing it completely for free. However, if you use it, say, in a video, or upload your gameplay to YouTube or something similar, please send me the videos via DM or in the comments. I’d be interested to see from the outside how my creations are being used to improve future projects. Also, if you have any suggestions, requests, or—to put it bluntly—orders to port certain icons from games or anything else, feel free to reach out to me, and I’ll see what I can do. Also, if certain items aren't loading, they may be stored on different servers. While most of my content is stored on Steam Cloud servers, unfortunately, not all of it is. If something isn't loading, try reloading the desktop a few times. Keep doing this until everything appears in your library in the tabletop’s cache. If that doesn’t work completely, take a look. If the item contains a link to VK, your requests might be blocked due to a VPN, workarounds, or because you’re trying to load too much from there at once. If it’s just individual resources, I can’t really offer any advice on that.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14460935214970961654/EBA207D90535F9A55DE3C3EFF76DDC23A6FAAF23/",
+      "preview": "https://images.steamusercontent.com/ugc/14460935214970961654/EBA207D90535F9A55DE3C3EFF76DDC23A6FAAF23/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-20T21:44:49+00:00",
+      "found_at": "2026-10-21T18:41:11.864405+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823775103",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823775103",
+      "title": "Tidepool",
+      "creator": "",
+      "description": "Tidepool is a card-drafting and placement game for 2–4 players (about 20 minutes). Take a creature from the shared Shore and place it in your 3×3 Tidepool. Every creature scores based on its neighbours: Starfish hunt Mussels, Clownfish shelter in Anemones, Octopuses want space, and Sea Urchins love corners. Watch out for the Rising Tide! The rulebook is on the table. Highest score after 9 turns wins.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16132248861885260610/6AD1522DA4C7CB6E1D36BB3632A51386C6827BB4/",
+      "preview": "https://images.steamusercontent.com/ugc/16132248861885260610/6AD1522DA4C7CB6E1D36BB3632A51386C6827BB4/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-10-21T00:25:11+00:00",
+      "found_at": "2026-10-21T18:41:11.864405+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823873792",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823873792",
+      "title": "Love Letter Premium | Tradução PT-BR",
+      "creator": "",
+      "description": "Love Letter Premium — Tradução PT-BR Versão de Love Letter Premium completamente traduzida para português brasileiro, desenvolvida para facilitar as partidas entre jogadores brasileiros. Conteúdo: - 32 cartas com nomes e efeitos traduzidos. - Cartas em alta resolução. - Duas tabelas de referência traduzidas. - Regras completas em português. - Suporte para 2 a 8 jogadores. - Mecânicas e funcionamento originais preservados. Sobre esta versão: Esta é uma tradução comunitária não oficial, sem fins comerciais, baseada no mod Love Letter Premium criado por Stapper. Créditos: Mod original: Stapper - https://steamcommunity.com/sharedfiles/filedetails/?id=821615250 Love Letter e suas respectivas propriedades intelectuais pertencem aos seus titulares. Tradução, adaptação dos textos e organização da versão PT-BR: equipe de tradução da comunidade. Aviso: Esta versão não possui vínculo oficial com os criadores ou distribuidores de Love Letter.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10183661979754046682/9B9AA373714606AE7AEF1C119468EE8904882669/",
+      "preview": "https://images.steamusercontent.com/ugc/10183661979754046682/9B9AA373714606AE7AEF1C119468EE8904882669/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-21T06:02:15+00:00",
+      "found_at": "2026-10-21T18:41:11.864405+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3823906694",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823906694",
+      "title": "Terrifying Table Trinkets - Pumpkins",
+      "creator": "",
+      "description": "🎃 Two sculpted & painted pumpkins to haunt your table. Free to use without attribution for non-profit use cases. Commerical use prohibited, contact me for licensing.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12132374409685262656/3E4B9F266B87B8F9CC6204CF87C479BE333FE3B2/",
+      "preview": "https://images.steamusercontent.com/ugc/12132374409685262656/3E4B9F266B87B8F9CC6204CF87C479BE333FE3B2/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-21T08:20:11+00:00",
+      "found_at": "2026-10-21T18:41:11.864405+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3824135545",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3824135545",
+      "title": "Magical Athlete: Sonic Edition",
+      "creator": "",
+      "description": "Draft your four characters, race four times, and take home the gold! This is Magical Athlete: Sonic Edition! It’s the same great game published by CMYK Games, but with your favorite Sonic characters instead! Along with a few extra card designs you can add to the main deck thought of by myself or taken from Peebr’s Alolan Athlete! I do not have an artistic bone in my body. So you can tell most of the assets are taken from other Sonic media. However, there has been no AI (knowingly) used in the creation of this mod. I also do not know how to script so there is no scripting either. Which means you will need to set the cards and find your racer manually. I am aware there is a new standalone expansion, Magical Athlete: Second Wind, coming out sometime soon. Once that comes I will update this with the new content. I plan to add more racers and boards sometime after Second Wind comes out. And I welcome constructive criticism, especially on the custom racers’ powers, but please remember that even the normal game is only supposed to be wacky fun and not taken seriously. Some racers may be more powerful than others. You are welcome to remove the ones your table doesn’t enjoy. Content: 1 Magical Athlete Instruction Book 1 Double Sided Racing Board 6 Dice 7 Chaos Emeralds ∞ Red Rings ∞ Rings 60+ Racer Cards 60+ Racer Tokens Credits: Designer: Takashi Ishida and Richard Garfield Publisher: CMYK Games Art Assets: Sega, Archie, & IDW Magical Athlete TTS Assets: Malixx Some Custom Card Ideas: Peebr & Co. Disclaimer: As said before, I do not own, or claim to own any part of this mod and all rights remain with the original owners. Nor do I claim to be affiliated with any parties involved. This is just meant to be a fun time for Sonic fans. Please support the official releases of Sega and/or CMYK made games.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17135443582427668539/48968AD3DE8901AF1C910DCCD39076BE9446178E/",
+      "preview": "https://images.steamusercontent.com/ugc/17135443582427668539/48968AD3DE8901AF1C910DCCD39076BE9446178E/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-21T18:03:56+00:00",
+      "found_at": "2026-10-21T18:41:11.864405+00:00",
+      "is_new": true
+    },
+    {
       "id": "3823129685",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3823129685",
       "title": "Warcraft 3 Human/Orc Warchest",
@@ -127,7 +235,7 @@
       ],
       "created_at": "2026-10-19T20:00:19+00:00",
       "found_at": "2026-10-20T18:29:09.452015+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823225178",
@@ -143,7 +251,7 @@
       ],
       "created_at": "2026-10-19T23:47:36+00:00",
       "found_at": "2026-10-20T18:29:09.452015+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823247088",
@@ -158,7 +266,7 @@
       ],
       "created_at": "2026-10-20T00:56:45+00:00",
       "found_at": "2026-10-20T18:29:09.452015+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823435223",
@@ -173,7 +281,7 @@
       ],
       "created_at": "2026-10-20T12:35:40+00:00",
       "found_at": "2026-10-20T18:29:09.452015+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823480228",
@@ -191,7 +299,7 @@
       ],
       "created_at": "2026-10-20T14:20:35+00:00",
       "found_at": "2026-10-20T18:29:09.452015+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822331046",
