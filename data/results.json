@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-21T18:41:19.920819+00:00",
+    "completed_at": "2026-10-22T18:34:24.453819+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-21T18:41:11.864405+00:00",
+    "started_at": "2026-10-22T18:34:17.807908+00:00",
     "window_days": 7,
-    "created_after": 1792348157,
-    "created_before": 1792608071,
+    "created_after": 1792435279,
+    "created_before": 1792694057,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-21T18:41:19.920819+00:00",
-    "new_items_added": 7,
+    "last_successful_scan": "2026-10-22T18:34:24.453819+00:00",
+    "new_items_added": 4,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,69 @@
   ],
   "items": [
     {
+      "id": "3824156022",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3824156022",
+      "title": "PapersPlease",
+      "creator": "",
+      "description": "An experimental tabletop adaptation of the original game. GSND5110 G2",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17205965591478721672/4E91B4C782011D41393F6FC10CF69E6BF5C9EF41/",
+      "preview": "https://images.steamusercontent.com/ugc/17205965591478721672/4E91B4C782011D41393F6FC10CF69E6BF5C9EF41/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-21T18:46:08+00:00",
+      "found_at": "2026-10-22T18:34:17.807908+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3824231462",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3824231462",
+      "title": "Restless Spirits",
+      "creator": "",
+      "description": "Restless Spirits by Sneaky Rascal Games (No Scripting) Expansions will be added later. The description below was pulled from here: https://boardgamegeek.com/boardgame/401028/restless-spirits Restless Spirits is an easy-to-learn tactical card game where you play as a Spirit Guide, and you're helping Lost Spirits find their way home. Combining elements of set collection, tactical card drafting, ability combos, and push your luck, it's a race against your opponent(s) to free the spirits. There are 30 unique Light and Dark Spirits to encounter, with a different set of 3 Totem requirements listed at the bottom of each card. Every turn, you must decide where best to use your 2 Action Points: attracting Spirits to your board, buying Totem cards from a marketplace, and playing them to tick off a Spirit's requirements one by one. You'll also be using powerful Spirit abilities to gain an advantage over your opponent - Light Spirit abilities will help you win even faster, whilst Dark Spirit abilities will slow down your opponents instead! But Spirit abilities can only be used once-per-game, so tactical timing is important to get the most out of them! If you can meet all 3 of a Spirit's Totem requirements, it will be released into the Spirit Realm, becoming one of the cards you need to win the game! The first player to released the required number of Spirits (changes with player count), wins! —description from the designer",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9724856854454304100/E3CEC67CC104A1A294B730F88F803EDB9CA97301/",
+      "preview": "https://images.steamusercontent.com/ugc/9724856854454304100/E3CEC67CC104A1A294B730F88F803EDB9CA97301/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-21T21:23:46+00:00",
+      "found_at": "2026-10-22T18:34:17.807908+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3824499499",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3824499499",
+      "title": "Matador [Danish Monopoly] from Joker 1970",
+      "creator": "",
+      "description": "Danish Matador (70s Joker Edition) An unofficial digitalization of the Danish *Matador* board game, designed by BRIO and released by Joker. This edition is based on the classic 1970s physical board game. The original physical game includes the classic game board, cards, houses, hotels, playing pieces, and banknotes. The game is complete and in used condition, with some wear to the surfaces. This edition features Coca-Cola and Faxe Kondi properties instead of the Valash property. [Popular Danish orange soda] The physical game was produced by BRIO and released by Joker, which acquired the rights to the original Danish Matador game from 1936. Digitalization details - Game board, cards, and money: Direct images taken from the physical board game. - 3D car models: Taken from another unofficial digitalization of Matador created by Alga: https://steamcommunity.com/sharedfiles/filedetails/?id=3152984116 - Gameplay functionality: Nothing is scripted in this version. It is a digital representation of the physical game rather than a fully programmed game.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15330048023896791592/D3011803AD27110EE06DC2334B5279FE47A0B3AE/",
+      "preview": "https://images.steamusercontent.com/ugc/15330048023896791592/D3011803AD27110EE06DC2334B5279FE47A0B3AE/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-22T11:37:55+00:00",
+      "found_at": "2026-10-22T18:34:17.807908+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3824515147",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3824515147",
+      "title": "France '40 2nd Edition",
+      "creator": "",
+      "description": "“...even if the operation were to have only a 10% chance of success, I would stick with it. For only this can lead to the defeat of the enemy.” —General Halder, Chief of General Staff France '40 contains two separate games: Sickle Cut and Dynamo. Both games use the same rules and share many game pieces, but each has a separate full size map. Sickle Cut: Guderian's Drive to the Channel This game covers the crucial week in May 1940 when the German army broke the French line on the Meuse and raced to the sea at Abbeville. The game starts on May 13th, the third day of Case Yellow. Six panzer divisions have passed through the Ardennes and are now at the Meuse River. The French and British have raced through Belgium to reach the Dyle Line and cover the Gembloux Gap. The stage is set. Can the Germans cross the Meuse in front of strong opposition? And, if they can, will they be able to break out from the bridgeheads and advance across the map while threatened by Allied reinforcements pouring in from the north and south? Dynamo: Retreat to Victory This game covers the British withdrawal to Dunkirk and the evacuation. The game starts on May 24th, the day the British decide that the B.E.F. is in real danger of being cut-off from their supply base and the best option is to head for the coast at Dunkirk. However, many of the German panzer divisions are closer to Dunkirk than the British. Can the British reach the coast before the Germans? Can they hold the Dunkirk perimeter for eight days while they evacuate? The rules for both games highlight armor, air support, and morale. Special rules include: Allied Heavy Tanks, DeGaulle, Rommel, Hitler's Halt Order, and French Command Paralysis. 2ND EDITION France ’40 2nd Edition is a major upgrade to the original game. The rules for Extended Movement, Combat, Advance After Combat, Breakthrough Combat, and Determined Defense have been updated so they are more in line with the recent games in the 19XX series (such as Stalingrad ’42 and Salerno ’43). A new scenario has been included designed by Mark Merritt that combines both maps. In addition, many new units have been added and some old units modified to provide a more accurate order of battle for both Sickle Cut and Dynamo. A few minor cities, some roads, and a fortified hex were added to the Dynamo map. And most importantly, both scenarios have been sent through the playtest cycle again to make sure they are better balanced than they were in the first edition. This game has long been one of my favorites due to the exciting situation and short playing time. I’m really pleased with this 2nd Edition and excited about the new features it has. - Mark Simonitch",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10091464721276152760/C05503B161E537AD324CB7CA7906FF90C1A0853B/",
+      "preview": "https://images.steamusercontent.com/ugc/10091464721276152760/C05503B161E537AD324CB7CA7906FF90C1A0853B/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-22T12:17:16+00:00",
+      "found_at": "2026-10-22T18:34:17.807908+00:00",
+      "is_new": true
+    },
+    {
       "id": "3822623414",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822623414",
       "title": "MTG 6 player Cactuar Ver",
@@ -125,7 +188,7 @@
       ],
       "created_at": "2026-10-18T22:19:36+00:00",
       "found_at": "2026-10-21T18:41:11.864405+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823667762",
@@ -140,7 +203,7 @@
       ],
       "created_at": "2026-10-20T20:13:59+00:00",
       "found_at": "2026-10-21T18:41:11.864405+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823708980",
@@ -155,7 +218,7 @@
       ],
       "created_at": "2026-10-20T21:44:49+00:00",
       "found_at": "2026-10-21T18:41:11.864405+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823775103",
@@ -170,7 +233,7 @@
       ],
       "created_at": "2026-10-21T00:25:11+00:00",
       "found_at": "2026-10-21T18:41:11.864405+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823873792",
@@ -185,7 +248,7 @@
       ],
       "created_at": "2026-10-21T06:02:15+00:00",
       "found_at": "2026-10-21T18:41:11.864405+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823906694",
@@ -201,7 +264,7 @@
       ],
       "created_at": "2026-10-21T08:20:11+00:00",
       "found_at": "2026-10-21T18:41:11.864405+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3824135545",
@@ -218,7 +281,7 @@
       ],
       "created_at": "2026-10-21T18:03:56+00:00",
       "found_at": "2026-10-21T18:41:11.864405+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3823129685",
