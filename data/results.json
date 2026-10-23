@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-22T18:34:24.453819+00:00",
+    "completed_at": "2026-10-23T18:24:12.862903+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-22T18:34:17.807908+00:00",
+    "started_at": "2026-10-23T18:24:07.556064+00:00",
     "window_days": 7,
-    "created_after": 1792435279,
-    "created_before": 1792694057,
+    "created_after": 1792521264,
+    "created_before": 1792779847,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-22T18:34:24.453819+00:00",
-    "new_items_added": 4,
+    "last_successful_scan": "2026-10-23T18:24:12.862903+00:00",
+    "new_items_added": 3,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,57 @@
   ],
   "items": [
     {
+      "id": "3825035407",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825035407",
+      "title": "Leagues of Votann 11th Edition Yield Points & Army Rule Tracker",
+      "creator": "",
+      "description": "A Votann yield point tracker that auto switches your army rule on the left based on the points. Originally made just for myself but felt others may want to use it. Includes a mercenary oathband mode by right clicking the bottom left button; disabling the normal point based transitions between the army rules and letting you switch freely by left clicking the same button for 3YP. I had difficulty getting the army rule to work well so as of the initial release there is a known bug where picking up the tracker by the Votann Logo causes it to exponentially rise into the air. This is due to the army switching being 2 custom tiles with one being hidden as the rule changes, these tiles are created and joined when the object is. I can't stress how important this mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3504023971 was for this, I removed unnecessary buttons in my view and added some for symmetry; Alongside the army rule switching and mercenary oathband mode. I have no doubt they could have implemented these changes and am more than happy removing my mod if they wish. Albeit hopefully with a better solution for the army rule switching.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11151616644973830870/97355E7E96A6A7FF20A76E0EE298C11922CF079C/",
+      "preview": "https://images.steamusercontent.com/ugc/11151616644973830870/97355E7E96A6A7FF20A76E0EE298C11922CF079C/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe",
+        "Origin Story",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-23T04:04:33+00:00",
+      "found_at": "2026-10-23T18:24:07.556064+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3825202689",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825202689",
+      "title": "Game of Thrones - Music Box chip",
+      "creator": "",
+      "description": "Chip for Music Box containing music from Game of Thrones. The Music Box Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3114355269 or The Music Box Mod - Fixes & Tweaks: https://steamcommunity.com/sharedfiles/filedetails/?id=3292567962 Music on chip: 1. Main Title 2. Goodbye Brother 3. Season 1 Finale 4. Warrior Of Light 5. Winterfell 6. Mother Of Dragons 7. A Lanister Always Pays His Debts 8. Dracarys 9. Mhysa 10. Two Swords 11. You Are No Son Of Mine 12. The Children 13. Blood Of The Dragon 14. Dance Of Dragons 15. Atonement 16. Son Of The Harpy 17. Light Of The Seven 18. Khaleesi 19. Winter Has Come 20. Hear Me Roar 21. The winds Of Winter If you found errors or have any suggestions feel free to write them down in the comments",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16794260792396674275/A573E0FB9C4B1C26398A3629FE01F02ED6CB3924/",
+      "preview": "https://images.steamusercontent.com/ugc/16794260792396674275/A573E0FB9C4B1C26398A3629FE01F02ED6CB3924/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-23T11:31:21+00:00",
+      "found_at": "2026-10-23T18:24:07.556064+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3825337601",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825337601",
+      "title": "Greylune [GC2 Mix]",
+      "creator": "",
+      "description": "Based on scans from Yeahigotnothing and work from Malixx. • More scripts. • Tooltips. • Fixed snap points. • Fixed missing or incorrect components. • Fixed setup. [i]Description from [url=https://boardgamegeek.com/boardgame/459401/greylune]Board Game Geek[/url][/i] --- Greylune is a strategic game combining worker placement and adventure, set in a rich and captivating medieval fantasy world. Skillfully manage your villagers by placing them between the cards that form the city of Greylune, then remove them at the right moment to gather resources, recruit companions, acquire items, and visit important locations. But the adventure doesn’t stop there: embark on quests, experience unexpected encounters, and accomplish heroic feats that you can proudly recount in the lively taverns of the city! With its unique mechanics, intense interactions, and constant dilemmas, Greylune delivers a highly tactical experience where every decision matters. --- Please support the designer, [url=https://boardgamegeek.com/boardgamedesigner/5629/william-attia]William Attia[/url], and the publisher, [url=https://sorryweare.fr/en/]Sorry We Are French[/url], by purchasing Greylune or another of their games.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17228646257650536879/571BAA78B40678B01ADCCB43B594C1EA29F293FA/",
+      "preview": "https://images.steamusercontent.com/ugc/17228646257650536879/571BAA78B40678B01ADCCB43B594C1EA29F293FA/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-23T15:14:15+00:00",
+      "found_at": "2026-10-23T18:24:07.556064+00:00",
+      "is_new": true
+    },
+    {
       "id": "3824156022",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3824156022",
       "title": "PapersPlease",
@@ -125,7 +176,7 @@
       ],
       "created_at": "2026-10-21T18:46:08+00:00",
       "found_at": "2026-10-22T18:34:17.807908+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3824231462",
@@ -140,7 +191,7 @@
       ],
       "created_at": "2026-10-21T21:23:46+00:00",
       "found_at": "2026-10-22T18:34:17.807908+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3824499499",
@@ -155,7 +206,7 @@
       ],
       "created_at": "2026-10-22T11:37:55+00:00",
       "found_at": "2026-10-22T18:34:17.807908+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3824515147",
@@ -173,7 +224,7 @@
       ],
       "created_at": "2026-10-22T12:17:16+00:00",
       "found_at": "2026-10-22T18:34:17.807908+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3822623414",
