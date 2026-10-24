@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-23T18:24:12.862903+00:00",
+    "completed_at": "2026-10-24T17:28:53.697295+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-23T18:24:07.556064+00:00",
+    "started_at": "2026-10-24T17:28:47.406849+00:00",
     "window_days": 7,
-    "created_after": 1792521264,
-    "created_before": 1792779847,
+    "created_after": 1792607052,
+    "created_before": 1792862927,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-23T18:24:12.862903+00:00",
-    "new_items_added": 3,
+    "last_successful_scan": "2026-10-24T17:28:53.697295+00:00",
+    "new_items_added": 10,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,161 @@
   ],
   "items": [
     {
+      "id": "3825527991",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825527991",
+      "title": "Arcane Table | Automated Magic",
+      "creator": "",
+      "description": "Arcane Table is an early-release automated Magic table for 2–6 human players, with an Arena-inspired private control panel. Formats: casual 60-card and Commander. Modes: duels, free-for-all, 2v2, 3v3 and 2v2v2. Team modes use individual turns/life, alternating opposing seats, shared teammate hands, and team victory. This is a custom team variant, not Two-Headed Giant. The host runs a local XMage rules helper. Guests only need Tabletop Simulator. The engine handles shuffling, opening hands, turns, priority, the stack, triggered effects, mana costs, targets, combat, commander rules and loss conditions for its implemented cards. HOST SETUP 1. Install Node.js 22.4 or newer (Windows x64). 2. Open Notebook > Host Helper. Copy its entire contents into a new file called ArcaneTableHost.mjs, then run it with Node. 3. Wait for ArcaneTable ready. Create a TTS multiplayer lobby and load this table. 4. Players select White, Red, Orange, Yellow, Green or Blue, paste decklists and import. For Commander, designate commander names. 5. Host selects the format/team mode and starts. Use each private panel to play and answer prompts. Keep the helper open for the entire match. It downloads a pinned XMage Nexus engine, verifies its checksums, and installs the included team extension. No accounts or port forwarding are needed for the local helper. Friends join through Steam/TTS. EARLY RELEASE LIMITS Card coverage is XMage's implemented library; unsupported cards are reported during import. Unusual mechanics may need additional interface work. Saving a TTS table does not restore a running rules-engine game after the helper shuts down. Host helper currently supports Windows x64. Independent fan project; not affiliated with Wizards of the Coast. Magic: The Gathering is a Wizards trademark. XMage and XMage Nexus are MIT licensed. Card images are served by Scryfall. Source/licenses and instructions are included in the notebook and host helper.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18387972257560997020/4A536B63ECC5884891967D5AE1E2E0B8A0CA2CA0/",
+      "preview": "https://images.steamusercontent.com/ugc/18387972257560997020/4A536B63ECC5884891967D5AE1E2E0B8A0CA2CA0/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Duel of Meloch",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-23T19:42:15+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3825653385",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825653385",
+      "title": "Modern Tactics #1 - Afghanistan",
+      "creator": "",
+      "description": "Dust kicks off an unpaved road, echoes bounce inside walled compounds, and one radio call can change the plan. Modern Tactics: Afghanistan drops you into platoon-level firefights from 2006–2009, where coalition patrols trade impulses with a nimble insurgency across villages, vineyards, and wadis. Every activation is a hard choice—move, fire, breach, rally, call support—while civilians, contacts, and rules of engagement keep the battlefield tense. [b]What it feels like[/b] [b]Snap decisions, constant pressure:[/b] Alternating impulse play captures the push-and-pull of real operations. [b]Asymmetric warfare done right:[/b] Coalition (Canadian, U.S., ANA, SOF) faces Insurgent forces with Fanatics, Recruits, Bombers, Snipers, IEDs, and hidden contacts. [b]Terrain that tells a story:[/b] Walled and multi-hex compounds, high and low walls, irrigation ditches, grape fields, rough ground, and wadis shape LOS, cover, and movement. [b]Civilians and ROE matter:[/b] Unknown contacts, civilian presence, and collateral risk influence your tempo as much as raw firepower. [b]Combined arms, cleanly integrated:[/b] LAV III, Bison, RG-31, Leopard 2, and air support (including Apache gunship) join infantry, engineers, mortars, and AT weapons. [b]Highlights[/b] [b]Twenty scenarios [/b]spanning quick raids, relief missions, and set-piece assaults—e.g., Barton’s Holdouts, Open Market, Operation Medusa, High Value Target, Snake Pit, Outside the Wire, Strongpoint, and more. [b]Play the compounds right:[/b] Edge-hex firing arcs, interior LOS, and wall bonuses reward careful positioning and breaching. [b]Air & artillery windows:[/b] Timed off-board fire missions and gunship arrivals open corridors—or close them. [b]Risk vs. momentum:[/b] Smoke, interdiction, suppression, and morale create openings…but overreach gets punished fast. [b]Game info[/b] [b]Scale:[/b] ~50 m per hex; each turn ≈ a few minutes [b]System:[/b] Hex-and-counter, alternating impulses; leadership, morale, suppression, breaching, vehicles, OBA/air [b]Players:[/b] 1–2 (team play possible) [b]Playtime:[/b] 60–120 minutes per scenario (varies by scenario size) [b]Designer:[/b] Shayne Logan • [b]Publisher:[/b] VUCA Simulations Mod created with permission from VUCA Simulations",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11700671155062142369/7224AB32476A8E67FDAAECCDC706E9487E8BB3F2/",
+      "preview": "https://images.steamusercontent.com/ugc/11700671155062142369/7224AB32476A8E67FDAAECCDC706E9487E8BB3F2/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-23T22:42:10+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3825689391",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825689391",
+      "title": "Timmy's Adventure",
+      "creator": "",
+      "description": "A game my friend made for a school project",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14270647364918161691/902BB79938C9EF473D01CEAF2423C560B7F1C082/",
+      "preview": "https://images.steamusercontent.com/ugc/14270647364918161691/902BB79938C9EF473D01CEAF2423C560B7F1C082/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-23T23:36:35+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3825719001",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825719001",
+      "title": "Oogie Boogie (The Nightmare Before Christmas) - Video Game Villainous",
+      "creator": "",
+      "description": "Oogie Boogie comes to yet another Villainous system, this time one suited to his games! Trick, scheme, and roll a LOT of dice to put an end to those pesky Holiday icons!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15042286470118813832/58EB32B454D12D1FDFC16B332A0F523700B3D4C1/",
+      "preview": "https://images.steamusercontent.com/ugc/15042286470118813832/58EB32B454D12D1FDFC16B332A0F523700B3D4C1/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-24T00:32:11+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3825803915",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825803915",
+      "title": "Plasma Hunting",
+      "creator": "",
+      "description": "Inspired by games like Regicide, Arknights, and Freecell, Plasma Hunting is a turn-based, two-player board game where you and your partner are soldiers in Plasmo Corps, a monster-hunting brigade, and you’re teamed up for a critical mission that could earn one of you a promotion based on individual performance. You must both work together to defeat the monster horde and make it out alive, while still competing against each other to loot the most Plasma from the monsters and earn that promotion. To win, you’ll need to manage your resources strategically and coordinate with your partner to cover each other’s backs – but be careful not to give them too much information or else they might beat you to the Plasma!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16938098334885692607/E1EB1CE09DD610E09C7DBDBDBB02DFE1416098C3/",
+      "preview": "https://images.steamusercontent.com/ugc/16938098334885692607/E1EB1CE09DD610E09C7DBDBDBB02DFE1416098C3/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-24T03:03:08+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3825924529",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825924529",
+      "title": "Tag Team (With Arthur's Legacy Expansion) WIP",
+      "creator": "",
+      "description": "Tag Team and Tag Team: Arthur's Legacy This is also an updated version of Freddy RoL's mod, with the character boards replaced with english ones from https://ryanascherr.github.io/tag-team/ Also Mephisto's coin is a real coin that flips now, and there's a couple other QoL features. Still missing: Scale tokens (substituted with red poker chips) Greenwood mask token (substituted with darkened health marker) Draft cards (preferably also English ones) Thumbnails for expansion characters (probably replacing all of these with draft cards) Fix for Milady's scheme tokens revealing due to loading issues (needs custom model) Fix for Golem's protection token snapping wrong (I have no idea for this)",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14458580132832366876/A84F8AF5389C6FF28D48042AF78454168B2E0910/",
+      "preview": "https://images.steamusercontent.com/ugc/14458580132832366876/A84F8AF5389C6FF28D48042AF78454168B2E0910/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-10-24T07:05:30+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826076437",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826076437",
+      "title": "MORDHEIM XXI street brawl wip",
+      "creator": "",
+      "description": "a map made for mordheim or other fantsy squad games thanks to the orignal posters of the assets and table saugth's asset packs and mordheim xxi by VonDerBrelje' i had to try making a city based map its getting there its a work in progress so expect changes",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16657318319360229737/4709AFF4CCA8A299469026BA2BF767DFFD2EB23A/",
+      "preview": "https://images.steamusercontent.com/ugc/16657318319360229737/4709AFF4CCA8A299469026BA2BF767DFFD2EB23A/",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-24T11:48:38+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826241793",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826241793",
+      "title": "젝스님트! 황소남작/6 nimmt! BaronOxx(Scripted)",
+      "creator": "",
+      "description": "한국어 젝스님트: 황소남작 | 자동화 · 한국어/영어 지원 익숙한 젝스님트에 색깔이 더해졌습니다! 카드를 동시에 선택하고, 숫자가 낮은 순서대로 같은 색 황소가 있는 줄에 배치하세요. 어느 줄에 놓느냐에 따라 벌점을 피할 수도, 한꺼번에 떠안을 수도 있습니다. • 2~10인 플레이 및 컴퓨터 플레이어 지원 • 카드 배분·공개·배치·점수 계산 자동화 • 기본 규칙 / 색깔만! / 승점 방식 지원 • 플레이어별 한국어·영어 선택 및 한·영 룰북 제공 • 카드 배치 속도 조절 • 게임 초기화 및 누적 점수를 유지한 다음 게임 진행 플레이 방법 자리에 앉아 언어를 선택한 뒤, 방장이 모드와 컴퓨터 참가 여부를 설정하고 게임을 시작하세요. 손패를 클릭해 낼 카드를 선택하고, 배치할 줄을 골라야 할 때는 원하는 줄을 클릭하면 됩니다. 기존 젝스님트 풀 스크립트 제작자 ZINGA_Z님의 작업을 기반으로 황소남작 규칙에 맞게 수정했습니다. https://steamcommunity.com/sharedfiles/filedetails/?id=1844942656 English 6 nimmt! Baron Oxx | Automated · Korean / English A colorful twist on 6 nimmt! Choose your cards simultaneously, then resolve them in ascending numerical order. Match the bull colors on your card with the last card in a row—and choose carefully to avoid picking up penalty points! • Supports 2–10 players, including computer opponents • Automated dealing, card reveals, placement, and scoring • Three modes: Basic Rules / Colors Only! / Points Variant • Individual Korean or English language selection • Korean and English rulebooks included • Adjustable card placement speed • Reset the game or continue with cumulative scores How to Play Take a seat and select your language. The host can configure the game mode and computer opponents before starting. Click a card in your hand to select it. When prompted to choose a row, click the row you want. Adapted for Baron Oxx from the original fully scripted 6 nimmt! mod by Ramun Flame. https://steamcommunity.com/sharedfiles/filedetails/?id=2497952246 오류가 발생하면 개인 메시지나 댓글로 알려주세요. 확인하겠습니다. If you encounter any issues, please send me a private message or leave a comment, and I’ll look into it.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11543465711900132214/6C561709828571D3B9BECF0218AEAF74FFB88903/",
+      "preview": "https://images.steamusercontent.com/ugc/11543465711900132214/6C561709828571D3B9BECF0218AEAF74FFB88903/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-24T15:41:26+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826244579",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826244579",
+      "title": "Firelock 40.00X Army Lists",
+      "creator": "",
+      "description": "My homebrew armies for Firelock tabletop wargame. I am only responsible for statblocks, all art used for standees is taken from open sourses and I am not author of them. Check out full rules for armies and upсoming Renegades via link below https://docs.google.com/document/d/185miDGQDXeT335v1XjgWp1ZMzUtPixevdAcv8Ndjp2o/edit?usp=sharing",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18414154475718595743/AA8F29CB3057A442A4CA797584ACA09ED4A93383/",
+      "preview": "https://images.steamusercontent.com/ugc/18414154475718595743/AA8F29CB3057A442A4CA797584ACA09ED4A93383/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-24T15:45:09+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826321234",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826321234",
+      "title": "D20 Oracle - In-Air d20 Predictor",
+      "creator": "",
+      "description": "D20 Oracle - In-Air d20 Predictor [h2]What it does[/h2] A small pad that calls the result of a d20 while it is still in the air. Put a d20 in the ring, press PAIR, then roll that die with R anywhere on the table: about a second before it lands, the pad announces its top 3 faces with probabilities in chat, then reports whether it was right and keeps a running score. [list] [*]~79% exact face, ~96% correct face in the top 3 (cross-validated on 7,156 recorded rolls; chance would be 5% / 15%) [*]Works with repeated R presses mid-air, with plastic and metal d20s, anywhere on the table [*]Buttons: PAIR / UNPAIR, PREDICT ON / OFF, FIND (highlights the die), RETURN (brings it back), RESET [*]Pairing and score are saved with your table [/list] [h2]How it works[/h2] A TTS roll isn't random all the way down. Pressing R launches the die straight up with a random spin. About 0.1 s later, TTS teleports it to a random orientation in mid-air, and that hidden swap is the only random part of the roll. From then on, the physics is deterministic. The script spots the swap and replays the rest of the flight with the engine's own equations, up to the moment the die touches the table. It then describes the impact (which corner hits first, how the die spins) and feeds that to a small neural network that estimates how the die will tumble. The model was trained outside this mod. Thousands of rolls were recorded in TTS, an ensemble of models was trained offline in Python, and it was then distilled into one small network. This mod contains only that trimmed-down network (about 6,000 weights) as plain Lua. Predictions run in a coroutine so the game doesn't stutter. [h3]It doesn't hack or change anything[/h3] The pad only [b]watches[/b]. While the paired die is in the air, it reads the die's position, rotation, speed and spin through the standard TTS scripting API, the same calls any scripted Workshop mod uses. It never moves the die, never touches TTS's random number generator and never changes the result. [list] [*][b]Why it doesn't have to:[/b] by the time the die is falling, TTS has already picked its random orientation. What's left is ordinary physics, and physics can be calculated ahead of time, a bit like a weather forecast for the next second. [*][b]Why it can't:[/b] TTS mod scripts run inside the game's Lua sandbox. They can't read or patch the game's memory or files, can't see other players' computers, and can't reach the internet unless a script asks to, and this one never does. Nothing is installed, and nothing leaves the game. [*][b]How you can tell:[/b] it's wrong about 1 time in 5. A tool that controlled the dice would never miss. The script is open, too: right-click the pad and open Scripting to read every line. [/list] [h2]Limits[/h2] [list] [*]Standard TTS d20, flat table, default gravity [*]Only R rolls are predicted; hand throws, drags and nudges are ignored [*]Dice colliding with each other mid-air make the prediction unreliable [*]Scripts run on the host: the pad works when the host's table has it [/list] [h2]Disclaimer (read with a straight face)[/h2] This is a research and curiosity project about how TTS dice work. It is for research purposes only and absolutely not for gaining an edge in real games. The exception is if you have friends you don't mind losing over dice rolls. Even then it's still not for that, but we both know you're going to read the list below anyway. The pad announces every prediction to the whole table on purpose. Taking that out would cost you an afternoon, and that is exactly why you won't do it. [h3]Things you should totally not do with it, as it is[/h3] [list] [*]Leave the pad in a corner and \"forget\" to mention what it is. Chat says \"predicting 20\", and you suddenly feel like charging the dragon. [*]Pair your friend's die and call their roll out loud a second before it lands, every time, until they quietly leave the group. [*]Take side bets on \"the next roll\" from the person who just pressed R. [*]Pair the GM's die, know about the crit before the GM does, and look unsurprised. [*]Tell everyone you've been reading the dice's energy since 2019. [/list] [h3]Things you should also not develop it into[/h3] [list] [*]Predictions that only you can see. Congratulations, you've invented the marked deck. [*]A pad that stays quiet unless the roll is bad for you, so you always know when to burn that reroll. [*]Pairing every die on the table at once, so you become the table's weather forecast. [*]A \"roll until it's a 20\" hotkey. Nat 20s every single time are definitely not suspicious. [*]A pad disguised as a coaster, a cup holder or the GM's own character sheet. [/list] If any of this sounds tempting, the dice are fine; the problem is you. Roll honestly and keep your friends.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15973500747914901760/4CD02AD557E756CCD5F799AE883928FC3B9D9F07/",
+      "preview": "https://images.steamusercontent.com/ugc/15973500747914901760/4CD02AD557E756CCD5F799AE883928FC3B9D9F07/",
+      "keywords": [
+        "Rolling Realms",
+        "Stamp Swap"
+      ],
+      "created_at": "2026-10-24T17:17:34+00:00",
+      "found_at": "2026-10-24T17:28:47.406849+00:00",
+      "is_new": true
+    },
+    {
       "id": "3825035407",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825035407",
       "title": "Leagues of Votann 11th Edition Yield Points & Army Rule Tracker",
@@ -129,7 +284,7 @@
       ],
       "created_at": "2026-10-23T04:04:33+00:00",
       "found_at": "2026-10-23T18:24:07.556064+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825202689",
@@ -145,7 +300,7 @@
       ],
       "created_at": "2026-10-23T11:31:21+00:00",
       "found_at": "2026-10-23T18:24:07.556064+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825337601",
@@ -161,7 +316,7 @@
       ],
       "created_at": "2026-10-23T15:14:15+00:00",
       "found_at": "2026-10-23T18:24:07.556064+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3824156022",
