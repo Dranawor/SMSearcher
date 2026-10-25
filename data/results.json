@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-24T17:28:53.697295+00:00",
+    "completed_at": "2026-10-25T17:40:18.626378+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-24T17:28:47.406849+00:00",
+    "started_at": "2026-10-25T17:40:11.018007+00:00",
     "window_days": 7,
-    "created_after": 1792607052,
-    "created_before": 1792862927,
+    "created_after": 1792690133,
+    "created_before": 1792950011,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-24T17:28:53.697295+00:00",
-    "new_items_added": 10,
+    "last_successful_scan": "2026-10-25T17:40:18.626378+00:00",
+    "new_items_added": 7,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,115 @@
   ],
   "items": [
     {
+      "id": "3826519462",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826519462",
+      "title": "Robinson Crusoe Adventure on 54 cards",
+      "creator": "",
+      "description": "Introduction This game is based on the original board game Robinson Crusoe: Adventures on the Cursed Island, published by Portal Games and designed by Ignacy Trzewiczek and Joanna Kijanka. To play this card version, you must first read and be familiar with the rules of the original game! This ruleset explains only the modifications, variations, and additions unique to this card version. The game—hereafter referred to as RC—is fully contained within a deck of 54 cards. The goal of the game is to complete various scenarios before time runs out or your character succumbs to their wounds. You achieve this by assigning your workers (representing yourself performing various tasks throughout the day) to complete actions in order to survive on the island and fulfill the scenario requirements. Game Components The game utilizes 54 double-sided printed cards. Additionally, you will need any kind of token available in your surroundings (a button, a small pebble, a coin, a die, etc.), provided it is small enough to fit on a standard poker-sized card. Out of the 54 cards, 46 constitute the Invention / Adventure cards. Inventions are printed on the card backs, while Adventures are printed on the card fronts. Inventions are categorized into three types: Basic, Standard, and Advanced. Basic Inventions: 8 cards (identified by a single red arrow at the top of the card). Advanced Inventions: 6 cards (identified by two red arrows at the top). Standard Inventions: 32 cards (have no arrows). Adventures are divided into Terrain cards and Discovery cards. Terrain types: Plains, Mountains, Rivers, and Hills (20 cards total). Discovery types: Treasures, Traps, and Monsters (26 cards total).",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10569044995256727488/A8E56C64799C04F4ECC9542F730234E198E6A749/",
+      "preview": "https://images.steamusercontent.com/ugc/10569044995256727488/A8E56C64799C04F4ECC9542F730234E198E6A749/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-24T21:28:41+00:00",
+      "found_at": "2026-10-25T17:40:11.018007+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826555498",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826555498",
+      "title": "An Exploration of Terraria Draft",
+      "creator": "",
+      "description": "Hello, this is one of my custom sets I've been working on for the past 6 years, after a lot of playtesting and playing with it on cockatrice and TTS, I'm finally ready to post it to the workshop. The table base is the Draft Table found here: https://steamcommunity.com/sharedfiles/filedetails/?id=1828934186 Set Mechanics -Treasure Matters -Multiple Creature type Synergies -Bomb tokens (Bomb artifact tokens with \":2R:, sacrifice this artifact: This artifact deals 2 damage to any target.\") -New Battle Type: Event (Events are protected by you. When it’s defeated or leaves the battlefield, sacrifice it and exile all creature tokens created with it.) -Boss creature type vs Non-Boss creatures -New keyword: Call upon (Create a token that's a copy of the named card) Fully scripted in draftmancer AND cockatrice for easy token spawning. -Very heavy multicolor theme but a lot of fixing thanks to treasures along with other mana fixing commons.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12082784785172970411/2F7D65097C3A81D8FBA262053A7504E1B7C79E43/",
+      "preview": "https://images.steamusercontent.com/ugc/12082784785172970411/2F7D65097C3A81D8FBA262053A7504E1B7C79E43/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-24T22:20:30+00:00",
+      "found_at": "2026-10-25T17:40:11.018007+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826561289",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826561289",
+      "title": "MTG DanDan/Forgetful Fish",
+      "creator": "",
+      "description": "The Original DanDan & it's color varients. 1v1 format table.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9419316752214374515/F9D9D32255838F3ADED9104FD49B682B62662E03/",
+      "preview": "https://images.steamusercontent.com/ugc/9419316752214374515/F9D9D32255838F3ADED9104FD49B682B62662E03/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-24T22:30:38+00:00",
+      "found_at": "2026-10-25T17:40:11.018007+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826620979",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826620979",
+      "title": "Star Realms – Scripted Tabletop Simulator Edition",
+      "creator": "",
+      "description": "[h1]Star Realms – Scripted Tabletop Simulator Edition[/h1] A fully scripted, fan-made version of the Star Realms deck-building card game for 2–4 players. [h2]Scripted features[/h2] [list] [*][b]One-click setup[/b] – shuffles the Trade Deck, deals the Trade Row, gives each player 8 Scouts + 2 Vipers, picks a random first player and deals opening hands. [*][b]Player count[/b] – Auto, 2, 3 or 4 players. Empty seats are set up so friends can join after setup. [*][b]Automatic Trade & Combat[/b] – cards in your play area add up their Trade, Combat and HP, including ally abilities. +/- buttons cover choice effects. [*][b]Attack buttons[/b] – hit any opponent from your own seat, or target their bases (Outposts first). [*][b]Health Points tracker[/b] – a big HP counter at every seat, starting at 50. [*][b]Buy buttons[/b] – on Trade Row cards and Explorers. Bought cards go to your discard pile and the Trade Row refills itself. [*][b]Draw, Shuffle & End Turn[/b] – your discard reshuffles automatically when your deck runs out. [*][b]Events[/b] – revealed Events move to the Events spot, are announced to everyone, and the common ones resolve automatically. [*][b]Snap-to spots[/b] for Deck, Discard, Missions, Gambits and Command cards. [*][b]Space sky[/b] toggle button. [/list] [h2]Included[/h2] Core Set, Colony Wars, Frontiers (+ Kickstarter), Crisis, United, Stellar Allies, promos, all 7 Command Decks, Gambits and Missions. [h2]Disclaimer[/h2] Fan-made and unofficial. Not affiliated with or endorsed by White Wizard Games. Star Realms and all card art are © White Wizard Games. Please support the official game. [h2]Dev Notes[/h2] [hr][/hr] I'll be actively maintaining this project and rolling out updates over time, including: [list] [*][b]New features[/b] (where possible) [*][b]Bug fixes[/b] [*][b]More customization options[/b] [*][b]Anything else I can think of to add![/b] [/list] [i]Feedback and suggestions are always welcome. Feel free to leave them in the comments below![/i]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12456949999344907947/6318A581DD5960065A6E8F2A9ABF40ED418E2586/",
+      "preview": "https://images.steamusercontent.com/ugc/12456949999344907947/6318A581DD5960065A6E8F2A9ABF40ED418E2586/",
+      "keywords": [
+        "Braided Skies",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-25T00:26:39+00:00",
+      "found_at": "2026-10-25T17:40:11.018007+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826834052",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826834052",
+      "title": "ISS Vanguard(KR)",
+      "creator": "",
+      "description": "[h1]ISS Vanguard[/h1] ISS Vanguard의 비공식 한국어화 모드입니다. 자료 사용 허가를 받아 lovejun님의 한국어화 자료와 WhiteRabbit님의 창작마당 모드를 기반으로 작업했습니다. 기존 자료에서 번역되지 않은 항목은 직접 번역하고 1차 검수를 진행했습니다. [h1]이용 안내[/h1] [list] [*]일부 고유명사와 보조 표기는 영어로 남아 있을 수 있습니다. [*]오역, 이미지 누락 또는 작동 오류를 발견하시면 댓글로 제보해 주시면 감사하겠습니다. [*]스토리 관련 오류를 제보하실 때는 다른 이용자를 위해 [noparse][spoiler]내용[/spoiler][/noparse] 태그로 스포일러를 가려 주세요. [/list] [h1]출처 및 감사[/h1] 원작: [url=https://awakenrealms.com/games/awaken-realms/iss-vanguard]Awaken Realms — ISS Vanguard[/url] 공식 자료: [url=https://awakenrealms.com/index.php/download#iss-vanguard]ISS Vanguard 다운로드 자료[/url] 원본 TTS 모드: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3427368430]WhiteRabbit님의 ISS Vanguard 모드[/url] 한국어 번역 자료: [url=https://blog.naver.com/hangaroo/224425069114]lovejun님의 한국어화 자료[/url] [b]관련 창작마당 자료[/b] [list] [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1169112551]Flex Table[/url] [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2734328373]Nemesis Figures[/url] [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=953770080]Place Bags[/url] [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2505528974]Dice Tray[/url] [/list] 원작과 모드, 번역 자료 및 각종 에셋을 제작해 주신 분들께 감사드립니다.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14946984704192810849/B146705EB2C3D84CD7E001EE634CC18F511355FA/",
+      "preview": "https://images.steamusercontent.com/ugc/14946984704192810849/B146705EB2C3D84CD7E001EE634CC18F511355FA/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-25T08:48:36+00:00",
+      "found_at": "2026-10-25T17:40:11.018007+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3826945665",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826945665",
+      "title": "Ultramodern Eastern Conflict Models",
+      "creator": "",
+      "description": "- Disclaimer: AI was used to create these models! - If you're not okay with that, thats okay, don't use them. A selection of BLUFOR special forces and OPFOR soldiers for an Eastern European theatre of warfare. Originally created for HAYWIRE modern these models have their unit cards baked into their names and descriptions for behaviour.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17099322069196629162/0CC3A8C2539287B97B69E48C7F4DCB5534A573A6/",
+      "preview": "https://images.steamusercontent.com/ugc/17099322069196629162/0CC3A8C2539287B97B69E48C7F4DCB5534A573A6/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-25T12:15:29+00:00",
+      "found_at": "2026-10-25T17:40:11.018007+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827013429",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827013429",
+      "title": "That's Not a Hat (fixed)",
+      "creator": "",
+      "description": "This is a fixed version of the party game That's Not a Hat! by Kasper Lapp. The other versions in the workshop have unique colors for each direction, which the original game does not have. https://boardgamegeek.com/boardgame/375651/thats-not-a-hat Can you remember a few items? Sounds easy? It's a challenge in \"That's not a Hat\"! Players give gifts to each other while trying to remember who gave what and which gift they have in front of them. If they can't remember, they have to bluff to avoid a penalty point. An unforgettable game!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17599890408250616293/34288EE9AF85E7B6617FD21FDFAF53CE9C94392D/",
+      "preview": "https://images.steamusercontent.com/ugc/17599890408250616293/34288EE9AF85E7B6617FD21FDFAF53CE9C94392D/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-25T14:00:43+00:00",
+      "found_at": "2026-10-25T17:40:11.018007+00:00",
+      "is_new": true
+    },
+    {
       "id": "3825527991",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3825527991",
       "title": "Arcane Table | Automated Magic",
@@ -128,7 +237,7 @@
       ],
       "created_at": "2026-10-23T19:42:15+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825653385",
@@ -143,7 +252,7 @@
       ],
       "created_at": "2026-10-23T22:42:10+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825689391",
@@ -158,7 +267,7 @@
       ],
       "created_at": "2026-10-23T23:36:35+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825719001",
@@ -173,7 +282,7 @@
       ],
       "created_at": "2026-10-24T00:32:11+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825803915",
@@ -189,7 +298,7 @@
       ],
       "created_at": "2026-10-24T03:03:08+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825924529",
@@ -204,7 +313,7 @@
       ],
       "created_at": "2026-10-24T07:05:30+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826076437",
@@ -219,7 +328,7 @@
       ],
       "created_at": "2026-10-24T11:48:38+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826241793",
@@ -234,7 +343,7 @@
       ],
       "created_at": "2026-10-24T15:41:26+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826244579",
@@ -249,7 +358,7 @@
       ],
       "created_at": "2026-10-24T15:45:09+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826321234",
@@ -265,7 +374,7 @@
       ],
       "created_at": "2026-10-24T17:17:34+00:00",
       "found_at": "2026-10-24T17:28:47.406849+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825035407",
