@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-25T17:40:18.626378+00:00",
+    "completed_at": "2026-10-26T19:58:19.889820+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-25T17:40:11.018007+00:00",
+    "started_at": "2026-10-26T19:58:13.318818+00:00",
     "window_days": 7,
-    "created_after": 1792690133,
-    "created_before": 1792950011,
+    "created_after": 1792777218,
+    "created_before": 1793044693,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-25T17:40:18.626378+00:00",
-    "new_items_added": 7,
+    "last_successful_scan": "2026-10-26T19:58:19.889820+00:00",
+    "new_items_added": 9,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,143 @@
   ],
   "items": [
     {
+      "id": "3827192497",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827192497",
+      "title": "[Updated] 5.15 A Rock Climbing Card Game",
+      "creator": "",
+      "description": "You begin 5.15 as a 5.7 climber, a long way from being able to complete a 5.15 -- one of the hardest climbs in the world. Start by picking your Style: sport, boulder, trad, or alpine. Then build up your strength by sending easier climbs alone and with partners. Along the way you will build up your stash of personal Gear, adding to your climbing strength and protecting you from bad Weather and Setbacks (from your so-called friends). The first player to send a 5.15 wins the game! 5.15 comes with forty rock climbs and eight 5.15 climbs so you can explore and adventure all over the world. There are also 102 Booty cards: Actions, Setbacks, Weather, and Gear (shoes, harnesses, clothing, everything you need to get outside!). Four styles let you explore different playstyles every game. --------------------------------------------------------------------------------------------------------- This is mod is updated from: https://steamcommunity.com/sharedfiles/filedetails/?id=2028011131 I've added: - Better layout - Added card names - Color coded pieces This mod also acts as a preservation project. 5.15 is out of print and the website that originally hosted orders and online materials no longer exists.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11737218328044262695/B31BBD668FACA6CA83343A7A00E7BECB8FAAEF09/",
+      "preview": "https://images.steamusercontent.com/ugc/11737218328044262695/B31BBD668FACA6CA83343A7A00E7BECB8FAAEF09/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-25T18:07:50+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827215952",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827215952",
+      "title": "Halls of Hegra [Scripted]",
+      "creator": "",
+      "description": "[h2]About the Game[/h2] From an abandoned mountain fortress, you command a group of Norwegian volunteers fighting numerically superior German forces in the early days of World War II. Halls of Hegra is a solitaire-only wargame in the same vein as Robinson Crusoe, This War of Mine, and Dead of Winter. Its core mechanics include worker placement, bag building, and area control / tower defense. You play as the commander of the Norwegian forces through three stages of the game. [b]1. Mobilization[/b] Explore the fortress as you dig your way through mountains of snow and broken equipment. New recruits join your growing force while you plan supply routes for the coming siege. [b]2. First Attack[/b] The village below the fortress comes under attack. Defend it while making your final preparations for the siege. Send patrols behind enemy lines to secure the supplies you desperately need. [b]3. Siege[/b] The Siege of Hegra begins. Endure constant bombardment and infantry attacks while keeping the morale of your men high. Will you survive? [h2]Get the Game[/h2] [url=https://www.tompetgames.no/games/halls-of-hegra]Official Website[/url] [url=https://gamefound.com/en/projects/tompet-games/crown--courage?ref=search_1]Buy Halls of Hegra - gamefound[/url] [h1]Important Notes[/h1] [list] [*]This mod is based on the latest 2026 Print-and-Play (PnP) version of the game and includes all content available in that version. [*]This mod automates selected parts of the game setup. Gameplay and the resolution of game mechanics are still handled by the players. [*]Please refer to the original rulebook for the official rules. [*]This is a fan-made Tabletop Simulator adaptation and is not an official digital release. [/list] [h1]How to Play[/h1] [h2]1. Choose the Difficulty Level[/h2] Select a difficulty level to automatically configure the game setup. The script adjusts the relevant components according to your selection. [b]First Game / Very easy[/b] [list] [*]Advanced Cards are not added to the decks. (But they are shuffled into their respective decks at all other difficulty levels.) [*]The Coup tile is set to Day 5. [*]The Retreat tile is set to Day 8. [/list] [b]Easy[/b] [list] [*]The Coup tile is set to Day 4. [*]The Retreat tile is set to Day 7. [/list] [b]Normal[/b] [list] [*]The Coup and Retreat tiles are not used. The script simply shuffles all the decks. [/list] [b]Hard[/b] [list] [*]The Coup tile is set to Day 2. [*]The Retreat tile is set to Day 5. [/list] [b]Very Hard[/b] [list] [*]The Coup tile is set to Day 2. [*]The Retreat tile is set to Day 5. [*]The Supply Marker is placed on space 3 instead of space 4. [/list] Regardless of the selected difficulty level, the script automatically shuffles all decks. [h2]2. Drawing Tokens from Bags[/h2] A button is located next to each bag. Click it to draw one token from the corresponding bag. The bag is automatically shuffled before each draw. [b]Recruit Bag[/b] [list] [*]The script tracks how many tokens have been drawn from the Recruit Bag and prevents more than four tokens from being drawn. [*]The script detects when a Doubt token has been drawn and notifies you. [/list] [h2]3. Automatic Equipment Damage tile placement on Rooms[/h2] When you place any of the following rooms in their corresponding places, the script automatically locks the room card and places the corresponding damage token in the rightmost available space. [list] [*]Counter Patrol [*]Medicine Cabinet [*]Field Telephone [*]Radio [*]Map Room [*]Gun 2 [/list] Also, when you remove the double-sided Small Board from the main board, the Status tile automatically moves to the Machine Gun space. [h1]Credits[/h1] All credit for the original game, its artwork, and its design belongs to their respective creators. [b]Designer[/b]: [url=https://boardgamegeek.com/boardgamedesigner/90780/petter-schanke-olsen]Petter Schanke Olsen[/url] [b]Artists[/b]: [url=https://boardgamegeek.com/boardgameartist/123453/jog-brogzin]Jog Brogzin[/url], [url=https://boardgamegeek.com/boardgameartist/99074/joeri-lefevre]Joeri Lefevre[/url] [b]360° Background Panorama[/b]: Created by [url=https://pixabay.com/users/blabla5-2157394/]blabla5[/url] and released under a pure CC0 license. [b]Tabletop Simulator Mod[/b]: 3D models and mod assembly by Cook.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14486612700988595145/FAAF7EFA79C078032D857C9AD5F274CD4F3EBD64/",
+      "preview": "https://images.steamusercontent.com/ugc/14486612700988595145/FAAF7EFA79C078032D857C9AD5F274CD4F3EBD64/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-25T18:39:56+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827233466",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827233466",
+      "title": "KINGBOUND",
+      "creator": "",
+      "description": "A real-time dungeon race for 3-5 players. Everyone plays at once for 10 minutes: roll your symbol dice, open rooms, beat monsters and grab treasure. Treasure only counts once you carry it back to the Safe Room. Most points wins. [h2]How to start[/h2] Sit at Red, Yellow, Green, Blue or Purple. Your mat is on your side of the table, and its top shows what each action needs. Press START GAME (top left): it shuffles the decks, hands out the dice, puts everyone in the Safe Room and starts the 10-minute timer. RESET TABLE puts everything back. [h2]Rules[/h2] [list] [*]Roll your 4 dice whenever you like. Keep the ones you need and reroll the rest, as often as you want. [*]2 Movement: open a new room (take the top card of the room deck, flip it and lay it next to your room with the passages connected) or move to a connected room. [*]Monsters need 2, 3 or 4 Attack (weak, medium, strong). A beaten monster goes to POINTS on your mat. [*]Treasure needs 2 Magic and goes to CARRIED. Bring it back to the Safe Room to move it to POINTS, no dice needed. [*]Traps go off when you walk in: Spike Pit, Pressure Plate, Collapsing Passage. [*]Loot cards help you. Prank cards hit other players, but never someone in the Safe Room. [*]When the timer ends, only POINTS count. Tie: most monsters beaten wins. [/list] Rules and downloads: https://github.com/All1os/kingbound",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18104230299415327731/274541F22DBF26FF6152423C1F5EDAE2275E8B1C/",
+      "preview": "https://images.steamusercontent.com/ugc/18104230299415327731/274541F22DBF26FF6152423C1F5EDAE2275E8B1C/",
+      "keywords": [
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-25T19:03:57+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827329883",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827329883",
+      "title": "Basement Jam 2",
+      "creator": "",
+      "description": "Over the course of a week, Members of the GodGame Basement League crafted this expansion based on the theme [HALLOWEEN MODE], utilizing several new and original statuses, such as Skeleton, Machine and Trick or Treat. Special thanks to KUU [Shinigamieater] for allowing us to host this jam on their server. Dudes Rock Eternal and Love World Forever. Contributers: RicePrezPip Regicider ApeEscapeBrainrot MicaRocks101 Occolt Tinypause Juice_bax Jackernik Scarlet Pheonix Wulfskoll PayCreeps DinoBit16 This Jam is in no way affiliated with Shinigamieater or the [BONE ZONE] Discord server beyond hosting for it. Jam organized by DinoBit16.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17664645856524940460/6BF5A09AD5DDC868A06F591735A4F038C77A3552/",
+      "preview": "https://images.steamusercontent.com/ugc/17664645856524940460/6BF5A09AD5DDC868A06F591735A4F038C77A3552/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-25T21:36:13+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827436235",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827436235",
+      "title": "Vryl TCG Playtest",
+      "creator": "",
+      "description": "Playtest for my custom in-progress TCG If you are curious, feel free to join the playtest Discord! https://discord.gg/Q4H7USGmGX Based off of \"MTG EDH 4-player (π)\"",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9541999428402186133/C301A11F32199857D7034BAEDF7C2EFEC698CA42/",
+      "preview": "https://images.steamusercontent.com/ugc/9541999428402186133/C301A11F32199857D7034BAEDF7C2EFEC698CA42/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-26T01:19:09+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827490410",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827490410",
+      "title": "custom deck 4 my friends",
+      "creator": "",
+      "description": "hi",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13538680050078083496/312E8E7019F2116E11D6C6E3A9D191968C28E5DB/",
+      "preview": "https://images.steamusercontent.com/ugc/13538680050078083496/312E8E7019F2116E11D6C6E3A9D191968C28E5DB/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-26T03:54:43+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827533827",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827533827",
+      "title": "巫师：旧世界 中文版v1.0",
+      "creator": "",
+      "description": "《巫师：旧世界》TTS 模组的简体中文汉化版，基于 GeckoTH 的英文模组（创意工坊 2988242008）制作。原模组的开局菜单、选角、市场、刷怪、狂猎等自动化脚本都保留了，并修了原版一处按位置找牌组总是失败的问题。 汉化内容： - 全部卡牌正面和有文字的背面（基础游戏和各扩充） - 主图板、角色板块、玩家板、地点指示物 - 狂猎回合表和难度表、设置窗口、扩展按钮、盒子标签 - 物件名、描述、脚本按钮和提示语 译名以《巫师3》官方简体中文为准（如 Witcher＝猎魔人），规则用语按繁体中文版规则书转成简体。 字体：马善政、霞鹜文楷、思源黑体、站酷庆科黄油体，均为 SIL OFL 开源字体。 单人自动玩家模式还没实测，遇到问题欢迎留言。 本作品为爱好者汉化，版权归 CD PROJEKT RED、Go On Board 及原模组作者所有。",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13604109695079097265/6EDAE555987CA44F014F99861592173B1784AC55/",
+      "preview": "https://images.steamusercontent.com/ugc/13604109695079097265/6EDAE555987CA44F014F99861592173B1784AC55/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-10-26T06:25:37+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827667271",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827667271",
+      "title": "Over’s Employee Printer for Lobotomy Tabletop",
+      "creator": "",
+      "description": "Over’s Employee Printer Give every Employee a face of their own! Over’s Employee Printer is an appearance editor for Lobotomy Corp Board Game. Combine hairstyles and facial features, adjust colors and positioning, and create an Employee figurine together with its linked character sheet. Originally developed as part of my unofficial expansion, this tool is now available separately so you can use it without downloading the entire expansion. (Coming soon...) Features: - Choose from a collection of hairstyles, back hair, eyes, eyebrows, and mouths. - Adjust the available colors, with the option to match back hair to the main hairstyle or color it separately. - Fine-tune the position of individual features to find the right fit. - Preview your Employee before creating them. - Create a figurine and linked character sheet, ready to transfer to the main game. - Use the base game’s equipment systems on the main game map. - Save your finished Employees in Saved Objects for future sessions. (Instruction sheet are included on the mod’s map) Getting Started: 1. Load this mod’s map and wait for the printer to finish loading. 2. Click CUSTOMIZE and design your Employee. 3. Click CREATE EMPLOYEE once and wait for the figurine and character sheet to appear. 4. Save both objects together in Saved Objects. 5. Load the main game map and spawn your saved Employee and sheet. For the most reliable experience, create Employees on this mod’s map and transfer the finished pairs to your game. Compatibility: This tool is designed for Lobotomy Corp Board Game. Basic character creation can be used on other maps, but equipment and other gameplay features require the corresponding systems from the main game. Main game: https://steamcommunity.com/sharedfiles/filedetails/?id=3799444051 Feedback & Support: I hope this printer helps you bring more variety to your clerks and give each of them a unique look! This is my first project. If you encounter problems with the printer’s functionality, you can find me as Overlord5816 on the official Lobotomy Corp Board Game Discord server. When reporting an issue, please include what you were doing and, if possible, a screenshot of any error messages. Credits: Special thanks to Someone in a Hat for the work on Hat’s Custom Nuggets, which helped make this project possible. (His original Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3573824219) The customization artwork belongs to its respective artists. This is a free, unofficial fan project; I do not claim ownership of the original artwork. Contributing artists and asset sources: Limbus Crew, Xichun and Bloodfiends - https://www.nexusmods.com/lobotomycorporation/mods/758 Lob Corp characters - https://www.nexusmods.com/lobotomycorporation/mods/73 Color Fixers - https://www.nexusmods.com/lobotomycorporation/mods/938 Yuri - https://www.nexusmods.com/lobotomycorporation/mods/230 Jae Heon and Elena - https://www.nexusmods.com/lobotomycorporation/mods/399 Shi Association - https://gall.dcinside.com/mgallery/board/view?id=lobotomycorporation&no=1180842 Dante, Kromer, LCCB - https://gall.dcinside.com/mgallery/board/view?id=lobotomycorporation&no=1076743 Ricardo - https://www.nexusmods.com/lobotomycorporation/mods/878?tab=images Umamusume - https://www.nexusmods.com/lobotomycorporation/mods/1036?tab=description Oguri Cap - shikonbai from the Lobotomy Corporation Tabletop Game discord server Lobotomy Corporation and its original characters and assets belong to Project Moon.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17503762801259910343/ADDEB8F032EDCBD2423C41122A93726103686B86/",
+      "preview": "https://images.steamusercontent.com/ugc/17503762801259910343/ADDEB8F032EDCBD2423C41122A93726103686B86/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-26T12:57:23+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827670802",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827670802",
+      "title": "Unmatched: Cryptids & Conspiracies",
+      "creator": "",
+      "description": "IN BATTLE, THERE ARE NO EQUALS! Unmatched is a miniatures dueling game featuring fighters of all kinds – from the page to the screen to the stuff of legends. Each hero has a unique deck of cards that fits their fighting style. You can mix and match fighters from any Unmatched set. But remember, in the end, there can only be one winner. Jowee and JigglypuffGD present a collaborative fanmade fully public domain Unmatched table featuring 4 new decks and 2 boards! We have poured over this set for months, making sure things have been tested and fully custom arted. Here is the roster and who worked on them: The Grey: Design and art by Jowee The Illuminati: Design and art by JigglypuffGD The Fresno Nightcrawlers: Design by Jowee, art by Choppete The Loch Ness Monster: Design by stars and Jowee, art by Lusk (MAP) Crash Site: Design by Jowee, art by TVJacksonShow (MAP) Bermuda Triangle: Design by Jowee, art by RetroAdvance64 Master Spreadsheet can be found here: https://docs.google.com/spreadsheets/d/1nMMixvwllVnLbOPFKBMOIdTS03v7UdtO_0WrSzwuWrI/edit?usp=sharing Hope you all enjoy!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10324508438147057443/0E38C6FF801D1667A6779B4F5AD943534EB4F888/",
+      "preview": "https://images.steamusercontent.com/ugc/10324508438147057443/0E38C6FF801D1667A6779B4F5AD943534EB4F888/",
+      "keywords": [
+        "Duel of Meloch"
+      ],
+      "created_at": "2026-10-26T13:05:11+00:00",
+      "found_at": "2026-10-26T19:58:13.318818+00:00",
+      "is_new": true
+    },
+    {
       "id": "3826519462",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3826519462",
       "title": "Robinson Crusoe Adventure on 54 cards",
@@ -128,7 +265,7 @@
       ],
       "created_at": "2026-10-24T21:28:41+00:00",
       "found_at": "2026-10-25T17:40:11.018007+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826555498",
@@ -143,7 +280,7 @@
       ],
       "created_at": "2026-10-24T22:20:30+00:00",
       "found_at": "2026-10-25T17:40:11.018007+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826561289",
@@ -158,7 +295,7 @@
       ],
       "created_at": "2026-10-24T22:30:38+00:00",
       "found_at": "2026-10-25T17:40:11.018007+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826620979",
@@ -174,7 +311,7 @@
       ],
       "created_at": "2026-10-25T00:26:39+00:00",
       "found_at": "2026-10-25T17:40:11.018007+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826834052",
@@ -189,7 +326,7 @@
       ],
       "created_at": "2026-10-25T08:48:36+00:00",
       "found_at": "2026-10-25T17:40:11.018007+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826945665",
@@ -204,7 +341,7 @@
       ],
       "created_at": "2026-10-25T12:15:29+00:00",
       "found_at": "2026-10-25T17:40:11.018007+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827013429",
@@ -219,7 +356,7 @@
       ],
       "created_at": "2026-10-25T14:00:43+00:00",
       "found_at": "2026-10-25T17:40:11.018007+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3825527991",
