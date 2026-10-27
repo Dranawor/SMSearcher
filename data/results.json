@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-26T19:58:19.889820+00:00",
+    "completed_at": "2026-10-27T19:27:20.029500+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-26T19:58:13.318818+00:00",
+    "started_at": "2026-10-27T19:27:12.454646+00:00",
     "window_days": 7,
-    "created_after": 1792777218,
-    "created_before": 1793044693,
+    "created_after": 1792871899,
+    "created_before": 1793129232,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-26T19:58:19.889820+00:00",
-    "new_items_added": 9,
+    "last_successful_scan": "2026-10-27T19:27:20.029500+00:00",
+    "new_items_added": 14,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,232 @@
   ],
   "items": [
     {
+      "id": "3827115571",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827115571",
+      "title": "MTG EDH Horde Fixed",
+      "creator": "",
+      "description": "Based off of Miss click's MTG Horde. Their table stopped functioning. Original table and scripting was Pi's table. Card import is Razmukkens. Game mode built on the against the horde website. I corrected the horde deck images not loading. I also made it so that when you mill the horde tokens go to exile and perms, instants and sorceries go to the graveyard appropriately.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16952042741776995562/DE21109B0BCE4DD99F5EC093BC07B3FCC56C73A1/",
+      "preview": "https://images.steamusercontent.com/ugc/16952042741776995562/DE21109B0BCE4DD99F5EC093BC07B3FCC56C73A1/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-25T16:19:43+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827777486",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827777486",
+      "title": "LCT Battle Tools",
+      "creator": "",
+      "description": "[h1]LCT Battle Tools[/h1] [b]Work in progress.[/b] This is an early version, so expect the odd bug. If you find one, please report it in the comments below: what you did, what happened, and which LCT version you play on. One object that adds three tools to an [b]unmodified[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3710681747]LCT[/url] table: [list] [*][b]Battle log.[/b] A snapshot of the battle at START GAME and at every phase change. [*][b]Rewind.[/b] Replay a finished battle phase by phase, for an accurate battle report, or take a mistake back during the game. Registered models, scores, CP, secondary cards and the turn go back to where they were when a phase began, and a model deleted since then comes back. [*][b]Movement helper.[/b] A registered model you hold in your Movement phase shows a circle: how far it may move from where it began the phase. Past it, the model turns red. [/list] [h2]How to add it to LCT[/h2] [olist] [*]Load your LCT table and let it finish loading. [*]Open Games > Workshop, hover over LCT Battle Tools, click the three dots and choose Expand. [*]Click the object LCT Battle Tools. [/olist] The object arms itself, moves beside LCT's Advanced Features panel and locks there. Nothing else is needed. If its button reads MANUAL ARM instead, see LCT versions below. [b]Add it first thing,[/b] right after the table has loaded and before you set up a game. Added later, once a map is on the table, the 'Back to Selection' can then no longer take that map back, and who goes first may have to be chosen again. On the table this mod loads there is no LCT, so the object is off there. [h2]In a game[/h2] [list] [*][b]Armies register themselves.[/b] Pick a Yellowscribe model up once: it joins your army, Red or Blue, and glows in your color until START GAME. REGISTER ARMY, beside LCT's reserve board, adds the models you have selected; a right click clears that army. [*][b]GUIDE[/b] on the object shows a short guide on screen. The object should be located to the top-left of the score board. [/list] [h2]Battle Rewind[/h2] [b]Replay your battle.[/b] Once the game is over, the rewind steps through it again, phase by phase, so your battle report says what really happened. Each step puts the table back as it stood at the start of that phase: your registered models where they stood, scores, CP and secondary cards as they were, and the round, turn and phase. A model that died later comes back onto the table. Terrain and objective markers stay where they are. [olist] [*]Save the finished game. The log is saved with the table, so that save brings back the end of the game, and it can be replayed again later. [*]Press REWIND BATTLE, beside REGISTER ARMY. [*]Choose the battle's first phase (round 1, the first turn) and press REWIND. [*]Press NEXT to step forward one recorded phase at a time. [/olist] [b]Take a mistake back.[/b] The same rewind works during a game. Moved the wrong unit, or forgot a stratagem two phases ago? Choose the round, turn and phase to go back to, press REWIND, and play on from there. Changed your mind? NEXT steps forward one recorded phase at a time, and RETURN TO LAST takes the table back to where the battle was before you rewound. [b]Secondary cards drawn again may differ.[/b] A rewind puts back the secondary cards each player held at that phase. But if you play on from there, a new draw can deal other cards than it did the first time, because LCT shuffles its deck before every draw. A replay with NEXT is not affected: it shows the cards as they were drawn. [h2]Movement Helper[/h2] The helper shows how far each model may move. When a phase begins, it notes where every registered model stands. In your Movement phase, pick a model up and a circle shows how far it can go from where it began the phase. Put it down past that range and it turns red; a green glow within range can be switched on at the object. In the other phases a model gets its circle once it has a move: after a Charge roll, a Pile In or a Set Move. The buttons on your dice mat act on the models you have selected. They roll an Advance or a Charge, give a Pile In, set a move the datasheet doesn't cover, add or take off an inch, and put the models back where they began the phase, to take a move back. Hover over a button to read what its left and right click do. The buttons on the object switch the helper, its circle and its glows on and off. [h2]LCT versions[/h2] Made for v1.11.5. On any other version the object does not arm by itself: it says so in chat, records no phase and stays where you put it. Its button reads MANUAL ARM, with \"May not work with this LCT version\" under it. To arm it by hand, click MANUAL ARM, best before you set up a game. Do so at your own risk, as it's not guaranteed to work. The object then moves beside LCT's Advanced Features panel, locks there, and its button reads ARMED. From then on every phase is recorded. If the button reads ARM: SAVE + LOAD, save the table and load that save once. [h2]Good to know[/h2] [list] [*]To remove the tools, right click ARMED on the object, then delete the object. [*]The battle log is saved with the table, inside the object. [*]The movement helper's rolls, typed moves and modifiers last for one phase and are not saved. [*]A model needs a Yellowscribe stat line to register by itself and to be measured. [/list] [h2]Credits[/h2] LCT is the work of Las0mbra and its contributors. This object is a separate add-on and is not part of LCT; please report its problems here and not to LCT.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11005911203146309293/1ECF52F9B1A34C60409191EA3B31B30ABB35CFBF/",
+      "preview": "https://images.steamusercontent.com/ugc/11005911203146309293/1ECF52F9B1A34C60409191EA3B31B30ABB35CFBF/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-26T16:28:22+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827935846",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827935846",
+      "title": "Riichi Mahjong 4 Players",
+      "creator": "",
+      "description": "An improved version of Skor's Riichi Mahjong Automatic Table, with magnets for discards, the walls, each possible call, and riichi bets. All credit should go to them. Important: Once the walls are set (press both yellow buttons between 3 seconds of each other), you need to move the tile \"bag\" with Gizmo to y40, and then move it back to y-2 once the game is over to put the tiles back in and create the walls again. Plus, you need to flip all tiles twice before dealing them to players, or their hand will be seen by other players (i don't know why this happens or why this works).",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10585057246057829887/38CB45777F9E7BE5C2E31BB7660CF334DC1F45F2/",
+      "preview": "https://images.steamusercontent.com/ugc/10585057246057829887/38CB45777F9E7BE5C2E31BB7660CF334DC1F45F2/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-26T21:26:54+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827938234",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827938234",
+      "title": "Riichi Mahjong 3 Players",
+      "creator": "",
+      "description": "An improved version of Skor's Riichi Mahjong Automatic Table, with magnets for discards, the walls, each possible call, and riichi bets. All credit should go to them. This is the 3 player version. Important: Once the walls are set (press both yellow buttons between 3 seconds of each other), you need to move the tile \"bag\" with Gizmo to y40, and then move it back to y-2 once the game is over to put the tiles back in and create the walls again. Plus, ypu need to flip all tiles twice before dealing them to players, or their hand will be seen by other players (i don't know why this happens or why this works).",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14388602373547450277/F4BBFC143541D6076D02D8796D72B1D8189E4E5B/",
+      "preview": "https://images.steamusercontent.com/ugc/14388602373547450277/F4BBFC143541D6076D02D8796D72B1D8189E4E5B/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-26T21:31:02+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827939637",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827939637",
+      "title": "Rift Commanders - FR",
+      "creator": "",
+      "description": "Rift Commanders est un jeu de deckbuilding en duel pour 2 joueurs. Choisissez un commandant parmi 4 factions (Noir, Blanc, Bleu, Rouge). Recrutez des créatures et des sorts dans la rangée commune, gagnez de l'allégeance pour débloquer leurs compétences, et posez des pièges pendant le tour adverse. Le premier commandant réduit à 0 PV a perdu. - Mise en place, compteurs de PV, poison et essences scriptés - Boutons d'aide : redresser, compléter le recrutement, aide de jeu - Livret de règles en PDF inclus sur la table - Le second joueur gagne 2 essences à son premier tour - Équilibré par simulation",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15088139989217195491/F53764826E07B62DB0E177AFD273D81BB10F96E4/",
+      "preview": "https://images.steamusercontent.com/ugc/15088139989217195491/F53764826E07B62DB0E177AFD273D81BB10F96E4/",
+      "keywords": [
+        "Duel of Meloch"
+      ],
+      "created_at": "2026-10-26T21:33:27+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827954706",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827954706",
+      "title": "Return to Dark Tower [Requires Real Tower]",
+      "creator": "",
+      "description": "[h1][b]IMPORTANT![/b] ONE PLAYER [u][b]MUST[/b][/u] OWN A [u][b]REAL[/b][/u] DARK TOWER FROM THE PHYSICAL VERSION OF THE BASE GAME, OR THIS MOD WILL BE [u][b]UNPLAYABLE[/b][/u]! You will also need the game's free app and a means to broadcast it to other players, like streaming to Discord.[/h1] [i]For an age, the tower lay in ruins. Unbeknownst to the people of the realm, a great evil stirred in its bowels. It started with strange sightings: a flock of crows flying in circles until they dropped from the sky, the lake frozen solid in the height of summer. In time, they could not deny that which they most feared. The evil had not been vanquished. The darkness would soon fall again. The tower will rise.[/i] A \"sequel\" to the 1981 grail game, Return to Dark Tower is a game for 1-4 players who take the role of heroes. Together, they gather resources, cleanse buildings, defeat monsters, and undertake quests to build up their strength and discern what foe ultimately awaits them. When the heroes face the tower, the game shifts into its dramatic second act, where the players have one chance to defeat the enemy once and for all. The game features both cooperative and competitive modes of play. The game features traditional game mechanisms, such as engine building and resource management, paired with a technological interface unlike any seen before in games, including the titular tower, which holds more than a few secrets. [h2][b]The Base Game[/b][/h2] To play this game on Tabletop Simulator, one player will need to own a [b]REAL DARK TOWER FROM THE PHYSICAL VERSION OF THE BASE GAME[/b], along with the [b]24 SKULLS[/b] that come with that game (and of course, 3 AA batteries to power the Dark Tower). That player will also need to have the [b]FREE RETURN TO DARK TOWER APP[/b] downloaded onto their mobile device (links to the iOS and Android app are posted below). The mobile device will use Bluetooth to connect to the Dark Tower and communicate with the app. [h2][b]The Alliances Expansion[/b][/h2] To play with the Alliances expansion, the player with the real Dark Tower will also need the [b]8 BLIGHT SKULLS, 8 OMEN SKULLS, 8 FIRE SKULLS, AND 8 FROST SKULLS[/b] that come with that expansion. [h2][b]Streaming the App[/b][/h2] To play with other players remotely, the player with the real Dark Tower + app will need to stream their mobile device's screen to the other players. I use the Discord app as a free and easy means to stream to others (linked below). The player with the app will need to press the in-app buttons for other players, who will need to communicate their choices to the player with the app. [h2][b]From the Mod Creator[/b][/h2] [b]I know this mod isn't perfect, but I own a physical copy of this game and I really wanted a means to play it with friends remotely.[/b] Scripting in this mod is minimal, and is primarily used to expedite setup. This mod is complete, includes all components for the base game and the Alliances expansion, and is fully playable for 1-4 players. This mod is a work in progress, and will continue to be refined and improved over time. 98% of the components in this mod were personally scanned and prepped by me, using the original components in my personal copy of the game. I know the quality on some of the components is blurry and/or less than ideal, but I did the best with what I've got. Please let me know if you find any issues with the mod and I'll do my best to fix them! If you enjoy this mod, please purchase a physical copy of the game like I did! While I like use TTS to play remotely, this game is especially fun in person! [h2][b]Return to Dark Tower App[/b][/h2] [list] [*][url=https://play.google.com/store/apps/details?id=com.restorationgames.returntodarktower&hl=en-US&pli=1]Google Play (for Android devices)[/url] [*][url=https://apps.apple.com/us/app/return-to-dark-tower/id1570832677]App Store (for iOS devices)[/url] [/list] [h2][b]Credits & Links[/b][/h2] [list] [*][url=https://restorationgames.com/return-to-dark-tower/]Return to Dark Tower[/url] by [b]Restoration Games[/b] [*][url=https://discord.com/]Discord[/url], free group chat app [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=1169112551&searchtext=flex+table]Flex Table[/url] created by MrStump [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3491243418]Guild Hall Flags[/url] created by Potato [*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=2794356198]Background Environment[/url] created by Mr. Ugly [/list]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14656740767283632787/8F297095B03079AFC49AD328112D70C509F33FFA/",
+      "preview": "https://images.steamusercontent.com/ugc/14656740767283632787/8F297095B03079AFC49AD328112D70C509F33FFA/",
+      "keywords": [
+        "Braided Skies",
+        "Expeditions",
+        "My Little Scythe",
+        "Origin Story",
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-26T22:03:59+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827961682",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827961682",
+      "title": "MTG Arcane Command",
+      "creator": "",
+      "description": "Decided to make a MTG board for me and my friends Trigger Warning AI was used in the creation of this if you hate that dont use it that simple Happy enough to take feedback on the comments for ideas on improvements or issues",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16678736614927889089/A029FE2BEB28379A3753A733777222EEBA9F4F2D/",
+      "preview": "https://images.steamusercontent.com/ugc/16678736614927889089/A029FE2BEB28379A3753A733777222EEBA9F4F2D/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-26T22:17:28+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827962675",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827962675",
+      "title": "Rift Commanders - EN",
+      "creator": "",
+      "description": "Rift Commanders is a dueling deckbuilding game for 2 players. Pick a commander from 4 factions (Black, White, Blue, Red). Recruit creatures and spells from the shared row, raise your allegiance to unlock their abilities, and set traps during your opponent's turn. The first commander reduced to 0 HP loses. - Scripted setup, HP, poison and essence counters - Helper buttons: ready, refill recruitment, player aid - Built-in notebook with rules, keywords and every card - The second player gains 2 extra essence on their first turn - Balanced by simulation French version: search \"Rift Commanders\" in the Workshop.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15571557054592551295/CA9B34511D911FF9C82A6D277F78B0FA190424AD/",
+      "preview": "https://images.steamusercontent.com/ugc/15571557054592551295/CA9B34511D911FF9C82A6D277F78B0FA190424AD/",
+      "keywords": [
+        "Duel of Meloch",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-26T22:19:20+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827988157",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827988157",
+      "title": "Fire Tower for Two",
+      "creator": "",
+      "description": "Fire Tower for two players with all expansions and light scripting. Fire placed in the final space will set the tower on fire. By default has 2 towers each as in the expansion rules, but feel free to delete the NE and SW towers. All expansion content is inside the mushroom and includes: - Firehawks - Shadow of the Wood - Extreme Weather - Seasons - Megahawks - Buckets and Gems",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9573840238332429179/968A2BC8ED434E6072BC440C31F021CFBB24E71F/",
+      "preview": "https://images.steamusercontent.com/ugc/9573840238332429179/968A2BC8ED434E6072BC440C31F021CFBB24E71F/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-26T23:13:31+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828014405",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828014405",
+      "title": "Legends of Void [Updated]",
+      "creator": "",
+      "description": "Legends of Void is a 1-4 player strategy game, based on hand-management, engine-building, and area-control mechanics. OVERVIEW You'll play a Hero leading a Faction in the battle against the Void. The Void has summoned Seraphs, god-like creatures who threaten the Outer Lands, draining its life and replacing it with Nihil. You have a common goal: banish all the Seraphs from the Outer Lands. But you compete with each other to gain the favor of Lumen, the Flying City of the Eternals, rulers of all known lands. HAND-MANAGEMENT During the game, you will buy and cast Lumen scrolls, which have a variety of effects: conjuring animal familiars, gathering magical berries, evoking a fireball, stealing Gold from other players. Scrolls can increase your production, grant unique actions, and empower your Hero. The game has 216 unique scrolls, and in addition to these, there are 45 Gift scrolls, which are awarded to Heroes during setup to empower and distinguish them even more. Acquiring a Lumen scroll for your hand costs 3 Gold. Casting a scroll takes Gold, and sometimes additional resources and requirements. ENGINE-BUILDING There are nine types of resources: • Gold, Mithril, Mana, and Hero resources. These can be directly produced. • Dark Matter and Genasi, which descend from Mana. • Creature, Spirit, and Artifact, which can only be present on specific scrolls. Your basic income of Gold, as well as your base score, is based on your Lumen Rating. It starts at 13 and increases only when you damage a Seraph. You can damage a Seraph in many ways: fighting it directly with your Hero, sealing a Portal, scorching a Nihil, blooming a Vytae, or through actions granted by your Hero, Faction, and certain scrolls. Usually, to damage a Seraph, your Hero or one of your Areas must be near it. AREA-CONTROL The Outer Lands are a map made up of six Regions, randomly chosen from eight double-sided tiles. They form a disc with the Void at its center. The Seraphs threaten every Region. Here and there, Portals and Nihil infect the Lands. In a Stronghold on the edge of the map, you are preparing for the battle. GAME FLOW Legends of Void is split into years and seasons. In each year: • Spring: you buy new Lumen Scrolls to expand your options. • Summer: you take Actions, spending resources to counteract the Void and its Seraphs. • Autumn: you generate more resources to pay for Scrolls and Actions next year. • Winter: the Void stirs, and the Seraphs spread corruption across the Outer Lands. ENDGAME Legends of Void ends immediately when one of these happens: • You banish all Seraphs, making the Outer Lands safe, and Lumen awards the winning Hero with the title of Legend. • You reveal the last Event from the Void-Deck and run out of time. The Void probably erupts, swallowing everything. A Hero still wins, but the Outer Lands are doomed. Endgame scoring depends on how the game ends. The Hero with the most Lumen Points wins. All art and design by Twoid Games This mod is a copy of the Legends of the void by MySonIsAlsoNamedBort but with improved image resolutions. This mod uses the content of: [Tool] Make Anything a Bag by Eldin Basic Flag by Scott of North - not present in current version The Kraken Table by Lily So thank you to them!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14506149119635008231/0140D1C910195BF381BE2A1CD2E3EEE4DCB56F09/",
+      "preview": "https://images.steamusercontent.com/ugc/14506149119635008231/0140D1C910195BF381BE2A1CD2E3EEE4DCB56F09/",
+      "keywords": [
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-27T00:11:02+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828172605",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828172605",
+      "title": "Catan: Global Warming",
+      "creator": "",
+      "description": "[h1]Catan: Global Warming Scenario [/h1] [b]Overview[/b] Welcome to the Tabletop Simulator adaptation of [i]Catan: Global Warming[/i]! This mod brings the educational and thought-provoking scenario originally designed by Sam Illingworth and Paul Wake into the digital tabletop space. In this scenario, settling the island of Catan comes with an environmental cost. Rapid expansion, building cities, and competing for the Longest Road or Largest Army all contribute to rising Greenhouse Gas (GHG) levels. Will you work together to mitigate climate change through sustainable development, or pursue individual victory even if it renders the island uninhabitable? [b]Academic Context[/b] This Tabletop Simulator mod was developed as a coursework assignment for the [b]\"Serious Games\"[/b] graduate course. The objective of this project is to digitize and playtest a serious game. [b]Included Components & Features[/b] [b]18 Double-Sided Number Tokens:[/b] Custom yellow-to-red flippable tokens representing unstable resource production and land degradation. [b]19 Crisis Cards:[/b] Featuring real-world geoscience imagery from the European Geosciences Union's (EGU) Imaggeo database (Deforestation, Glaciers Melt, Crops Fail, Landslide, Livestock Die, and Major Desertification). [b]Greenhouse Gas Tracker & Marker:[/b] Dynamic tracking board based on historical carbon emission data. [b]Green City Tokens & Green Guardian Card:[/b] New strategic elements rewarding sustainable urban development (+2 Victory Points). [b]Key Gameplay Additions[/b] [b]Greenhouse Gas Step:[/b] Roll higher than the current Target Number on the GHG Tracker, and you must draw a Crisis Card before collecting resources. [b]Desertification:[/b] Flipping a red number token a second time removes it from the board entirely, permanently halting resource production on that hex and increasing GHG levels. [b]Positive & Negative Actions:[/b] Balance your economy using Fallow Periods, Green Taxes (when rolling a 7), or risk global catastrophe with Intensified Production. [b]Credits & Acknowledgments[/b] [b]Base TTS Mod:[/b] Built upon and utilizing the assets from the base Catan workshop items available via [url=https://steamcommunity.com/sharedfiles/filedetails/?id=660395369]Catan Steam Workshop[/url]. [b]Original Scenario Design:[/b] Sam Illingworth & Paul Wake (Manchester Metropolitan University & University of Edinburgh). [b]Base Game:[/b] Klaus Teuber's [i]Catan[/i] (Catan GmbH / Catan Studio). [b]License:[/b] Distributed free of charge for educational and non-commercial use under the Creative Commons BY-NC-ND 3.0 license. All card photography is credited to its respective authors via the EGU Imaggeo database (CC BY 3.0).",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10390379097214254616/1A9BFF30CF03F7D37A1ECB517A486924A5228C8E/",
+      "preview": "https://images.steamusercontent.com/ugc/10390379097214254616/1A9BFF30CF03F7D37A1ECB517A486924A5228C8E/",
+      "keywords": [
+        "Between Two Cities",
+        "Origin Story",
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-27T08:46:31+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828422308",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828422308",
+      "title": "Nómadas (ES)",
+      "creator": "",
+      "description": "[h1]NÓMADAS — juego de mesa (ES)[/h1] [b]Estrategia y supervivencia en un desierto implacable.[/b] 2–5 jugadores · 90 minutos · Español. Cuatro zonas, un desierto y una sola salida: la Ruta de Tormenta final. Capitanea tu [b]Walker[/b], una estructura de madera con patas y velas, administra cada gota de agua y conviértete en el primero en cruzar hacia el Paraíso. [h2]Contenido[/h2] [list] [*]Tablero completo con las cuatro zonas, rutas y meta. [*]41 cartas buenas y 38 cartas malas, con arte original y dorsos diferenciados. [*]5 sets de 6 walkers: Hornet, Schwalbe, Mantis, Bull, Eagle y Colossus. [*]100 gotas de agua, 4 dados y chuleta de jugador. [*]Reglas resumidas en [b]Menu → Rules[/b]. [*][b]Extra opcional:[/b] bolsa con 30 miniaturas 3D tintadas por color. [/list] [h2]Cómo se juega[/h2] [list] [*]Elige modo: [b]Normal[/b] (10 de agua) o [b]Difícil[/b] (5 de agua). [*]Todos empiezan con un Hornet. Para entrar hay que sacar un 6 con los dados de movimiento; después se elige una casilla de la Zona Fácil. [*]En tu turno: paga el agua de la Zona Especial si corresponde, tira los dados, avanza hasta el límite de Movimiento de tu walker y resuelve la casilla. [*]Si caes en una casilla ocupada, comercias o combates: 2d6, te quedas el mayor y lo recortas al Ataque de tu walker. [*]El agua lo es todo: paga rutas, revive walkers y nunca puedes perder más de la que aguanta tu walker. [*]Gana quien cruce la Ruta de Tormenta final pagando 20 de agua. [/list] [h2]Rutas de tormenta[/h2] [list] [*]Fácil ↔ Normal: [b]5[/b] de agua. [*]Normal ↔ Difícil: [b]10[/b] de agua. [*]Especial ↔ Difícil: [b]10[/b] de agua. [*]Difícil → Paraíso: [b]20[/b] de agua. [/list] Al pasar por una ruta ganas +2 (Fácil/Normal) o +5 (Especial/Difícil). [h2]Controles en Tabletop Simulator[/h2] [list] [*][b]Click derecho sobre el tablero → “Ajustar mesa”[/b]: fija el tapete y las fichas a su tamaño real. Hazlo una vez tras cargar el mod (y vuelve a guardar). [*][b]Click derecho[/b] en un mazo: barajar, robar o buscar. [*][b]ALT[/b] sobre una carta o ficha: ampliarla. [*][b]Q / E[/b]: girar. [b]R[/b]: voltear. [b]F[/b]: enfocar. [*]Los tooltips de cada ficha muestran Movimiento, Ataque, Agua y dados. [*]El orden de turno y las manos están activados. [/list] [h2]Notas de esta versión[/h2] [list] [*]Se incluyen las 41 cartas buenas del arte original (el listado del manual menciona 40). [*]El quinto set de walkers usa el arte genérico sin color y se identifica como [b]Blanco[/b]. [*]Las miniaturas 3D son opcionales: las fichas 2D son las piezas principales. Si tu equipo va justo de rendimiento, ignora esa bolsa. [*]Reglas según el manual del proyecto; la protección de la Zona Segura es total (la variante de 3 turnos sigue pendiente de decisión). [*]El botón [b]Ajustar mesa[/b] del tablero calibra la escala con las medidas reales del juego, porque TTS no fija un tamaño por defecto documentado para tiles y tokens. [/list] [h2]Créditos[/h2] Diseño y arte original: proyecto [b]Nómadas[/b]. Tipografías Caveat y Spectral (SIL OFL). Hecho con Tabletop Simulator; no afiliado a Berserk Games. Comentarios, erratas y mejoras: deja un comentario en el Workshop.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12933039374492563066/145969549FCC4AB45FF5F06F6092D860FC64F4FA/",
+      "preview": "https://images.steamusercontent.com/ugc/12933039374492563066/145969549FCC4AB45FF5F06F6092D860FC64F4FA/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-27T18:09:09+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828439379",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828439379",
+      "title": "Sylkwyrm's Deltarune TCG V2",
+      "creator": "",
+      "description": "A quick and easy port of every card currently released for the Deltarune TCG, now with a very rudimentary board layout and snap points for gameplay. Rules aren't included, have to watch the videos by Sylkwyrm for that. Credit to Mindless Mage for the original version: https://steamcommunity.com/sharedfiles/filedetails/?id=3824064494 -----Art Credits----- Tellioryn Frog_King Sylkwyrm HazelXNutz AllMondayz Umi_wow manusansz Berdlyglazer The gamer ThePinionMan Jeheheart mdnexus Gabibbo TheOriginalGus",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16311576562762287032/D6EE025D8E10D067308B2BB433F43816DEA35EA9/",
+      "preview": "https://images.steamusercontent.com/ugc/16311576562762287032/D6EE025D8E10D067308B2BB433F43816DEA35EA9/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-27T18:39:55+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828447545",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828447545",
+      "title": "Anime Villainous Reskin- Tazuna as Kyubey",
+      "creator": "",
+      "description": "On to Step 4 of me and Azure's Unity Cup project with an interesting change of pace- Instead of an actual trainer or an Uma (possibly... We have yet to see her without her hat... We're onto you, Tazuna...), we bring to you Tazuna herself as the little gremlin known as Kyubey! Find certain Umas with varying ideals and help them overcome their doubts with the help of various other legendary Umamusume, and eventually help them make their desires a reality!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17223762044500220402/D4D318F72583A33A9EC1680121D45B382E17631D/",
+      "preview": "https://images.steamusercontent.com/ugc/17223762044500220402/D4D318F72583A33A9EC1680121D45B382E17631D/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-27T18:54:09+00:00",
+      "found_at": "2026-10-27T19:27:12.454646+00:00",
+      "is_new": true
+    },
+    {
       "id": "3827192497",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827192497",
       "title": "[Updated] 5.15 A Rock Climbing Card Game",
@@ -125,7 +351,7 @@
       ],
       "created_at": "2026-10-25T18:07:50+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827215952",
@@ -140,7 +366,7 @@
       ],
       "created_at": "2026-10-25T18:39:56+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827233466",
@@ -156,7 +382,7 @@
       ],
       "created_at": "2026-10-25T19:03:57+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827329883",
@@ -171,7 +397,7 @@
       ],
       "created_at": "2026-10-25T21:36:13+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827436235",
@@ -186,7 +412,7 @@
       ],
       "created_at": "2026-10-26T01:19:09+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827490410",
@@ -201,7 +427,7 @@
       ],
       "created_at": "2026-10-26T03:54:43+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827533827",
@@ -216,7 +442,7 @@
       ],
       "created_at": "2026-10-26T06:25:37+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827667271",
@@ -232,7 +458,7 @@
       ],
       "created_at": "2026-10-26T12:57:23+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827670802",
@@ -247,7 +473,7 @@
       ],
       "created_at": "2026-10-26T13:05:11+00:00",
       "found_at": "2026-10-26T19:58:13.318818+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3826519462",
