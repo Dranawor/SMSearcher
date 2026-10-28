@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-27T19:27:20.029500+00:00",
+    "completed_at": "2026-10-28T19:37:13.979416+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-27T19:27:12.454646+00:00",
+    "started_at": "2026-10-28T19:37:08.202151+00:00",
     "window_days": 7,
-    "created_after": 1792871899,
-    "created_before": 1793129232,
+    "created_after": 1792956440,
+    "created_before": 1793216228,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-27T19:27:20.029500+00:00",
-    "new_items_added": 14,
+    "last_successful_scan": "2026-10-28T19:37:13.979416+00:00",
+    "new_items_added": 11,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,179 @@
   ],
   "items": [
     {
+      "id": "3827884462",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827884462",
+      "title": "(V2) Electors, The Occult Card Game TTS Version 2",
+      "creator": "",
+      "description": "The original Occult Card Drafting Game you know and love... Now on TableTop Simulator! Electors is a strategic card drafting game for four players. You play as one of the leaders of a political faction in the capitol of an empire on the eve of great change. Acquire lands in the city and defend them with your bannermen. Use those resources to hire better champions and prepare your arsenal. Beat your opponent in combat to take their lands. Gain the favour of the Electors and control The Palace to execute a coup d'état and seize control of the empire! Visit https://www.electors.ca/ for more information about this project. Rules available online at https://www.electors.ca/Downloads/rulebook.pdf",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11262801326787978121/A7D1872428B202736D80CB52AB36D6B28F3C532A/",
+      "preview": "https://images.steamusercontent.com/ugc/11262801326787978121/A7D1872428B202736D80CB52AB36D6B28F3C532A/",
+      "keywords": [
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-26T19:50:25+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3827952075",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827952075",
+      "title": "Riichi Mahjong 1 vs 1",
+      "creator": "",
+      "description": "An improved version of Skor's Riichi Mahjong Automatic Table, with magnets for discards, the walls, each possible call, and riichi bets, plus a custom points counter. All credit should go to them, and Gekly who helped me built more than half of this project. This is the two player version. Return the wind tiles to the bag after choosing a seat wind. Then, press both yellow buttons within 3 seconds of each other to set up the walls, and press the yellow button once to return the bag to the table. Important: once all tiles are on the table, you need to quickly flip them twice before dealing them to players, or the players' hand will be seen by other players (i don't know why this happens or why this works). Rules: Each player selects two winds, and those winds are both counted as their seat wind for the game. Both players draw 26 tiles from the wall. Then all tiles are arranged into two 13-tiles hands however they like them. Then, the East draws a tile and places it into whichever of the two hands they like, then discards from that same hand. The 2nd player repeats that process. When one of the players finishes a hand, they have to keep playing with their remaining hand. The game ends when one player wins with both hands. The points of each hand are calculated separately. Only the points of the winner's hands are calculated. The other player pays the sum of both hands.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16578315342011217114/119C38A0550F1D3184BA930948ABBF2441C676DB/",
+      "preview": "https://images.steamusercontent.com/ugc/16578315342011217114/119C38A0550F1D3184BA930948ABBF2441C676DB/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-26T21:58:25+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828551135",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828551135",
+      "title": "Quodd Heroes v2.1",
+      "creator": "",
+      "description": "Quodd Heroes v2.1 An unofficial fan build of Quodd Heroes 2nd Edition. It completes the 2022 workshop preview with everything the 2nd Edition material describes. What is in it - All eight maps of Scenario Book 3.5 with their scenario panels. Change the map board's state to switch maps. - All six decks with card faces rebuilt to the 2nd Edition rules. Equipment and Pets show their badge and power level. - Every token of the 2nd Edition punchboard. Rally markers and drop zones and crystal spawns and switches and flags and trap doors and impassable walls and sheep and the five map overlays. - All 11 heroes with their punchboard skill tiles and Q-Power tiles and hero tokens. A tile's name follows the side that faces up. - The complete rules in the notebook. One tab per section. A Sources tab lists every source. - The 2nd Edition rulebook and Scenario Book 3.5 on two PDF stands. How to play Sit down before you pick a hero. Once you have picked your hero open Options > Game Keys for tumble and rotate. Set up each scenario from the icons printed on its map. Sources Quodd Heroes was created by Wonderment Games. This build uses the 2nd Edition rulebook and Scenario Books 3.2 and 3.5 and designer answers by Ryan Iler and the 2nd Edition punchboard v2.6. It is built on the 2022 workshop preview by Tigerbrood and Talltree. Gaps are filled from the 1st Edition v1.2 downloads and the BoardGameGeek files. The notebook tab Sources lists every source with its date.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16746612220957423469/DD69F6F628275B4F495B68A3EA26AC214135693D/",
+      "preview": "https://images.steamusercontent.com/ugc/16746612220957423469/DD69F6F628275B4F495B68A3EA26AC214135693D/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-27T22:13:29+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828558003",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828558003",
+      "title": "40KiLL Zone",
+      "creator": "",
+      "description": "40Kill Zone: combat calculator tablet for Warhammer 40,000 (11th edition) Full version in browser available at: https://40killzone.netlify.app/ Select your attackers, pick a target, and the tablet shows your chance to wipe the unit, models killed, and every step from attacks to damage. It’s worked out from 10,000 simulated rolls using your units’ real stats, weapons, abilities, detachment stratagems and nearby auras. Requirements: armies imported with Yellowscribe. How to add it: subscribe, then in TTS open Games → Workshop, right-click 40Kill Zone and choose Additive Load. This adds the tablet to your current table. First time: press Options → Game Keys and set 40Kill Zone: drag attack to K. How to use: Press Start, then follow the steps. Select all of the Red army’s models, press Save, choose its detachments and lock it in. Do the same for the Blue army. Select your attacking models (Ctrl+click or drag a box) and press K. Select the models you’re attacking and press K again. The results appear on the tablet. Use the Shooting / Melee / Both switch, the round-choice checkboxes (Blessings, Dark Pacts and more) and the − / + buttons to fine-tune. Right-click the tablet for Cancel attack and Reload 40Kill Zone. Unofficial fan tool, not affiliated with Games Workshop.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16837301095540311265/57A4B61AD44474528847D0CCB3BD22EEE6B0C52C/",
+      "preview": "https://images.steamusercontent.com/ugc/16837301095540311265/57A4B61AD44474528847D0CCB3BD22EEE6B0C52C/",
+      "keywords": [
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-27T22:28:02+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828658091",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828658091",
+      "title": "Formula D: Scripted",
+      "creator": "",
+      "description": "[h1]Early Access[/h1] This mod is still in the earliest stages of it's development, please be kind and help me out by reporting any bugs you may find while playing it. There are links in the mod's UI to take you to a GitHub page to file issue reports. [h1]Formula D — Scripted[/h1] The Formula D / Formula Dé boards you know, now with the rules built in. Shift gears, roll, and put your car down: the mod reads the dice, prices the move, charges the wear, and keeps the turn order, so the table can just race. [h2]What's automated[/h2] [list] [*][b]Gear dice that roll themselves in.[/b] Drop your gear stick on a slot and that die comes to you. Rolls are read automatically. [*][b]Your legal moves, marked on the board.[/b] After a roll, an icon on each space shows what ending there costs: a full move, braking, overshooting a corner, a collision risk, or going out. [*][b]Wear handled for you.[/b] Braking, overshooting, skipped gears, collisions and engine strain are charged as they happen. [*][b]Corner stops counted.[/b] Miss too many and you're out. [*][b]Turn order kept[/b] by position, gear and line, with a race panel showing who plays next. [*][b]Black die checks resolved automatically:[/b] start, engine strain, collisions and grid order. [*][b]Laps and the finish:[/b] 1 to 99+ laps, finishers and the result announced. [*][b]Undo[/b] for anything that went wrong. [*][b]Your dashboard on screen[/b], visible only to you, so you can shift and adjust wear without leaning over the table. [/list] [h2]Rules[/h2] [list] [*][b]Formula D basic rules:[/b] one pool of wear points. [*][b]Formula D advanced rules:[/b] six wear zones (tires, brakes, gearbox, body, engine, suspension), slipstreaming, spins, pit stops timed by the black die, and damage markers left on the track. [/list] Pick the rules at setup. The rulebooks are in the game: the Rules button on the race panel puts one in front of you. [h2]Tracks[/h2] Fully scripted: Austin, Buddh, Hockenheim, Monaco, Sebring, Singapore, Sochi and Valencia, plus Formula Dé circuits 1–3. The remaining Formula Dé boards can be raced on now with wear tracked by hand, and are being mapped one by one. [h2]How to play[/h2] [list] [*]Take a coloured seat (up to 10 players). You're dealt a dashboard and a car. [*]The host picks the track, rules and laps, rolls for the grid, and presses Start. [*]On your turn: move your gear stick, roll the die that arrives, and put your car down. That's your turn. [/list] The mod advises and never blocks. If it disagrees with you, put the car where you want it and play on. [h2]Bugs and ideas[/h2] Use the Report button in game, or open an issue on GitHub (a screenshot helps): [url=https://github.com/c4tachan/tts-formula-d-2.0/issues]github.com/c4tachan/tts-formula-d-2.0[/url] The mod's source is there too, and every release can be downloaded from it as a save file. [h2]Credits[/h2] Built on [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2092460061]Formula D: Big Box Mod[/url] by Oof, whose boards, cars and components this mod scripts. Formula D is published by Zygomatic / Asmodee. This is an unofficial fan project; please support the publisher by buying the game.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15483406368109446533/6794B95FF21B7E8880742CB1AAD930DD46FD889C/",
+      "preview": "https://images.steamusercontent.com/ugc/15483406368109446533/6794B95FF21B7E8880742CB1AAD930DD46FD889C/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-28T02:46:44+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828659588",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828659588",
+      "title": "Cacho Alalay - Scripted",
+      "creator": "",
+      "description": "[h1]Cacho Alalay[/h1] [b]El juego de dados de Bolivia · Bolivia's dice game · Боливийская игра в кости[/b] [b]Español[/b] El cacho alalay totalmente scripteado para 1 a 8 jugadores. Tira 5 dados con el cubilete (o con R), guarda los que te sirven, voltea con F y anota en tu hoja con un clic. El script lee los dados, calcula los puntajes, pasa los turnos y hace cumplir las reglas. [b]English[/b] Fully scripted Cacho Alalay for 1–8 players. Roll 5 dice with the cup (or R), keep what you need, flip with F and score on your sheet with a click. The script reads the dice, calculates scores, handles turns and enforces the rules. Table buttons are in Spanish; an English manual is included. [b]Русский[/b] Полностью автоматизированный Cacho Alalay для 1–8 игроков. Бросайте 5 костей стаканом (или R), оставляйте нужные, переворачивайте на F и записывайте очки кликом. Кнопки на столе — на испанском; правила игры на русском языке прилагаются.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16153493884673019608/E8ED07BB14CA66999638FE4DB018DA78F74112EB/",
+      "preview": "https://images.steamusercontent.com/ugc/16153493884673019608/E8ED07BB14CA66999638FE4DB018DA78F74112EB/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-28T02:51:55+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828730064",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828730064",
+      "title": "Textless MTG: mtg full art converter",
+      "creator": "",
+      "description": "A simple converter to turn your Magic: The Gathering cards into a full-art, textless cards. The card names/abilities are still in the object name and desc. [h2]How to use[/h2] [list] [*]Put a deck or cards on the [b]deck[/b] spot. [*]Press [b]Crop[/b] to swap every card to its art. [*]Press [b]Restore text[/b] to put the original faces back. [/list] [h2]Features[/h2] [list] [*]Works with decks from any importer. [*]Keeps alternate art and Secret Lair printings. [*]Double-faced cards get art on both sides. [*]Hovering a card still shows its name and text. [/list] [h2]Notes[/h2] [list] [*]Art comes from Scryfall, so it can look a little soft. [*]Some tokens or emblems might not be found. Those cards stay as they are. [/list]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11620077925871779422/C13645CE846DD63DCD9028E10F1B81FE4FBECCAC/",
+      "preview": "https://images.steamusercontent.com/ugc/11620077925871779422/C13645CE846DD63DCD9028E10F1B81FE4FBECCAC/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story",
+        "Stamp Swap"
+      ],
+      "created_at": "2026-10-28T07:23:46+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828793261",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828793261",
+      "title": "Through the Mountains [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/475595/through-the-mountains][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Through the Mountains is a sequel to Through the Desert, designed by Dr. Reiner Knizia. Through the Mountains is a route-building game where careful placement and planning ahead is required for players to navigate the board and the nuanced scoring rules. [h3]Key Features[/h3] • One-Click Setup • Random First Player Selection • Snap Points • Deluxe Components [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Reiner Knizia [b]Artist:[/b] Damien Mammoliti [b]Publisher:[/b] Allplay [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12357876227097903933/34B4DCA093E590F98A6C9C16522551D8093247FC/",
+      "preview": "https://images.steamusercontent.com/ugc/12357876227097903933/34B4DCA093E590F98A6C9C16522551D8093247FC/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-28T10:48:21+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828827352",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828827352",
+      "title": "A Simple Life",
+      "creator": "",
+      "description": "A Roll and Write game about farming. https://clintghosngames.itch.io/a-simple-life-roll-and-write Left mouse click to mark a circle, right click to check, and middle mouse click to cross.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13677591560257956072/51DF64D8CEA81857F3EC8568C7B2D590FA825BE0/",
+      "preview": "https://images.steamusercontent.com/ugc/13677591560257956072/51DF64D8CEA81857F3EC8568C7B2D590FA825BE0/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-28T12:16:08+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3828964268",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828964268",
+      "title": "Phantom of the Opera",
+      "creator": "",
+      "description": "The Phantom of the Opera is a tense two-player trick-taking duel inspired by Gaston Leroux’s classic tale. One player is the Phantom, striving to compose a perfect musical score, while the other is Christine, trying to disrupt his melody and break free. Over two rounds of ten tricks each, players follow suit when possible, use trump and “super trump” (superior to trump) suits to capture or evade tricks. The “Number on the Seal” adds tension by triggering card exchanges and high-stakes scoring. To succeed, the Phantom must win and lose specific tricks as shown on the music sheet, while Christine’s goal is to disrupt his composition at every turn. If the Phantom completes the score within two rounds, he wins; otherwise, Christine escapes his grasp. With simple rules, layered tactics, and a dramatic push-pull over every trick, The Phantom of the Opera turns every hand into a battle of timing and precision.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11813541710376316901/F7FB1BCB253A3A80136B67C9B86C8AC72001F266/",
+      "preview": "https://images.steamusercontent.com/ugc/11813541710376316901/F7FB1BCB253A3A80136B67C9B86C8AC72001F266/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Duel of Meloch"
+      ],
+      "created_at": "2026-10-28T16:40:27+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829018352",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829018352",
+      "title": "Peasant Yard",
+      "creator": "",
+      "description": "Managing your own homestead is no easy task! Expand your pens, trade at the market, send helpers to town, and breed new elite lineages. Prove to your neighbors that your peasant yard is the most prosperous in the county! Rulebook: https://docs.google.com/document/d/1hbUFxpMLKq0rZCTdjXxw6QozQ8QO515EBB-TAL2fXLg/edit?usp=sharing My Telegram Channel: https://t.me/AlinasBoardGames Feedback Form: https://forms.gle/ychDWjRxnpHerKM28",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17936883633389755502/8B40029797E49DD5344C55B79A3AEDCCDE0F5B8C/",
+      "preview": "https://images.steamusercontent.com/ugc/17936883633389755502/8B40029797E49DD5344C55B79A3AEDCCDE0F5B8C/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-28T18:17:02+00:00",
+      "found_at": "2026-10-28T19:37:08.202151+00:00",
+      "is_new": true
+    },
+    {
       "id": "3827115571",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827115571",
       "title": "MTG EDH Horde Fixed",
@@ -125,7 +298,7 @@
       ],
       "created_at": "2026-10-25T16:19:43+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827777486",
@@ -143,7 +316,7 @@
       ],
       "created_at": "2026-10-26T16:28:22+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827935846",
@@ -159,7 +332,7 @@
       ],
       "created_at": "2026-10-26T21:26:54+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827938234",
@@ -175,7 +348,7 @@
       ],
       "created_at": "2026-10-26T21:31:02+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827939637",
@@ -190,7 +363,7 @@
       ],
       "created_at": "2026-10-26T21:33:27+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827954706",
@@ -210,7 +383,7 @@
       ],
       "created_at": "2026-10-26T22:03:59+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827961682",
@@ -225,7 +398,7 @@
       ],
       "created_at": "2026-10-26T22:17:28+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827962675",
@@ -241,7 +414,7 @@
       ],
       "created_at": "2026-10-26T22:19:20+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827988157",
@@ -257,7 +430,7 @@
       ],
       "created_at": "2026-10-26T23:13:31+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828014405",
@@ -273,7 +446,7 @@
       ],
       "created_at": "2026-10-27T00:11:02+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828172605",
@@ -291,7 +464,7 @@
       ],
       "created_at": "2026-10-27T08:46:31+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828422308",
@@ -306,7 +479,7 @@
       ],
       "created_at": "2026-10-27T18:09:09+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828439379",
@@ -321,7 +494,7 @@
       ],
       "created_at": "2026-10-27T18:39:55+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828447545",
@@ -336,7 +509,7 @@
       ],
       "created_at": "2026-10-27T18:54:09+00:00",
       "found_at": "2026-10-27T19:27:12.454646+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827192497",
