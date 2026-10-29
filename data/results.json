@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-28T19:37:13.979416+00:00",
+    "completed_at": "2026-10-29T19:40:38.100673+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-28T19:37:08.202151+00:00",
+    "started_at": "2026-10-29T19:40:30.961275+00:00",
     "window_days": 7,
-    "created_after": 1792956440,
-    "created_before": 1793216228,
+    "created_after": 1793043433,
+    "created_before": 1793302830,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-28T19:37:13.979416+00:00",
-    "new_items_added": 11,
+    "last_successful_scan": "2026-10-29T19:40:38.100673+00:00",
+    "new_items_added": 13,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,215 @@
   ],
   "items": [
     {
+      "id": "3828339232",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828339232",
+      "title": "[CN] 幽灵盛宴 Spooktacular · 简体中文版（含 Bride 扩展）",
+      "creator": "",
+      "description": "Spooktacular（幽灵盛宴）+ Bride of Spooktacular 简体中文版。 ━━━━━━━━━━━━━━━━━━━━ 【汉化】xx1257 ━━━━━━━━━━━━━━━━━━━━ 本版全部卡面汉化由 xx1257 完成：本体与 Bride 扩展的角色规则卡、卡牌、异化牌、阴影指示物均为其译制成果。本人负责整合、图集打包与工坊发布。 xx1257 的初代汉化作品： https://steamcommunity.com/sharedfiles/filedetails/?id=3426988103 ━━━━━━━━━━━━━━━━━━━━ 【10/29 更新】全量替换为 xx1257 版 ━━━━━━━━━━━━━━━━━━━━ · 角色规则卡 10 张：全部替换（死总统、恐猫症、猎头者、Gorgonzola、闪亮玩具、怪兽俱乐部、地狱电梯、他们会飞、龙首、尖叫超市） · 扩展卡牌 39 张：全部替换 · 异化牌 15 张：替换 · 阴影指示物 9 个：替换（原 8 个 + 补译第 9 个「弃掉你的手牌」） ━━━━━━━━━━━━━━━━━━━━ 【已知问题】译文有误的卡牌 ━━━━━━━━━━━━━━━━━━━━ · CARRO ASSASSINO（异化版 Killer Car） 卡面「搭载乘客 / PICK UP A PASSENGER」的说明与英文原版不一致。 按英文原文应为：你可以把乘客座位上的一名客人放进你所在的房间，并触发对应颜色的效果；也可以把你房间里一名不同颜色的客人放进颜色匹配的空座位（此情况不触发效果）。 五种颜色的效果依次是：抽 3 张牌 / 从你所在房间的每名玩家那儿各偷 2 分 / 吞噬 / 惊吓 / 把车放进任意房间。 遇到此卡时请以本说明或英文原版为准。 ━━━━━━━━━━━━━━━━━━━━ 【已知问题】仍为英文的异化牌（6 张） ━━━━━━━━━━━━━━━━━━━━ · The Listener（ESCONDIDO MIS PROFUNDEZAS） · 狼人群 MANADA · 最後期限 DEADLINE（标题已中文，正文英文） · ИГРА ДЬЯВОЛА II（恶魔游戏） · Doctor Terror's Basement of Horrors · Lantern Glow: Rise from the Depths 这 6 张的规则与英文原版一致，游玩时对照英文原版卡牌即可，不影响游戏进行。 ━━━━━━━━━━━━━━━━━━━━ 【10/28 更新】规则卡版式精修 ━━━━━━━━━━━━━━━━━━━━ · 规则卡按原版版式重新排版：标题居中、正文左对齐、字距行距调整 · 修复部分卡面板文字偏位、换行断字、字号过小的问题 ━━━━━━━━━━━━━━━━━━━━ 英文原版（原作者官方订阅，建议一起订阅） ━━━━━━━━━━━━━━━━━━━━ https://steamcommunity.com/sharedfiles/filedetails/?id=3319498606 原作：Level 99 Games。本作仅为汉化，版权归原作者所有。",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11266972017560891167/FBA32DD9489B6AF3A93B093DCB8ED78CA90E631C/",
+      "preview": "https://images.steamusercontent.com/ugc/11266972017560891167/FBA32DD9489B6AF3A93B093DCB8ED78CA90E631C/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-10-27T15:37:55+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829026544",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829026544",
+      "title": "Cardalyzer",
+      "creator": "",
+      "description": "[h1]Cardalyzer: make your own deck-builder for Tabletop Simulator[/h1] Cardalyzer is a deck-building card game engine. You list your cards in a spreadsheet, write what each one does in a short form like [b]gold:2; draw:1[/b], and Cardalyzer does the rest: it deals the cards, runs every card's effects, keeps track of whose turn it is, and lays out the table and the on-screen buttons. [b]No programming needed[/b] for most games. Code (Lua) is only for the rare card that does something unusual. This save comes with [b]Ember Guilds[/b], a small original sample game: buy cards from a changing market row, fight with Might, build buildings, and be the last guild standing. Load it, press [b]New Game[/b], and play. [h2][url=https://github.com/Oreo12/Cardalyzer/blob/main/docs/GettingStarted.md]» Getting Started guide[/url][/h2] Step by step: play the sample, install the tools, and build your first game. [hr][/hr] [h2]How to play the sample[/h2] [olist] [*]Load this save and sit at [b]White[/b]. [*]Press [b]New Game[/b] in the panel at the bottom right. [*]Pick 2, 3 or 4 players and press [b]Play Game[/b]. [*]Drag cards from your hand onto the table to play them, use the [b]Buy[/b] buttons on the market, then [b]End Turn[/b]. [/olist] New to it? Press [b]Tutorial[/b] in the New Game menu for a short guide. [hr][/hr] [h2]What you can make[/h2] Cardalyzer runs deck-builders: games where you play cards from your hand, they give you things, you spend them, then you clean up and draw a new hand. Both common kinds work: [list] [*][b]Trade-row games[/b], where a row of cards for sale keeps changing. [*][b]Supply games[/b], where the same piles are for sale all game. [/list] [h2]Features[/h2] [h3]Cards and effects[/h3] [list] [*]Effects written as plain keywords: gain money or attack power, draw, discard, remove cards from your deck, take a free card, \"choose one\". [*]Your own resources and stats (Gold, Might, Health, Honor, anything), which become keywords straight away. [*]Faction bonuses, buildings that stay in play, and guards that must fall first. [*]Cards with several types, abilities that unlock at a level, and effects that wait for your next turn. [*]Lua for unusual cards, with plenty of hooks to build on. [/list] [h3]Turns and winning[/h3] [list] [*]2 to 4 players. [*]Turns in phases (such as Action, then Buy), with costs for playing and buying. [*]Win by knocking everyone out, or by points: when piles run out, after a number of rounds, or when a shared pool is used up. [*]Attacks on every other player, and reactions they can reveal to block them. [*]Monsters to defeat in the market, and cards to hire for a turn. [*]Secret objectives, starting kits each player picks, card sets the host switches on and off. [/list] [h3]The table and the screen[/h3] [list] [*]Restyle everything on screen: colours, panels, buttons, symbols, the title picture, and where each panel sits. [*]Rename every word the game shows, for your own terms or a translation. [*]Play mats under each player and the market, which players can choose from sets you provide. [*]Seats along the sides, round the table, along one side, or exactly where you want them. [*]Your own card sheets (for example on Steam Cloud), or placeholder art drawn for you. [*]Rulebook PDFs laid out beside the table with one button. [*]Each player can resize, move or hide the buttons, so nothing covers TTS's own menus. [*]Save and reload at any moment, even in the middle of a choice. [/list] [hr][/hr] [h2]Limits[/h2] Cardalyzer doesn't (yet) have instants or interrupts on other players' turns beyond reactions, combat between individual cards, boards or tokens, more than four players, or teams. Games like Magic: The Gathering aren't a good fit. The full list is on the [url=https://github.com/Oreo12/Cardalyzer/blob/main/docs/Limits.md]Limits and compatibility[/url] page. [b]Cardalyzer sets up its own seats:[/b] it removes the table's other hand zones so none of them can catch a player's cards. [hr][/hr] [h2]Coming next[/h2] [list] [*][b]Co-operative games:[/b] players win or lose together against an automated enemy with its own turns and deck, plus a shuffled turn-order deck. [*][b]Several games in one save:[/b] switch between games from a menu, each keeping its own progress. [/list] [hr][/hr] [h2]Links[/h2] [list] [*][url=https://github.com/Oreo12/Cardalyzer/blob/main/docs/GettingStarted.md]Getting Started[/url] [*][url=https://github.com/Oreo12/Cardalyzer/blob/main/docs/Playing.md]Playing a game: buttons, menus and settings[/url] [*][url=https://github.com/Oreo12/Cardalyzer/blob/main/docs/PORTING.md]Porting a deck-builder you know[/url] [*][url=https://github.com/Oreo12/Cardalyzer]Source code, tools and documentation on GitHub[/url] [*][url=https://github.com/Oreo12/Cardalyzer/issues]Report a bug or ask for a feature[/url] [/list] Free and open source (MIT licence). The sample game's cards and art are original.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11976861658021491115/3472DAE20B5820C4E9AD05381D9D01F3EC8FCE46/",
+      "preview": "https://images.steamusercontent.com/ugc/11976861658021491115/3472DAE20B5820C4E9AD05381D9D01F3EC8FCE46/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-28T18:31:24+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829072934",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829072934",
+      "title": "Fantasy Tiles [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/480125/fantasy-tiles][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Fantasy Tiles is a strategy game for 2 to 4 players aged 10 and up. Elves, dragons, goblins, dwarves, and other fantasy folk come together to bring to life a kingdom that is as colorful as it is coveted. Place your tiles in rows or columns—grouping identical or entirely different races—leverage existing alignments, trigger their powers, and seek out the most lucrative combinations to rack up the highest score! [h3]Key Features[/h3] • One-Click Setup • Random First Player Selection • Snap Points [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Bruno Cathala, Théo Rivière [b]Artist:[/b] Dan Gartman [b]Publisher:[/b] Next Move Games [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9397077258211917988/01CA5DFF50EA803D35D13B0E0705A525891ADCB8/",
+      "preview": "https://images.steamusercontent.com/ugc/9397077258211917988/01CA5DFF50EA803D35D13B0E0705A525891ADCB8/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-28T19:51:07+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829118695",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829118695",
+      "title": "Unstable Unicorns: Ultimate Collection - Russian Version",
+      "creator": "",
+      "description": "[h1]UNSTABLE UNICORNS[/h1] [b]An unofficial Russian-language collection of Unstable Unicorns for Tabletop Simulator, featuring base decks, expansions, and exclusive cards.[/b] [h2]About the Game[/h2] Unstable Unicorns is a strategic card game created by Ramy Badie and published by Unstable Games / TeeTurtle. Build your army of unicorns in your Stable, use magic, and sabotage your opponents as they try to build their own unicorn armies. Don't let the cute artwork fool you — this game can get surprisingly ruthless! [b]Players:[/b] 2–8 [b]Card language:[/b] Russian [b]Automation:[/b] None — all actions and card effects are handled manually. [h2]Base Decks[/h2] [list] [*]Unstable Unicorns — 1st Edition [*]Unstable Unicorns — 2nd Edition [*]Control Base Deck — Original Edition (2019) [*]Chaos Base Deck — Original Edition (2019) [*]NSFW Base Deck — Standalone adult-themed deck, 2019 Edition [/list] [h2]Expansions[/h2] [list] [*]Adventures Expansion [*]Christmas Expansion [*]Dragons Expansion [*]Rainbow Apocalypse Expansion [*]Unicorns of Legend Expansion [*]NSFW Expansion — Adult-themed expansion [/list] The collection also includes several exclusive cards. Base decks are available separately, and compatible expansions can be added as desired. [b]Nightmares Expansion[/b] is currently unavailable and is planned to be added in a future update. [h2]Collection Features[/h2] [list] [*]Cards have been collected, organized into decks, and checked for the correct number of copies. [*]Card images, backs, deck boxes, and a game table with designated card zones have been prepared. [*]Some images have been processed, while certain missing cards have been translated and adapted for the Russian version. [/list] [b]Note on Editions:[/b] Most decks use images from older releases. Illustrations, card effect wording, and visual designs may differ from the latest official versions. Since the materials come from different sources, image quality, colors, and fonts may also vary between decks. [h2]Image Sources and Credits[/h2] Special thanks to the creators of the translations, scans, and Print & Play materials used in this collection: [list] [*][url=https://boardgamer.ru/forum/index.php?topic=21871.0]BoardGamer.ru — Unstable Unicorns materials[/url] [*][url=https://tabun.everypony.me/blog/translations/197755.html]Tabun — Translation[/url] — КУБИК В ТУБЕ, Lizard & Ferret [*][url=https://tabun.everypony.me/blog/translations/199068.html]Tabun — Translation[/url] — Lizard & Ferret [/list] The authors of the translations on Tabun also mention that the prepared decks can be printed independently. Deck contents and card counts were additionally verified using [url=https://www.unstablegameswiki.com/]Unstable Games Wiki[/url]. The deck and expansion box images were taken from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3706335791]this Steam Workshop creation[/url]. The background is taken from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=395834480]this Steam Workshop creation[/url]. I am not the creator of the original game, its illustrations, or most of the translations. My contribution consists of collecting, verifying, and processing the materials, as well as adapting them for Tabletop Simulator. [h2]Use of Artificial Intelligence[/h2] Generative AI tools were used to assist with preparing certain images, translating and designing missing cards, creating graphical elements, and designing the Workshop cover image. Most card images come from existing materials rather than being generated from scratch. [h2]Copyright and Ownership[/h2] Unstable Unicorns was created by Ramy Badie. All original materials belong to their respective copyright holders. This is an unofficial fan-made adaptation, is not affiliated with Unstable Games / TeeTurtle, and is not an official digital release of the game. [url=https://unstablegames.com/]Official Unstable Games Website[/url]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15573475881316593451/FE4F166DFBD4C4E42D0BA59984EE9616FBDFE82D/",
+      "preview": "https://images.steamusercontent.com/ugc/15573475881316593451/FE4F166DFBD4C4E42D0BA59984EE9616FBDFE82D/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-28T21:11:49+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829218567",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829218567",
+      "title": "A Grail Vintage(SCR) add on",
+      "creator": "",
+      "description": "# A Grail Vintage *An Unofficial Add-On Game Mode for Sorcery: Contested Realm* **Many seek the Grail, Your Avatar seeks the Cellar.** Welcome to **A Grail Vintage**, a fan-created expansion that combines the strategic combat and exploration of *Sorcery: Contested Realm* with a wine-themed game of mystery, deduction, and discovery. Players must uncover their opponent's secret wine by exploring the Realm, collecting clues, and narrowing down the possibilities. But beware: while you search for answers, your opponent may have other plans for your Avatar. ### What's Included - **Custom Avatars:** Play as the Drunken Monk or Wine Wizard, each with unique wine-inspired abilities. - **The Winebook:** Discover six specially designed wines, each with distinct characteristics. - **Clue System:** Uncover four wine attributes in any order to identify your opponent's secret wine. - **Two Difficulty Levels:** Easy mode features four possible wines, while Hard mode features six. - **Special Game Rules:** Play with preconstructed 40/20 decks and a recurring Sir Perceval to aid your quest. - **Multiple Paths to Victory:** Win through successful deduction or defeat your opponent through traditional Sorcery combat. This expansion is designed to be added to existing Sorcery tables in Tabletop Simulator, offering a new way to enjoy the Realm without replacing the original game. ### Important Notice — Unofficial Fan Content **A Grail Vintage is an independent, unofficial, non-commercial fan-made project.** This modification is **not affiliated with, endorsed by, sponsored by, licensed by, or officially associated with Erik's Curiosa Limited, Sorcery: Contested Realm, or their respective creators, artists, and publishers.** *Sorcery: Contested Realm*, its name, trademarks, artwork, card designs, game text, and related intellectual property remain the property of Erik's Curiosa Limited and/or their respective rights holders. Any references to *Sorcery: Contested Realm* are used solely to identify the original game for which this unofficial expansion was created. No ownership of the original game's intellectual property is claimed. All original game-mode concepts, supplementary rules, and independently created materials are presented as unofficial fan contributions. This modification is intended to be shared freely for personal, recreational, and non-commercial use. It is not an official product and is not intended for sale or commercial exploitation. **This project is created out of appreciation for Sorcery: Contested Realm and with respect for the creators and artists who brought the game to life.** © 2026 Erik's Curiosa Limited. Sorcery: Contested Realm and its associated names and marks are trademarks of Erik's Curiosa Limited. All rights reserved by their respective owners.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17506145149972521928/29E373615AE0D350FFEFC28D7E6D14C3649A8CCE/",
+      "preview": "https://images.steamusercontent.com/ugc/17506145149972521928/29E373615AE0D350FFEFC28D7E6D14C3649A8CCE/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-29T00:52:40+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829366228",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829366228",
+      "title": "Star Wars FFG",
+      "creator": "",
+      "description": "SW RPG, setup to run the campaign \"The Path to True Power\" The rise of the Obsidian Court",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15852865685710909545/E408F3528B64A4AAEE4812057D4D14D8F14D7A12/",
+      "preview": "https://images.steamusercontent.com/ugc/15852865685710909545/E408F3528B64A4AAEE4812057D4D14D8F14D7A12/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-10-29T08:33:37+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829371624",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829371624",
+      "title": "다빈치 코드 (Da Vinci Code / Davinci Code)",
+      "creator": "",
+      "description": "창작마당의 대부분의 다빈치코드들이 플레이어가 숫자를 기억해야 하거나 화면을 돌리면 상대방의 숫자를 볼 수 있는 경우들이 많아 직접 만들었습니다. 대부분의 스크립트들은 ChatGPT 를 사용하여 바이브 했습니다. [h2]구현 기능[/h2] [list] [*][b]'타일 섞기' 버튼[/b]으로 타일을 무작위로 섞을 수 있습니다. [*]핸드에 있는 타일은 [b]자신에게만[/b] 숫자가 보입니다. [*][b]F키[/b]로 타일을 뒤집으면 숫자가 [b]노란색[/b]으로 바뀌며 [b]모두에게 공개[/b]됩니다. (뒤집기 키 사용) [/list] [h2]간단 플레이 방법[/h2] 1. 테이블 중앙의 '타일 섞기' 버튼으로 타일을 섞습니다. 타일은 흑백 각각 0 ~ 11 과 '-' 조커가 있습니다. 2. 각 플레이어는 타일 4개를 가져와 숫자순으로 정렬합니다. (같은 숫자는 검은색이 왼쪽) 3. 차례마다 타일 하나를 가져온 뒤 상대방의 타일 하나를 추측합니다. 4. 성공하면 추가 추측 또는 차례 종료를 선택합니다. 실패하면 가져온 타일을 공개합니다. 5. 마지막까지 비공개 타일이 남은 플레이어가 승리합니다. (기타 세부 룰은 검색하여 참고해주세요.) --- I made this version because many Da Vinci Code mods on the Workshop require players to memorize their own tiles or allow players to see their opponents' numbers by rotating the camera. Most of the scripts were created through vibe coding with ChatGPT. [h2]Features[/h2] [list] [*]Use the [b]'타일 섞기' (Shuffle Tiles) button[/b] to randomly shuffle the tiles. [*]Tiles in your hand show their numbers [b]only to you[/b]. [*]Press [b]F (Flip)[/b] to reveal a tile. Its number turns [b]yellow[/b] and becomes [b]visible to everyone[/b]. [/list] [h2]How to Play (Quick Guide)[/h2] 1. Press the '타일 섞기' (Shuffle Tiles) button in the center of the table. The tiles come in black and white, each numbered from 0 to 11, plus a '-' joker tile. 2. Each player draws 4 tiles and arranges them in ascending order. (If two tiles have the same number, place the black tile on the left.) 3. On your turn, draw one tile and guess the number of one of your opponents' tiles. 4. If your guess is correct, you can guess again or end your turn. If incorrect, reveal the tile you just drew. 5. The last player with unrevealed tiles wins. (Please refer to the full rules online for additional details.) --- 다빈치 코드 · 다빈치코드 · Da Vinci Code · Davinci Code",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9338941015105996246/50D6971F26AD10E3D37DA039157C11C76FA74D93/",
+      "preview": "https://images.steamusercontent.com/ugc/9338941015105996246/50D6971F26AD10E3D37DA039157C11C76FA74D93/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-29T08:52:23+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829416349",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829416349",
+      "title": "Marvel Champions Expansion - Shadowland Scenario Pack",
+      "creator": "",
+      "description": "I cannot wait to play it with my online friends so I decided to do my first attempt at workshop. I am sharing in case other people also like to try it out",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12499322144287489825/91C55EBF7551C1667D2D5A07C302826D5191B4E1/",
+      "preview": "https://images.steamusercontent.com/ugc/12499322144287489825/91C55EBF7551C1667D2D5A07C302826D5191B4E1/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-29T11:02:33+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829432868",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829432868",
+      "title": "Seagrass [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/465891/seagrass][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] In Seagrass, players take on the role of marine naturalists, exploring the many reefs and colonies of creatures that thrive among these expanding and diverse “rainforests of the sea.” Seagrass is an approachable strategy game with surprising depth and layered interaction. On your turn, simply expand a colony of aquatic creatures or expand a reef. Your colonies score you more points the bigger they get, and they help you compete for majorities around reefs. Expanding reefs will increase their point value and help you replenish your hand of tiles, but expanding a reef will also make it a more juicy target for your opponents! Playing out multiple tiles of the same type will grant powerful turns, but spreading out your plays will allow you to score the same colonies more times! Decisions are a tricky strategic balance in this underwater ecosystem. Seagrass is the next title in Bitewing Game’s Crown Jewel Selection. The game is an evolution of Trevor Benjamin and Brett J. Gilbert’s Maya, introducing many innovations by: - Providing two game boards featuring tight interaction - Introducing special creature tiles with powerful abilities - Focusing the end-game trigger to be more exciting and impactful - Hiding and balancing the scoring for a more tense competition - Creating tough trade-offs with the new Discovery expansion - Broadening the appeal and approachability with stunning aquatic illustrations by Alisha Giroux [h3]Key Features[/h3] • One-Click Setup • Random First Player Selection • Snap Points [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Trevor Benjamin, Brett J. Gilbert [b]Artist:[/b] A. Giroux [b]Publisher:[/b] Bitewing Games [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13798005411074843698/1391DBA9F5A48578D5B8FB738B1276E63A1BC7F4/",
+      "preview": "https://images.steamusercontent.com/ugc/13798005411074843698/1391DBA9F5A48578D5B8FB738B1276E63A1BC7F4/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-29T11:43:06+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829448899",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829448899",
+      "title": "Un Verano Sin Ti",
+      "creator": "",
+      "description": "Un Verano Sin Ti (Spanish pronunciation: [um beˈɾano sin ˈti]; transl. A Summer Without You) is the fourth solo studio album, and fifth overall, by Puerto Rican rapper and singer Bad Bunny. It was released on May 6, 2022, by Rimas Entertainment, following nearly two years after the release of his previous record El Último Tour Del Mundo (2020). Comprising twenty-three tracks, the album is primarily a reggaeton, cumbia, indie pop and psychedelia record, and features guest appearances from Chencho Corleone, Jhayco, Tony Dize, Rauw Alejandro, Bomba Estéreo, the Marías, Buscabulla, and frequent collaborator Tainy.[3]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18178417751610998401/01832739181F8FF7C7848FE80824FC449A449CEA/",
+      "preview": "https://images.steamusercontent.com/ugc/18178417751610998401/01832739181F8FF7C7848FE80824FC449A449CEA/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-29T12:20:02+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829449830",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829449830",
+      "title": "Omen (Disclosure song)",
+      "creator": "",
+      "description": "\"Omen\" is a song by the English electronic music duo Disclosure. It features vocals from English singer Sam Smith. It was released as a digital download on 27 July 2015, by Island Records.[2] It is the second single from Disclosure's second studio album, Caracal (2015), with the acoustic version being released on the deluxe/drowning shadows edition of Smith's debut album In the Lonely Hour (2014). following \"Holding On\". It was written by Guy Lawrence, Howard Lawrence and Smith and co-written by Jimmy Napes.[3] It is the second collaboration between Smith and Disclosure, following \"Latch\" in 2012. The song charted in multiple countries and is featured on the soundtrack for the video game, FIFA 16.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17479584060028601739/05A902F4A24B0CA1401980B0CB8F426666556FA2/",
+      "preview": "https://images.steamusercontent.com/ugc/17479584060028601739/05A902F4A24B0CA1401980B0CB8F426666556FA2/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-29T12:22:27+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829487754",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829487754",
+      "title": "Warhammer 40K Orks Ghazghkull Dice",
+      "creator": "",
+      "description": "Bring the brutal power of the Orks to your tabletop with these custom Ghazghkull-inspired dice! Featuring a dark black marble finish, white pips, and the iconic white skull with red accents on the sixth face, these dice are perfect for Ork Warbosses ready to krump some enemies. Designed for use in Tabletop Simulator, these custom dice bring the savage spirit of the Waaagh! to your virtual battles. WAAAGH! LET'S GET STUCK IN!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18352074699978963446/5EDD468C88BF4BD3FABF92A59C12DABE621E09A0/",
+      "preview": "https://images.steamusercontent.com/ugc/18352074699978963446/5EDD468C88BF4BD3FABF92A59C12DABE621E09A0/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-10-29T13:37:05+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829686983",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829686983",
+      "title": "MTG EDH 6-player (Nerou Edit)",
+      "creator": "",
+      "description": "Just another 6 player MTG Table I personalized for my friends and I. It includes snapping points for 5 dedicated token slots and snaps for land points. Disclaimer: I am not the original creator of this table, I simply edited by adding to it and customizing it to mine and my friends needs. I am not responsible for any coding issues within the board. Enjoy",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18175963727540740968/5ACA1BE2EFEA6EABE5E04527471228F0F7230289/",
+      "preview": "https://images.steamusercontent.com/ugc/18175963727540740968/5ACA1BE2EFEA6EABE5E04527471228F0F7230289/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-29T19:04:48+00:00",
+      "found_at": "2026-10-29T19:40:30.961275+00:00",
+      "is_new": true
+    },
+    {
       "id": "3827884462",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3827884462",
       "title": "(V2) Electors, The Occult Card Game TTS Version 2",
@@ -126,7 +335,7 @@
       ],
       "created_at": "2026-10-26T19:50:25+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827952075",
@@ -142,7 +351,7 @@
       ],
       "created_at": "2026-10-26T21:58:25+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828551135",
@@ -158,7 +367,7 @@
       ],
       "created_at": "2026-10-27T22:13:29+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828558003",
@@ -174,7 +383,7 @@
       ],
       "created_at": "2026-10-27T22:28:02+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828658091",
@@ -189,7 +398,7 @@
       ],
       "created_at": "2026-10-28T02:46:44+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828659588",
@@ -204,7 +413,7 @@
       ],
       "created_at": "2026-10-28T02:51:55+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828730064",
@@ -221,7 +430,7 @@
       ],
       "created_at": "2026-10-28T07:23:46+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828793261",
@@ -236,7 +445,7 @@
       ],
       "created_at": "2026-10-28T10:48:21+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828827352",
@@ -251,7 +460,7 @@
       ],
       "created_at": "2026-10-28T12:16:08+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828964268",
@@ -268,7 +477,7 @@
       ],
       "created_at": "2026-10-28T16:40:27+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829018352",
@@ -283,7 +492,7 @@
       ],
       "created_at": "2026-10-28T18:17:02+00:00",
       "found_at": "2026-10-28T19:37:08.202151+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827115571",
