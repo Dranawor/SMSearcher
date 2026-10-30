@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-29T19:40:38.100673+00:00",
+    "completed_at": "2026-10-30T19:26:29.501423+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-29T19:40:30.961275+00:00",
+    "started_at": "2026-10-30T19:26:23.213508+00:00",
     "window_days": 7,
-    "created_after": 1793043433,
-    "created_before": 1793302830,
+    "created_after": 1793130038,
+    "created_before": 1793388383,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-29T19:40:38.100673+00:00",
-    "new_items_added": 13,
+    "last_successful_scan": "2026-10-30T19:26:29.501423+00:00",
+    "new_items_added": 9,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,148 @@
   ],
   "items": [
     {
+      "id": "3829715044",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829715044",
+      "title": "MTG EDH 6-player (Nerou Edit)",
+      "creator": "",
+      "description": "Just another 6 player MTG Table I personalized for my friends and I. It includes snapping points Lands row. Disclaimer: I am not the original creator of this table, I simply edited by adding to it and customizing it to mine and my friends needs. I am not responsible for any coding issues within the board.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15571059617082926783/89AA6128CE8B9ACCB7504E26D8CBBD0838F3B197/",
+      "preview": "https://images.steamusercontent.com/ugc/15571059617082926783/89AA6128CE8B9ACCB7504E26D8CBBD0838F3B197/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-29T19:52:00+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829733078",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829733078",
+      "title": "The Anarchy (Scripted)",
+      "creator": "",
+      "description": "[h1]The Anarchy - Scripted Edition[/h1] [i]England, 1135. King Henry I is dead, the realm is torn between Stephen and Matilda, and you have a domain to run. Spend your time on strategy, not on counting serfs.[/i] This is a fully scripted version of [b]The Anarchy[/b] by Garphill Games. The setup, the dealing and the bookkeeping are handled for you, so every round goes straight to the fun part: building your domain, defending your castle and storming the enemy's walls. [h2]A big thank you[/h2] This edition is built on the excellent mod by [b]Shem[/b]: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3010368500]The Anarchy (Workshop item 3010368500)[/url]. All the components, the table layout and the careful work of getting every card, token and sheet into Tabletop Simulator are theirs. I only added scripting on top. If you enjoy this version, please go give the original a thumbs up! [h2]What the scripting does for you[/h2] [list] [*][b]One-click setup[/b] - choose any of the 6 scenarios (Classic or Siege, Easy / Standard / Hard) and press Setup. The right Scenario Cards, Plunder Tiles, Tents, decks and First Player Marker are put in place for the number of seated players. Solo is supported, including the Rival Tent. [*][b]New Round[/b] - Attack and Final Escalade Cards are collected, reshuffled and dealt in turn order: one Escalade plus as many Attack Cards as the round number, facedown on the closed-eye spaces. Fresh Path Cards are revealed automatically. [*][b]Choose your Path Card[/b] - click [b]Choose[/b] on a Path Card and it slides under your Player Board in the next empty space. Your Workers and Resources from the card and your Production Tracks land right on your board. [*][b]Click to fill in your sheet[/b] - click any white box on your sheet and a marker of exactly the right size appears. Round boxes cycle through filled, cross and plus, so Discontent and Tactics work too. Right-click removes a marker. [*][b]Production that keeps up[/b] - fill in a production circle on your sheet and your personal Production panel updates instantly. [*][b]A UI to match the game[/b] - oak, parchment and gold panels, with the game's own icons for every resource. [/list] [h2]How to play[/h2] [olist] [*]Take a seat at [b]Red, Blue, Yellow or Green[/b]. [*]Choose a scenario in the panel at the top right and press [b]Setup[/b]. [*]At the start of each round, press [b]New Round[/b]. [*]In turn order, click [b]Choose[/b] on a Path Card. [*]Click the white boxes on your sheet as you take actions, then defend your castle! [/olist] The rulebook and the solo campaign book are included on the table. [h2]Credits[/h2] [list] [*][b]The Anarchy[/b]: game design by Bobby Hill, illustrations and graphic design by Sam Phillips. (c) Garphill Games. If you like the game, please support the publisher and buy a copy: [url=https://www.garphill.com]garphill.com[/url] [*][b]Original Tabletop Simulator mod[/b]: Shem ([url=https://steamcommunity.com/sharedfiles/filedetails/?id=3010368500]Workshop item 3010368500[/url]) [*][b]Scripting and UI[/b]: REMkingz [*][b]UI fonts[/b]: UnifrakturMaguntia and IM Fell English SC (SIL Open Font License) [/list] Found a bug or have an idea? Leave a comment below.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15773190508523078025/25EA346B54FEFEF3439435A162C0CF1FCF0A3E5F/",
+      "preview": "https://images.steamusercontent.com/ugc/15773190508523078025/25EA346B54FEFEF3439435A162C0CF1FCF0A3E5F/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story",
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-29T20:22:53+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829777042",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829777042",
+      "title": "[Lazy] AION2 \"Icons\" 1681 Items / 354 Spells",
+      "creator": "",
+      "description": "Hello. People usually call me “Lazy”—it’s both my curse and my excuse. I’ve been a Game Master for quite some time, but these days I mostly create various types of content for friends or on commission. And I share this content in the form of a friendly message like this one. If you search my tag in the workshop or check out my profile, you’ll find a wide variety of equipment icons from different worlds—ranging from sci-fi and fantasy to zombie survival games or even more niche genres. Icons, backpacks, and all sorts of useful little items you can use. I don’t ask for anything in return for using my content—I’m sharing it completely for free. However, if you use it, say, in a video, or upload your gameplay to YouTube or something similar, please send me the videos via DM or in the comments. I’d be interested to see from the outside how my creations are being used to improve future projects. Also, if you have any suggestions, requests, or—to put it bluntly—orders to port certain icons from games or anything else, feel free to reach out to me, and I’ll see what I can do. Also, if certain items aren't loading, they may be stored on different servers. While most of my content is stored on Steam Cloud servers, unfortunately, not all of it is. If something isn't loading, try reloading the desktop a few times. Keep doing this until everything appears in your library in the tabletop’s cache. If that doesn’t work completely, take a look. If the item contains a link to VK, your requests might be blocked due to a VPN, workarounds, or because you’re trying to load too much from there at once. If it’s just individual resources, I can’t really offer any advice on that.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14723567927882228135/F7532A9A68096600C6665C6A362F03DDECDB47EB/",
+      "preview": "https://images.steamusercontent.com/ugc/14723567927882228135/F7532A9A68096600C6665C6A362F03DDECDB47EB/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-29T21:37:19+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829788994",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829788994",
+      "title": "Heartless",
+      "creator": "",
+      "description": "Command an army of warriors and engage in combat with your foes! Equip powerful items, cast magical spells and lay devious traps to gain the edge in battle. This game includes, two complete decks, playmat and a rulebook. Have fun and happy slaying!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14113858192836301156/E37E178A9F183B0C5333D8C2BA680E57D3525E7B/",
+      "preview": "https://images.steamusercontent.com/ugc/14113858192836301156/E37E178A9F183B0C5333D8C2BA680E57D3525E7B/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-29T22:01:10+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829794324",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829794324",
+      "title": "NATO: The Cold War Goes Hot – Designer Signature Edition",
+      "creator": "",
+      "description": "[h1]NATO: Designer Signature Edition[/h1] NATO is a division/brigade-level simulation of a Warsaw Pact invasion of Western Europe. The game map depicts the area from Denmark to the Swiss Alps, and from France to Poland. The time frame covers the first 14 days of war, after which one side or the other has usually run out of an army. [h2]Scenarios[/h2] The game offers four different scenarios: [list] [*][b]Scenario 1 — Surprise Attack[/b] — A Warsaw Pact invasion launched from a standing start. [*][b]Scenario 2 — Quiet Preparation[/b] — The Warsaw Pact attempts to prepare for war without alerting NATO. [*][b]Scenario 3 — Extended Buildup[/b] — Both sides build up their forces before war breaks out. [*][b]Scenario 4 — Invasion of Denmark[/b] — An introductory scenario covering the invasion of Denmark. [/list] [url=https://www.compassgames.com/product/nato-designer-signature-edition/][b]BUY THE ORIGINAL GAME[/b][/url] [h1]About This Mod[/h1] This is a restored version of the original [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2866889193]NATO mod[/url], created by [url=https://steamcommunity.com/id/Mathias_Duke]Mathias_Duke[/url]. The mod was recovered from an archive. I recreated all the tokens from scratch and converted them into cards to make handling units faster and allow stacks to be inspected using Tabletop Simulator's built-in tools. I also added a hexagonal grid to make unit positioning and movement across the map easier. [i]Enjoy the game![/i]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16409014656129077411/43341C09EBC6432F5166A338185972F10BDDE442/",
+      "preview": "https://images.steamusercontent.com/ugc/16409014656129077411/43341C09EBC6432F5166A338185972F10BDDE442/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-29T22:13:01+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3829930974",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829930974",
+      "title": "Five Nights at Candy's: Incident Report",
+      "creator": "",
+      "description": "Welcome to Candy's Burgers & Fries, we hope you'll enjoy your stay. Five Nights at Candy's: Incident Report is a board game that utilizes the main system of FNAF: Incident Report to add a Five Nights at Candy's spin on it. Play through a serious of progressively harder nights, with various threats to worry about. Currently only contaians Five Nights at Candy's 1. There are plans to make FNAC 2 and FNAC 3 in the future. It is highly recommended you play the original FNAF: Incident Report before playing this one. Feel free to leave suggestions or notes in the comments below! Play the original FNAF Incident Report here: https://steamcommunity.com/sharedfiles/filedetails/?id=3065135124 Also check out these other Incident Report games! The Joy of Creation Story Mode: https://steamcommunity.com/sharedfiles/filedetails/?id=3789304226 Frickbears 3: https://steamcommunity.com/sharedfiles/filedetails/?id=3785496204 Table Used: https://steamcommunity.com/sharedfiles/filedetails/?id=1222553243 Bags Used: https://steamcommunity.com/sharedfiles/filedetails/?id=953770080",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10222845069535995261/78A947165B3932CE5D2E3D5C967A3273A518A840/",
+      "preview": "https://images.steamusercontent.com/ugc/10222845069535995261/78A947165B3932CE5D2E3D5C967A3273A518A840/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-30T04:11:29+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830086708",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830086708",
+      "title": "MORDHEIM XXI",
+      "creator": "",
+      "description": "this is a map ive made for my humans that ar in a enemy within campain",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9351272807303916229/7935B4DAD4F6333D16CBEE53A0791792C31AD6A5/",
+      "preview": "https://images.steamusercontent.com/ugc/9351272807303916229/7935B4DAD4F6333D16CBEE53A0791792C31AD6A5/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-30T11:56:38+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830099933",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830099933",
+      "title": "Helldivers - Automaton Miniatures",
+      "creator": "",
+      "description": "Miniatures of the Automaton faction from Helldivers 2. Current Roster: -Trooper -Brawler -Commissar -Marauder -MG Raider -Rocket Raider -Berserker -Devastator -Heavy Devastator -Rocket Devastator -Hulk -Bruiser Hulk -Scorcher Hulk -Annihilator Tank -Barrage Tank -Shredder Tank -War Strider -Factory Strider -Dropship FAIR WARNING: The vast majority of models were created and/or edited with generative AI, as the original models proved too unwieldy for Tabletop Simulator.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9439442343405573441/17AEE4463B44AEF0A588C175D4219F20AD294DF4/",
+      "preview": "https://images.steamusercontent.com/ugc/9439442343405573441/17AEE4463B44AEF0A588C175D4219F20AD294DF4/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-30T12:27:23+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830158665",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830158665",
+      "title": "Combo Breaker: Go For Broke",
+      "creator": "",
+      "description": "Feedback Form: https://forms.gle/84tKF6n8uuR2g47G8 [h1]COMBO BREAKER: GO FOR BROKE[/h1] [b]A fast, chaotic fighting-game card battle for 2–6 players.[/b] [i]Combo Breaker: Go For Broke[/i] turns the feel of a classic arcade fighter into a competitive tabletop card game. Build attacks from directional inputs and strikes, chain together character-specific combos, disrupt your opponents with Blocks and Combo Breakers, and finish the fight with devastating Finishing Moves. Every fighter has their own personality, combos, Special Ability, and Finishing Move, giving each character a different approach to the fight. [h1]FEATURES[/h1] [list] [*][b]10 unique playable fighters[/b] [*]Character-specific combo lists [*]Special Abilities unique to every fighter [*]Finishing Moves capable of eliminating weakened opponents [*]Direction and Attack cards inspired by classic fighting-game inputs [*]Blocks and Combo Breakers for defensive counterplay [*]Fast hand management and tactical card play [*]Dedicated character reference cards [*]Integrated in-game rulebook [*]Player-specific rulebook interface — one player browsing the rules will not affect anyone else [/list] [h1]HOW IT PLAYS[/h1] Players fight using [b]Direction[/b] and [b]Attack[/b] cards, building their hands and looking for the inputs needed to execute their fighter's moves. Each fighter has [b]three unique named Combos[/b] printed directly on their Character Profile Card. To perform a Combo Attack, play the four required inputs [b]in the exact order shown[/b]. The numerical values on those cards determine how much damage it deals: [b]COMBO DAMAGE = FIRST CARD VALUE + FOURTH CARD VALUE[/b] The two middle cards form the [b]Combo String[/b] and do not add damage. You can also throw single Attack cards as Normal Attacks, activate your fighter's unique Special Ability, defend yourself with Block Cards, or shut down an opponent's Combo with a Combo Breaker. When an opponent reaches [b]40 Health or less[/b], look for the opening to finish the fight: play any one of your fighter's listed Combos plus a Special Ability Card to attempt their [b]Finishing Move[/b]. Manage your hand, learn your fighter's moveset, anticipate your opponents, and know when to go for broke! [h1]SPECIAL ABILITIES[/h1] Every character has a unique [b]Special Ability[/b] that can manipulate cards, disrupt opponents, alter draw behavior, or change the flow of the fight. Special Ability Cards can also be spent to activate a character's [b]Finishing Move[/b]. [h1]FINISHING MOVES[/h1] Once an opponent falls to [b]40 Health or less[/b], you can attempt to finish them. Play one of your character's listed combos together with [b]1 Special Ability Card[/b] to unleash their Finishing Move. [b]If it connects, that opponent is eliminated.[/b] But the fight isn't over until the move lands — a well-timed [b]Combo Breaker[/b] can still shut the entire attack down. [h1]THE ROSTER[/h1] Fight as: [list] [*][b]Feng-Li[/b] [*][b]Xio-Ling[/b] [*][b]Elliott Rose[/b] [*][b]Frostbite[/b] [*][b]Jinrai[/b] [*][b]Kage Tanaka[/b] [*][b]Keun-Gom[/b] [*][b]Marc Cheezburger[/b] [*][b]Michelle Haggart[/b] [*][b]Tatsu & Kyle[/b] [/list] From wandering martial artists and supernatural warriors to politicians, corporate villains, action stars, and one extremely dangerous bear, every fighter brings something different to the table. [h1]TABLETOP SIMULATOR EDITION[/h1] This Workshop version includes everything needed to play digitally. Press the [b]INSTRUCTIONS[/b] button in the lower-right corner of the screen to open the full rulebook. The manual is displayed [b]independently for each player[/b], so one player browsing the rules will never change the page another player is viewing. [h1]PICK YOUR FIGHTER. GO FOR BROKE! [/h1]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11665578669909529640/5DC6597D3665E8A12C340A7A193E36FD6AFFE746/",
+      "preview": "https://images.steamusercontent.com/ugc/11665578669909529640/5DC6597D3665E8A12C340A7A193E36FD6AFFE746/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-30T14:24:07+00:00",
+      "found_at": "2026-10-30T19:26:23.213508+00:00",
+      "is_new": true
+    },
+    {
       "id": "3828339232",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3828339232",
       "title": "[CN] 幽灵盛宴 Spooktacular · 简体中文版（含 Bride 扩展）",
@@ -125,7 +267,7 @@
       ],
       "created_at": "2026-10-27T15:37:55+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829026544",
@@ -142,7 +284,7 @@
       ],
       "created_at": "2026-10-28T18:31:24+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829072934",
@@ -157,7 +299,7 @@
       ],
       "created_at": "2026-10-28T19:51:07+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829118695",
@@ -175,7 +317,7 @@
       ],
       "created_at": "2026-10-28T21:11:49+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829218567",
@@ -193,7 +335,7 @@
       ],
       "created_at": "2026-10-29T00:52:40+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829366228",
@@ -208,7 +350,7 @@
       ],
       "created_at": "2026-10-29T08:33:37+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829371624",
@@ -224,7 +366,7 @@
       ],
       "created_at": "2026-10-29T08:52:23+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829416349",
@@ -239,7 +381,7 @@
       ],
       "created_at": "2026-10-29T11:02:33+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829432868",
@@ -256,7 +398,7 @@
       ],
       "created_at": "2026-10-29T11:43:06+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829448899",
@@ -272,7 +414,7 @@
       ],
       "created_at": "2026-10-29T12:20:02+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829449830",
@@ -288,7 +430,7 @@
       ],
       "created_at": "2026-10-29T12:22:27+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829487754",
@@ -303,7 +445,7 @@
       ],
       "created_at": "2026-10-29T13:37:05+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829686983",
@@ -319,7 +461,7 @@
       ],
       "created_at": "2026-10-29T19:04:48+00:00",
       "found_at": "2026-10-29T19:40:30.961275+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3827884462",
