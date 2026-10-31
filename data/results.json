@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-10-30T19:26:29.501423+00:00",
+    "completed_at": "2026-10-31T18:36:13.528610+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-10-30T19:26:23.213508+00:00",
+    "started_at": "2026-10-31T18:36:02.610607+00:00",
     "window_days": 7,
-    "created_after": 1793130038,
-    "created_before": 1793388383,
+    "created_after": 1793215589,
+    "created_before": 1793471762,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-10-30T19:26:29.501423+00:00",
-    "new_items_added": 9,
+    "last_successful_scan": "2026-10-31T18:36:13.528610+00:00",
+    "new_items_added": 10,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,162 @@
   ],
   "items": [
     {
+      "id": "3829198363",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829198363",
+      "title": "Rote Maus - Fully Scripted",
+      "creator": "",
+      "description": "===================================================================== ENGLISH - DEUTSCHE VERSION UNTEN ===================================================================== [h1]Rote Maus - Fully scripted[/h1] Rote Maus is a trick-taking card game for 2 to 6 players, with a script that runs the whole game for you: dealing, sorting, trick order, trick stacks, scoring and statistics. Just sit down and play - the script does the rest. [h2]How to play[/h2] Seat 2 to 6 players, press the start button in the welcome window, and follow the on-screen buttons. The first card of a trick sets the colour. The highest card of that colour wins the trick and leads the next one. Red cards score their number, every other card scores 1 point - the fewest points win. [h2]Features[/h2] [list] [*][b]Automatic dealing[/b] - collects the deck, shuffles, and deals clockwise. If the cards don't divide evenly, the first players get one extra card and play the first trick alone. [*][b]Smart hand sorting[/b] - hands are sorted automatically by colour and number. [*][b]Turn order enforced[/b] - the script shows who leads, and cards played out of turn are rejected. [*][b]Trick winner decided for you[/b] - once everyone has played, only the winner sees the \"take trick\" button. [*][b]Trick stacks[/b] - won tricks go face down onto each player's own stack. [*][b]Scoring[/b] - counts the cards in the stacks, checks that all cards are accounted for, and shows the running score. [*][b]Statistics and game end[/b] - a table with every round and the total, and the winner is announced when the game ends. [*][b]Host controls[/b] - chat commands for the host, e.g. !hilfe. [/list] [h2]Share your thoughts and suggestions[/h2] If you find any bug or missing feature, just comment on the mod and I'll try my best to help. I'm also glad to hear your feedback and suggestions. [h2]Credits[/h2] Script by Schmumo. ===================================================================== DEUTSCH ===================================================================== [h1]Rote Maus - Vollständig geskriptet[/h1] Rote Maus ist ein Stichspiel für 2 bis 6 Spieler mit einem Skript, das das ganze Spiel moderiert: Austeilen, Sortieren, Reihenfolge im Stich, Stichstapel, Wertung und Statistik. Einfach hinsetzen und spielen - das Skript erledigt den Rest. [h2]So geht's[/h2] 2 bis 6 Spieler an den Tisch setzen, im Begrüßungsfenster auf Start drücken und den Knöpfen folgen. Die erste Karte eines Stichs bestimmt die Farbe. Die höchste Karte dieser Farbe gewinnt den Stich und spielt den nächsten aus. Rote Karten zählen ihre Zahl, jede andere Karte 1 Punkt - wer am wenigsten Punkte hat, gewinnt. [h2]Features[/h2] [list] [*][b]Automatisches Austeilen[/b] - sammelt das Deck ein, mischt und teilt im Uhrzeigersinn aus. Geht die Verteilung nicht auf, bekommen die ersten Spieler eine Karte mehr und spielen den ersten Stich allein. [*][b]Intelligentes Sortieren[/b] - Handkarten werden automatisch nach Farbe und Zahl sortiert. [*][b]Reihenfolge wird erzwungen[/b] - das Skript zeigt, wer ausspielt, und Karten außer der Reihe werden abgelehnt. [*][b]Stichsieger wird automatisch ermittelt[/b] - haben alle gelegt, sieht nur der Sieger den Knopf \"Stich nehmen\". [*][b]Stichstapel[/b] - gewonnene Stiche landen verdeckt auf dem eigenen Stapel jedes Spielers. [*][b]Wertung[/b] - zählt die Karten in den Stapeln, prüft, dass alle Karten da sind, und zeigt den Spielstand. [*][b]Statistik und Spielende[/b] - eine Tabelle mit allen Runden und der Summe, am Ende wird der Sieger genannt. [*][b]Host-Steuerung[/b] - Chat-Befehle für den Host, z. B. !hilfe. [/list] [h2]Feedback und Vorschläge[/h2] Wenn du einen Fehler oder ein fehlendes Feature findest, schreib einfach einen Kommentar zur Mod, ich helfe so gut ich kann. Ich freue mich auch über Rückmeldungen und Vorschläge. [h2]Credits[/h2] Skript von Schmumo.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17496492049722917481/165DAE96D7D916F6E08EB00F63D7E4DDA30838EF/",
+      "preview": "https://images.steamusercontent.com/ugc/17496492049722917481/165DAE96D7D916F6E08EB00F63D7E4DDA30838EF/",
+      "keywords": [
+        "My Little Scythe",
+        "Red Rising"
+      ],
+      "created_at": "2026-10-29T00:04:23+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830270581",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830270581",
+      "title": "Маленький мир (Small World): полное собрание + пользовательские аддоны",
+      "creator": "",
+      "description": "(Only Russian) Возможно полная сборка настолки. Включены все официальные материалы и избранные материалы сообщества. Без скриптов. Изначальная настройка карты демонстрирует возможную комбинацию игры в 5 человек с сочетанием карт базовой игры/речного мира+небесные острова+подземье (вероятно, будет изменено в будущем). Рекомендуется перед игрой заглянуть в мешочек с материалами коллаборации с Варкрафтом, там будут новые реликвии и достопримечательности, которые можно использовать. Официальные материалы: Small World Cursed Be Not Afraid Royal Bonus Spider's Web Grand Dames Small World: Underworld Small World: Sky Islands Small World: River World Small World: Realms Small World: Tales & Legends Small World: 6 player map Small World: Tunnels Small World: Necromancer Island Small World: The Lost Tribe Crusade Leaders of Small World Small World of Warcraft (только расы, способности и реликвии с достопримечательностями) Пользовательские материалы: Artifacts of Small World от Джека Реды (Jack Reda) - https://boardgamegeek.com/profile/The%20Warp Shoppes of Small World от jrhitch - https://boardgamegeek.com/profile/jrhitch Special Abilities for Leaders от JayProducer - https://boardgamegeek.com/profile/JayProducer Advanced Leaders of Small World от Exit 191 - https://boardgamegeek.com/profile/jeRm! , позже дополненное @darling23 в сборнике Complete Small World Reference (w/ Underground & All Expansions) - https://boardgamegeek.com/profile/darling23 Присутствуют варианты лишь для рас из официальных дополнений и расширений, отсутствует опция для рас из Small World of Warcraft и пользовательских материалов. Можете предлагать свои идеи. Множество пользовательских рас от сообщества Small World с форума Boardgamegeek, большинство из которых вы можете найти здесь - Small World Custom Stuff Compilation 13/03/2014 - https://boardgamegeek.com/thread/973133/article/12217654#12217654 Список новых пользовательских рас: 1. Пожиратели Смерти 2. Некроманты 3. Фараоны 4. Иллитиды 5. Демоны 6. Дриады 7. Гидры 8. Гноллы 9. Вампиры 10. Самураи 11. Спартанцы 12. Наги 13. Ночные эльфы 14. Пандарены 15. Лягухи 16. Совомеды 17. Мыши 18. Мимики 19. Минотавры 20. Фурри (Оборотни) 21. Ангелы 22. Русалки 23. Единороги 24. Трансмогриферы 25. Разбойники 26. Рыцари Реликвии 27. Прокажённые 28. Морозные титаны 29. Кошколюды 30. Старшие драконы 31. Сфинксы Список новых пользовательских способностей: 1. Ловчие 2. Чумные 3. Поречные 4. Автоматонные 5. Удачливые 6. Милосердные 7. Скрытые 8. Погонщики олифантов 9. Открывающие Также добавлены варианты модифицированного геймплея с форума, ЧаВо (FAQ) к базовой игре и её дополнениям, пользовательская карта Тамриеля из вселенной The Elder Scrolls (по идее на 4 игроков). Пиратская пушка для костей в комплекте, всё ради веселья! Основано на работе некого Gleb-а, большое ему спасибо! Благодарю также всех членов сообщества игры и форума BoardGameGeek за проделанную работу. Все права на материалы принадлежат их уважаемым издателям и создателям, данная сборка предназначена для некоммерческого добросовестного пользования, и не является официальным цифровым изданием. Сайт издателя: https://www.daysofwonder.com/",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18369027445339515103/515C0A0ACAB4D0A0D68414CE63A73457E31EA086/",
+      "preview": "https://images.steamusercontent.com/ugc/18369027445339515103/515C0A0ACAB4D0A0D68414CE63A73457E31EA086/",
+      "keywords": [
+        "Braided Skies",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-30T17:25:06+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830393982",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830393982",
+      "title": "Infinity Terrain Kit",
+      "creator": "",
+      "description": "[h1]Infinity Terrain Kit[/h1] Modular terrain for skirmish wargames on a 48\" x 48\" table, made for [i]Infinity[/i]. Ten sets, each in one bag that never runs empty: right-click a bag > Search and drag out what you need. All sizes are in inches (1 TTS unit = 1\"), with stories of 3\" and walkable roofs. [h2]Sets[/h2] [list] [*][b]Building Kit[/b]: grey industrial concrete with amber accents. Square, rectangular, L-shaped and terraced buildings of 1 and 2 stories, ladders, walkways, low walls, posters and graffiti. [*][b]City[/b]: a clean white and teal city with open rooms, stairs, containers, glass walls, street furniture and planters. [*][b]Park City[/b]: round, octagonal and D-shaped towers, trees, hedges, bridges and landings on stilts. [*][b]Armory[/b]: weathered white and orange military buildings with real greebles, signs and posters. [*][b]Alcazaba[/b]: a Moorish desert town with plaster walls, stepped merlons, zellige tiles, domes, arches, palms and a market. [*][b]Xiguan[/b]: full-colour Asian cyberpunk streets with neon, kanji signs, shutters, bamboo and lanterns. [*][b]Scatter[/b]: vehicles in several colours, bins, planters, barriers and street furniture. [*][b]Neon[/b]: neon wall signs, blade signs and billboards in seven colours, switchable on and off. [*][b]Objective Rooms[/b]: an 8\" x 8\" room with double doors for every set. [*][b]Mission Objectives[/b]: consoles, antennas, crates and other objectives, mostly on 40 mm bases. [/list] Every set has [b]S6 walls[/b]: modular 2\", 3\" and 4\" walls, corners, gates, broken sections and hedges, all 2.2\" high, so a 55 mm model hides behind them. [h2]How to use[/h2] [list] [*]Turn on grid snapping (Grid, size 1 or 0.5): buildings have even sizes and land on whole inches. [*]Lock buildings when your table is done (L). Locked, TTS uses the exact collider: minis stand on flat roofs, against parapets and behind walls. [*]Most pieces have several textures: right-click > Choose texture, or Random texture. A piece gets a random one when you first drop it. [*]Posters and decals have their back at z = 0: put them against a wall and lock them. [/list] [h2]Notes[/h2] This is a fan-made terrain kit. It is not affiliated with or endorsed by Corvus Belli. [i]Infinity[/i] is a trademark of Corvus Belli S.L.L. Everything in this kit (models, textures and text) was made for it; it contains no official artwork.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13989946409672554879/EFFFA035236FA41806DE6DAA41D4C5D921B9E9E8/",
+      "preview": "https://images.steamusercontent.com/ugc/13989946409672554879/EFFFA035236FA41806DE6DAA41D4C5D921B9E9E8/",
+      "keywords": [
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-30T20:50:52+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830577841",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830577841",
+      "title": "Revised Warhammer: The Old World Table",
+      "creator": "",
+      "description": "A revised table for Warhammer: The Old World. Modifications include more hands on the table for more spectators, an autopromote tool, a music player, objectives, and rules and board sizing for Battlemarch. I didn't create anything, all models, images, and the base table are taken from other people's impressive work and scans. The original mod by Cube: https://steamcommunity.com/sharedfiles/filedetails/?id=3158964796",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16729279896325048110/A03E85F9CB2898A2571A8E79B76B131C8C521A90/",
+      "preview": "https://images.steamusercontent.com/ugc/16729279896325048110/A03E85F9CB2898A2571A8E79B76B131C8C521A90/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-31T03:13:18+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830656692",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830656692",
+      "title": "Kingsblood",
+      "creator": "",
+      "description": "This game was started by my stepbrother and our group of friends, Originally it was just a little minigame to play during our Fabula Ultima campaign, (Hence the art being from Fabula Ultima), but it has sense turned into a proper game that we love. Now I am trying to share this passion with others through TTSim. We hope you enjoy!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15207206131821780346/267A1E9F1D69E9F68E6D0FE75DE449F4B5BEFB9B/",
+      "preview": "https://images.steamusercontent.com/ugc/15207206131821780346/267A1E9F1D69E9F68E6D0FE75DE449F4B5BEFB9B/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-10-31T06:57:02+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830752874",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830752874",
+      "title": "6x6 | TACTICAL DICE GAME [RU/EN]",
+      "creator": "",
+      "description": "🎲 6x6 | TACTICAL DICE GAME [RU/EN] ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ENGLISH VERSION ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ A fast-paced push-your-luck dice game for 2-6 players (10-60 min). Empty your Pool, avoid traps on the Field, and sabotage your opponents. Got terrible dice luck? This game is for you! Here, rolling 1s is golden, and every unlucky roll gives you compensation to catch up (or make your opponents suffer). 🎯 THE GOAL Be the first to empty your Pool of 6 dice. Roll 1s to score Victory Points. Match a number on the Field to take dice back and gain Energy Points. Unlucky and you took all dice from the Field? No problem! The Mass Dump will make your opponents cry and you laugh as everything changes in a split second. (Who's laughing last now?) ⚡ FEATURES • Push-your-luck mechanics with field traps • Sabotage and dice manipulation abilities • Unique \"Mass Dump\" moment • Auto-balanced for 2-6 players (starting EP compensation) • Fast rounds that keep you on the edge of your seat 📄 RULES Full rules included in English and Russian. Questions? Write in comments or DMs. ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ РУССКАЯ ВЕРСИЯ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ Динамичная push-your-luck игра с кубиками на 2-6 игроков (10-60 мин). Очисти свой Пул, избегай ловушек на Поле и саботируй соперников. Если у вас \"рак кубов\" — эта игра для вас! Здесь единицы на вес золота, а за каждый неудачный бросок вы получите компенсацию, которая поможет добраться до победы (или усложнит жизнь соперникам). 🎯 ЦЕЛЬ Первым избавься от 6 кубов в своём Пуле. Выбрасывай единицы, чтобы получать Победные Очки. Совпал номинал на Поле — забирай кубы и получай Очки Энергии. Не повезло и ты забрал все кубы со стола? Ничего страшного! Массовый сброс заставит противников рыдать от горя, а тебя — смеяться, как всё изменилось за долю секунды. (Кто теперь смеётся последним?) ⚡ ОСОБЕННОСТИ • Push-your-luck механика с ловушками на поле • Способности саботажа и манипуляций с кубами • Уникальный момент \"Массового сброса\" • Автобаланс для 2-6 игроков (стартовая компенсация ОЭ) • Быстрые раунды, которые держат в напряжении 📄 ПРАВИЛА В моде полные правила на английском и русском языках. Как переключить язык: 1. Выберете нужный предмет, язык которого хотите поменять 2. Нажмите на него ПКМ. 3. В списке найдите строку Stage (Состояние) (Выглядит как синяя звездочка * ) 4. Выберете нужный язык (состояние) По всем вопросам пишите в комментарии или личные сообщения. ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 👍 Понравилась игра? Подпишитесь на мод и оставьте отзыв! 🐛 Нашли баг? Напишите в комментариях — исправлю! ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ © 2026 5hyzoid. All rights reserved. Game design & rules by 5hyzoid. ______________________________________________________ #BoardGame #Dice #Strategy #PartyGame #Multiplayer #PushYourLuck #TabletopSimulator #IndieGame #QuickPlay #Competitive #FamilyFriendly #Abstract #2Player #6Player #Casual #Tactical",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16273769098495272117/C166F4307C2C96DC72AA1264B4DA5DBECAD98FA9/",
+      "preview": "https://images.steamusercontent.com/ugc/16273769098495272117/C166F4307C2C96DC72AA1264B4DA5DBECAD98FA9/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-10-31T10:35:02+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830787392",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830787392",
+      "title": "MyGame",
+      "creator": "",
+      "description": "test test test",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9916847314271020022/26C1A408A180F65BCD1FB3FB0658225F3F73630B/",
+      "preview": "https://images.steamusercontent.com/ugc/9916847314271020022/26C1A408A180F65BCD1FB3FB0658225F3F73630B/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-10-31T11:42:08+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830848021",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830848021",
+      "title": "Chip-8 Emulator",
+      "creator": "",
+      "description": "WARNING: This emulator is extremely unoptimized. Tabletop Simulator may lag a lot or even crash. A guide on how to use it: First, set up your keys at Options>Game Keys. I recommend you use the layout shown above the display, as this is the original one used on the COSMAC VIP. You may have to unmap a few keys from Controls to make this work. Next, convert your Chip-8 ROM into a hexadecimal string. You can just use tomeko.net/online_tools/file_to_hex to do this, just make sure to disable both options. If you did it right, you should get a result like A206D0051204EE82E2A2E2. Then just paste that into \"Hex ROM String\" and click Start ROM. Depending on the game, you may need to adjust some of the options if glitches occur. The most common thing that affects programs is the top option (shifts ignore vY), try checking it and reloading the ROM to see if it fixes it. If not, try changing other options until it looks right.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13300456983885322731/7030563242C07D6908289E4A144B25D200441C0F/",
+      "preview": "https://images.steamusercontent.com/ugc/13300456983885322731/7030563242C07D6908289E4A144B25D200441C0F/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-10-31T13:28:44+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830891442",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830891442",
+      "title": "Card type Changer",
+      "creator": "",
+      "description": "This is a small tool that lets you change a card's type between \"Card\" and \"CardCustom\". TTS has 2 card types, \"Card\" and \"CardCustom\". cards that are \"CardCustom\" lets you change the art of the card by rightcllicking it and clicking on the \"custom\" button. cards that are just the \"Card\" type has no \"Custom\" Button if you rightclick on it.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10763533314499326117/4702B01B5C419683811152B3BDF96AAA05DA3D93/",
+      "preview": "https://images.steamusercontent.com/ugc/10763533314499326117/4702B01B5C419683811152B3BDF96AAA05DA3D93/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-31T14:32:52+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3830911022",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3830911022",
+      "title": "Bull Run Map",
+      "creator": "",
+      "description": "Map of Bull Run/Manassas area where two battles were fought during the American Civil War for use of the International Kriegsspiel Society.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15416965927518676491/403DB1DAFF87D3E95F02428F3D5491856D952115/",
+      "preview": "https://images.steamusercontent.com/ugc/15416965927518676491/403DB1DAFF87D3E95F02428F3D5491856D952115/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-10-31T14:58:36+00:00",
+      "found_at": "2026-10-31T18:36:02.610607+00:00",
+      "is_new": true
+    },
+    {
       "id": "3829715044",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3829715044",
       "title": "MTG EDH 6-player (Nerou Edit)",
@@ -126,7 +282,7 @@
       ],
       "created_at": "2026-10-29T19:52:00+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829733078",
@@ -145,7 +301,7 @@
       ],
       "created_at": "2026-10-29T20:22:53+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829777042",
@@ -160,7 +316,7 @@
       ],
       "created_at": "2026-10-29T21:37:19+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829788994",
@@ -176,7 +332,7 @@
       ],
       "created_at": "2026-10-29T22:01:10+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829794324",
@@ -191,7 +347,7 @@
       ],
       "created_at": "2026-10-29T22:13:01+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3829930974",
@@ -206,7 +362,7 @@
       ],
       "created_at": "2026-10-30T04:11:29+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3830086708",
@@ -221,7 +377,7 @@
       ],
       "created_at": "2026-10-30T11:56:38+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3830099933",
@@ -236,7 +392,7 @@
       ],
       "created_at": "2026-10-30T12:27:23+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3830158665",
@@ -252,7 +408,7 @@
       ],
       "created_at": "2026-10-30T14:24:07+00:00",
       "found_at": "2026-10-30T19:26:23.213508+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3828339232",
