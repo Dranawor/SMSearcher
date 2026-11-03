@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-02T22:47:54.263933+00:00",
+    "completed_at": "2026-11-03T20:31:46.692676+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-02T22:47:47.103155+00:00",
+    "started_at": "2026-11-03T20:31:37.021710+00:00",
     "window_days": 7,
-    "created_after": 1793386686,
-    "created_before": 1793659667,
+    "created_after": 1793486874,
+    "created_before": 1793737897,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-02T22:47:54.263933+00:00",
-    "new_items_added": 16,
+    "last_successful_scan": "2026-11-03T20:31:46.692676+00:00",
+    "new_items_added": 4,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,69 @@
   ],
   "items": [
     {
+      "id": "3832027343",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832027343",
+      "title": "DND Mini Injector 4.7.9 D&D 3.5 Edition",
+      "creator": "",
+      "description": "ColColonCleaner's DnD Mini Injector adapted for 3.5e. Inject Minis with HP bars and Initiative Tracker. Status tokens help you track statuses on multiple combatants. Original Mod by ColColonCleaner. Changes: [list] [*] All 3.5e statuses included. [*] Ties resolved in Dex mod order (then d20 rolloffs if needed). [*] Easily move combatants up and down the initiative list (for readied actions, etc).",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10585119890519520468/70E804DBBCF074203E922B1E714CFCA1AF97F6C8/",
+      "preview": "https://images.steamusercontent.com/ugc/10585119890519520468/70E804DBBCF074203E922B1E714CFCA1AF97F6C8/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-01T22:37:58+00:00",
+      "found_at": "2026-11-03T20:31:37.021710+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3832693867",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832693867",
+      "title": "Trench Crusade - Scoreboard",
+      "creator": "",
+      "description": "[h1]Trench Crusade Scoreboard - User Guide[/h1] A ready-to-use scoreboard for [b]Trench Crusade[/b] in Tabletop Simulator. It tracks Victory Points (VP) and Glorious Deeds (GD) for two players round by round, adds everything up for you and, if you use the TC UI Extender, saves your models' positions and readies them at the end of each round. [i]This is an unofficial fan-made tool. Trench Crusade is (c) Factory Fortress Inc. and is not affiliated with this project.[/i] [hr][/hr] [h2]Features[/h2] [list] [*] Round counter: 4 rounds by default, extendable to 5 and 6. [*] VP and GD counters for every round, for both players (Red and Blue). [*] Automatic totals: sum of VP, sum of GD and a total score per player. The leader's total is highlighted in gold. [*] Editable player names. [*] Only the current round can be edited, so old rounds can't be changed by accident. Earlier rounds stay clearly readable. [*] NEXT ROUND button that also runs [b]Save Position[/b] on all your models and switches activated models back to [b]Ready[/b]. [*] Everything is stored in the game save. [*] The board adapts to the size of the object it is placed on. [/list] [hr][/hr] [table] [tr][th]Element[/th][th]What it does[/th][/tr] [tr][td][b] [/b][/td][td]Move to the next round (see below for what else it does).[/td][/tr] [tr][td][b]Rounds: N[/b][/td][td]Left click adds a round (up to 6). Right click removes the last round (minimum 4, and only if that round is empty).[/td][/tr] [tr][td][b]RED / BLUE[/b][/td][td]Click to type a player name.[/td][/tr] [tr][td][b]VP[/b][/td][td]Victory Points scored in that round.[/td][/tr] [tr][td][b]GD[/b][/td][td]Glorious Deeds completed in that round (shown in gold).[/td][/tr] [tr][td][b]Round number (1, 2, 3...)[/b][/td][td]Click to jump straight to that round. The current round is highlighted in gold.[/td][/tr] [tr][td][b]TOTAL[/b][/td][td]Sum of VP and sum of GD for each player.[/td][/tr] [tr][td][b]SCORE[/b][/td][td]Final score of each player. The leader is shown in gold.[/td][/tr] [tr][td][b]Reset[/b][/td][td]Clears all points. Press it twice in a row (the second press within 4 seconds confirms).[/td][/tr] [/table] Hover over any button to see a tooltip. [hr][/hr] [h2]How to use it[/h2] [h3]Counting points[/h3] [list] [*] [b]Left click[/b] on a VP or GD number: +1. [*] [b]Right click[/b] on a number: -1. [*] Values stay between 0 and 99. [*] Totals update instantly. [/list] [h3]Round locking[/h3] Only the [b]current round[/b] can be edited. Other rounds are locked: [list] [*] Rounds that were already played (and any cell that holds points) stay readable, only slightly faded. [*] Empty future rounds are dimmed. [*] Clicking a locked cell shows a message with the current round number. [*] Locked rounds still count towards the totals. [/list] Need to correct an earlier round? Press [b] [/b] when the round is over. It will: [olist] [*] Save the position of all your models (if enabled, see [i]Models integration[/i]). [*] Switch all activated models back to Ready (if enabled). [*] Make the next round the current one and unlock it. [/olist] On the last round the button only shows a message. Use the [b]Rounds[/b] button first if you want to play more rounds. The [b]<[/b] button and clicking a round number never save positions. [h3]Player names[/h3] Click the [b]RED[/b] or [b]BLUE[/b] header, type a name (up to 14 characters) and press Enter or click away. An empty name returns to the default. Names are saved with the game and are kept when you press Reset. [hr][/hr] [h2]Scoring[/h2] [b]Total score = sum of VP + sum of GD.[/b] In the Trench Crusade rules a completed Glorious Deed gives you Victory Points towards winning the game (normally 1 VP each). Some scenarios give extra VP for specific deeds. In that case you have two options: [list] [*] Put the extra points into the [b]VP[/b] column, or [*] Change the [b]GD_WEIGHT[/b] value in the script (see Customization) if every deed is worth a different amount. [/list] The scoreboard is a counting aid only: always follow the scenario's own rules to decide who has won. [hr][/hr] [h2]Models integration (TC UI Extender)[/h2] If you use the TC UI Extender setup board, the models you extended (\"EXTEND TC UI\" or \"EXTEND RANGE & SAVE\") carry the tag [b]TCUIOperative[/b]. The scoreboard finds every object with this tag and, when you press NEXT ROUND: [list] [*] Runs [b]Save Position[/b] on each of them. This is the same as the \"SAVE ALL POS\" button of the setup board, so you can later restore everything with \"LOAD ALL POS\" or the model's context menu. [*] Switches models that are currently [b]activated[/b] back to [b]Ready[/b]. Models that are already ready are left alone, and models without the full UI (range-only) are skipped. [/list] You will see a message in the chat, for example: [i]Round 1 finished: positions saved (12), set to ready (5).[/i] If no tagged models are on the table, the round still advances and you simply get a short hint. [hr][/hr] Have fun, and glory to your warband!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12141482632336115933/9E3651A546D252EA37D05DB807009CDEEA46E74C/",
+      "preview": "https://images.steamusercontent.com/ugc/12141482632336115933/9E3651A546D252EA37D05DB807009CDEEA46E74C/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Red Rising"
+      ],
+      "created_at": "2026-11-02T23:49:36+00:00",
+      "found_at": "2026-11-03T20:31:37.021710+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3832762038",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832762038",
+      "title": "Nickelodeon Scene It? (DVD-VM)",
+      "creator": "",
+      "description": "This is built on my full DVD-VM Engine. This is a direct translation of the internal DVD scripting and is meant to be ideally as accurate as possible to the real-world counterpart. This is a ~1.4GB TTS mod, and is built on the backbone of a HEAVILY scripted AssetBundle. CREDITS: Nickelodeon, CBS, & Paramount media: Trivia footage used in disc content ScreenLife Games: Scene It? Game and Brand KamSandwich, Incorporated: Core inspiration behind DVD-VM Engine Roaed/SkeevOTron3000: Original Scene It? Tech Demo mod",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9694409410202194040/41389444CDA217EF52AF8B3ECD973B5C4A920957/",
+      "preview": "https://images.steamusercontent.com/ugc/9694409410202194040/41389444CDA217EF52AF8B3ECD973B5C4A920957/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-03T02:57:36+00:00",
+      "found_at": "2026-11-03T20:31:37.021710+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3832813408",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832813408",
+      "title": "Mistborn: The Deckbuilding Game [PT-BR]",
+      "creator": "",
+      "description": "Tradução não oficial para português (BR) do mod \"Mistborn: The Deckbuilding Game\". Traduzidos: cartas, fichas, mesa, botões, manual, FAQ e mensagens do jogo. Mod original: Ozim92 e Al'mer. Projeto de fãs, sem fins lucrativos e sem vínculo com a editora.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10696268058898377995/91CD119DBE10C73DFDEF34AC195AC94FAB2DD733/",
+      "preview": "https://images.steamusercontent.com/ugc/10696268058898377995/91CD119DBE10C73DFDEF34AC195AC94FAB2DD733/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-03T05:45:39+00:00",
+      "found_at": "2026-11-03T20:31:37.021710+00:00",
+      "is_new": true
+    },
+    {
       "id": "3831233986",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3831233986",
       "title": "Kingdom Hearts Candy Land",
@@ -125,7 +188,7 @@
       ],
       "created_at": "2026-10-31T23:04:59+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3831368843",
@@ -140,7 +203,7 @@
       ],
       "created_at": "2026-11-01T04:15:29+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3831512499",
@@ -156,7 +219,7 @@
       ],
       "created_at": "2026-11-01T09:52:01+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3831623252",
@@ -172,7 +235,7 @@
       ],
       "created_at": "2026-11-01T12:56:37+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3831738715",
@@ -187,7 +250,7 @@
       ],
       "created_at": "2026-11-01T15:31:11+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3831945046",
@@ -205,7 +268,7 @@
       ],
       "created_at": "2026-11-01T20:06:31+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3831975586",
@@ -220,7 +283,7 @@
       ],
       "created_at": "2026-11-01T20:56:27+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832089107",
@@ -235,7 +298,7 @@
       ],
       "created_at": "2026-11-02T01:01:23+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832177909",
@@ -253,7 +316,7 @@
       ],
       "created_at": "2026-11-02T05:04:42+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832209398",
@@ -268,7 +331,7 @@
       ],
       "created_at": "2026-11-02T06:53:20+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832290185",
@@ -283,7 +346,7 @@
       ],
       "created_at": "2026-11-02T11:10:52+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832380216",
@@ -298,7 +361,7 @@
       ],
       "created_at": "2026-11-02T14:17:52+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832519128",
@@ -314,7 +377,7 @@
       ],
       "created_at": "2026-11-02T18:15:43+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832531183",
@@ -332,7 +395,7 @@
       ],
       "created_at": "2026-11-02T18:36:33+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832547232",
@@ -347,7 +410,7 @@
       ],
       "created_at": "2026-11-02T19:04:01+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832665342",
@@ -363,7 +426,7 @@
       ],
       "created_at": "2026-11-02T22:45:37+00:00",
       "found_at": "2026-11-02T22:47:47.103155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3831250136",
