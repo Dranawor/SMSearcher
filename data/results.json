@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-03T20:31:46.692676+00:00",
+    "completed_at": "2026-11-04T20:51:01.282688+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-03T20:31:37.021710+00:00",
+    "started_at": "2026-11-04T20:50:56.945594+00:00",
     "window_days": 7,
-    "created_after": 1793486874,
-    "created_before": 1793737897,
+    "created_after": 1793565106,
+    "created_before": 1793825456,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-03T20:31:46.692676+00:00",
-    "new_items_added": 4,
+    "last_successful_scan": "2026-11-04T20:51:01.282688+00:00",
+    "new_items_added": 6,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,98 @@
   ],
   "items": [
     {
+      "id": "3832652328",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832652328",
+      "title": "Persona 5 Phan Game+",
+      "creator": "",
+      "description": "\"You do crazy things when you get excited about something.\" - My Wife, watching me set up a THIRD table for this game. Original Game by Brother Ming Games, Phan Expansion by Pika51011, Masterofice1 Additional custom content by TrueQueenOfRose Utilizes Krakenest Table! Links to these can be found in the \"required mods\" for this table! Please check them out individually! If you would like your own Phan Content to be added to the table, feel free to reach out to me by a comment, discussion, or message. Expect me to add new Phan Content perhaps maybe once or twice possibly. It depends on how obsessed i stay until the next thing hooks me back in. Friendly reminder that the moree Phan Content you add, the more unbalanced the game may become, though it becomes more unpredictable and feels almost like a proper roguelike. Currently planned to add difficulty modifiers, and possibly alternate rules and more characters? From the Phan Expansion by Pika 51011: Every Persona 5, 4, and 3 Protagonist, playable and as confidants. Playable Strega, Velvet Room Attendants, A few Villains, and Persona 4 Arena characters. In testing Persona 5 X characters, and Persona 5 Tactica characters! SO MANY PREBUILT SHADOW DECKS!!! NUKE ELEMENT EXPANSION!!! Locations for Persona 3 and 4, which have powerful effects and are treated as other starting locations! From my TrueQueenOfRose: The setup on the table 6 Playable Under Night (UNICLR) Characters, confidants for all of the characters that were playable at the time i made it (up to Londrekia, i believe) One of them is a real doozy... 1 Unstable Hilda Card that honestly needs a big change but its there for the bit. 1 New \"Palace\" - VS. Merkava! Setup to play with limited resources as the game was intended to be with the print-and-play/physical game. Indicators for elemental \"coverage\" to facilitate easier multiplayer checking of who-has-what elements from their confidant cards! Soon to be difficulty modifiers, dont hold your breath though! Colored social dice for players to role simultaneously. Improvements are still going to be in the works to make the playing experience as smooth as possible. For example, already i've noticed size inconsistencies with cards. These should be ironed out with time, but feel free to report any issues with cards or assets not fitting to snap points where they are intended to.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13166972282422404543/DADD54A7E038CA0493561427BF32B160E4F461DB/",
+      "preview": "https://images.steamusercontent.com/ugc/13166972282422404543/DADD54A7E038CA0493561427BF32B160E4F461DB/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-02T22:17:29+00:00",
+      "found_at": "2026-11-04T20:50:56.945594+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3833082699",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833082699",
+      "title": "Not Assign - 40k army from one Yellowscribe code",
+      "creator": "",
+      "description": "Paste a Yellowscribe code, press BUILD ARMY - your whole Warhammer 40k army lands on the table with the right models. No assigning models to unit cards by hand. How to use: 1. Make a code from your New Recruit / BattleScribe list on https://www.newrecruit.eu/ 2. Paste it into the NOT ASSIGN panel (left of the Yellow Machine buttons) 3. Press BUILD ARMY SUPPORTED ARMIES CURRENTLY: Adepta Sororitas, Imperial Knights, Adeptus Mechanicus Armies come from a shared catalog that the table downloads by itself: https://github.com/as-notchu/not-assign-data Your army isn't there? Add it in half an hour, no coding: https://40k.notchu.dev Built on Yellowscribe by ThePants999. Models belong to their authors. [h2]Rights[/h2] Not Assign (the panel, its scripts and the matching system) © notchu. All rights reserved. Don't re-upload, copy or modify this table or its scripts without my permission. Ask me on Steam / GitHub. Built on top of Yellowscribe (Yellow Machine) — all credit for roster import goes to its authors. Army collections are made by the people listed in CREDITS; the 3D models belong to their original creators. Warhammer 40,000 is a trademark of Games Workshop. This is an unofficial fan project, not for sale. [h2]Contact[/h2] Discord: as_notchu",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11352057060214410260/131DA3456041501A7A8563A45E5BFD22D0DD1560/",
+      "preview": "https://images.steamusercontent.com/ugc/11352057060214410260/131DA3456041501A7A8563A45E5BFD22D0DD1560/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-03T16:35:01+00:00",
+      "found_at": "2026-11-04T20:50:56.945594+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3833282135",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833282135",
+      "title": "Magnagothica: Maleghast (Thorns Rebuild)",
+      "creator": "",
+      "description": "A table for playing the skirmish wargame Magnagothica: Maleghast My version of Eule's wonderful table, who graciously gave permission to share this version. If this isnt your speed, def check out eule's, and frankly, check it out even if you like this one. Eule's table found here: https://steamcommunity.com/sharedfiles/filedetails/?id=3072216046",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11560573994042415403/7E92D1CBFDE81F7613F33954F892CA126CA9A125/",
+      "preview": "https://images.steamusercontent.com/ugc/11560573994042415403/7E92D1CBFDE81F7613F33954F892CA126CA9A125/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-03T22:54:38+00:00",
+      "found_at": "2026-11-04T20:50:56.945594+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3833321531",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833321531",
+      "title": "Die Fugger",
+      "creator": "",
+      "description": "A card game for 2 - 4 players 10 years and up. Duration: 30 - 45 minutes. [b]Game equipment:[/b] 9 price cards for the price range (1 - 9 florins) 1 \"Jacob the Rich\" card 5 goods value cards (copper, fabric, wine, spices, jewels) 45 goods cards (9x copper, fabric, wine, spices, and jewels, each of which have 2 with a royal seal) 4 merchants Game instructions in the notebook [b]Idea and aim of the game:[/b] The Fuggers, the richest family in Europe, have lived in the German city of Augsburg since 1367 and have sought after successful merchants ever since to do their business all over Europe. The players, who act as merchants, try to drive prices up by influencing demand, making themselves money in the process. The player who closes the most lucrative deals can conclude one of the much sought-after contracts with \"Jacob the Rich\" Concept: Klaus-Jürgen Wrede Art: Alexander Jung Additional input by B. Naegele, M. Andersch, and K. Adlung © Copyright 2003 Adlung-Spiele",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15890092251944710733/BFFB9C00442D473F0649635DF187F1CA30830DB7/",
+      "preview": "https://images.steamusercontent.com/ugc/15890092251944710733/BFFB9C00442D473F0649635DF187F1CA30830DB7/",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-04T00:42:56+00:00",
+      "found_at": "2026-11-04T20:50:56.945594+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3833358310",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833358310",
+      "title": "Decknomancer Commander Table",
+      "creator": "",
+      "description": "Decknomancer Commander Table A four-player Commander pod built by Decknomancer (decknomancer.com). - Summon decks in seconds: paste a deck link from Decknomancer, Moxfield, Archidekt, TappedOut, Deckstats, MTGGoldfish or Scryfall, or paste a list. Commanders and tokens land in the command zone automatically. - Life tablet in the center of the table with commander damage, poison and commander tax. - Card tools: hover any card for power/toughness, +1/+1 counters, loyalty, keyword symbols, copy, re-import, tokens, transform and phasing. - Designations with animated playmat effects: The Monarch, The Initiative, City's Blessing and The Ring. - Private scry and surveil, plus draw, mulligan, mill and shuffle. Every action is announced in chat, so it's fair play. - Full supply of mana, counters and keyword markers. Drop them back on their bag to put them away. Build your next deck free at decknomancer.com Unofficial Fan Content permitted under the Fan Content Policy. Not approved or endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12710567231487410921/DA0E79228C02E085BBEA012B1DCED463F3FA5192/",
+      "preview": "https://images.steamusercontent.com/ugc/12710567231487410921/DA0E79228C02E085BBEA012B1DCED463F3FA5192/",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-04T02:28:26+00:00",
+      "found_at": "2026-11-04T20:50:56.945594+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3833488394",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833488394",
+      "title": "Legend of the Five Rings LCG (EmeraldDB integrated)",
+      "creator": "",
+      "description": "The Legend of the Five Rings LCG (all official cards from FFG). Easy deck creation with EmeraldDB (https://www.emeralddb.org/). Play 1 vs 1 games (I'll create another mod for playing cooperative games against shadowlands soon following the Under Fu Leng's Shadow expansion rules ;-) ). Used the original Legend of the Five Rings: The Card Game mod from I Fight Dragons as template. Thank you for your work!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16173020177217233371/84B3851A32240ACA93FEF3AA95CC469D015E55A7/",
+      "preview": "https://images.steamusercontent.com/ugc/16173020177217233371/84B3851A32240ACA93FEF3AA95CC469D015E55A7/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-04T10:03:27+00:00",
+      "found_at": "2026-11-04T20:50:56.945594+00:00",
+      "is_new": true
+    },
+    {
       "id": "3832027343",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832027343",
       "title": "DND Mini Injector 4.7.9 D&D 3.5 Edition",
@@ -125,7 +217,7 @@
       ],
       "created_at": "2026-11-01T22:37:58+00:00",
       "found_at": "2026-11-03T20:31:37.021710+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832693867",
@@ -142,7 +234,7 @@
       ],
       "created_at": "2026-11-02T23:49:36+00:00",
       "found_at": "2026-11-03T20:31:37.021710+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832762038",
@@ -158,7 +250,7 @@
       ],
       "created_at": "2026-11-03T02:57:36+00:00",
       "found_at": "2026-11-03T20:31:37.021710+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832813408",
@@ -173,7 +265,7 @@
       ],
       "created_at": "2026-11-03T05:45:39+00:00",
       "found_at": "2026-11-03T20:31:37.021710+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3831233986",
