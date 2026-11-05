@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-04T20:51:01.282688+00:00",
+    "completed_at": "2026-11-05T21:06:42.462797+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,14 +68,14 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-04T20:50:56.945594+00:00",
+    "started_at": "2026-11-05T21:06:33.185150+00:00",
     "window_days": 7,
-    "created_after": 1793565106,
-    "created_before": 1793825456,
+    "created_after": 1793652661,
+    "created_before": 1793912793,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-04T20:51:01.282688+00:00",
+    "last_successful_scan": "2026-11-05T21:06:42.462797+00:00",
     "new_items_added": 6,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
@@ -113,6 +113,99 @@
   ],
   "items": [
     {
+      "id": "3833706989",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833706989",
+      "title": "KARETA",
+      "creator": "",
+      "description": "Hey you! Potential client fantasy dungeon delver! You have just stumbled upon KARETA! A simple-yet-bombastic, two-player co-op card-game extra-vaganza! All that in abound 20-30 minutes, once you get the hang of things. You will use character abilities to get them pesky cards perfectly lined up for an attack against all sorts of nasty dungeon critters! Battle your way through dungeons, fighting whatever gets in the way and trying your best not to die before you reach the boss! 4 whimsically named characters, each with unique skills and 4 juicy planets just waiting to be raided, rad! Go kick ass adventurer! If you fancy the touch of physical cards, check out the printable version on itch.io. It's free to print and play! https://reebalt.itch.io/kareta",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17205396872430821134/C9D913A9BEC794B462BD7E47ECA2CC1D0FD49A54/",
+      "preview": "https://images.steamusercontent.com/ugc/17205396872430821134/C9D913A9BEC794B462BD7E47ECA2CC1D0FD49A54/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-04T17:26:35+00:00",
+      "found_at": "2026-11-05T21:06:33.185150+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3833877254",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833877254",
+      "title": "MTG 2 player table - scripted",
+      "creator": "",
+      "description": "This is a two-player modification of OIBaP's mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2296042369 I don't intend to update or maintain this mod. Feel free to fork it.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17516743723553510613/A5FE7B3B7CD20371264B767DDCD01C7FDC0520FF/",
+      "preview": "https://images.steamusercontent.com/ugc/17516743723553510613/A5FE7B3B7CD20371264B767DDCD01C7FDC0520FF/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-04T23:34:31+00:00",
+      "found_at": "2026-11-05T21:06:33.185150+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3833907663",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833907663",
+      "title": "Pyramid Escape",
+      "creator": "",
+      "description": "A competitive card and dice adventure for two players. Explore the pyramid, collect wealth, and use equipment cards to influence challenges. Defeat the ruler at the summit and reach at least 30 wealth to win.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14681858362551243631/78BFD510C7A097F5E86171A77E3C9CBBF1EC3041/",
+      "preview": "https://images.steamusercontent.com/ugc/14681858362551243631/78BFD510C7A097F5E86171A77E3C9CBBF1EC3041/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-05T01:02:42+00:00",
+      "found_at": "2026-11-05T21:06:33.185150+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3833941301",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833941301",
+      "title": "Skystones Ultimate (Ver.1)",
+      "creator": "",
+      "description": "A fully playable test build of my custom Skylanders card game: Skystones Ultimate! Insidde is an over 100 card TCG for Spyro's Adventure, featuring Skylanders, bosses, enemies, magic items and level packs. The game is untested, but I hope to release more models in the future. This is my first project on Tabletop Sim, so please forgive the ugliness! It is meant to be a beginner friendly TCG that doesn't require much effort to learn, and can be played quickly like a real minigame. Contained within: - Over 100 Skystones cards - A 12 page rulebook, including glossary and diagrams - Custom game board table - 8 Pre-Built Starter Decks - Piles of each card to assemble your own decks with All assets were either made with my limited knowledge of Gimp, or taken from the Skylanders wikis.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10361849074078337450/9120CDE1340A6772A3E127580938186F9DF01960/",
+      "preview": "https://images.steamusercontent.com/ugc/10361849074078337450/9120CDE1340A6772A3E127580938186F9DF01960/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-05T02:43:15+00:00",
+      "found_at": "2026-11-05T21:06:33.185150+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3834053171",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834053171",
+      "title": "Schadenfreude [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/324711/schadenfreude][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Schadenfreude is a trick-taking game for 3-5 players. The game ends when any player has scored more than 40 points, and the winner is the closest to 40 without going over. The card distribution includes some ranks of negative value, is a \"must follow\" game, and does not include any trump suits. The winner of a trick is the person who played the second highest card of the lead suit. That player collects their card and any cards which did not follow suit into a score pile. However, a player can have at most one card of each rank in their score pile. If they would collect a second, both cards are instead discarded. At the end of a hand, a player scores an amount of points equal to the sum of the ranks of the cards they have collected. [h3]Key Features[/h3] • One-Click Setup • Automatic Score Calculation • Automatic Hand Sorting • Snap Points • Custom Table Design [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] ctr [b]Artist:[/b] Weberson Santiago [b]Publisher:[/b] Office Dog [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13646810627848645367/9277197EEB51A082DBEB2BB0D96D8F831F563DCD/",
+      "preview": "https://images.steamusercontent.com/ugc/13646810627848645367/9277197EEB51A082DBEB2BB0D96D8F831F563DCD/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-05T09:56:37+00:00",
+      "found_at": "2026-11-05T21:06:33.185150+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3834251050",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834251050",
+      "title": "Astra Invicta",
+      "creator": "",
+      "description": "⚠️ DISCLAIMER ⚠️ All rights belong to GW (Games Workshop: https://www.warhammer.com/) this is a non commercial fan made modification created only to spread more content for our beloved Warhammer 40K, it does not claim ownership of any of this content and nothing here is sold or privatized. Imperial Guards regular infantry models have always felt somewhat incomplete, lacking many of the essential details and equipment one would expect from soldiers fighting across countless worlds, many of which have hostile environments or even unbreathable atmospheres, basic necessities such as gas masks, protective gear and various other pieces of military equipment are noticeably absent. The Cadians are supposed to represent a disciplined wellequipped and technologically advanced military force of the far future, yet their tabletop models often appear surprisingly under equipped and unrefined, especially when compared to the Kasrkin. This mod aims to address these shortcomings by improving the appearance of regular Cadian infantry adding missing equipment, refining existing details and giving them a more complete practical and believable military aesthetic that better reflects their place in universe. Made this specifically for the Cadian 412th regiment so that it would be more compatible with other models, scaled the models to match in height and made my own adjustments to how they look, they are fully playable and ready for 11th edition. In the future plan to add Cadian Shock Troopers and other units. For now here is the Cadian Recon Squad which have slightly modified and refined from my point of view. Feel free to use them in your armies and if you have any questions post comments. CREDITS: The assets i used were taken from the Unification Mod: https://www.moddb.com/mods/unification-mod-dawn-of-war-soulstorm The wonderful map i took the base and other decorations from: https://steamcommunity.com/sharedfiles/filedetails/?id=2457512686 Force Org - Various army models you can use: https://steamcommunity.com/sharedfiles/filedetails/?id=3753014527 The excellent and colossal work by Baronessa! which pairs well with my Astra: https://steamcommunity.com/sharedfiles/filedetails/?id=2194621893 And of course my source of inspiration the one and only Scorpio! check out his very cool work: https://steamcommunity.com/profiles/76561198203223718/myworkshopfiles/?appid=286160 Вперёд, вы собаки, к победе!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15118295913272414451/3F9628A898B391AEEBC3ED40B312C5ECFB5D1503/",
+      "preview": "https://images.steamusercontent.com/ugc/15118295913272414451/3F9628A898B391AEEBC3ED40B312C5ECFB5D1503/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-05T17:23:36+00:00",
+      "found_at": "2026-11-05T21:06:33.185150+00:00",
+      "is_new": true
+    },
+    {
       "id": "3832652328",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3832652328",
       "title": "Persona 5 Phan Game+",
@@ -126,7 +219,7 @@
       ],
       "created_at": "2026-11-02T22:17:29+00:00",
       "found_at": "2026-11-04T20:50:56.945594+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833082699",
@@ -142,7 +235,7 @@
       ],
       "created_at": "2026-11-03T16:35:01+00:00",
       "found_at": "2026-11-04T20:50:56.945594+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833282135",
@@ -157,7 +250,7 @@
       ],
       "created_at": "2026-11-03T22:54:38+00:00",
       "found_at": "2026-11-04T20:50:56.945594+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833321531",
@@ -172,7 +265,7 @@
       ],
       "created_at": "2026-11-04T00:42:56+00:00",
       "found_at": "2026-11-04T20:50:56.945594+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833358310",
@@ -187,7 +280,7 @@
       ],
       "created_at": "2026-11-04T02:28:26+00:00",
       "found_at": "2026-11-04T20:50:56.945594+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833488394",
@@ -202,7 +295,7 @@
       ],
       "created_at": "2026-11-04T10:03:27+00:00",
       "found_at": "2026-11-04T20:50:56.945594+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832027343",
