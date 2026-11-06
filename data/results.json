@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-05T21:06:42.462797+00:00",
+    "completed_at": "2026-11-06T20:27:47.223776+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-05T21:06:33.185150+00:00",
+    "started_at": "2026-11-06T20:27:42.041209+00:00",
     "window_days": 7,
-    "created_after": 1793652661,
-    "created_before": 1793912793,
+    "created_after": 1793740002,
+    "created_before": 1793996862,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-05T21:06:42.462797+00:00",
-    "new_items_added": 6,
+    "last_successful_scan": "2026-11-06T20:27:47.223776+00:00",
+    "new_items_added": 5,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,82 @@
   ],
   "items": [
     {
+      "id": "3834526258",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834526258",
+      "title": "Wetson's Protoype TCG",
+      "creator": "",
+      "description": "Table with zones, rules, all 101 original cards, and 2 basic starter decks for the TCG I'm working on",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12244319653164309082/C69EBC245B7B9C2AD272BE7C26E4C6A07724CD35/",
+      "preview": "https://images.steamusercontent.com/ugc/12244319653164309082/C69EBC245B7B9C2AD272BE7C26E4C6A07724CD35/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-06T05:27:41+00:00",
+      "found_at": "2026-11-06T20:27:42.041209+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3834589903",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834589903",
+      "title": "宝可梦大富翁关都版（自动化脚本）",
+      "creator": "",
+      "description": "基于繁中素材制作。 1、将卡牌都改为简体中文；2、新增了全自动化脚本，包括roll骰子走路，交过路费、自动结算机会等等；3、新增了多种模式和变体；4、新增对应宝可梦模型以及选择音效；5、新增了氛围音切换；6、允许添加ai一起游玩。",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9994981234645899140/B48CCDCEF272CFD1FAE8DEAADDFB4C8C8F1F69B9/",
+      "preview": "https://images.steamusercontent.com/ugc/9994981234645899140/B48CCDCEF272CFD1FAE8DEAADDFB4C8C8F1F69B9/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-06T09:32:40+00:00",
+      "found_at": "2026-11-06T20:27:42.041209+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3834629496",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834629496",
+      "title": "Nehemiah's Jerusalem Race (Biblical Board Game)",
+      "creator": "",
+      "description": "NEHEMIAH'S JERUSALEM RACE When Nehemiah returned to Jerusalem he found the walls and gates broken down so he mobilized the Jews to rebuild. This was no easy task as there was opposition from within and without, but they continued and rebuilt the walls in 52 days. You need to persevere in this board game to rebuild the walls without losing morale or strength to the point of giving up. You can play alone or with others. With others it will be a race to see who can complete the walls first. I've added my teaching on the Gates of Jerusalem. This version adds an extra green bag with one deck of cards that can enhance the F instructions. The cards are taken from Nehemiah and Ezra and Canaan Games. The board is an original creation I designed and AI enhanced.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18415045445983446055/4FEB7C389EF9D6341153ED3C258914BE4295558E/",
+      "preview": "https://images.steamusercontent.com/ugc/18415045445983446055/4FEB7C389EF9D6341153ED3C258914BE4295558E/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-06T11:35:59+00:00",
+      "found_at": "2026-11-06T20:27:42.041209+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3834742841",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834742841",
+      "title": "Tim's Bible Stuff",
+      "creator": "",
+      "description": "A collection of my free Chrisitan books.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14360300625400080064/DC060FDD8E9DEE7770DD554B6A869DE7AF3B40B1/",
+      "preview": "https://images.steamusercontent.com/ugc/14360300625400080064/DC060FDD8E9DEE7770DD554B6A869DE7AF3B40B1/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-06T15:41:55+00:00",
+      "found_at": "2026-11-06T20:27:42.041209+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3834779218",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834779218",
+      "title": "Board Game : Agent Black",
+      "creator": "",
+      "description": "I created the images and scripts myself and implemented the game below in Tabletop Simulator. This game is a work of OLIN STUDIO. The actual artwork is beautiful, so please take a look. I was having fun playing with my friends, so I made this myself. [h2]How do I play?[/h2] At the start of the game, you receive one job, location, and one item card each. When it's your turn, will you inquire to find out who the other person is, If you have guessed the opponent's identity, you can choose whether to match the cards in your hand. If someone matches your card or you fail to identify the card, you lose one card. (Random if failed) If you lose all your cards, you are eliminated from the round. You win if others are eliminated from the round. Team play is also possible. Thank you.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18068206783728576336/249C0D1A38EF4F7CC6D75A6F37C34B303BE7C053/",
+      "preview": "https://images.steamusercontent.com/ugc/18068206783728576336/249C0D1A38EF4F7CC6D75A6F37C34B303BE7C053/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-06T16:48:09+00:00",
+      "found_at": "2026-11-06T20:27:42.041209+00:00",
+      "is_new": true
+    },
+    {
       "id": "3833706989",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833706989",
       "title": "KARETA",
@@ -126,7 +202,7 @@
       ],
       "created_at": "2026-11-04T17:26:35+00:00",
       "found_at": "2026-11-05T21:06:33.185150+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833877254",
@@ -142,7 +218,7 @@
       ],
       "created_at": "2026-11-04T23:34:31+00:00",
       "found_at": "2026-11-05T21:06:33.185150+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833907663",
@@ -158,7 +234,7 @@
       ],
       "created_at": "2026-11-05T01:02:42+00:00",
       "found_at": "2026-11-05T21:06:33.185150+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833941301",
@@ -173,7 +249,7 @@
       ],
       "created_at": "2026-11-05T02:43:15+00:00",
       "found_at": "2026-11-05T21:06:33.185150+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834053171",
@@ -188,7 +264,7 @@
       ],
       "created_at": "2026-11-05T09:56:37+00:00",
       "found_at": "2026-11-05T21:06:33.185150+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834251050",
@@ -203,7 +279,7 @@
       ],
       "created_at": "2026-11-05T17:23:36+00:00",
       "found_at": "2026-11-05T21:06:33.185150+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3832652328",
