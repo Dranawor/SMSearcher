@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-06T20:27:47.223776+00:00",
+    "completed_at": "2026-11-07T18:49:58.750313+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,14 +68,14 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-06T20:27:42.041209+00:00",
+    "started_at": "2026-11-07T18:49:54.768717+00:00",
     "window_days": 7,
-    "created_after": 1793740002,
-    "created_before": 1793996862,
+    "created_after": 1793824067,
+    "created_before": 1794077394,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-06T20:27:47.223776+00:00",
+    "last_successful_scan": "2026-11-07T18:49:58.750313+00:00",
     "new_items_added": 5,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
@@ -113,6 +113,83 @@
   ],
   "items": [
     {
+      "id": "3833854415",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833854415",
+      "title": "Gain Ground Cerberus | A Cerberus Engine-Inspired Deck-Building Game",
+      "creator": "",
+      "description": "[h1]Play Gain Ground like you've never played it before- because until now, it's always been a video game![/h1] Physical version print sheet & resources (including the game manual): https://drive.google.com/drive/u/0/folders/1_tnfFrwInhQgcnMvs2byKSzoQt8q7Cqu [h2]What is Gain Ground, and/or Cerberus/Cryptozoic?[/h2] Gain Ground Cerberus (AKA Gain Ground Cryptozoic) is a deck-building game based upon the Cerberus Engine ruleset of Cryptozoic Entertainment's popular line of deck-building games. While Cryptozoic Entertainment used the engine to create licensed games for DC Comics, Lord of The Rings, Rick and Morty, etc., we here at Gain Ground Cerberus picked a franchise people will love much more than those boring cultural icons- Gain Ground! Starting off as a 1990s Sega arcade classic, Gain Ground would go on to be ported to the Genesis/Megadrive, Master System, PC Engine, PS2, and more. The Arcade version specifically made it onto Nintendo Switch, and the Genesis/Megadrive version was bundled in collections on numerous platforms- heck, you could even find it on Steam for a bit! Every one of the six version/releases of Gain Ground has been represented in this game, and painstaking detail was crafted to honor the original release(s) in artstyle, mechanics, and atmosphere. [h2]Build your deck![/h2] Like in all Cerberus Engine games, play cards to gather Power, and use that Power to buy stronger cards, which will be added to your deck and allow you to repeat the cycle! Collect powerful Allies, Enemies, Locations, and more to aid you in your quest of shutting down the Gain Ground System from the inside- but watch your back, as your opponents are competing to try and do the same thing, AND take all the credit! Don't let yourself be outscored- fight to the last man! And like almost all Cerberus Engine games out there, this one has a gimmick to make it stand out as unique: Subtypes! Subtypes which divide the game's cards into the five time periods that Gain Ground traditionally takes place in: Primitive, Medieval, China, Modern, and Future. Will you find more synergy playing a pure Ally or pure Enemy deck, or perhaps making ALL Medieval cards work together, be them Allies or Enemies, will suit you better? Maybe combining China and Modern (as the Master System intended), will help you generate extra destructive power? Or maybe you want to play a stateless strategy, and deliberately collect cards that have no type OR subtype, and flex into cards that would support such a bold strategy, like General and Red Ogre? The possibilities are limitless, and with a 125-card main deck (that was hopefully shuffled right), you'll never build the same deck twice! [h2]Play it physically, too![/h2] But what if you or your friends don't have Tabletop Simulator? What if they HATE video games, and that's why they never played Gain Ground? That would be AWFUL! Well, fear bit! We here at Gain Ground Cerberus/Cryptozoic are also providing the resources necessary to print a physical copy of the game for yourself! That way, even the stingiest of anti-video-game critics can experience the fun of Gain Ground in their own home, whether they want to or not! See the link at the top of the addon to download the print sheet for yourself, and get to cutting up and sleeving those cards! -------------------------------------------------------------------------------------------------------- [b]DISCLAIMER:[/b] This is a non-profit fan passion project. I hold no affiliation to Sega or Cryptozoic Entertainment, nor do I own the rights to Gain Ground, its assets, or the conceptual rights (if that's even a thing) to the Cerberus Engine ruleset/logo(s). I hold the greatest respect for the creators of Gain Ground, and the creators of the Cerberus Engine, and am merely happy to be able to spread their work to more people around the world. -------------------------------------------------------------------------------------------------------- [h3]Huh, spare space. Well, trivia time:[/h3] [list] [*]Gain Ground has 20 playable characters in most releases, with the exceptions being SMS and Gain Ground Again. To keep the GG Cerberus lore-accurate, the number of specifically these Allies in the main deck (minus the three starter Allies, of course) is equal to the number you can find in a 1-Player game of Gain Ground for GEN/MD. [*]Every one of the classic 20 Allies appears in the artwork of at least one Enemy card in the main deck. If you include Archenemies (and count the male and female counterparts as the same character), all 10 Master Systems Allies are represented as well. Norman, meanwhile, is a glory hog, and is the only Gain Ground Again-exclusive Ally to be seen in the artwork of cards that are not his own. How rude! [*]Lake Monsters has an effect to steal the top cards of other player's decks if said cards are Allies. This is a reference to The Watcher In The Water from Cryptozoic Entertainment's Fellowship of the Ring Deck-Building Game, who has a similar effect with no restrictions on what kinds of cards it can steal since it is a LV 2 Archenemy card. [*]Many cards have in-lore reasons to justify their effects. For example, in a GG Cerberus game with 5 players (the maximum), Cyber hits 6 top-decks at once- the same count as his 6-missile volley. Professor and Mam deal with Ongoing cards because they are both extremely niche destroyers of Red Ogres (which is an Ongoing card) in the PS2 version (1-10 speedruns for Professor and Extra Mode for Mam). The Sand Snakes negate (and benefit from collecting) the Mini-Scarab because the former entirely replaced by the latter in the Master System version. All these, and probably many other examples I'm forgetting, were critical to replicating the Gain Ground atmosphere. Probably. [*]\"Shokane Coliseum\" is not a typo. It is the actual spelling of the place that the Gain Ground supercomputer is located in, according to the Master System manual. It is for this reason that I disregarded the chance to use a more [url=https://drive.google.com/file/d/1KLa3hkRbkE9Gag_xiYIG-vSTCNkDDpZm/view?usp=sharing]classical image of the inside of the Gain Ground supercomputer as seen on the Japanese box art[/url] and instead elected to take a screenshot from the PS2 intro of an ominous building with the Gain Ground logo on it lol [*]The \"Master\" archetype used to be named \"The Final\", in reference to The Final Era. This sounded stupid for several names, however, so I switched it. The only remnant of this is idea are cards actually from The Final Era- namely \"GG Final Mech\" and \"The Final Era Kaizo Hall\". [*]The Barrel of Doom is a Sonic reference. Why shouldn't it be? [*]The card art for \"A, C, B, C\" is my old Radica, which introduced me to Gain Ground, and where I first learned/used said level select code to practice fighting the final boss so I could eventually beat the game on a real run. [*]There are other easter eggs hidden about, but I won't say where ;) [/list] Thank you for your support, and enjoy Gain Ground! -Arial",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11647836209328947684/D40707B572A2D6C2D72E8A1FA8AFA9D9CA1B96FC/",
+      "preview": "https://images.steamusercontent.com/ugc/11647836209328947684/D40707B572A2D6C2D72E8A1FA8AFA9D9CA1B96FC/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story",
+        "Red Rising"
+      ],
+      "created_at": "2026-11-04T22:35:39+00:00",
+      "found_at": "2026-11-07T18:49:54.768717+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3834906713",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834906713",
+      "title": "ACW Table with Army units",
+      "creator": "",
+      "description": "This is a fictitious terrain table, representing rolling hills and small farmland that would have been encountered by the armies during the 1862-63 Northern incursions (Antietam & Gettysburg), or possibly in Tennessee or north Georgia in the western theater. ALL items on the table (and the table itself) have been created by me to be non-colliding, low-poly terrain elements for easy movement of units around the table. I have also created the U.S. and Confederate units using a Voxel (potato people style) in order to minimize memory bloat. I have placed models on the table which you can configure and label for games like Altar of Freedom, etc. I am trying to learn how to create large and detailed tables, while keeping the file size as small as possible. Let me know if you see any issues that I might be able to address to improve performance. Thanks.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12846042595493516572/2F9B4BF565D2D6C1AA3CDA6348FAA93CC8D5F094/",
+      "preview": "https://images.steamusercontent.com/ugc/12846042595493516572/2F9B4BF565D2D6C1AA3CDA6348FAA93CC8D5F094/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-06T20:48:28+00:00",
+      "found_at": "2026-11-07T18:49:54.768717+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3834964882",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834964882",
+      "title": "Devotor: Curse of colossus",
+      "creator": "",
+      "description": "Devotor: Curse of the Colossus is a dark fantasy miniature board game where you build a hero, not an army. All you need is one miniature and a deck of cards to jump into intense tactical duels or a cooperative campaign. What makes it unique is how your character evolves. Through Curses and inherited memories, your Devotor changes both physically and psychologically. You can push your powers further and further, but beware of Mutation and Madness. It's not just about how strong you become, but what you become along the way. Visit our website to join the club & see more: https://www.blackoigame.com/",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14473056403444831978/11B229B39883041C77CDA9364B8A61DED8CC5E06/",
+      "preview": "https://images.steamusercontent.com/ugc/14473056403444831978/11B229B39883041C77CDA9364B8A61DED8CC5E06/",
+      "keywords": [
+        "Duel of Meloch"
+      ],
+      "created_at": "2026-11-06T22:48:05+00:00",
+      "found_at": "2026-11-07T18:49:54.768717+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3835175113",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835175113",
+      "title": "Dark Skies - Investigator's Pack",
+      "creator": "",
+      "description": "Let your deck building fly with this thematic Investigator's Pack. Five new investigators with a heavy aviation theme, along with 4 cards (level 0, 1, 3, and 5) in their classes for each, and an extra Specialist card that only they can use! To use, spawn a copy of the box in the mod, and drop it on the top left of the table inside the \"Additional Cards\" box. Then you can import your arkham.build decks.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15032607642329249557/B2442C331D934B557A49B6B63C4E88937DEBFDAB/",
+      "preview": "https://images.steamusercontent.com/ugc/15032607642329249557/B2442C331D934B557A49B6B63C4E88937DEBFDAB/",
+      "keywords": [
+        "Braided Skies"
+      ],
+      "created_at": "2026-11-07T08:05:11+00:00",
+      "found_at": "2026-11-07T18:49:54.768717+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3835534941",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835534941",
+      "title": "[WH40K] Angels of Absolution - Space Marines Army Builder (DA / DWK / SM)",
+      "creator": "",
+      "description": "[url=https://ko-fi.com/ratticusvile] Donate! [/url] I'm (somewhat) back from major illnesses! With a certain tabletop wargame's changes to Space Marines, it was a good time to redo the Angels of Absolution. These *are* intended for play as Primaris, featuring units like Hellblasters / Desolators / Eradicators and Gravis units, as well as some Primaris dreads. My personal interest in modern Space Marines has totally flatlined with the sunsetting of 'Firstborn' units- these are intended for a friend. Also featured are Deathwing Knights, Deathwing Terminators, and all Terminator character options (Chaplain, Librarian, Ancient) with new custom sculpts. I also made my own drop pod because the popularly used animated one has *awful* hitboxes! These are Angels of Absolution, a Dark Angels successor. They are equipped with all manner of weapons, including approximately 40,000 warhammer s.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13135029423357421082/86FC87D7087222E71F32C25A2926D9205E4C4060/",
+      "preview": "https://images.steamusercontent.com/ugc/13135029423357421082/86FC87D7087222E71F32C25A2926D9205E4C4060/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-07T18:37:56+00:00",
+      "found_at": "2026-11-07T18:49:54.768717+00:00",
+      "is_new": true
+    },
+    {
       "id": "3834526258",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3834526258",
       "title": "Wetson's Protoype TCG",
@@ -125,7 +202,7 @@
       ],
       "created_at": "2026-11-06T05:27:41+00:00",
       "found_at": "2026-11-06T20:27:42.041209+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834589903",
@@ -140,7 +217,7 @@
       ],
       "created_at": "2026-11-06T09:32:40+00:00",
       "found_at": "2026-11-06T20:27:42.041209+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834629496",
@@ -156,7 +233,7 @@
       ],
       "created_at": "2026-11-06T11:35:59+00:00",
       "found_at": "2026-11-06T20:27:42.041209+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834742841",
@@ -171,7 +248,7 @@
       ],
       "created_at": "2026-11-06T15:41:55+00:00",
       "found_at": "2026-11-06T20:27:42.041209+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834779218",
@@ -186,7 +263,7 @@
       ],
       "created_at": "2026-11-06T16:48:09+00:00",
       "found_at": "2026-11-06T20:27:42.041209+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833706989",
