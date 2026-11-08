@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-07T18:49:58.750313+00:00",
+    "completed_at": "2026-11-08T18:51:09.775444+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,14 +68,14 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-07T18:49:54.768717+00:00",
+    "started_at": "2026-11-08T18:51:01.717117+00:00",
     "window_days": 7,
-    "created_after": 1793824067,
-    "created_before": 1794077394,
+    "created_after": 1793904598,
+    "created_before": 1794163861,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-07T18:49:58.750313+00:00",
+    "last_successful_scan": "2026-11-08T18:51:09.775444+00:00",
     "new_items_added": 5,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
@@ -113,6 +113,84 @@
   ],
   "items": [
     {
+      "id": "3835538221",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835538221",
+      "title": "Anarchy (W.I.P)",
+      "creator": "",
+      "description": "Anarchy is the creation of my dear friend Wolfhazard07. While I have had a hand in making some of this, I am more of a collaborator if anything. Anarchy is designed to be the game that actively makes you not want to play. But if you do keep playing, you might even have a fun time. Note: This game was originally created with pen and paper IRL years ago without any influence from games on Tabletop. Any similarities with other titles is just a funny coincidence. This TTS version is still a WIP, don't expect it to be fully understandable just yet.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11889349556435829677/FF223A07A4AD0EB96B6FF0EB47FA6197370446AE/",
+      "preview": "https://images.steamusercontent.com/ugc/11889349556435829677/FF223A07A4AD0EB96B6FF0EB47FA6197370446AE/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-07T18:43:59+00:00",
+      "found_at": "2026-11-08T18:51:01.717117+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3835745997",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835745997",
+      "title": "Dueling Horns",
+      "creator": "",
+      "description": "DUELING HORNS is a two-player game of Viking warfare, where rival armies clash for glory on the battlefield. Outmaneuver your opponent, strike from the flanks, and forge your own legend!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15746839782307543029/E239E60D6850B69D008865E348096EDD3E22C63A/",
+      "preview": "https://images.steamusercontent.com/ugc/15746839782307543029/E239E60D6850B69D008865E348096EDD3E22C63A/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Duel of Meloch"
+      ],
+      "created_at": "2026-11-08T01:15:09+00:00",
+      "found_at": "2026-11-08T18:51:01.717117+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3836009678",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836009678",
+      "title": "RED Wrath & Glory Boards 02",
+      "creator": "",
+      "description": "Boards for Wrath and Glory I made for a friend",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10761668049118141152/CBC6B40B79809CCF75F8DEB9C230ADF4E3FA629A/",
+      "preview": "https://images.steamusercontent.com/ugc/10761668049118141152/CBC6B40B79809CCF75F8DEB9C230ADF4E3FA629A/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-11-08T11:40:17+00:00",
+      "found_at": "2026-11-08T18:51:01.717117+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3836097652",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836097652",
+      "title": "That is BS (Alpha Release)",
+      "creator": "",
+      "description": "Currently this game is an open Alpha, not much is subject to change but expect a few things to be modified as the future updates come along, feel free to send feedback or suggestions through the comments. That is BS is a (hopefully) original take on the standard question and answer game, simply mixtured with a deception based game. All questions will test your knowledge of various video game franchises as well as how willing you are to fight for your answers even if you are likely to be wrong. Players can also make their own questions if they prefer (Courtesy of Text field note cards by limejet). A group of players picks up question cards and the various tokens created for this game, the objective is simple, be the player with the most points once everyone runs out of question cards. However a player reading the question can lie about the answer written on their question card, stealing the points for themselves if nobody correctly guessed the answer. Players can use the titular BS token to call out a lie however if they aren't careful will loose their points and tokens instead. Roadmap: Giving the Question Cards a proper design. Making a version of the game with nicer terminology in order to invite players of all ages. (Don't want to anger any grandmas just because the token is named BS lol) Making a Brasilian Portuguese version of the game. (I am brasilian) Rework the visual of the tokens if needed. Rework the mechanics of the experimental tokens if needed. Question cards with Rewards on them. (Likely to be scrapped, needs more testing) Adding more question cards. (Final update expected to have 123 question cards) Please be patient with updates I am only one guy who doesn't really know what he is doing.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12969766497708324298/6C18C1285713FA43726A41C5BDB7E9C84EBA84CB/",
+      "preview": "https://images.steamusercontent.com/ugc/12969766497708324298/6C18C1285713FA43726A41C5BDB7E9C84EBA84CB/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-08T14:04:08+00:00",
+      "found_at": "2026-11-08T18:51:01.717117+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3836098599",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836098599",
+      "title": "Riedler's Narcisissm pack",
+      "creator": "",
+      "description": "Buncha Archimedian solids with my logo on it. This is mainly for testing how custom packs work in TTsim tbh, but feel free to use it lol",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9956849616762418993/112A67246B4003F5FE86BBA5E44FEA78A7786EF1/",
+      "preview": "https://images.steamusercontent.com/ugc/9956849616762418993/112A67246B4003F5FE86BBA5E44FEA78A7786EF1/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-08T14:05:23+00:00",
+      "found_at": "2026-11-08T18:51:01.717117+00:00",
+      "is_new": true
+    },
+    {
       "id": "3833854415",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3833854415",
       "title": "Gain Ground Cerberus | A Cerberus Engine-Inspired Deck-Building Game",
@@ -127,7 +205,7 @@
       ],
       "created_at": "2026-11-04T22:35:39+00:00",
       "found_at": "2026-11-07T18:49:54.768717+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834906713",
@@ -142,7 +220,7 @@
       ],
       "created_at": "2026-11-06T20:48:28+00:00",
       "found_at": "2026-11-07T18:49:54.768717+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834964882",
@@ -157,7 +235,7 @@
       ],
       "created_at": "2026-11-06T22:48:05+00:00",
       "found_at": "2026-11-07T18:49:54.768717+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3835175113",
@@ -172,7 +250,7 @@
       ],
       "created_at": "2026-11-07T08:05:11+00:00",
       "found_at": "2026-11-07T18:49:54.768717+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3835534941",
@@ -187,7 +265,7 @@
       ],
       "created_at": "2026-11-07T18:37:56+00:00",
       "found_at": "2026-11-07T18:49:54.768717+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3834526258",
