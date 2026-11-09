@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-08T18:51:09.775444+00:00",
+    "completed_at": "2026-11-09T23:27:29.908461+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-08T18:51:01.717117+00:00",
+    "started_at": "2026-11-09T23:27:22.705826+00:00",
     "window_days": 7,
-    "created_after": 1793904598,
-    "created_before": 1794163861,
+    "created_after": 1793991069,
+    "created_before": 1794266842,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-08T18:51:09.775444+00:00",
-    "new_items_added": 5,
+    "last_successful_scan": "2026-11-09T23:27:29.908461+00:00",
+    "new_items_added": 7,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,113 @@
   ],
   "items": [
     {
+      "id": "3835830536",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835830536",
+      "title": "Eros & Exile",
+      "creator": "",
+      "description": "An official TTS adaptation of the NSFW TTRPG zine Eros & Exile. I thought that it would be a useful thing for myself so I decided to hack this mod together pretty quickly! Includes a map grid, working fillable character sheets for up to 4 players, markers for key and boss encounters and both current rulebooks. Find the original at: https://rose-m8.itch.io/eros-and-exile",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13400566626025433882/734439B8CD5266E68F3975DC20D92DD3CF01FEB5/",
+      "preview": "https://images.steamusercontent.com/ugc/13400566626025433882/734439B8CD5266E68F3975DC20D92DD3CF01FEB5/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-08T04:49:39+00:00",
+      "found_at": "2026-11-09T23:27:22.705826+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3836333403",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836333403",
+      "title": "DECKBOXINATOR - Auto-unpack and change colors",
+      "creator": "",
+      "description": "Swap colors to match up to a 3 color deck! Quickly unpack your deck with a single button! Massive thanks to: @Wormhart's Monocolor Deckboxes https://steamcommunity.com/sharedfiles/filedetails/?id=3476108781 @doofs-man's 2 and 3 color deckboxes https://steamcommunity.com/sharedfiles/filedetails/?id=2440064865 https://steamcommunity.com/sharedfiles/filedetails/?id=2440924375",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9775556765021154424/384023B8BF8F8D37A0E9B190F88995F279CB04F1/",
+      "preview": "https://images.steamusercontent.com/ugc/9775556765021154424/384023B8BF8F8D37A0E9B190F88995F279CB04F1/",
+      "keywords": [
+        "Stamp Swap"
+      ],
+      "created_at": "2026-11-08T19:57:19+00:00",
+      "found_at": "2026-11-09T23:27:22.705826+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3836453753",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836453753",
+      "title": "MTG EDH 6-player (S)",
+      "creator": "",
+      "description": "Latest Updates : Read ingame patchnotes 6-Player Version: https://steamcommunity.com/sharedfiles/filedetails/?id=3805851163 !! You can disable the card preview and counter visibility in settings !! A customized fork of an existing EDH/Commander table with additional scripting, counters, quality-of-life improvements, and visual changes. Please Rate <3 Credits Original table / fork source: https://steamcommunity.com/sharedfiles/filedetails/?id=3745501663 Poison & Energy counters and preview concept inspired by: https://steamcommunity.com/sharedfiles/filedetails/?id=3715975220 Changes in this version - Poison counters - Energy counters - Card preview functionality - artwork changes - token deck slot - many more... Feedback This is still being improved. If you have ideas for new features, quality-of-life changes, scripting improvements, or visual changes, please leave them in the comments. Bug reports are also appreciated. If possible, include what you were doing when the issue occurred. Development note: Some creative, scripting, and design processes used during development of this mod were assisted by AI tools.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13333422364912131544/FBC61750116EAFD832A225CA766E3FD068DD0BDA/",
+      "preview": "https://images.steamusercontent.com/ugc/13333422364912131544/FBC61750116EAFD832A225CA766E3FD068DD0BDA/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-08T23:48:02+00:00",
+      "found_at": "2026-11-09T23:27:22.705826+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3836500078",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836500078",
+      "title": "Marvel Champions Kindred from League of Legends",
+      "creator": "",
+      "description": "A custom Kindred set! Head over to https://steamcommunity.com/sharedfiles/filedetails/?id=3449046691 to check out the rest of my creations! Or check them out on GDrive! https://drive.google.com/drive/folders/1Ji20c2igz_SNCqiXq-02pYxH67fgsU89?usp=drive_link Or come say hello in my Discord creator channel! https://discord.com/channels/641317998442971146/1397996442429423656",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11837194277668488732/7A0E56F240EBB67FF4BE76D7738AA1FB70F14B4F/",
+      "preview": "https://images.steamusercontent.com/ugc/11837194277668488732/7A0E56F240EBB67FF4BE76D7738AA1FB70F14B4F/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-09T01:56:45+00:00",
+      "found_at": "2026-11-09T23:27:22.705826+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3836610439",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836610439",
+      "title": "Only War Eleventh Hour - The Deeps",
+      "creator": "",
+      "description": "Only War TTRPG Encounter/Roleplay Map intended for the introductory adventure module \"Eleventh Hour\" by FFG: https://images-cdn.fantasyflightgames.com/ffg_content/only-war/frpgd/Eleventh%20Hour_Revised%20Final%20(Low%20Res).pdf +++++++++++++++++ MAP SUMMARY: The squad has begun their barge-bound evacuation through the baiyous and swamps of this wretched planet to their salvation at Camp Blackfen. However, as the brief night falls over Aeyras the sound of lasfire and the boom of ork weapons-fire strikes up yet again as a firefight explodes to life nearby. A bogged chimera barely protects the last stand of an officer and his Cadre of the 13th Scintillan! Will the squad do their duty and save their cowardly comrades? Or get some payback...and save their own skins? +++++++++++++++++ This 40k TTRPG map covers the first leg of the PC's trip toward Camp Blackfen, somewhere in The Deeps, mentioned on page 25 of the module (Under \"The Last Stand\" subtitle). Set up with the 40k TTRPG Only War in mind, this map was built using \"BWM Jungle Swamp\" by mapmaker Baryonyx as a base: https://steamcommunity.com/sharedfiles/filedetails/?id=1909772121 then modified using a variety of prop and asset packs from across TTS for my personal game that I now share here. Let me know if there are any missing assets and I will try my best to rectify them. Stories from your personal games are also welcome.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15922319463905480562/ED39902925C1F91E0F71DE2F4849858FBD731AF9/",
+      "preview": "https://images.steamusercontent.com/ugc/15922319463905480562/ED39902925C1F91E0F71DE2F4849858FBD731AF9/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-09T08:46:30+00:00",
+      "found_at": "2026-11-09T23:27:22.705826+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3836631742",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836631742",
+      "title": "Only War Eleventh Hour - The Shifting Fens",
+      "creator": "",
+      "description": "Only War TTRPG Encounter/Roleplay Map intended for the introductory adventure module \"Eleventh Hour\" by FFG: https://images-cdn.fantasyflightgames.com/ffg_content/only-war/frpgd/Eleventh%20Hour_Revised%20Final%20(Low%20Res).pdf +++++++++++++++++ MAP SUMMARY: The squad has survived the barge trip so far, yet the night still holds many surprises for these poor unfortunate guardsmen. In the Shifting Fens, small islands of flora float downstreams on a never-ending carousel with no end in sight. Amongst these islands lay greenskins in hiding, waiting for their human prey to make one mistake. Guided by nothing but a flickering yellow fog-light upon their barge, the squad spots a fellow Imperial barge up ahead amongst a cluster of islets...though something isn't quite right about how quiet the bobbing vessel is... +++++++++++++++++ This 40k TTRPG map covers one of the encounters of the PC's trip toward Camp Blackfen, somewhere in The Shifting Fens, mentioned on page 26 of the module (Under \"Beasts Below\" subtitle). Set up with the 40k TTRPG Only War in mind, this map was built myself using a variety of prop and asset packs from across TTS for my personal game that I now share here. Let me know if there are any missing assets and I will try my best to rectify them. Stories from your personal games are also welcome.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16327412601294929040/0C506A59378FF0ABB23C49D341CF99D455922BF1/",
+      "preview": "https://images.steamusercontent.com/ugc/16327412601294929040/0C506A59378FF0ABB23C49D341CF99D455922BF1/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-09T10:01:58+00:00",
+      "found_at": "2026-11-09T23:27:22.705826+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837008036",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837008036",
+      "title": "Oops! I Died - By TechDweeb",
+      "creator": "",
+      "description": "CREDIT TO TECHDWEEB!! I DID NOT MAKE THIS GAME, BUT I GOT PERMISSION TO PORT IT!! Oops! You died... That stinks. but maybe you can earn a little more time in the living world by playing a friendly game of dice with Death? Hope you dont need your fingers too bad...",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17703214920965058852/F07EBE1315E344237D224E0F2C09D3DC21336196/",
+      "preview": "https://images.steamusercontent.com/ugc/17703214920965058852/F07EBE1315E344237D224E0F2C09D3DC21336196/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-09T22:21:05+00:00",
+      "found_at": "2026-11-09T23:27:22.705826+00:00",
+      "is_new": true
+    },
+    {
       "id": "3835538221",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835538221",
       "title": "Anarchy (W.I.P)",
@@ -126,7 +233,7 @@
       ],
       "created_at": "2026-11-07T18:43:59+00:00",
       "found_at": "2026-11-08T18:51:01.717117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3835745997",
@@ -143,7 +250,7 @@
       ],
       "created_at": "2026-11-08T01:15:09+00:00",
       "found_at": "2026-11-08T18:51:01.717117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836009678",
@@ -158,7 +265,7 @@
       ],
       "created_at": "2026-11-08T11:40:17+00:00",
       "found_at": "2026-11-08T18:51:01.717117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836097652",
@@ -173,7 +280,7 @@
       ],
       "created_at": "2026-11-08T14:04:08+00:00",
       "found_at": "2026-11-08T18:51:01.717117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836098599",
@@ -188,7 +295,7 @@
       ],
       "created_at": "2026-11-08T14:05:23+00:00",
       "found_at": "2026-11-08T18:51:01.717117+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3833854415",
