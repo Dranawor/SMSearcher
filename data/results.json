@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-09T23:27:29.908461+00:00",
+    "completed_at": "2026-11-10T20:51:07.930013+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-09T23:27:22.705826+00:00",
+    "started_at": "2026-11-10T20:51:02.148830+00:00",
     "window_days": 7,
-    "created_after": 1793991069,
-    "created_before": 1794266842,
+    "created_after": 1794094049,
+    "created_before": 1794343862,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-09T23:27:29.908461+00:00",
-    "new_items_added": 7,
+    "last_successful_scan": "2026-11-10T20:51:07.930013+00:00",
+    "new_items_added": 6,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,105 @@
   ],
   "items": [
     {
+      "id": "3836359648",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836359648",
+      "title": "Lobotomy Corporation Tabletop Board Game (KOR)",
+      "creator": "",
+      "description": "[h1]Korean Localization[/h1] This is an unofficial Korean localization of [b][2.1+] Lobotomy Corporation Tabletop Board Game[/b] for Tabletop Simulator. This translation is published with permission from the original creators. All credit for the original mod and its assets goes to the original development team. The goal of this project is to [b]make the game more accessible to Korean-speaking players.[/b] Please note that this localization is [b]maintained separately from the original mod[/b], so updates and new content may take some time to be translated. Original Workshop Item: https://steamcommunity.com/sharedfiles/filedetails/?id=3799444051 Special thanks to the original development team for creating this amazing game and allowing me to share this localization!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17479224406761282958/9E9D3201916A88681E960C1B8022460C6EF74980/",
+      "preview": "https://images.steamusercontent.com/ugc/17479224406761282958/9E9D3201916A88681E960C1B8022460C6EF74980/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-08T20:43:57+00:00",
+      "found_at": "2026-11-10T20:51:02.148830+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837128874",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837128874",
+      "title": "MTG All-in-one Table",
+      "creator": "",
+      "description": "[h2]Table Features[/h2] [list] [*][b]Expandable Table[/b] – Switch between 4, 6, and 8-player layouts with the press of a button! The table smoothly transforms to accommodate additional players without loading a different table. [*][b]Custom 3D Table[/b] – Sleek, futuristic AssetBundle table with a clean and organized design. [*][b]Integrated Gameplay Controls[/b] – Convenient scripted buttons and shortcuts for common MTG actions. [/list] [h2]Scripted Gameplay[/h2] [b]πMenu Integration[/b] The table uses πMenu alongside scripted buttons and right-click context menus to make common MTG interactions easier. [list] [*]Right-click your library to Cascade, Reveal Until Type, or Fetch Basic Lands. [*]Right-click cards in your hand to Sort Hand by Mana Value or Random Discard. [*]Additional card-specific actions for mechanics such as Clone, Morph, and Cascade. [*]Scripted card controls for tracking Power/Toughness, +1/+1 counters, Loyalty, and more. [*]Convenient Mulligan, Untap, Draw, Scry, Mill, and Reveal buttons. [/list] [h2]Importing Cards[/h2] The table includes [b]rikrassen's GUI Card Importer[/b], accessible directly from the table. [list] [*]Import complete MTG decks. [*]Import custom decklists and cubes. [*]Support for drafting and importing individual cards. [/list] [h2]MTG Draft Vending Machine Compatibility[/h2] Deploy my MTG Draft Vending Machine directly from a hidden compartment in the table! Includes private deckbuilding zones for players to organize their drafted cards. [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3795150567][b]MTG Vending Machine: Draft Edition – Steam Workshop[/b][/url] [h2]Credits & Acknowledgments[/h2] A huge thank you to the creators of other MTG tables, scripts, and community tools that helped make scripted Magic possible in Tabletop Simulator! [list] [*][b]Oops I Baked a Pie[/b] –[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2296042369]MTG 4 Player Scripted Table[/url]. [*][b]Anile8er[/b] – Original MTG table design and inspiration. [*][b]Tyrant[/b] – Easy Modules for MTG Encoder. [*][b]Tipsy Hobbit[/b] – MTG Encoder. [*][b]zachstover[/b] – MTG Sticker Module. [*][b]DXHHH101[/b] – Morph Module. [*][b]rikrassen[/b] – MTG GUI Deck/Draft/Cube Importer. [*][b]ulia[/b] – MTG tabletop environment and room design. [*][b]Amuzet, Izzet, and schoob[/b] – Additional MTG assets, and scripting inspiration. [/list] This is unofficial fan content permitted under the Wizards of the Coast Fan Content Policy. It is not approved or endorsed by Wizards of the Coast. Magic: The Gathering and related materials are the property of Wizards of the Coast LLC.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11956585783096383138/1D0BB1F0B85EB2BC901619A000944D7AD24EE846/",
+      "preview": "https://images.steamusercontent.com/ugc/11956585783096383138/1D0BB1F0B85EB2BC901619A000944D7AD24EE846/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-10T02:53:40+00:00",
+      "found_at": "2026-11-10T20:51:02.148830+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837171339",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837171339",
+      "title": "Global War 1936 v4.3 Voidfish Edition Confederate Expansion Start",
+      "creator": "",
+      "description": "This is a branch off of the Main Mega Edition with the Confederate States expansion fully setup and ready to go. Original Main branch: https://steamcommunity.com/sharedfiles/filedetails/?id=3719334374",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10089434675366396655/EB4FA8F667B8036DBFCA2D2DFDC6786144DE4FEA/",
+      "preview": "https://images.steamusercontent.com/ugc/10089434675366396655/EB4FA8F667B8036DBFCA2D2DFDC6786144DE4FEA/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-10T04:46:07+00:00",
+      "found_at": "2026-11-10T20:51:02.148830+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837197413",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837197413",
+      "title": "Avali",
+      "creator": "",
+      "description": "my avali with an angry pose and expression, also has the regular A pose",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14332148821329727132/8DC760E91FD4571F3D2FEC85659B2E0D4CF248FA/",
+      "preview": "https://images.steamusercontent.com/ugc/14332148821329727132/8DC760E91FD4571F3D2FEC85659B2E0D4CF248FA/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-10T06:15:57+00:00",
+      "found_at": "2026-11-10T20:51:02.148830+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837220464",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837220464",
+      "title": "Only War Eleventh Hour - Fallow River",
+      "creator": "",
+      "description": "Only War TTRPG Encounter/Roleplay Map intended for the introductory adventure module \"Eleventh Hour\" by FFG: https://images-cdn.fantasyflightgames.com/ffg_content/only-war/frpgd/Eleventh%20Hour_Revised%20Final%20(Low%20Res).pdf +++++++++++++++++ MAP SUMMARY: The squad, beleagured and exhausted from their many hours on the retreat, have found some respite at Camp Blackfen - however it is not safe. The impending naval bombardment that will scour the entire jungle has begun, and man-made meteors fall from the sky as the purgation of the greenskins is at hand. To complete Eleventh Hour, the squad must push through the Bonespite lines on the northern side of the Fallow River and reunite with Imperial forces. The squad may leverage Imperial air assets and artillery to thin the hordes that surround them - and find some way to slip through. Many Orks stand in their way, led by the insidious Nezgit Slymoon, who will stop at nothing to halt the destruction of Highbridge and to push into the heart of Firebase Long-Tooth to bring slaughter to the survivors and civilians hiding there. +++++++++++++++++ This is the final 40k TTRPG map of the Eleventh Hour Only War module. It covers the final battle between the Bonespite Orks and the Imperial Guard as the PC's attempt to push through enemy lines and ford the Fallow River to the safety of Firebase Long-Tooth, mentioned on page 28-29 of the module (Under \"Part III: Fire in the Sky\"). Set up with the 40k TTRPG Only War in mind, this map was built using \"Foxhole river battle map\" by mapmaker me238 as a base: https://steamcommunity.com/sharedfiles/filedetails/?id=3346156101 then modified using a variety of prop and asset packs from across TTS for my personal game that I now share here. Let me know if there are any missing assets and I will try my best to rectify them. Stories from your personal games are also welcome.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11918174049852417465/0E7752DB39CDB29FB18D2FED997B0618618647D6/",
+      "preview": "https://images.steamusercontent.com/ugc/11918174049852417465/0E7752DB39CDB29FB18D2FED997B0618618647D6/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Braided Skies",
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-10T07:52:10+00:00",
+      "found_at": "2026-11-10T20:51:02.148830+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837517179",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837517179",
+      "title": "Low Tide Market",
+      "creator": "",
+      "description": "A push-your-luck market for 3 to 5 players, about 30 minutes. The sandbar only exists between tides. Stake a buoy on a patch if you want it later. Haul it when you want the good. Or spend a basket and rake the patch now. Leave a buoy out when its ring floods and the sea takes the buoy and the good. Cove, Flats, and Bar. Eight rounds. One action a turn. A weather card each round. Salt, kelp, crab, pearl, and silver, plus a small bonus for still having your buoys at the end. Original game. Full rules are in the mod, on the player aid, and under the Rules button. Setup is the table you load. Take a colored bag, shuffle the weather deck (hover it and press R), and start on round 1.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15407638713960643971/336DFC7D3D4E2C158DF17807D3A45242400CD7D0/",
+      "preview": "https://images.steamusercontent.com/ugc/15407638713960643971/336DFC7D3D4E2C158DF17807D3A45242400CD7D0/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-10T20:00:08+00:00",
+      "found_at": "2026-11-10T20:51:02.148830+00:00",
+      "is_new": true
+    },
+    {
       "id": "3835830536",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3835830536",
       "title": "Eros & Exile",
@@ -125,7 +224,7 @@
       ],
       "created_at": "2026-11-08T04:49:39+00:00",
       "found_at": "2026-11-09T23:27:22.705826+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836333403",
@@ -140,7 +239,7 @@
       ],
       "created_at": "2026-11-08T19:57:19+00:00",
       "found_at": "2026-11-09T23:27:22.705826+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836453753",
@@ -155,7 +254,7 @@
       ],
       "created_at": "2026-11-08T23:48:02+00:00",
       "found_at": "2026-11-09T23:27:22.705826+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836500078",
@@ -170,7 +269,7 @@
       ],
       "created_at": "2026-11-09T01:56:45+00:00",
       "found_at": "2026-11-09T23:27:22.705826+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836610439",
@@ -186,7 +285,7 @@
       ],
       "created_at": "2026-11-09T08:46:30+00:00",
       "found_at": "2026-11-09T23:27:22.705826+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836631742",
@@ -202,7 +301,7 @@
       ],
       "created_at": "2026-11-09T10:01:58+00:00",
       "found_at": "2026-11-09T23:27:22.705826+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837008036",
@@ -217,7 +316,7 @@
       ],
       "created_at": "2026-11-09T22:21:05+00:00",
       "found_at": "2026-11-09T23:27:22.705826+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3835538221",
