@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-10T20:51:07.930013+00:00",
+    "completed_at": "2026-11-11T21:26:46.729170+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-10T20:51:02.148830+00:00",
+    "started_at": "2026-11-11T21:26:40.351282+00:00",
     "window_days": 7,
-    "created_after": 1794094049,
-    "created_before": 1794343862,
+    "created_after": 1794171067,
+    "created_before": 1794432400,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-10T20:51:07.930013+00:00",
-    "new_items_added": 6,
+    "last_successful_scan": "2026-11-11T21:26:46.729170+00:00",
+    "new_items_added": 9,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,144 @@
   ],
   "items": [
     {
+      "id": "3837616092",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837616092",
+      "title": "Dodj or Daar (Complete Edition)",
+      "creator": "",
+      "description": "Introduction: \"Dodj or Daar\" (pronounced \"Dodge or Dare\") is a fictional board game from the animated series \"The Amazing World of Gumball\". Now it's on Tabletop Simulator for you to enjoy! Just remember. You don't win; you survive. Meant for 2-5 players. Big thanks to ThyConius for recreating the board!: https://steamcommunity.com/sharedfiles/filedetails/?id=2859532933 Disclaimer: Some of the rules (like the gameplay and win condition) are taken directly from the show. Other rules (like how to navigate the board and manage the cards) are just interpretations by ThyConius and myself as some aspects of the board and game were left unexplained in the show. Gameplay: Each player rolls one die each round, then they take a Daar card from the Daar Pile. If they do the Daar written on the card, they move the number of spaces they rolled. If they are unable or refuse to do the Daar, then they take a Dodj card from the Dodj Pile and move half the spaces (rounded down). To land on the finish space, a player must roll the exact number of spaces needed. If a higher-than-needed number is rolled, they must move backward that many spaces. The first player to roll that exact number and land on the finish wins and everyone survives! Cards: Daars: Pronounced \"dares\", these cards contain challenges for the player that drew it to complete. No Daar will ask the players to do anything illegal or unsafe. Some Daars require participation from the other players, but ultimatelty, only the challenged player has to complete it. Completed Daars are kept by the player, but failed Daars are shuffled into the Daar Pile. Dodjs: Pronounced \"dodges\", these cards contain penalties for not completing Daars. They will always affect the penalized player, but can also affect any other player or the game itself. Their effects last, and the player must keep them, until the end of the game (unless otherwise stated). Special Spaces: Dodj Bombs: The yellow bomb spaces. If a player lands on this space, everyone must take a Dodj card. Open Graves: The gray skull spaces. If a player lands on this space, they are sent to the red and green \"Dead Zone\" at the top of the board. They must roll an exact number to reach the arrow and escape. If they roll a higher-than-needed number, they move back that many spaces. Bridges: Takes a player to the connected space. If a player lands on a space with a bridge, they must cross it. Bridges work both ways. Ladders: Takes a player to the connected space. If a player lands on a space with a ladder, they must climb it. Ladders only work upwards in relation to the board. Arrows: Takes a player to the connected space. If a player lands on a space with an arrow, they must follow it. Arrows only work in the direction they point.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17734194843676827096/B385A2778DACA882D9894D10DC6561E2C5094BFB/",
+      "preview": "https://images.steamusercontent.com/ugc/17734194843676827096/B385A2778DACA882D9894D10DC6561E2C5094BFB/",
+      "keywords": [
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-10T23:58:44+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837669956",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837669956",
+      "title": "KT3 operatives, ploys and equipment (NOV 26)",
+      "creator": "",
+      "description": "Kill Team 3 – Updated Operatives, Cards & Equipment (NOV 2026) WIP: I'm still working on updating all the kill teams. If you wish for me to prioritize one, just leave it on the comments :) ALL OPERATIVES SHOULD BE SCRIPTED AND READY TO USE ON THE KT24 BASE TABLE (https://steamcommunity.com/sharedfiles/filedetails/?id=3573927734) An updated collection of Kill Team operatives, cards, ploys, tokens, and equipment This mod builds upon existing community creations, bringing together updated miniatures and cards to make setting up and playing Kill Team easier. What's included? Updated miniatures for Kill Team operatives. Updated operative cards and stats for the current edition. Ploys, tokens, and equipment organized for easy access during games. A collection of Kill Team factions and their operatives, all in one place. The goal is to provide a convenient, up-to-date collection of Kill Team resources for the TTS community. Credits & Acknowledgments A huge thanks to the creators of the original mods! This collection wouldn't have been possible without their work. Original mod / Main inspiration: https://steamcommunity.com/sharedfiles/filedetails/?id=3336372255 Cards and Tokens KT 3: https://steamcommunity.com/sharedfiles/filedetails/?id=3600909173 Forceorg https://steamcommunity.com/sharedfiles/filedetails/?id=3753014527 Seaborne's Model Corner https://steamcommunity.com/sharedfiles/filedetails/?id=3339560253 Full credit goes to the original creators for their respective assets. My contribution focuses on bringing these resources together with updated miniatures and cards. If you're one of the original creators and notice any missing credits, please let me know in the comments! Feedback & Updates If you find any outdated stats, missing models, broken assets, or other issues, feel free to leave a comment. I'll do my best to keep the collection updated as new Kill Team changes become available. Enjoy your games, and thanks to everyone contributing to the Kill Team TTS community!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10286139668688519015/B66DB71D9533F6D8EFADC44131591CB91321DE8A/",
+      "preview": "https://images.steamusercontent.com/ugc/10286139668688519015/B66DB71D9533F6D8EFADC44131591CB91321DE8A/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-11T02:54:24+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837719973",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837719973",
+      "title": "Table Tennis/Ping Pong",
+      "creator": "",
+      "description": "Set Physics to \"Full\" Use lowest lift height CR4YCR4Y is proud to present: Ping Pong/Table Tennis. This mod features: A Table Tennis table Paddles A branded Table Tennis Ball Scripts to make all these things work. A wall you can summon for solo play. Frequently Asked Questions: Q: Is this Regulation Spec? A: Naw. Q: How do I hit the ball at an angle? A: Scripting will turn your sideways motion into a swing when you hit the ball. Q: How do I hit the ball the other way? A: Press F to flip the paddle. Q: Why did you make this? A: I was so preoccupied with whether I could, I didn't stop to think if I should. Visit my website: www.cr4y.fish",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10149730427323470598/8033F6E33C7576CD6B9CA92454F8E653DDB9D7B3/",
+      "preview": "https://images.steamusercontent.com/ugc/10149730427323470598/8033F6E33C7576CD6B9CA92454F8E653DDB9D7B3/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-11T06:01:23+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837764396",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837764396",
+      "title": "Edo period E-Sugoroku",
+      "creator": "",
+      "description": "An Edo period board game depicting different jobs as you roll a die to progress further onto the board. On tiles with a 泊 you skip your next turn. On the final tile in the daimyo's court you must roll a 6 to win. All other rolls result in traveling backwards if rolling a 5 or lower. If rolling a 3, travel back 3. Again this only applies to the final tile. It's like Chutes and Ladders, just in the Edo period.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10736655260973123196/2C9858504BD3EDBD5F4D8B07AF02323D2B1E17F2/",
+      "preview": "https://images.steamusercontent.com/ugc/10736655260973123196/2C9858504BD3EDBD5F4D8B07AF02323D2B1E17F2/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-11T09:02:36+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837813240",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837813240",
+      "title": "Zerg Unit Minis",
+      "creator": "",
+      "description": "This is my attempt at bringing the Zerg faction into TTS. I'm using alot of programs for the first time..so be kind?",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11666027988310766432/FD9974FE3809D8D1CAF9080111EB8F23BA4F1CF4/",
+      "preview": "https://images.steamusercontent.com/ugc/11666027988310766432/FD9974FE3809D8D1CAF9080111EB8F23BA4F1CF4/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-11T11:35:33+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837846882",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837846882",
+      "title": "Terran Units",
+      "creator": "",
+      "description": "My attempt at uploading Terran Units from Starcraft II..",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18090330336647640265/3B2E2DB1B3D4B270494CA8E64BA58D29752BD47A/",
+      "preview": "https://images.steamusercontent.com/ugc/18090330336647640265/3B2E2DB1B3D4B270494CA8E64BA58D29752BD47A/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-11T13:10:53+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837881667",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837881667",
+      "title": "The Warriors of the Ssorc (Christian Board Game)",
+      "creator": "",
+      "description": "You are the Sojourner. Your aim is to recruit three companions, equip yourself with the full armour of God and join Emmanuel's army to fight Nogard and his hordes in the final battle on the plain of Odiggem. Move around the board rolling dice, playing cards and answering Bible questions. Based on Tim Gibson's online adventure game, The Sojourner.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13250448965002936219/1E4E50EDFEA2B6A9A09D6BC35AAE0CD7BBDA4C77/",
+      "preview": "https://images.steamusercontent.com/ugc/13250448965002936219/1E4E50EDFEA2B6A9A09D6BC35AAE0CD7BBDA4C77/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-11T14:30:54+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837950491",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837950491",
+      "title": "The Office (US) DVD Board Game (DVD-VM)",
+      "creator": "",
+      "description": "This is a direct translation of the internal DVD scripting built upon my DVD-VM Engine, and is meant to be ideally as accurate as possible to the real-world counterpart. This is a ~1.4GB TTS mod, and is built on the backbone of a HEAVILY scripted AssetBundle. Be Warned that this will take time to load, and may be more RAM intensive than traditional TTS mods. I will also stress that TTS was 100% NOT designed for this. CREDITS: NBCUniversal: The Office (US) Pressman Games: Original Developers/Publishers KamSandwich, Incorporated: Core inspiration behind DVD-VM Engine Roaed/SkeevOTron3000: Original Scene It? Tech Demo mod",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14778393463145636156/650C9C9C02772DA6BF001AC4FFB86FC14905110C/",
+      "preview": "https://images.steamusercontent.com/ugc/14778393463145636156/650C9C9C02772DA6BF001AC4FFB86FC14905110C/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-11T16:41:56+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3837976410",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837976410",
+      "title": "Apex Ocean Duel",
+      "creator": "",
+      "description": "",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10312612603479942875/9AEFD5E4B0B71B6CE540CDA5E1D6BA03452E7F30/",
+      "preview": "https://images.steamusercontent.com/ugc/10312612603479942875/9AEFD5E4B0B71B6CE540CDA5E1D6BA03452E7F30/",
+      "keywords": [
+        "Duel of Meloch"
+      ],
+      "created_at": "2026-11-11T17:29:51+00:00",
+      "found_at": "2026-11-11T21:26:40.351282+00:00",
+      "is_new": true
+    },
+    {
       "id": "3836359648",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3836359648",
       "title": "Lobotomy Corporation Tabletop Board Game (KOR)",
@@ -125,7 +263,7 @@
       ],
       "created_at": "2026-11-08T20:43:57+00:00",
       "found_at": "2026-11-10T20:51:02.148830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837128874",
@@ -143,7 +281,7 @@
       ],
       "created_at": "2026-11-10T02:53:40+00:00",
       "found_at": "2026-11-10T20:51:02.148830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837171339",
@@ -158,7 +296,7 @@
       ],
       "created_at": "2026-11-10T04:46:07+00:00",
       "found_at": "2026-11-10T20:51:02.148830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837197413",
@@ -173,7 +311,7 @@
       ],
       "created_at": "2026-11-10T06:15:57+00:00",
       "found_at": "2026-11-10T20:51:02.148830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837220464",
@@ -192,7 +330,7 @@
       ],
       "created_at": "2026-11-10T07:52:10+00:00",
       "found_at": "2026-11-10T20:51:02.148830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837517179",
@@ -209,7 +347,7 @@
       ],
       "created_at": "2026-11-10T20:00:08+00:00",
       "found_at": "2026-11-10T20:51:02.148830+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3835830536",
