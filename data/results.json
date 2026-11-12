@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-11T21:26:46.729170+00:00",
+    "completed_at": "2026-11-12T21:29:45.267357+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-11T21:26:40.351282+00:00",
+    "started_at": "2026-11-12T21:29:40.524875+00:00",
     "window_days": 7,
-    "created_after": 1794171067,
-    "created_before": 1794432400,
+    "created_after": 1794259606,
+    "created_before": 1794518980,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-11T21:26:46.729170+00:00",
-    "new_items_added": 9,
+    "last_successful_scan": "2026-11-12T21:29:45.267357+00:00",
+    "new_items_added": 2,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,37 @@
   ],
   "items": [
     {
+      "id": "3838102730",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838102730",
+      "title": "[2.0 레거시] 로보토미 코퍼레이션 테이블탑 보드게임 [한글]",
+      "creator": "",
+      "description": "This is an unofficial Korean localization of [b][2.0 Legacy Version] Lobotomy Corporation Tabletop Boardgame[/b] for Tabletop Simulator. All credit for the original mod and its assets goes to their respective creators. The goal of this project is to make the game more accessible to Korean-speaking players. This localization is based on the 2.0 Legacy Version and is maintained separately from the original mod. It does not include content or changes introduced in version 2.1 or later. Original Workshop Item: https://steamcommunity.com/sharedfiles/filedetails/?id=3813647483 Special thanks to the original development team for creating this amazing game!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9352178384919898354/1DB259549BB9F9C7130724B8B84A681880464CA0/",
+      "preview": "https://images.steamusercontent.com/ugc/9352178384919898354/1DB259549BB9F9C7130724B8B84A681880464CA0/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-11T21:55:14+00:00",
+      "found_at": "2026-11-12T21:29:40.524875+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3838503389",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838503389",
+      "title": "the Backrooms void train",
+      "creator": "",
+      "description": "BACKROOMS: THE SUBWAY EXPEDITION (Card Game) > “The doors close. The tracks screech. Welcome to the subway car of the Backrooms. Can you survive to the end before your health drops to 0?” BACKROOMS: The Subway Expedition is a fast-paced, tactical survival card game for 1 or more players, strictly based on the official Wikidot lore of the Backrooms. THE STORY You are trapped inside a subway car traveling relentlessly through the endless and perilous levels of the Backrooms. At every stop, the doors slide open — and you never know which entities are lurking on the platform. Gather official M.E.G. equipment, evade deadly threats, and fight for survival. KEY FEATURES Tough Health System: You start with 3 Hearts. Every misstep in combat could mean your demise! Classic & Direct Combat: No complicated math — subtract the weapon damage of your item cards 1:1 directly from the monsters' HP. 100% True to Wikidot Lore: Play with official objects and entities from the Backrooms canon: Almond Water (Object 1) to restore lost hearts Firesalt (Object 15) for high explosive damage Liquid Silence (Object 17) for silent evasion Smiler, Hound, Skin-Stealer & Partygoer =) as dangerous foes! The Luck Factor: Danger doesn't lurk around every corner. Drawing “NOTHING – You got lucky!” grants you a well-deserved breather on the tracks. Dynamic Level Traversal: 21 unique Level cards with Hazard Classes ranging from Class 0 (Safe) to Class 5 (Deadly) guarantee high replayability. TURN SEQUENCE (QUICK SUMMARY) Pull into Station: Draw a Level card and check its Hazard Class (Class 0–5). Reveal Entities: Draw the required number of monster cards face-down and flip them face-up on the table. Action & Combat: Play weapon cards (deal damage), healing items, or tactical cards (evasion/shields) from your hand. Monster Reaction: Any monster remaining above 0 HP attacks and deducts your hearts. Victory Condition: made it to the end you successfully escaped the Backrooms! MOD / DECK CONTENTS 21x Level Cards (Unique levels & train tickets) 19x Item & Equipment Cards (Weapons, healing, survival tools) 23x Entity Cards (Including 4x “NOTHING – You got lucky!”)",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10622472070051394598/0FA39EC4A2E996C47B9D64B1050E9D6538096633/",
+      "preview": "https://images.steamusercontent.com/ugc/10622472070051394598/0FA39EC4A2E996C47B9D64B1050E9D6538096633/",
+      "keywords": [
+        "Expeditions",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-12T17:12:58+00:00",
+      "found_at": "2026-11-12T21:29:40.524875+00:00",
+      "is_new": true
+    },
+    {
       "id": "3837616092",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3837616092",
       "title": "Dodj or Daar (Complete Edition)",
@@ -126,7 +157,7 @@
       ],
       "created_at": "2026-11-10T23:58:44+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837669956",
@@ -142,7 +173,7 @@
       ],
       "created_at": "2026-11-11T02:54:24+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837719973",
@@ -157,7 +188,7 @@
       ],
       "created_at": "2026-11-11T06:01:23+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837764396",
@@ -172,7 +203,7 @@
       ],
       "created_at": "2026-11-11T09:02:36+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837813240",
@@ -187,7 +218,7 @@
       ],
       "created_at": "2026-11-11T11:35:33+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837846882",
@@ -202,7 +233,7 @@
       ],
       "created_at": "2026-11-11T13:10:53+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837881667",
@@ -217,7 +248,7 @@
       ],
       "created_at": "2026-11-11T14:30:54+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837950491",
@@ -233,7 +264,7 @@
       ],
       "created_at": "2026-11-11T16:41:56+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837976410",
@@ -248,7 +279,7 @@
       ],
       "created_at": "2026-11-11T17:29:51+00:00",
       "found_at": "2026-11-11T21:26:40.351282+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3836359648",
