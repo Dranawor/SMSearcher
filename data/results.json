@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-12T21:29:45.267357+00:00",
+    "completed_at": "2026-11-13T20:55:05.359358+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-12T21:29:40.524875+00:00",
+    "started_at": "2026-11-13T20:54:57.737012+00:00",
     "window_days": 7,
-    "created_after": 1794259606,
-    "created_before": 1794518980,
+    "created_after": 1794346185,
+    "created_before": 1794603297,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-12T21:29:45.267357+00:00",
-    "new_items_added": 2,
+    "last_successful_scan": "2026-11-13T20:55:05.359358+00:00",
+    "new_items_added": 9,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,151 @@
   ],
   "items": [
     {
+      "id": "3838741198",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838741198",
+      "title": "Man I hate my PC",
+      "creator": "",
+      "description": "",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13943837834670993557/5328F18C07C48FA6D212E60E70F3D33E99ADF90C/",
+      "preview": "https://images.steamusercontent.com/ugc/13943837834670993557/5328F18C07C48FA6D212E60E70F3D33E99ADF90C/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-13T02:22:04+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3838741652",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838741652",
+      "title": "The Aragón Front: The Spanish Civil War in Eastern Spain 1936/39",
+      "creator": "",
+      "description": "The Aragón Front is an operational simulation depicting the successive campaigns along the Ebro river valley, in Eastern Spain, during her last bloody Civil War (1936/39). This mod includes its two expansions, Plan P and Valencia. Related files can be found in https://boardgamegeek.com/boardgame/374075/the-aragon-front-the-spanish-civil-war-in-eastern",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15202997850267964857/FD00C672C6631DF112D83618D08B0747C52AF0E1/",
+      "preview": "https://images.steamusercontent.com/ugc/15202997850267964857/FD00C672C6631DF112D83618D08B0747C52AF0E1/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-13T02:23:24+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3838789140",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838789140",
+      "title": "Cult of The Lamb: Card Game",
+      "creator": "",
+      "description": "[img]https://i.imgur.com/4MYHENb.png[/img] [h1]Cult of the Lamb - The Card Game[/h1] [b]A cooperative card game for 1-4 players, set in the world of Cult of the Lamb.[/b] The Old Faith has stirred. Four Bishops rule the lands beyond your cult, and behind a door that was never meant to open, something waits for the one who wears the red crown. Lead your followers out into five dangerous lands. Fight monsters, grab coins and loot, buy weapons, curses and relics, and grow strong enough to bring down the Bishops - and then the thing behind the Gateway. [b]You win together or you lose together.[/b] [img]https://i.imgur.com/Ql2z938.png[/img] [h2]What's inside[/h2] [list] [*][b]444 cards[/b], every one with its own art [*][b]5 playable characters[/b] - The Lamb, The Goat, Ratau, Focalor and Amdusias ([i]animated[/i]) [*][b]64 monsters[/b] across 5 lands - Darkwood, Anura, Anchordeep, Silk Cradle and Ewefall [*][b]10 Bosses[/b] - the Bishops and their guardians ([i]animated[/i]) [*][b]5 Final Bosses[/b] - only one waits behind the Gateway each game ([i]animated[/i]) [*][b]57 Weapons[/b], [b]39 Curses[/b], [b]79 Relics[/b] [*][b]85 Tarot cards[/b] and [b]100 Loot cards[/b] - all different [*]A custom [b]play mat[/b] made for the Kraken table [*]Token bags: coins, Poison, Burn, Freeze, kill markers, enemy and helper tokens [*]A full [b]27-page Rulebook[/b] and an [b]8-page Quick Start[/b] [/list] [img]https://i.imgur.com/jN9i83c.png[/img] [h2]How you play[/h2] [olist] [*][b]Walk out.[/b] Start at the Cult. Each turn, move once - to any open land, back home, or to the Gateway. [*][b]Fight.[/b] Pick a monster, roll your attack, and survive its strike back. Friends in the same land can join your fight. [*][b]Grow.[/b] Spend coins at the Cult on weapons, curses, relics and tarot readings. Heal at the shrine. [*][b]Push deeper.[/b] Your first kill in a land opens the next one. Four kills in a land wake its Boss. [*][b]Break the Old Faith.[/b] Kill 5 Bosses to open the Gateway, then kill the Final Boss to win. [/olist] [h2]Good to know[/h2] [list] [*]Players: 1-4 (solo rules included) [*]New players: read the [b]Quick Start[/b] first (10 minutes), keep the full Rulebook for tricky moments [/list] [i]Long live the Lamb[/i]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17379680636876845679/C7522935C792CEF3E228B77E1FF802F09490E400/",
+      "preview": "https://images.steamusercontent.com/ugc/17379680636876845679/C7522935C792CEF3E228B77E1FF802F09490E400/",
+      "keywords": [
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-13T05:01:22+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3838790826",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838790826",
+      "title": "Hedbanz",
+      "creator": "",
+      "description": "[h1]Hedbanz / What Am I? (Multi-Language Scripted Mod)[/h1] Bring the classic, laugh-out-loud party game [b]Hedbanz (\"What Am I?\") [/b] straight into Tabletop Simulator! Ask \"Yes\" or \"No\" questions to figure out what word or picture is placed on your forehead before time runs out! Fully scripted, intuitive, and designed to work seamlessly with both text words and custom image links. [hr][/hr] [h2]✨ Features[/h2] [list] [*] [b]Fully Scripted UI:[/b] Easy-to-use floating on-screen buttons to assign cards and reset the table with a single click. [*] [b]Text & Custom Images:[/b] Type any word/phrase (auto-generated into card text) or paste direct image URLs (PNG/JPG) from the web. [*] [b]Smart Seat Detection:[/b] Automatically scans the table's player boxes and detects active colors and Steam player names. [*] [b]Color-Coded Chat & Menus:[/b] Menus and broadcast notifications display player names tinted in their respective seat colors. [*] [b]10 Supported Languages:[/b] Switch between languages on the fly: [i]English, Español, Français, 简体中文, Deutsch, Português, 日本語, 한국어, Русский, and Italiano.[/i] [/list] [hr][/hr] [h2]🕹️ How to Play[/h2] [olist] [*] Click the [b]Hedbanz[/b] button in the bottom right corner (or right-click the table). [*] Select [b]\"Assign card\"[/b]. [*] Type a word or paste a direct image URL. [*] Choose which player gets the card. [*] The card spawns upright in front of their seat. [b]Remember: the card owner must only see the back of the card![/b] [*] On your turn, ask the other players \"Yes\" or \"No\" questions to figure out what you are! [*] When the round is over, select [b]\"Remove all cards\"[/b] to clear the table for the next round. [/olist] [hr][/hr] [h2]🌐 Multi-Language Support[/h2] Click the [b]🌐 Language[/b] button at any time to change the in-game UI, dialogs, and prompts to your preferred language. Complete rules in all 10 languages are also included in the in-game [b]Notebook[/b]! Special thanks to the creator of the custom table asset used in this mod: [list] [*] [b]Custom Table Asset:[/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2381829797]Steam Workshop Item[/url] [i]Have fun and enjoy the game with your friends! If you like this mod, please don't forget to rate and favorite! 👍 ⭐[/i]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14861186356407555772/D569A29764E2FAA4F35DABC6D882AA481C5D244F/",
+      "preview": "https://images.steamusercontent.com/ugc/14861186356407555772/D569A29764E2FAA4F35DABC6D882AA481C5D244F/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-13T05:08:24+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3838882264",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838882264",
+      "title": "dnup (Scripted)",
+      "creator": "",
+      "description": "An unofficial scripted version of dnup, the card game by Kei Kajino published by Asmodee. The script handles the bookkeeping so you can just play: - Deals for 2 to 5 players and finds who holds the starred 1/5 card - Runs the turn order, including the two-area rules for 2 players - Checks every play and add, and tells you in plain words why a move isn't allowed - Discards your old set, sends beaten sets back rotated, scores with the dnup letter tokens and deals the next round - Lets you sort your hand by matching numbers at any time How to play: sit down and press Start. Drag cards from your hand onto your glowing area and press Play. Drop one card on someone else's set to add it, press Take on a set to take it, or rotate your whole hand. The full rules are in the Notebook. Built on the earlier dnup mod by Malixx, Apocaliar and TacoTaco. The card art and the game belong to Asmodee and Kei Kajino. If you enjoy it, buy the game.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16928841810685164900/9E357DA79889B72CB6B3BBBE4D349F215BDBE9A3/",
+      "preview": "https://images.steamusercontent.com/ugc/16928841810685164900/9E357DA79889B72CB6B3BBBE4D349F215BDBE9A3/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-13T10:57:24+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3838887357",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838887357",
+      "title": "Downtown",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/475494/downtown][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Welcome to Downtown, a game about creating a metropolis from nothing but sweat, tears, and hexes! You know the saying \"Rome wasn't built in a day\"? That's just because the Romans weren't trying hard enough. In Downtown, players compete for victory as they build a new town together. The game is played over a series of rounds, called visits, where you take turns placing buildings with different abilities on a shared board. Each visit, you’ll select and bid for city features to add to your draw bag. Your bags will begin to diverge as you place and replenish unique tiles. Your strategy will evolve and pivot as you play across different zones of the city, and you’ll have to adapt to the tiles that enter your hand and the tiles that others play to the board. Here, the bag building is less about constructing an engine and more about steering your strategy. You’ll juggle many priorities including residential dominance, park popularity, business location optimization, and transportation convenience. Meanwhile, you’ll try to get an edge by bidding for turn order and drafting the perfect special tiles and landmarks for your strategy. Where most tile placement games let players claim spaces anywhere and everywhere, Downtown focuses everyone’s attention on one zone at a time. The sequence of zones is randomized each game, and it’s always in your benefit to connect your tiles across zones because your largest contiguous group of tiles (that is at least partially in the active zone) will determine your income for that visit. Each visit you must decide whether to take your income as all money or all victory points. Victory points help you win the overall game, but money keeps you competitive from one visit to the next. After the final visit, the player with the most victory points wins, proving themselves the most savvy city planner. [h3]Key Features[/h3] • Snap Points [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Robert Hovakimyan [b]Artist:[/b] Ian O'Toole [b]Publisher:[/b] Bitewing Games [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11808008729490593535/35A9F56A98C868435201B2873F58939D849330E5/",
+      "preview": "https://images.steamusercontent.com/ugc/11808008729490593535/35A9F56A98C868435201B2873F58939D849330E5/",
+      "keywords": [
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-13T11:11:11+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3838990914",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838990914",
+      "title": "Four Color Mahjong set",
+      "creator": "",
+      "description": "With most mahjong tiles coming in four copies, I was always curious about ways to differentiate those copies between each other, to expand strategies and possible hand combinations. At first, I tried doing this with playing card suit icons, but the tile illustrations were too dens efor that, so I went with simple recoloring. Should be color-blind friendly too.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13143855488519508418/89821F25EC172122BF9D9229C3DE922FCE1C1347/",
+      "preview": "https://images.steamusercontent.com/ugc/13143855488519508418/89821F25EC172122BF9D9229C3DE922FCE1C1347/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-13T15:06:30+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3839000134",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839000134",
+      "title": "Slay the Spire QoL Add-on",
+      "creator": "",
+      "description": "[h1]Orange Spire — Quality-of-Life Add-on[/h1] Orange Spire is a fan-made quality-of-life add-on for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2884027954]official Slay the Spire: The Board Game Tabletop Simulator mod[/url]. It adds optional tools that reduce setup and bookkeeping while preserving the original game components and rules. My goal for this mod is to streamline gameplay experience while not interfering with how you play the game. These features added by this mod are optional and can be used or ignored at your discretion. [b]NOTE[/b]: This is a fan-made work in progress. It may break your game, cause bugs, or not work as intended. [b]Use at your own risk.[/b] [h2]How to use[/h2] Load this add-on alongside the official mod, then use the [b]Apply QoL Features[/b] button on the Orange Spire Control Board. That's it! This add-on can even be used in the middle of a game, but some features may not work correctly if the game is already in progress. With that said, here's the detailed instruction and recommended way to use this add-on: [olist] [*]Load this mod and save the \"Orange Spire Control Board\" to your TTS Saved Objects for future use. [*]Load the official Slay the Spire: The Board Game mod. [*]Choose your characters and click \"Start Game\". [*]Load the saved \"Orange Spire Control Board\" object into the game. [*]Click the [b]Apply QoL Features[/b] button on the control board. [*]Play the game as normal, using the optional features provided by this add-on. [/olist] After you have saved the control board, you can even load it into a game that is already in progress. Just click the [b]Apply QoL Features[/b] button to reapply the features. [h2]Features[/h2] [list] [*][b]Combat dashboard:[/b] Track the turn, combat die, and each character's ready state. Includes a one-click End Turn button that discards your hand. [*][b]Camera shortcuts:[/b] Quickly switch to the enemy area or configured player-area views from the combat dashboard. [*][b]Deck controls:[/b] Search your draw pile, draw 1–5 cards, automatically shuffle the discard pile when needed,... [*][b]Card rewards:[/b] Set the reward-card count and take normal or rare rewards into dedicated selection areas. [*][b]Character utilities:[/b] Manage gold, add or remove Strength, Vulnerable, Weak, Miracle, and Shiv tokens, and use snap points for relics and powers for organized play. [*][b]Enemy HP support:[/b] Add snap points to deployed enemy HP tracks so HP cubes stay aligned with their cards. [*][b]Table utilities:[/b] Shared player team settings, convenient deck snap points, and resettable trash cans for unwanted components. [*]And many more features to come! [/list] [h2]Compatibility[/h2] Designed for the official Slay the Spire: The Board Game mod. It may not work correctly with modified tables or custom content. [b]This is a fan-made work in progress. Please report issues with reproduction steps and screenshots when possible.[/b]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11380969110474811400/E59A525DF894119FFFF0FAD609D7A5FD9F0177A6/",
+      "preview": "https://images.steamusercontent.com/ugc/11380969110474811400/E59A525DF894119FFFF0FAD609D7A5FD9F0177A6/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-13T15:24:29+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3839025712",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839025712",
+      "title": "Escar-GO! [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/475497/escar-go][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Glide right up for the greatest race of all slime! The fastest mollusks on the face of the Earth have gathered to prove their prowess in this ultimate snail race! On your marks, get set, Escar-GO! Escar-GO is a rowdy, dice chucking, push-your-luck snail race. Players take turns rolling their two dice until they stop or bust. If you roll an X after your first turn, you bust and must move your snail backward for each X you roll. If you stop before busting, place your dice on any open rung of the dice ladder. If your dice are still there at the start of your next turn, your snail inches forward on the race track equal to your position on ladder. (Your snail also immediately advances each time you roll doubles.) But if anyone places their dice on a lower rung of the ladder and their two-digit number is equal to or greater than dice on a higher-numbered rung, those dice are bumped off! How many times do you risk rerolling for the perfect result, and where do you place your dice on the ladder? Escar-GO is an evolution of Reiner Knizia’s classic dice game Excape/Rapido. It retains the lively, approachable gameplay that fans have come to love while introducing exciting new features: - A second race track! This track features special spaces for more drama and chaos. Enjoy a standalone race on either track, or two thrilling back-to-back races (one on each track)! - An improved two-player mode that utilizes two pairs of dice for each player (this addition also exists in Rapido) - A pair of action tokens that each player receives and may use once per game (to bail them out of a bust) - A slight rules variant — if you bust in last place, you do not move backward - Charming snail racers with unique names and personalities - Improved portability thanks to the included travel case and carabiner (the latest addition to Bitewing Games’ Travel Line) [h3]Key Features[/h3] • Automated Roll Dice • Automated Dice Movement [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Reiner Knizia [b]Artist:[/b] Thomas Wellmann [b]Publisher:[/b] Bitewing Games [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12685439935754117527/E5C9CE950430307E92426310E01774F4B41D8FC1/",
+      "preview": "https://images.steamusercontent.com/ugc/12685439935754117527/E5C9CE950430307E92426310E01774F4B41D8FC1/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-13T16:10:35+00:00",
+      "found_at": "2026-11-13T20:54:57.737012+00:00",
+      "is_new": true
+    },
+    {
       "id": "3838102730",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838102730",
       "title": "[2.0 레거시] 로보토미 코퍼레이션 테이블탑 보드게임 [한글]",
@@ -125,7 +270,7 @@
       ],
       "created_at": "2026-11-11T21:55:14+00:00",
       "found_at": "2026-11-12T21:29:40.524875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838503389",
@@ -141,7 +286,7 @@
       ],
       "created_at": "2026-11-12T17:12:58+00:00",
       "found_at": "2026-11-12T21:29:40.524875+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3837616092",
