@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-13T20:55:05.359358+00:00",
+    "completed_at": "2026-11-14T19:12:28.606437+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-13T20:54:57.737012+00:00",
+    "started_at": "2026-11-14T19:12:22.323362+00:00",
     "window_days": 7,
-    "created_after": 1794346185,
-    "created_before": 1794603297,
+    "created_after": 1794430505,
+    "created_before": 1794683542,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-13T20:55:05.359358+00:00",
-    "new_items_added": 9,
+    "last_successful_scan": "2026-11-14T19:12:28.606437+00:00",
+    "new_items_added": 6,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,97 @@
   ],
   "items": [
     {
+      "id": "3839040452",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839040452",
+      "title": "Mission To Mordor (v2)",
+      "creator": "",
+      "description": "In this 1-2 player board game, loosely based on Lord of the Rings, you must lead Frodo and Sam to Mount Doom after finding the One Ring and destroy the ring to save Middle Earth from Sauron. You will have to recruit friends and fight Sauron's minions without perishing. If you have 2 players, one can be a Nazgul out to find Frodo & Sam and get the One Ring back to Sauron. The board map is adapted from an early version of \"The Riddle of the Ring\" board game. The room was ported by XStartoy from mumumumumu the original creator of the assets he made for MikuMikuDance. Thanks to both of them for this wonderful environment. The Gandalf the Grey token was taken from timonberkowits's Workshop of The Lord of the Ring's Adventure Book game by Ravensbrook and the Frodo and Sam token was taken from Malixx's Workshop of the Lord of the Rings: Fate of the Fellowship board game. The Nazgul token was taken from DevKev's Workshop of the War of the Rings 2E (Scripted) board game. Thanks to all.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16417404824995708762/D7BABD3A758A7C2CC2997C5C31CE9FBBAACAA9A2/",
+      "preview": "https://images.steamusercontent.com/ugc/16417404824995708762/D7BABD3A758A7C2CC2997C5C31CE9FBBAACAA9A2/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-13T16:38:39+00:00",
+      "found_at": "2026-11-14T19:12:22.323362+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3839212903",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839212903",
+      "title": "THE DOOMED - Unit Manager",
+      "creator": "",
+      "description": "A great tool that enables you to assign unit cards to your digital minis! How does that work? [olist] [*] Build your warband with the free [url=https://koopax.itch.io/the-doomed-warband-builder]The Doomed Warband Builder[/url] on itch.io. [*] In the builder, open [b]More > Copy for Tabletop Simulator[/b]. [*] In Tabletop Simulator, paste the export into the [b]THE DOOMED[/b] panel (top left) and click [b]Import[/b]. [*] Pick a unit card in the list, turn [b]Assign mode[/b] ON, then click one of your miniatures. The next card is selected automatically. [/olist] [h2]What you get[/h2] [list] [*] [b]Quick hover[/b]: the unit's QL and Skills (e.g. \"QL3+, Nimble\"). [*] [b]Long hover (1 second+)[/b]: the full unit description: weapons, abilities, gear and rules. [*] [b]Right-click[/b] a mini: [b]Activated[/b] shows a green circle, [b]Downed[/b] shows a red circle. [*] [b]Reset Activated[/b] button to clear all Activated statuses at once. [*] The panel can be folded away with the [b]Hide[/b] button once your cards are assigned. [/list] [h2]Notes[/h2] [list] [*] Works with any miniature, you just click it to assign a card. [*] Unofficial fan-made tool. The Doomed belongs to its respective creators. [/list] Use the warband builder here: [url=https://koopax.itch.io/the-doomed-warband-builder]https://koopax.itch.io/the-doomed-warband-builder[/url]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11873476384474116122/7AC7428900A587EF0C6A22283628EDB2D9F5341A/",
+      "preview": "https://images.steamusercontent.com/ugc/11873476384474116122/7AC7428900A587EF0C6A22283628EDB2D9F5341A/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-11-13T22:05:31+00:00",
+      "found_at": "2026-11-14T19:12:22.323362+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3839263387",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839263387",
+      "title": "Ton 7 V 0.13",
+      "creator": "",
+      "description": "--- The year is 7,100 A black hole pulls the artefacts of planets into its destructive bowels. Three factions fight over what remains of the planets before their destruction. The Federation has mobilized its sectors. Men, Women, and Children are sent to these planets. With no way home. The Confederation seeks to thwart the Federation and claim the items for themselves. Pledging their cyborg armies to the cause. The Criminal Guild seeks profit in the lands of this black hole. Under the leadership of Sister April, the Guild has appointed its special forces. --- A wargame I made for me and my friends. Rules are here: https://docs.google.com/presentation/d/1d0tdmmaYaYjVZ7zYTgSEY_GxpMkEMq2KrAkesayUr9s/edit?usp=sharing",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15529866177099958894/4C4943AA143645C873AABB81E7966359A54BDC00/",
+      "preview": "https://images.steamusercontent.com/ugc/15529866177099958894/4C4943AA143645C873AABB81E7966359A54BDC00/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-13T23:57:33+00:00",
+      "found_at": "2026-11-14T19:12:22.323362+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3839471603",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839471603",
+      "title": "The White Castle Duel (español)",
+      "creator": "",
+      "description": "The White Castle: Duel es un juego de mesa de estrategia y gestión diseñado específicamente para 2 jugadores (a partir de 10 años), creado por Sheila Santos e Israel Cendrero (Llama Dice) y publicado por Devir. Aunque comparte ambientación y elementos con el éxito The White Castle, es un juego completamente independiente, más rápido (alrededor de 30 minutos) y con mecánicas distintas (sin dados ni puentes)",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11376248466035021546/92EE0045B5D1D92405F48E727C36EDF8907CE365/",
+      "preview": "https://images.steamusercontent.com/ugc/11376248466035021546/92EE0045B5D1D92405F48E727C36EDF8907CE365/",
+      "keywords": [
+        "Between Two Castles",
+        "Duel of Meloch"
+      ],
+      "created_at": "2026-11-14T09:37:29+00:00",
+      "found_at": "2026-11-14T19:12:22.323362+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3839567635",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839567635",
+      "title": "Manipulate",
+      "creator": "",
+      "description": "Manipulate is a competitive and darkly humorous board game for 3-6 players set in modern-day London. Players choose from a number of characters and make deals, double cross, and outmanoeuvre each other as they seek to build their shady business empires in the City. Their goal? To be the most Powerful at the end of the game... Encouraging bluffs, threats and dubious deals, the game captures the deceitful nature of London's corrupt and cut-throat elite - all colluding as they vie for Power and influence. From having your most lucrative Venture burned to the ground to revealing your friend's most incriminating Skeleton, Manipulate is a game that's sure to get emotions running high.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15389506925813309180/74E52CF906518BC05C36F044F4AE2B384BD170E8/",
+      "preview": "https://images.steamusercontent.com/ugc/15389506925813309180/74E52CF906518BC05C36F044F4AE2B384BD170E8/",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-14T12:57:34+00:00",
+      "found_at": "2026-11-14T19:12:22.323362+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3839655255",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839655255",
+      "title": "Sherlock Holmes Jack the Ripper & West End Adventures (PT-BR)",
+      "creator": "",
+      "description": "Tradução do jogo Sherlock the Holmes - Jack the Ripper & West End Adventures para o português brasileiro. Pendências do mod: há manuscritos que precisaram ser traduzidos e, com isso, perderam a caligrafia original. Thanks for the original modder znoble360",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10437718837361204230/71C689500231EF90C560FAC8E95937AAC3B27C21/",
+      "preview": "https://images.steamusercontent.com/ugc/10437718837361204230/71C689500231EF90C560FAC8E95937AAC3B27C21/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-14T15:22:24+00:00",
+      "found_at": "2026-11-14T19:12:22.323362+00:00",
+      "is_new": true
+    },
+    {
       "id": "3838741198",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3838741198",
       "title": "Man I hate my PC",
@@ -125,7 +216,7 @@
       ],
       "created_at": "2026-11-13T02:22:04+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838741652",
@@ -141,7 +232,7 @@
       ],
       "created_at": "2026-11-13T02:23:24+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838789140",
@@ -157,7 +248,7 @@
       ],
       "created_at": "2026-11-13T05:01:22+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838790826",
@@ -173,7 +264,7 @@
       ],
       "created_at": "2026-11-13T05:08:24+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838882264",
@@ -189,7 +280,7 @@
       ],
       "created_at": "2026-11-13T10:57:24+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838887357",
@@ -205,7 +296,7 @@
       ],
       "created_at": "2026-11-13T11:11:11+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838990914",
@@ -221,7 +312,7 @@
       ],
       "created_at": "2026-11-13T15:06:30+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839000134",
@@ -237,7 +328,7 @@
       ],
       "created_at": "2026-11-13T15:24:29+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839025712",
@@ -255,7 +346,7 @@
       ],
       "created_at": "2026-11-13T16:10:35+00:00",
       "found_at": "2026-11-13T20:54:57.737012+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838102730",
