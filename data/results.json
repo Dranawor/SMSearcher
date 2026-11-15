@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-14T19:12:28.606437+00:00",
+    "completed_at": "2026-11-15T19:48:46.768950+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-14T19:12:22.323362+00:00",
+    "started_at": "2026-11-15T19:48:38.218522+00:00",
     "window_days": 7,
-    "created_after": 1794430505,
-    "created_before": 1794683542,
+    "created_after": 1794510748,
+    "created_before": 1794772118,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-14T19:12:28.606437+00:00",
-    "new_items_added": 6,
+    "last_successful_scan": "2026-11-15T19:48:46.768950+00:00",
+    "new_items_added": 5,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,85 @@
   ],
   "items": [
     {
+      "id": "3839128980",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839128980",
+      "title": "Fiscal Harvest -- GGJ Zoud Gamelab Submission",
+      "creator": "",
+      "description": "Fiscal Harvest ------------------- Original Project Link (by Nelson LAN, 2026): itch io Link: https://nelsonlan01.itch.io/fiscal-harvest =========================== Fiscal Harvest teaches financial literacy by turning core economic principles into playable, consequence-driven loops.Players start with basic tools and zero capital, then repeatedly cycle through: Resource extraction and value-adding production — Higher-tier tools and home crafting (smelting ores into bars, turning logs into planks/chests) demonstrate how labour and processing create economic value beyond raw materials. Living markets and supply/demand — Commodity prices, stock indices, and bond values fluctuate in response to player trades. Flooding the market with a good lowers its price; scarcity or demand raises it. Timing sales and purchases becomes a core skill. Investment under uncertainty — Enchanting tools or swords requires spending hard-earned levels plus cash, then rolling dice for success or failure. This models risk/reward trade-offs and the cost of capital. Portfolio thinking and diversification — Players can park money in government bonds (steady yield), industry stocks, or precious metals, experiencing different risk profiles and the value of not putting everything into one activity. Risk management and opportunity cost — Dungeon combat offers high-reward loot and experience but carries the real penalty of losing half the backpack on defeat. Every move, tool upgrade, or market action forces choices about where limited time, durability, and capital are best spent. Because the economy is reactive and open-ended (race to $100, build a diversified portfolio, pursue high-risk routes, etc.), players internalise the extraction → production → market-timing → reinvestment loop by living it, rather than reading about it. 【Genre】 Board game 【Referenced Material / Abstract Thought】 Minecraft Server Banking Mechanism in 2016-2022 ------------ 【Technology Notes】 Boardgame Design Tabletop Simulator No-code game Language: Neutral ============= Copyright ⓒ Nelson LAN (2026) All rights reserved",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11945905762880823182/6579EB5DC5B0FFC91D9101EED80F5B24DB41145C/",
+      "preview": "https://images.steamusercontent.com/ugc/11945905762880823182/6579EB5DC5B0FFC91D9101EED80F5B24DB41145C/",
+      "keywords": [
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-13T19:22:37+00:00",
+      "found_at": "2026-11-15T19:48:38.218522+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3839890432",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839890432",
+      "title": "KT Command Node 2026",
+      "creator": "",
+      "description": "A new Kill Team Command Node for Tabletop Simulator, intended to replace KT Command Node 2024. Choose your team, select your operatives and loadouts, then place your models on the tiles. The node scripts them with their stats, weapons, abilities, and movement actions. Supported teams also receive special-rule choices or counters, such as Chapter Tactics and Gore Tanks. You can optionally spawn your team’s tokens, dice, or complete cardbox. Up-to-date rules data The node uses the same scraped rules data as my Kill Team datacards mod, fetching the latest published team data directly from the repository. As new Balance Dataslates are processed and published, they become available through the node without needing a new roster export or encoder. Models already scripted on the table need their stats reapplied to receive updated rules. This is an early release. Bug reports and feedback are welcome, especially for team-specific rules and unusual loadouts.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14940855286879960803/AE54F07C676935DAF349D4DE1C3EE3ED2209C96E/",
+      "preview": "https://images.steamusercontent.com/ugc/14940855286879960803/AE54F07C676935DAF349D4DE1C3EE3ED2209C96E/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-14T21:42:29+00:00",
+      "found_at": "2026-11-15T19:48:38.218522+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3840137084",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840137084",
+      "title": "Magical Athlete: Second Wind [Scripted] - Arabic | الرياضي السحري (عربي)",
+      "creator": "",
+      "description": "[h1]ABOUT THIS MOD[/h1] Magical Athlete is a chaotic racing game: roll a die and move your racer that many spaces, except every racer has a strange ability that breaks the rules. Race four times, and the player with the most points wins! Before racing, each player drafts the four racers they will use for the whole game, then picks one for each race. Races switch between the \"mild\" and \"wild\" sides of the board, and a race ends as soon as two racers cross the finish line. This is a complete Arabic translation of the scripted Magical Athlete + Second Wind mod, so the whole game can be played by people who read only Arabic. الرياضي السحري لعبة سباق من الفوضى الخالصة: ارمِ النرد وحرّك متسابقك، لكن لكل متسابق قدرة غريبة تكسر قواعد اللعبة. تسابقوا أربع مرات، والفائز من يجمع أكثر النقاط! هذه ترجمة عربية كاملة للعبة مع توسعة «النَّفَس الثاني». [h2]Key Features[/h2] [list] [*]All 74 racer cards and 13 twist cards in Arabic [*]Both rulebooks fully translated (including the comic pages) [*]Arabic names and tooltips, buttons and dice messages [*]Western digits (1, 2, 3) and correctly shown +/- numbers [*]Same automated setup and scripting as the original mod [/list] [h1]CREDITS[/h1] [b]Designer:[/b] Richard Garfield, Takashi Ishida [b]Artist:[/b] Angela Kirkwood [b]Publisher:[/b] CMYK [b]Original mod:[/b] Malixx - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3571528259]Magical Athlete: Second Wind [Scripted][/url] [b]Arabic translation:[/b] Jinx [code]Disclaimer: This is an unofficial, fan-made translation. All rights and trademarks for this game belong to its original creators and publisher. This project is not affiliated with or endorsed by the official creators, the publisher, or the original modder. It is shared so Arabic-speaking players can discover the game. If you enjoy it, please support the creators by buying the official game at cmyk.games. For removal requests, please leave a comment on this page or message me on Steam and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13527469009988365207/A6D0C30E2466D6D18F7D9D8EFC52D46D4ADF7302/",
+      "preview": "https://images.steamusercontent.com/ugc/13527469009988365207/A6D0C30E2466D6D18F7D9D8EFC52D46D4ADF7302/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-15T08:07:28+00:00",
+      "found_at": "2026-11-15T19:48:38.218522+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3840440015",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840440015",
+      "title": "Go Fish For Stupid Dumb Idiots: Cat Pack",
+      "creator": "",
+      "description": "Here's the long awaited third expansion! This features cat pictures I like, cats I like, friends cats and my cats, and one picture of Jerma that's got a cat somewhere in there. This stupid card game has taken over my life. Happy fishing!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17743064523700127331/65FB8B57E277E3138AC9EF0AAE2D65FA26E0DAE6/",
+      "preview": "https://images.steamusercontent.com/ugc/17743064523700127331/65FB8B57E277E3138AC9EF0AAE2D65FA26E0DAE6/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-15T17:26:58+00:00",
+      "found_at": "2026-11-15T19:48:38.218522+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3840521128",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840521128",
+      "title": "Blessings of Khorne Dice Mat",
+      "creator": "",
+      "description": "A dice mat for the World Eaters' Blessings of Khorne. Roll your blessing dice, press the blessings you want, and the mat shows which ones your dice can still pay for. [list] [*][b]ROLL[/b] rolls your 8 blessing dice and sorts them into rows by face. [*][b]Press a blessing[/b] to take it. Once you have your blessings, the dice that pay for them move beside them. [*][b]Changed your mind?[/b] Press a picked blessing again to drop it. Once your blessings are taken, right-click one to bring the whole roll back. [*][b]Your own dice:[/b] drop any die into the hole and ROLL uses copies of it. [*][b]EXTRA[/b] adds blessing dice to the next roll, for the Lord of Skulls, bloodshed from Berserkers and the like. [*][b]Rerolls:[/b] if a rule lets you reroll some dice, drop just those into the hole. The blessings update when they land. [/list]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10723128838023415224/8DCA768FE5B3FEA551DBB0F589660BB21CDF8B50/",
+      "preview": "https://images.steamusercontent.com/ugc/10723128838023415224/8DCA768FE5B3FEA551DBB0F589660BB21CDF8B50/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-15T19:42:04+00:00",
+      "found_at": "2026-11-15T19:48:38.218522+00:00",
+      "is_new": true
+    },
+    {
       "id": "3839040452",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839040452",
       "title": "Mission To Mordor (v2)",
@@ -125,7 +204,7 @@
       ],
       "created_at": "2026-11-13T16:38:39+00:00",
       "found_at": "2026-11-14T19:12:22.323362+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839212903",
@@ -140,7 +219,7 @@
       ],
       "created_at": "2026-11-13T22:05:31+00:00",
       "found_at": "2026-11-14T19:12:22.323362+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839263387",
@@ -155,7 +234,7 @@
       ],
       "created_at": "2026-11-13T23:57:33+00:00",
       "found_at": "2026-11-14T19:12:22.323362+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839471603",
@@ -171,7 +250,7 @@
       ],
       "created_at": "2026-11-14T09:37:29+00:00",
       "found_at": "2026-11-14T19:12:22.323362+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839567635",
@@ -186,7 +265,7 @@
       ],
       "created_at": "2026-11-14T12:57:34+00:00",
       "found_at": "2026-11-14T19:12:22.323362+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839655255",
@@ -201,7 +280,7 @@
       ],
       "created_at": "2026-11-14T15:22:24+00:00",
       "found_at": "2026-11-14T19:12:22.323362+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3838741198",
