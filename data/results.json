@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-15T19:48:46.768950+00:00",
+    "completed_at": "2026-11-16T23:24:52.908613+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-15T19:48:38.218522+00:00",
+    "started_at": "2026-11-16T23:24:42.475376+00:00",
     "window_days": 7,
-    "created_after": 1794510748,
-    "created_before": 1794772118,
+    "created_after": 1794599326,
+    "created_before": 1794871482,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-15T19:48:46.768950+00:00",
-    "new_items_added": 5,
+    "last_successful_scan": "2026-11-16T23:24:52.908613+00:00",
+    "new_items_added": 6,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,98 @@
   ],
   "items": [
     {
+      "id": "3840681786",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840681786",
+      "title": "MTG 4 Player Table – Lean & Cozy (scripted fork)",
+      "creator": "",
+      "description": "A lighter, tidier fork of \"MTG 4 player table - scripted\" by Oops I Baked a Pie (Workshop 2296042369). Same scripting underneath, about 20% higher FPS, much less clutter, and a warm new room. • Various optimizations, new look • Decluttered table, press side buttons to open or put away \"drawers\" • Small utility changes to ease some common multiplayer difficulties • Reorganized card menu, simplified instructions • moon-mtg-equip always on Credits: original table by Oops I Baked a Pie · Card Encoder by Tipsy Hobbit · Easy Modules for MTG Encoder by Tyrant · Card Importer by Amuzet · Deck importer by rikrassen",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15250994667053124279/DB71DD26EC129ED9124097289CCA9B3750C4DDEB/",
+      "preview": "https://images.steamusercontent.com/ugc/15250994667053124279/DB71DD26EC129ED9124097289CCA9B3750C4DDEB/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-16T01:31:34+00:00",
+      "found_at": "2026-11-16T23:24:42.475376+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3840737231",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840737231",
+      "title": "[PROTOTYPE] Wizard's War TCG",
+      "creator": "",
+      "description": "(This is an early prototype. All cards are proxied with art primarily from Magic: The Gathering, and are not representative of any final product. I claim no ownership of any art or visual assets contained within.) Wizard's War is a strategy card game that combines elements of Magic, Pokemon and Chess. Players assume the role of rival wizards within their towers, casting spells and commanding thralls across the battlefield between them. This truly is a wizard's war. All rules are in the Notebook. I apologize for any confusions you might have with them. Behind the bags of crystals is a tiny bag containing all the current cards for deck building. There are also 2 basic \"structure decks\" on the board if you can't be bothered. There are currently [42] cards in the pool. Some cards have balance issues that may be changed when a batch of new cards is added. (I.e. Erthewurm should only have 1 movement, Tidal Invocation should do generic damage rather than Water.) Feedback is highly valued and appreciated. Thank you! https://www.youtube.com/watch?v=msMkeJTEGuU",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10656159863630588224/9A074C9682CD8EF0EC03D983F95A69AB5300E7ED/",
+      "preview": "https://images.steamusercontent.com/ugc/10656159863630588224/9A074C9682CD8EF0EC03D983F95A69AB5300E7ED/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-16T04:33:52+00:00",
+      "found_at": "2026-11-16T23:24:42.475376+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3840781839",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840781839",
+      "title": "Lobotomy Corporation - An Unofficial Board Game",
+      "creator": "",
+      "description": "You are in the role of a manager at a branch of Lobotomy Corporation. Your job is to safely manage Abnormalities and produce an energy source known as “Enkephalin”. In a competitive game, you will be expected to perform better and produce more Enkephalin than the other managers at the end of the day. In a cooperative game, you will be expected to work as efficiently as possible alongside your fellow managers to reach the Enkephalin quota and complete your department's tasks. OVERVIEW This is a problem-solving game with unknown information. Each round, you first roll the dice, then it is up to you to assign your employees and dice to the best of your ability. Successfully interacting with your Abnormalities lets you choose your reward : You may either gain victory points or additional tools to be better prepared for the upcoming challenges. Failure might cause the Abnormalities to escape and/or kill your employees! FEATURES 9 Departments to pick from with their own abilities and missions Modular Abnormalities with unknown effects every game you play Play competitively, cooperatively or solo Challenge one or more Core Meltdowns! AUTHOR NOTE If playing with the Central Command Team, you can find its extended board here : https://steamcommunity.com/sharedfiles/filedetails/?id=3840794906 I did my best to tidy up the rulebook and card text, but please let me know in comments or discussions if you find typos, missing information or have any questions about rulings. ______________________________________________ CREDITS This project is a fan-made derivative work of Lobotomy Corporation. Game mechanics were adapted from Lobotomy Corporation. Lobotomy Corporation, characters, concepts, themes and settings are © Project Moon. Department Room art, Lobotomy Corporation logo and title, Corpse icon, Damage Type icons, Death and Panic icons, Enkephalin icon, Grade icons, Health icon, Meltdown icon, Qliphoth icon, Veteran icon, Virtue icons, Work Result icons, Work Type icons, and more : by Project Moon. Bullet icon, Damage Range icons and E.G.O. icons : made by Lorc (http://lorcblog.blogspot.com, https://game-icons.net) Dice icons and Bless/Curse icons : made by Delapouite (https://delapouite.com, https://game-icons.net) Department board background art : https://steamcommunity.com/sharedfiles/filedetails/?id=1388104432 Central Command Department board background : made by てまり椛 (pixiv user 15636761) Day board background art : made by 打雷 (pixiv user 7431772) Recruitment board art : unknown Qliphoth Interference card background : Designed by GarryKillian / Freepik Cactus token : Potted Cactus Vectors by Vecteezy Department card background : Hi Tech Background Vectors by Vecteezy Crescent guideline icon : Occult Moon Vectors by Vecteezy (vecteezy.com) Regular Text font : Gill Sans MT Title Text font : Norwester Abnormality, Encounter and Ordeal art, Rules and card design : by LobsterKing",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13755282328423224445/4DAC3E849227B4F1F2726DFFCC26E0CB9C364399/",
+      "preview": "https://images.steamusercontent.com/ugc/13755282328423224445/4DAC3E849227B4F1F2726DFFCC26E0CB9C364399/",
+      "keywords": [
+        "My Little Scythe",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-16T07:41:16+00:00",
+      "found_at": "2026-11-16T23:24:42.475376+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3840837306",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840837306",
+      "title": "Dark Tongue (Chaos) Dice",
+      "creator": "",
+      "description": "Occult custom dice for your Chaos Knights, Chaos Space Marines or Chaos Daemons. 1-5 in the Dark Tongue, and 6 is my Fallen House's custom icon.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14990183110093163917/E761E648EF6A9F3F269FA09BAEDCCCEFC7DB1405/",
+      "preview": "https://images.steamusercontent.com/ugc/14990183110093163917/E761E648EF6A9F3F269FA09BAEDCCCEFC7DB1405/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-16T11:06:35+00:00",
+      "found_at": "2026-11-16T23:24:42.475376+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841077882",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841077882",
+      "title": "Oogie Boogie Dice (The Nightmare Before Christmas)",
+      "creator": "",
+      "description": "Well, Well, Well, what have we here? A little LATE for Halloween, aren't we Jack? Designs are based on real movie stock found on propstore.com (though I took a few liberties with the arrangement of the faces relative to each other). If they look different to how you remember, you're probably right! There are multiple different designs used throughout the film.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15652558562416356111/775BBBA6573C54A9C1A1EE6ED8FE4D9CE34AF434/",
+      "preview": "https://images.steamusercontent.com/ugc/15652558562416356111/775BBBA6573C54A9C1A1EE6ED8FE4D9CE34AF434/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-16T20:03:31+00:00",
+      "found_at": "2026-11-16T23:24:42.475376+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841111633",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841111633",
+      "title": "Secret Societies Arabic | الجمعيات السرية بالعربية",
+      "creator": "",
+      "description": "[h1]الجمعيات السرية بالعربية | Secret Societies Arabic[/h1] ترجمة عربية كاملة للعبة «الجمعيات السرية»، وهي لعبة استنتاج اجتماعي وسحب بطاقات مدتها من 10 إلى 20 دقيقة، لـ 4 إلى 7 لاعبين. [list] [*]كل البطاقات الخاصة الـ 15 (اللعبة الأساسية والتوسعتان) بالعربية [*]بطاقات المرجع: فك تعادل الولاء، شروط الفوز، أعداد البطاقات، الخط الزمني، بطاقات الفائز، بطاقة التنبيه [*]كتاب القواعد كاملا (20 صفحة) بالعربية داخل اللعبة [*]الأزرار والرسائل على الشاشة ودفتر القواعد بالعربية [*]السكربتات الأصلية تعمل كما هي: التجهيز التلقائي، فحص الولاء، تحديد الفائز [/list] [h2]English[/h2] A full Arabic translation of Secret Societies, a 10-20 minute social deduction drafting game for 4-7 players. All 15 special cards (base game and both expansions), every reference card, the Timeline card, the Winner cards and the full 20-page rulebook are translated. The setup buttons, on-screen messages and notebook rules are in Arabic too. All of the original scripting is kept, so the automatic setup, the loyalty checker and the winner finder still work. [h2]الشكر والحقوق | Credits[/h2] [list] [*][b]Game design, artwork and the original Tabletop Simulator mod:[/b] Kyle Weaver (Cell), Secret Societies [SCRIPTED]. [*][b]BoardGameGeek:[/b] [url=https://boardgamegeek.com/boardgame/329568/secret-societies]Secret Societies[/url] [*][b]Physical copy:[/b] [url=https://www.thegamecrafter.com/games/secret-societies1]The Game Crafter[/url] [*][b]Arabic translation and Arabic card artwork:[/b] Ahmed ALRIKABI [/list] This is an unofficial fan translation. If you enjoy the game, please support its creator by buying the physical copy. هذه ترجمة غير رسمية. إذا أعجبتك اللعبة، فادعم صانعها بشراء النسخة الأصلية.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15657192319835034496/E420D458833DEBE8C73E21702FB1F63291DF92CB/",
+      "preview": "https://images.steamusercontent.com/ugc/15657192319835034496/E420D458833DEBE8C73E21702FB1F63291DF92CB/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-16T21:21:39+00:00",
+      "found_at": "2026-11-16T23:24:42.475376+00:00",
+      "is_new": true
+    },
+    {
       "id": "3839128980",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3839128980",
       "title": "Fiscal Harvest -- GGJ Zoud Gamelab Submission",
@@ -126,7 +218,7 @@
       ],
       "created_at": "2026-11-13T19:22:37+00:00",
       "found_at": "2026-11-15T19:48:38.218522+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839890432",
@@ -141,7 +233,7 @@
       ],
       "created_at": "2026-11-14T21:42:29+00:00",
       "found_at": "2026-11-15T19:48:38.218522+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840137084",
@@ -159,7 +251,7 @@
       ],
       "created_at": "2026-11-15T08:07:28+00:00",
       "found_at": "2026-11-15T19:48:38.218522+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840440015",
@@ -174,7 +266,7 @@
       ],
       "created_at": "2026-11-15T17:26:58+00:00",
       "found_at": "2026-11-15T19:48:38.218522+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840521128",
@@ -189,7 +281,7 @@
       ],
       "created_at": "2026-11-15T19:42:04+00:00",
       "found_at": "2026-11-15T19:48:38.218522+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839040452",
