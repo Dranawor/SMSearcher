@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-16T23:24:52.908613+00:00",
+    "completed_at": "2026-11-17T22:27:22.163141+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,14 +68,14 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-16T23:24:42.475376+00:00",
+    "started_at": "2026-11-17T22:27:13.885372+00:00",
     "window_days": 7,
-    "created_after": 1794599326,
-    "created_before": 1794871482,
+    "created_after": 1794698692,
+    "created_before": 1794954433,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-16T23:24:52.908613+00:00",
+    "last_successful_scan": "2026-11-17T22:27:22.163141+00:00",
     "new_items_added": 6,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
@@ -113,6 +113,98 @@
   ],
   "items": [
     {
+      "id": "3840490293",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840490293",
+      "title": "[BETA] The Lord of the Rings: Fate of the Fellowship - Fully Automated",
+      "creator": "",
+      "description": "[quote]Full disclosure: I've used Claude Code to build this mod.[/quote] [h1]⚠ BETA ⚠[/h1] [quote] This mod is in [b]beta[/b]. I've done some short playtests without hitting any major bugs, so I'd consider it playable, but expect rough edges. [b]If something goes wrong:[/b] [list] [*][b]Menu > Resync the table[/b] moves every piece back to where the game state says it should be. [*][b]Menu > Edit State[/b] (host only) lets you fix almost anything by hand: tracks, tokens, troops, characters and cards. [/list] Either way, [b]please report the bug in the comments[/b], ideally with what you were doing when it happened. [/quote] [h1]The Lord of the Rings: Fate of the Fellowship — Automated[/h1] This is a [b]fully automated[/b] mod for [i]The Lord of the Rings: Fate of the Fellowship[/i]. It's designed to play like a video game adaptation rather than a board game where the players are responsible for maintaining the game state. Everything on the board reflects the game simulation running underneath. [h2]How you play[/h2] [list] [*][b]Panel Mode[/b]: play through the on-screen UI. [*][b]Board Mode[/b]: use contextual clicks on the game board, cards and character portraits. [/list] Both are on by default. You can switch to just one during setup or from the in-game [b]Menu[/b]. [h2]Before you start[/h2] The game doesn't rely on TTS's own UI, so hiding it is recommended ([b]F11[/b] by default). [h2]Future[/h2] My priority right now is to continue playtesting the mod, fixing whatever bugs I find and further polish the game experience. Once 1.0 is out, I'm considering creating a fork of it with a 3D map and original art [hr][/hr] [h2]Credits[/h2] [list] [*]Game: [url=https://boardgamegeek.com/boardgame/436217/the-lord-of-the-rings-fate-of-the-fellowship][i]The Lord of the Rings: Fate of the Fellowship[/i][/url], designed by Matt Leacock, published by [url=https://www.zmangames.com]Z-Man Games[/url]. Please support the designer and publisher by buying the game. [*]Original TTS assets (cards, tokens, board and models): [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3483596222]malixx's mod[/url]. [*]Built on: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3577894247][Scripted++] The Lord of the Rings: Fate of the Fellowship[/url]. [*]Parchment map: [url=https://boardgamegeek.com/filepage/309102/alternative-map-art-christopher-tolkien-style-dott]Alternative map art (Christopher Tolkien style)[/url] by woodoo03. [*]Table asset bundle: ulia.dev. [/list]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9646315665138608605/711C8D9ADE87FE70B78475FB97562B0B4319EFBE/",
+      "preview": "https://images.steamusercontent.com/ugc/9646315665138608605/711C8D9ADE87FE70B78475FB97562B0B4319EFBE/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-15T18:47:59+00:00",
+      "found_at": "2026-11-17T22:27:13.885372+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3840972447",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840972447",
+      "title": "Havoc Gate 5: Parasite Manufactorum Part 1",
+      "creator": "",
+      "description": "The first two missions of a 4 mission long Co-op Campaign. For One Page Rules's Grimdark Future Firefight. More info on the Discord Server: https://discord.gg/U626rDezVb",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12264166934338885986/D97EA3A573130373EE5C3AD053A22CAA76D8FF89/",
+      "preview": "https://images.steamusercontent.com/ugc/12264166934338885986/D97EA3A573130373EE5C3AD053A22CAA76D8FF89/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-16T16:25:47+00:00",
+      "found_at": "2026-11-17T22:27:13.885372+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841262460",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841262460",
+      "title": "Egghead's Master Plan - Marvel Champions (Beta)",
+      "creator": "",
+      "description": "A fan-made Marvel Champions villain scenario made by Gooffrey. Egghead is trying to blow up the city with his ORBITAL LASER SATELLITE! With his helpful robots, and Egghead inventions he will be a tough fight! Includes all 28 scenario cards, Standard and Expert Villain Stages and helper counters. Please share feedback if you enjoyed it/hated it/neutral!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9517752387577788266/652B0523142079FE04C9C9C16F54745D66302A60/",
+      "preview": "https://images.steamusercontent.com/ugc/9517752387577788266/652B0523142079FE04C9C9C16F54745D66302A60/",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-17T05:13:36+00:00",
+      "found_at": "2026-11-17T22:27:13.885372+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841281051",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841281051",
+      "title": "Battle of Newmarkt - Red",
+      "creator": "",
+      "description": "",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9432912103257033101/72F31408724B8C80E429A8FFB969C9D94B34B618/",
+      "preview": "https://images.steamusercontent.com/ugc/9432912103257033101/72F31408724B8C80E429A8FFB969C9D94B34B618/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-11-17T06:35:30+00:00",
+      "found_at": "2026-11-17T22:27:13.885372+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841455762",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841455762",
+      "title": "Legendary: Avatar (CLUG)",
+      "creator": "",
+      "description": "This is a CLUG project for the Legendary system Water. Earth. Fire. Air. Long ago, the four nations lived together in harmony. Then, everything changed when the Fire Nation attacked. Only the Avatar, master of all four elements, could stop them, but when the world needed him most, he vanished. A hundred years passed and my brother and I discovered the new Avatar, an airbender named Aang. And although his airbending skills are great, he has a lot to learn before he's ready to save anyone. But I believe Aang can save the world.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13858654090040357168/F6A2DCA2B071D3E570205E11F5DEC52AA72EFC98/",
+      "preview": "https://images.steamusercontent.com/ugc/13858654090040357168/F6A2DCA2B071D3E570205E11F5DEC52AA72EFC98/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-17T15:30:59+00:00",
+      "found_at": "2026-11-17T22:27:13.885372+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841607311",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841607311",
+      "title": "My Little Pony TCG - All Cards",
+      "creator": "",
+      "description": "All cards from My Little Pony TCG by KAYOU.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9281761726361579188/508A716896CB3158777FD6DF90F106611189EAF4/",
+      "preview": "https://images.steamusercontent.com/ugc/9281761726361579188/508A716896CB3158777FD6DF90F106611189EAF4/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-17T20:49:54+00:00",
+      "found_at": "2026-11-17T22:27:13.885372+00:00",
+      "is_new": true
+    },
+    {
       "id": "3840681786",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840681786",
       "title": "MTG 4 Player Table – Lean & Cozy (scripted fork)",
@@ -125,7 +217,7 @@
       ],
       "created_at": "2026-11-16T01:31:34+00:00",
       "found_at": "2026-11-16T23:24:42.475376+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840737231",
@@ -141,7 +233,7 @@
       ],
       "created_at": "2026-11-16T04:33:52+00:00",
       "found_at": "2026-11-16T23:24:42.475376+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840781839",
@@ -153,11 +245,12 @@
       "preview": "https://images.steamusercontent.com/ugc/13755282328423224445/4DAC3E849227B4F1F2726DFFCC26E0CB9C364399/",
       "keywords": [
         "My Little Scythe",
+        "Red Rising",
         "Rolling Realms"
       ],
       "created_at": "2026-11-16T07:41:16+00:00",
       "found_at": "2026-11-16T23:24:42.475376+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840837306",
@@ -172,7 +265,7 @@
       ],
       "created_at": "2026-11-16T11:06:35+00:00",
       "found_at": "2026-11-16T23:24:42.475376+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841077882",
@@ -187,7 +280,7 @@
       ],
       "created_at": "2026-11-16T20:03:31+00:00",
       "found_at": "2026-11-16T23:24:42.475376+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841111633",
@@ -202,7 +295,7 @@
       ],
       "created_at": "2026-11-16T21:21:39+00:00",
       "found_at": "2026-11-16T23:24:42.475376+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3839128980",
