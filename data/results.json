@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-17T22:27:22.163141+00:00",
+    "completed_at": "2026-11-18T22:00:30.590743+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-17T22:27:13.885372+00:00",
+    "started_at": "2026-11-18T22:00:22.990065+00:00",
     "window_days": 7,
-    "created_after": 1794698692,
-    "created_before": 1794954433,
+    "created_after": 1794781642,
+    "created_before": 1795039222,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-17T22:27:22.163141+00:00",
-    "new_items_added": 6,
+    "last_successful_scan": "2026-11-18T22:00:30.590743+00:00",
+    "new_items_added": 8,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,133 @@
   ],
   "items": [
     {
+      "id": "3841707465",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841707465",
+      "title": "Checks",
+      "creator": "",
+      "description": "Checks is like Chess but if it wasn't really thought through. Checks is also constantly being worked on by me so expect constant updates. ALSO Please suggest things to add I would love to hear feedback because although I am making this for having fun with my friends I also want to make sure it is fun for all to play.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16570916750918409509/1DD62BC5B02D6B7D0D8600448EE414BFA311F126/",
+      "preview": "https://images.steamusercontent.com/ugc/16570916750918409509/1DD62BC5B02D6B7D0D8600448EE414BFA311F126/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-18T01:02:56+00:00",
+      "found_at": "2026-11-18T22:00:22.990065+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841761987",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841761987",
+      "title": "Good Bones",
+      "creator": "",
+      "description": "Welcome to Good Bones! An asymmetrical arcane brawl for 3-4 players. Take on the role of a poker-playing Outsider, or a team of tile-slinging Shamans! The Shamans have accidentally summoned an Outsider from beyond the veil. The Outsider wants...well...OUT! The Shamans want to survive long enough for their wards to take effect and send the Outsider back from whence they came. The Outsider will attempt to assemble their best poker hand to defeat the Shamans. The better the hand, the more tiles (bones) the Shamans must discard. The Shamans will assemble bone combos (rites) to disrupt these hands. The Outsider wins if all Shamans are eliminated. A Shaman is eliminated when her last bone is discarded. Shamans have two paths to victory. When they complete the Staves they win the game. They also win when the Outsiders deck is depleted.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13823101062215669811/DEA017168E24D1E424FD3BAF4316671349FCE6F9/",
+      "preview": "https://images.steamusercontent.com/ugc/13823101062215669811/DEA017168E24D1E424FD3BAF4316671349FCE6F9/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-18T04:03:45+00:00",
+      "found_at": "2026-11-18T22:00:22.990065+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841813968",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841813968",
+      "title": "2026DDG110_P0AP",
+      "creator": "",
+      "description": "Game Name - Hazbin Hotel: Extermination Escape! Disclaimer! - This product is only for education purpose, no commercial values and the right still belong to the original IP owner.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10674358130241200511/675DC572CFBFABA72ED3D8B379713A22524C87E0/",
+      "preview": "https://images.steamusercontent.com/ugc/10674358130241200511/675DC572CFBFABA72ED3D8B379713A22524C87E0/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-18T07:18:58+00:00",
+      "found_at": "2026-11-18T22:00:22.990065+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841827077",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841827077",
+      "title": "Ace Combat Lux Lunae (Shadow Squadron) + Luna 11",
+      "creator": "",
+      "description": "The livery of the Satoan 1st Special Operations Wing, 11th Tactical Squadron, Lux Lunae, better known as the Shadows from Ace Combat 8: Wings of Theve. Now these are not the models from Ace 8, instead these are from Ace Combat 5/Zero and are community made skins for those games. Still, I wanted to bring these into Tabletop Simulator for all your war crime needs! Credits: Project Aces - For Ace Combat as a whole, Ace Combat 5/Zero models originally. Source of the Models: https://www.moddb.com/games/ace-combat-5/downloads/ace-combat-5-the-unsung-war-modding-tools-and-files-pack Source of the Shadow Skins: https://www.moddb.com/games/ace-combat-5/addons/shadows-5 Source of Luna 11's Skin: https://www.moddb.com/games/ace-combat-zero-the-belkan-war/addons/su-47-luna-11",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12152088552375277423/5FC8CA86EA2CE9462822A73850AB4872E8A116ED/",
+      "preview": "https://images.steamusercontent.com/ugc/12152088552375277423/5FC8CA86EA2CE9462822A73850AB4872E8A116ED/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-18T08:11:15+00:00",
+      "found_at": "2026-11-18T22:00:22.990065+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841855771",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841855771",
+      "title": "Bag of Bugs [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/474332/bag-of-bugs][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Bag Of Bugs is a real-time party game in which players try to collect the best set of colored bugs while trying not to go bust. While one player draws bugs one at a time from the bag, the others will choose in real time a Grab token, which determines how many bugs they will get at the end of draw. Try to get as many as you need to create the best bug collection, but don’t overshoot it! [h3]Key Features[/h3] • One-Click Setup • Automatic Score Calculation • Random First Player Selection • Snap Points • Custom Table Design [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Hjalmar Hach, Andrea Di Lorenzo, Marco Castagna, Lorenzo Silva [b]Publisher:[/b] Horrible Guild [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16371809668161773907/C81E59687913D7253083522E36CA4E9CF6402094/",
+      "preview": "https://images.steamusercontent.com/ugc/16371809668161773907/C81E59687913D7253083522E36CA4E9CF6402094/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-18T09:56:24+00:00",
+      "found_at": "2026-11-18T22:00:22.990065+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841912897",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841912897",
+      "title": "Hilt [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/484019/hilt][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Hilt is a card game of strategy and bluffing, force and fate, poker and tarot, designed by Dominique Ehrhard as a reimagining of Condottiere. In Hilt, players compete in a series of battles, going around and around playing cards until everyone passes. Highest total strength wins the battle and claims a chip. Here's the catch: you don't draw new cards between battles. Every card you commit to one fight is a card you won't have for the next. Win too well, too early, and you'll be sitting on an empty hand while your opponents rack up chips. Then there are the fate cards: Winter blankets the battlefield and makes every force card worth 1—even 10s. Crows end the battle on the spot. Bait lets you lure opponents into overcommitting, then take your best card right back into your hand. Sometimes the smartest move in Hilt is losing on purpose and making it so expensive that a win ends up being a loss. Collect three chips of the same color, or one of each, and you win. [h3]Key Features[/h3] • One-Click Setup • Automatic Score Calculation • Automatic Hand Sorting • Random First Player Selection • Snap Points • Custom Table Design [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Dominique Ehrhard [b]Artist:[/b] Sophy Hollington [b]Publisher:[/b] CMYK [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14180872493170587912/D410444B4BFDB00317840B0433DBE695BAE14BA2/",
+      "preview": "https://images.steamusercontent.com/ugc/14180872493170587912/D410444B4BFDB00317840B0433DBE695BAE14BA2/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-18T12:50:51+00:00",
+      "found_at": "2026-11-18T22:00:22.990065+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3841934451",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841934451",
+      "title": "LIGHT OUT",
+      "creator": "",
+      "description": "A cooperative horror drafting game for 4 players, using only 18 cards. The lights are going out, and something is hunting the survivors! Work together to keep at least 3 of the 6 Locations illuminated by the end of two rounds. Each round, players draft and reveal cards simultaneously, flipping Locations between LIGHT and DARK. Match Survivor symbols to activate CHAIN and control which lights change. But beware! After the first draft of each round, the Entity hunts the survivors, turning illuminated Locations DARK. Game Details Players: 4 Playtime: 10–15 minutes Age: 8+ Components: 18 cards Difficulty: EASY / NORMAL Currently in playtesting! LIGHT OUT! is my entry for the Button Shy 18 Card Challenge: Fear (2026).",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9239379777522249835/DC4EC571EDE543B928BC7078D37EE1211AB60601/",
+      "preview": "https://images.steamusercontent.com/ugc/9239379777522249835/DC4EC571EDE543B928BC7078D37EE1211AB60601/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-18T13:47:48+00:00",
+      "found_at": "2026-11-18T22:00:22.990065+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842125695",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842125695",
+      "title": "Fatebound Comics",
+      "creator": "",
+      "description": "GRRR-EATINGS EVERYONE!!! This is a collection of the various custom decks I've made for Sentinels of the Multiverse: Definitive Edition! There's a mix of decks based of existing IPs as well as decks featuring my own characters. Regardless, the art is taken from a mix of Yugioh, Magic: The Gathering, Cardfight!! Vanguard, Hearthstone, Future Card Buddyfight, pixiv, and google image searches. I own absolutely NONE of the art used in the decks! I do playtesting with em from time to time so I will be updating periodically. Of course, if you've got any feedback, please do not hesitate to give it, I'd love to talk card design, explain my thought process, and possibly be inspired to make changes! As far as the current decks included here we've got Ohmega: A brawler that likes to see lightning damage be done to unlock extra effects on his cards! The deck has several reactions to ensure that you always punch first. Helios: Keep the team in high spirits with ample amounts of healing. Deploy Locus cards to conjure that healing to more tangible benefits! Chatterbox: Most of your influence is exerted through your numerous Companions. These Companions may care about lightning, psychic, or toxic damage. Most of the support suite in this kit is leaned more towards helping Heroes with non-character targets. Primarina: A toolboxy damage dealer with a simple loop: deploying Sound cards, then destroying them to get the maximum effect of your Voice cards! The other parts of the evolutionary chain are present as variants and can evolve under lots of stress. Matador: A resilient lad whose gameplay is centered on taking a lot of heat, and being able to dish it out in more than equal measure! You won't find Collect, Discover, or Summon in this deck, but you will find lots of reactions! The Exalted Will: An all-rounder who has many utilitarian powers. Play Rune cards to make targets Marked, allowing you to provide greater punishment to enemies and greater support to your friends! Your character card defines an oath that will require atonement should you break it. Dischordia: A villain whose cards have their effects split amongst two keywords: ♯ Soprano and ♭ Alto, the former to focus on building up her board, while the latter brings some devastation. To keep the Heroes guessing, her character card only flips through the effects of a NON-character card. Scarigan: A scoundrel going spelunking through the region for artifacts, he excavates the Environment deck, hoping to unearth some Relic cards. If the Environment doesn't have any, no worries, Scarigan's got his own Side Deck of Relics that he can't wait to put into the Environment! King of the Skull Servants: A skeletal lad who threatens to deliver one massive wallop to the Heroes. If you keep the King's family and attendants around, they may allow you to placate the King's wrath. Insect Queen: This conniving matriarch will infect Hero decks with various Insects. She has a Side Deck as extra ammo to gum up Hero decks, and has a retinue of Insects ready to hand out mill and draw to push Heroes closer to finding said Insects. Once they get drawn, they will Suddenly! burst onto Hero play areas and be more of a nuisance. Fog King: It's a coalition of boss monsters joined together by 2 things, wanting to gather the 5 pieces of Exodia, and being played by Adrian Gecko! The opening of the fight is a race against time as Exodius will aggressively put Exodia pieces in the Villain trash to force a game over. If you can get past that, Fog King will engage in a Debate and while he's winning, makes the Exodia pieces Indestructible. Gharnef: You can't beat Gharnef. Though... if you got hold of something truly mythical, maybe.. no no no, best not to bring your hopes up. Daredevil's Den: Come one, come all, to the heart racing midway, that's become a global sensation! Manned by the always-smirking imp, B. Limmings, visitors are guaranteed to get what they deserve. Deadly games and almost-as-deadly prizes are at every turn, putting the laughter in slaughter. If you overcome adversity, you'll be delighted to earn more than you bargained for! So what say you? Do you Dare? Calabrook Village: In the rural part of Midwest America lies a rather quiet community. They'll raise their voices come time for a presidential election or just letting the census know they exist. Otherwise, they prefer to keep to themselves. Such close-minded folk make for the perfect mortals to fall under a subtle management with unsavory aims. With some grit and a bit of luck, you can root out the corruption before the area becomes a cesspool of attention. Giant Ballpark: In this area, several insects congregate to play baseball! This Environment remixes the effects of Insect Queen in being a Insect-loving deck that employs mill effects. These bugs are primarily concerned with scoring runs, and have a state of the art Feverous Spirit Stadium to really let loose and have some fun! These creepy crawlies ain't too picky about who they help, buuuuut if you show some support for Insects, you may find yourself getting the better end of the deal.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17642385313998378141/430D11B53FD97D44A0736ED3B64919568820CEA4/",
+      "preview": "https://images.steamusercontent.com/ugc/17642385313998378141/430D11B53FD97D44A0736ED3B64919568820CEA4/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-18T20:37:36+00:00",
+      "found_at": "2026-11-18T22:00:22.990065+00:00",
+      "is_new": true
+    },
+    {
       "id": "3840490293",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3840490293",
       "title": "[BETA] The Lord of the Rings: Fate of the Fellowship - Fully Automated",
@@ -126,7 +253,7 @@
       ],
       "created_at": "2026-11-15T18:47:59+00:00",
       "found_at": "2026-11-17T22:27:13.885372+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840972447",
@@ -142,7 +269,7 @@
       ],
       "created_at": "2026-11-16T16:25:47+00:00",
       "found_at": "2026-11-17T22:27:13.885372+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841262460",
@@ -157,7 +284,7 @@
       ],
       "created_at": "2026-11-17T05:13:36+00:00",
       "found_at": "2026-11-17T22:27:13.885372+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841281051",
@@ -172,7 +299,7 @@
       ],
       "created_at": "2026-11-17T06:35:30+00:00",
       "found_at": "2026-11-17T22:27:13.885372+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841455762",
@@ -187,7 +314,7 @@
       ],
       "created_at": "2026-11-17T15:30:59+00:00",
       "found_at": "2026-11-17T22:27:13.885372+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841607311",
@@ -202,7 +329,7 @@
       ],
       "created_at": "2026-11-17T20:49:54+00:00",
       "found_at": "2026-11-17T22:27:13.885372+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840681786",
