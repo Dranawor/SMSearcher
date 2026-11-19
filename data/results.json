@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-18T22:00:30.590743+00:00",
+    "completed_at": "2026-11-19T22:11:38.955339+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-18T22:00:22.990065+00:00",
+    "started_at": "2026-11-19T22:11:31.335808+00:00",
     "window_days": 7,
-    "created_after": 1794781642,
-    "created_before": 1795039222,
+    "created_after": 1794866430,
+    "created_before": 1795126291,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-18T22:00:30.590743+00:00",
-    "new_items_added": 8,
+    "last_successful_scan": "2026-11-19T22:11:38.955339+00:00",
+    "new_items_added": 10,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,157 @@
   ],
   "items": [
     {
+      "id": "3841912506",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841912506",
+      "title": "Mistborn: The Deckbuilding Game (SCRIPTED)",
+      "creator": "",
+      "description": "My version of Mistborn: The Deckbuilding Game setup. Made using assets and some ideas from Ozim92's mod and MrStump's Flex Table. Scripts & Elements: - Game setup for Solo and all player amount variations of Co-op and Competitive modes. - Buttons for buying and eliminating cards from the market. - Automatic refilling of market slots - Button for cleaning up your play area and drawing cards to 5 in hand - Broadcast messages for most actions - Trackers for Boxings, Atium, Damage Points, Mission/Funding points ALL RIGHTS RESERVED TO DRAGONSTEEL AND BROTHERWISE GAMES",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16987840214266599470/D266A2B05B594528D3E611F95A84E49281285A90/",
+      "preview": "https://images.steamusercontent.com/ugc/16987840214266599470/D266A2B05B594528D3E611F95A84E49281285A90/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-18T12:49:39+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842120002",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842120002",
+      "title": "Blood Bowl Team Preparation Table 2025 (Español)",
+      "creator": "",
+      "description": "[h1]Blood Bowl Team Preparation Table 2025 — Traducción al español[/h1] Traducción no oficial al castellano de [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3732491843]Blood Bowl Team Preparation Table 2025 Ruleset Update[/url] de [b]dunami5[/b], basada en el trabajo de [b]Vergond[/b]. Todo el mérito es suyo; aquí solo se ha traducido el texto. Sirve para crear y actualizar las peanas BB2025 de tus miniaturas y montar las cajas de equipo que luego usas en [b]Blood Bowl Table 2025 (Español)[/b]. [h2]Créditos[/h2] [list] [*]Original: [b]Vergond[/b] [*]Actualización 2025: [b]dunami5[/b] [*]Traducción al español: [b]Norrho[/b] [/list] Proyecto de fans sin ánimo de lucro. Blood Bowl es marca de Games Workshop Ltd.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16597857980358951995/34B5C57D94CD54A10464CB42868A552F2B7EC615/",
+      "preview": "https://images.steamusercontent.com/ugc/16597857980358951995/34B5C57D94CD54A10464CB42868A552F2B7EC615/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-18T20:24:08+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842143736",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842143736",
+      "title": "Legions Imperialis: Tyrannic Wars Epic / Epic 40k / Epic Armageddon / Legions Imperialis",
+      "creator": "",
+      "description": "Hello all! There are already a few Tyranid epic-scale ranges on the Workshop, but many are outdated or don't quite fit the composition of my Tyrannic Wars supplement for Legions Imperialis. So, here I present the Tyrannic Wars supplement alongside an entire range of 40k Tyranid models converted to epic scale! Whether you're playing Legions Imperialis or another epic-scale system, there's plenty here to build your swarm. Still Missing There are a few models I have yet to hunt down or kitbash into existence. If anyone can help me locate these, it would be greatly appreciated! - Malefactor - Dominatrix - Dactylis Disclaimer: This upload supersedes my previous Epic Tyranid upload. The old upload will no longer receive support or updates from me. Any future issues, updates, or additions will be addressed exclusively through this upload. Credits: All original models are by Steam user Makura-Gaeshi, from their mod Tyranid Full Roster - All Hive Fleets and Then Some. I've adapted their models for epic-scale gameplay by resizing them, placing them on appropriately sized bases, and arranging them into suitable unit compositions for Legions Imperialis and other epic-scale systems. Makura-Gaeshi's Tyranid Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3409303706",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10470103732125065754/4CDEB458E7989B73354B8FB0410A37BCF43CA15C/",
+      "preview": "https://images.steamusercontent.com/ugc/10470103732125065754/4CDEB458E7989B73354B8FB0410A37BCF43CA15C/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-18T21:18:04+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842218298",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842218298",
+      "title": "Super Boss Monster 2",
+      "creator": "",
+      "description": "The Dice Queen has arrived in Arcadia with her diceling minions, introducing an all-new mechanic to the hit dungeon-building card game: dice-powered rooms and effects! Playable as a standalone or a sequel, Super Boss Monster 2: The Die is Cast brings you more dungeon-drafting, minion-placing, hero-luring gameplay. But now you'll need to master the power of dice! When you build certain rooms, you'll roll the dice to power them up by placing the dice in your dungeon. You can then manipulate those values with other Rooms, abilities, and Spells! The Die is Cast and Super Boss Monster will never be the same! Super Boss Monster 2 is backward compatible with all existing Boss Monster and Super Boss Monster cards. As a standalone game, Super Boss Monster 2: The Die is Cast will contain everything that players need to play.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9509134821791196551/AED28C530F03434FB8B10A48B2C3680CEEB31EF6/",
+      "preview": "https://images.steamusercontent.com/ugc/9509134821791196551/AED28C530F03434FB8B10A48B2C3680CEEB31EF6/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-19T00:48:29+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842242386",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842242386",
+      "title": "Half Klick Tiles",
+      "creator": "",
+      "description": "Today I am publishing something that I've been sitting on for quite a while and that I've been fiddling with on and off for years. Recently I stumbled across it again while looking through my saves and thought - heck, let's just finish it to a publishable state. For a long while I wanted to have a tileset for TTS that was at least semi-realistic in design and allowed to cover a large area while still being detailed enough to create meaningful features. Also, while the tiles should represent an operational overview, I wanted each hex to represent a size that could easily be turned into a tactical battlefield if needed. So I decided on a scale of 500 meters from edge to edge for each hex. And after long deliberation, I decided to call them Half Klick Tiles. It's the best name I could come up with! As you can see in the screenshots, they are meant to be used for hex-based counter / chit games, but can also be used with miniatures, especially if you turn off the grid after placing down the map! The design of the tiles is focused mostly on modern era and a european theater for now. If there is overwhelming support for other time periods or climates / world regions, I might be doing more. I tried to be quite thorough with the amount of variants, to make most reasonable setups work and look nice. If you think there are variants missing, I could be convinced to add more. BUT: I will only add more variants, if you show me a screenshot of your own map that you made with these tiles and that you actually want to use for a game where it needs a certain combination that I haven't provided yet! I will not add more variants for the sake of adding more variants. And for those who are interested in it - yes, Battlefleet Yamato is still in development. I just put it on hold for the moment to focus on an important real life project. The next major update will happen this year!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16921069089831034755/E1AD931DAD77E6F7E76D22BA914C547BCFD15425/",
+      "preview": "https://images.steamusercontent.com/ugc/16921069089831034755/E1AD931DAD77E6F7E76D22BA914C547BCFD15425/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-19T02:15:30+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842253872",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842253872",
+      "title": "MP:IT: Shy Guy's Shuffle City (WIP)",
+      "creator": "",
+      "description": "",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16673308218376045702/039C63D0EF63E57F4F15107CDF8C6E9323386E12/",
+      "preview": "https://images.steamusercontent.com/ugc/16673308218376045702/039C63D0EF63E57F4F15107CDF8C6E9323386E12/",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-19T02:58:21+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842262630",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842262630",
+      "title": "Sweet Dreams, Little Pigs! (2P Abstract Grid × Deckbuilder | Auto-Scoring & One-Click Setup)",
+      "creator": "",
+      "description": "Sweet Dreams, Little Pigs! is a 2-player symmetrical abstract grid + deckbuilding light-strategy board game. Design by zhuzhu & For zhubao [Game Info] • Players: 2 Players • Playtime: ~25–40 minutes • Mechanics: Deckbuilding (DBG) / 5×5 Grid Area Control / Turn-Based Hand Management [How to Play] 1. Both players start with a personal 10-card starter deck and draw 5 cards each turn (Pink draws 4 on Turn 1). 2. Play cards to generate \"Snores\" (buying power) and trigger sleepy actions—move your cute Pink and Yellow pigs onto the 5×5 cozy plush bed grid, claim the central 3×3 Rug, cuddle up for adjacency bonuses, or bump rivals off onto the floor! 3. Spend Snores in the 5-slot Dream Market (or on the always-available Bedtime Apple) to buy stronger cards and build your deck. 4. The first player to reach 15 Dream Stars (with equal turns) wins tonight's sweet dreams! 5. Includes 12 \"Tonight's House Rule\" variant cards—flip 1 random card each game to twist the setup pace, market economy, or scoring rules for huge replayability. [TTS Mod Automation Features] • One-Click Setup / Reset: Automatically shuffles all decks, deals starting hands, refills the 5-slot Market, and resets all pigs, blankets, snore chips, and score markers. • Smart Snore Tally & One-Click Buying: Automatically counts Snores from your Play Zone (upright, 90° skipped, and face-down Dream cards), Rug sleepers, and Center Pillow bonuses. Click the Buy buttons below the Market or Staple supply to auto-pay Snores and place the card on top of your deck. • Auto-Scoring & Precision Snapping: One-click \"Wake & Score\" counts sleeping pigs and orthogonal cuddling pairs, advances your Dream Star marker along the 0–15 tracks, and wakes your pigs. All 25 grid tiles and 0–15 track spaces feature calibrated snap points.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16479641229436072256/06CBAAC45FE24CE0FDCC708D14FD92BE30D49AF3/",
+      "preview": "https://images.steamusercontent.com/ugc/16479641229436072256/06CBAAC45FE24CE0FDCC708D14FD92BE30D49AF3/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-19T03:31:31+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842362085",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842362085",
+      "title": "Sounds of war OBT",
+      "creator": "",
+      "description": "Sounds of War is a skirmish wargame for 2 players, where you control several ARMs. It offers: - Mech customization with a wide selection of loadouts. Swap weapons in the slots and try a new playstyle. - Quick-to-learn and dynamic gameplay. Movement is controlled using patterns on a modular hex board. The collision mechanic allows you to ram enemy mechs and destroy terrain. - High replayability. Four game modes (PvP and PvPvE) are planned (one is currently available in TTS), along with the ability to create new maps from tiles. The game is currently in the beta stage. I would appreciate it if you could leave your feedback or suggestions either here on Steam or in our Discord channel. On Discord, I post artwork and share WIP updates; you can also get a look at upcoming models for the game there. You can learn about the universe in the rulebook. I plan to advance the overarching storyline through narrative campaigns that players will also be able to influence, though these will be added later. DISCORD - https://discord.gg/taigacreativestudios INSTAGRAM - https://www.instagram.com/taiga.creative.studios/",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9791394196053950501/4D32BCA35509D91018864B7254FA9024573D27FB/",
+      "preview": "https://images.steamusercontent.com/ugc/9791394196053950501/4D32BCA35509D91018864B7254FA9024573D27FB/",
+      "keywords": [
+        "Stamp Swap"
+      ],
+      "created_at": "2026-11-19T10:31:29+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842590174",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842590174",
+      "title": "Battle For Dream Island: The Card Game. (Custom Characters Expansion)",
+      "creator": "",
+      "description": "I was bored and I decided to make a Custom Set of Characters, all based on me and my friends! So far it only has the Basic Mode. And I will be working on the Advanced Mode one day. --Characters (& Credits)-- Blue Apple - Angry & Smart Star Keychain - Nice & Nice Green Burrito - Active & Angry Piss Bucket - Active & Nice Gummy - Active & Nice Jersey - Nice & Smart Ender Pearl - Nice & Selfish Rory - Active & Selfish Cereal Box - Active & Smart Pipey - Active & Active Chaos Witch Hat - Angry & Selfish Scrublord27 - Selfish & Smart Calculator - Nice & Smart Ribbon - Nice & Smart Charcoal Marsh - Nice & Smart --- I drew Blue Apple, Green Burrito, Gummy, Jersey, Ender Pearl, Rory, Chaos Witch Hat, Scrublord27, Ribbon and Charcoal Marsh's Assets. All other Assets go to their respective creators!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12387229558494477596/CBCBC16BEE9E22D59CAC74F755D6E528C1690854/",
+      "preview": "https://images.steamusercontent.com/ugc/12387229558494477596/CBCBC16BEE9E22D59CAC74F755D6E528C1690854/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-19T19:53:47+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842617745",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842617745",
+      "title": "女巫坩埚Witch's Cauldron",
+      "creator": "",
+      "description": "Original Board Game",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12655374589934549782/BF2F40A958BC8910C908F22E65A4D370A964D798/",
+      "preview": "https://images.steamusercontent.com/ugc/12655374589934549782/BF2F40A958BC8910C908F22E65A4D370A964D798/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-19T20:59:12+00:00",
+      "found_at": "2026-11-19T22:11:31.335808+00:00",
+      "is_new": true
+    },
+    {
       "id": "3841707465",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841707465",
       "title": "Checks",
@@ -125,7 +276,7 @@
       ],
       "created_at": "2026-11-18T01:02:56+00:00",
       "found_at": "2026-11-18T22:00:22.990065+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841761987",
@@ -141,7 +292,7 @@
       ],
       "created_at": "2026-11-18T04:03:45+00:00",
       "found_at": "2026-11-18T22:00:22.990065+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841813968",
@@ -156,7 +307,7 @@
       ],
       "created_at": "2026-11-18T07:18:58+00:00",
       "found_at": "2026-11-18T22:00:22.990065+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841827077",
@@ -171,7 +322,7 @@
       ],
       "created_at": "2026-11-18T08:11:15+00:00",
       "found_at": "2026-11-18T22:00:22.990065+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841855771",
@@ -186,7 +337,7 @@
       ],
       "created_at": "2026-11-18T09:56:24+00:00",
       "found_at": "2026-11-18T22:00:22.990065+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841912897",
@@ -203,7 +354,7 @@
       ],
       "created_at": "2026-11-18T12:50:51+00:00",
       "found_at": "2026-11-18T22:00:22.990065+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841934451",
@@ -220,7 +371,7 @@
       ],
       "created_at": "2026-11-18T13:47:48+00:00",
       "found_at": "2026-11-18T22:00:22.990065+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842125695",
@@ -237,7 +388,7 @@
       ],
       "created_at": "2026-11-18T20:37:36+00:00",
       "found_at": "2026-11-18T22:00:22.990065+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3840490293",
