@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-19T22:11:38.955339+00:00",
+    "completed_at": "2026-11-20T21:51:14.145196+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-19T22:11:31.335808+00:00",
+    "started_at": "2026-11-20T21:51:04.772698+00:00",
     "window_days": 7,
-    "created_after": 1794866430,
-    "created_before": 1795126291,
+    "created_after": 1794953498,
+    "created_before": 1795211464,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-19T22:11:38.955339+00:00",
-    "new_items_added": 10,
+    "last_successful_scan": "2026-11-20T21:51:14.145196+00:00",
+    "new_items_added": 5,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,84 @@
   ],
   "items": [
     {
+      "id": "3842721686",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842721686",
+      "title": "Vtuber's Haunted Roleplay!",
+      "creator": "",
+      "description": "[h1]Made by hand for a Halloween one-shot created for my friends![/h1] [h3] Also my first ever Map! By a Catgirl![/h3] [img]https://cdn.discordapp.com/attachments/1455876758787063862/1573172210863185930/Header.jpg?ex=6b010a4b&is=6affb8cb&hm=d33d345e8f829d513709543c04bd87cc0a55980f997de7f127d68385e28343d0[/img] Includes template of a modern style house shop, trashed by spirits of unnatural origins... A ghostly chef makes a mess of the kitchen, and banshee bride awaits her beloved for a makeshift wedding in the bedroom. Not to mention other lesser spirits plaguing the residence! Can our intrepid ghostbuster team take them all down?? All of this set in a stunning 3D visual map compatible with any number of roleplay games! DnD, Pathfinder, Warhammer 40k, you name it! Play something wholesome, play something mysterious, play something wild, you do you! [b](Toggles for the Rain and the Fog are under the table~)[/b] [b][i]I may have made the map with love, but its up to you on how you want to use it~[/i][/b] [url=https://twitch.tv/neko_yuriko][h1]Come See Me Live!![/h1][/url] If you enjoy this, please consider checking out my streams or joining my community! We would love to have you! <3 See me live at my official [url=https://twitch.tv/neko_yuriko][b]Neko Yuriko Twitch Streams[/b][/url]!! [url=https://discord.gg/XRw6dRY7mM][img]https://cdn.discordapp.com/attachments/1455876758787063862/1573174889282670702/Discord_Embed.png?ex=6b010cc9&is=6affbb49&hm=ed6b60f0a11d861bff5a1351bc930edad0c118c76d8a49d11d2742c5a8042159[/img][/url] [h1]Credits to these mods that contributed pieces~[/h1] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2330584786]Saught's Resturaunt Assets[/url] - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2191160326]Saught's Random Assets[/url] - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2883162836]Saught's Decor Assets[/url] - [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1932424773]Walbanger's 3D Rooms[/url] [h1]Credits for my Roleplay Crew~[/h1][h3](click for links!)[/h3] [url=https://www.youtube.com/@qzilla5102][b]Qzilla[/b] - Youtuber and Let's Player[/url]! [url=https://www.twitch.tv/jade_emeral][b]Jade Emeral[/b] - Green Dragon Vtuber![/url] [url=https://www.twitch.tv/shokkavt][b]Shokka[/b] - Electricity Vtuber![/url] [img]https://cdn.discordapp.com/attachments/1455876758787063862/1573174855929565314/Cat_Paws.png?ex=6b010cc1&is=6affbb41&hm=ee7fef2bd79d455b939c354036c9aea3226bcd8b9ec60640266d5adb0c3aaeb3[/img]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9274010560119734070/D0F8F5BAF0A1126D8209CE9C4091A326491FA2D8/",
+      "preview": "https://images.steamusercontent.com/ugc/9274010560119734070/D0F8F5BAF0A1126D8209CE9C4091A326491FA2D8/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-20T02:00:40+00:00",
+      "found_at": "2026-11-20T21:51:04.772698+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842813655",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842813655",
+      "title": "The Binding of Isaac: Trading Card Game (TBOI TCG)",
+      "creator": "",
+      "description": "A dueling card game set in the The Binding of Isaac universe. I am not the creator of the game; this module was made with the author's permission. TikTok or Patreon author: @luindimas",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12027109216294865211/94EADD89A0B15D95A70ABAF7D7A9BDBF4FDB3D3A/",
+      "preview": "https://images.steamusercontent.com/ugc/12027109216294865211/94EADD89A0B15D95A70ABAF7D7A9BDBF4FDB3D3A/",
+      "keywords": [
+        "Duel of Meloch"
+      ],
+      "created_at": "2026-11-20T08:35:16+00:00",
+      "found_at": "2026-11-20T21:51:04.772698+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842941153",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842941153",
+      "title": "Chuck O Matic",
+      "creator": "",
+      "description": "[h1]Chuck-O-Matic – Physics Dice Thrower[/h1] Tired of dice that pop up, barely turn and drop back down? The Chuck-O-Matic throws a real handful of dice into a walled tray: they fly, hit the back wall, bounce off craps-style peaks and tumble to a stop. [h2]Features[/h2] [list] [*][b]Works with any die[/b] – standard, custom image dice or custom model dice. Just drop one on the board. [*][b]Dice pools[/b] – load up to 6 different die types and throw them all together in one handful. [*][b]Quick throw[/b] – buttons 1–10 (+10 for 11–20) throw the selected type instantly. [*][b]Invisible tray walls[/b] – dice stay in the tray and don't knock over your game pieces. [*][b]Craps-style back wall[/b] – a row of peaks deflects dice in unpredictable directions. [*][b]Scales to your dice[/b] – bigger dice automatically get a bigger tray. [*][b]No stuck dice[/b] – dice that land on top of other dice are moved to a free spot, and tilted dice are settled onto the face they already show. The result never changes; nothing gets rerolled. [*][b]Results in chat[/b] – grouped by die type, with totals for number dice and tallies for symbol dice. [*][b]Custom face labels[/b] – make results say \"Skull\" or \"Miss\" instead of numbers. [*][b]No external assets[/b] – built entirely from TTS built-in objects, so nothing can break from dead image or model links. [/list] [h2]How to use[/h2] [olist] [*]Subscribe, then open the [b]Games[/b] menu in TTS, find the Chuck-O-Matic under Workshop (or search for it) and use [b]Search[/b] to add it to the game you're playing. [*]Drop a die anywhere on the board to load it. Drop more kinds of dice to load more types. [*]Set how many of each to throw with [b]–[/b] and [b]+[/b] (right-click for ±5), then press [b]THROW[/b]. [*]Or click a type's name to select it and use the [b]1–10[/b] buttons for a quick throw. [/olist] [b]Other buttons[/b] [list] [*][b]Tray >[/b] – moves the tray to the next side of the board. The outline on the table shows where dice will land. [*][b]Clear[/b] – removes the thrown dice. [*][b]RESET[/b] – sets all counts back to 0. [*][b]<[/b] – takes a die type out and puts a copy of the die back on the table. [/list] [h2]Custom face labels[/h2] Before dropping a die on the board, write one line per face in its description: [code] 1 = Skull 2: Shield blank = Miss [/code] The number (or symbol) on the left is the face's value in TTS. Use \"blank\" for faces with no value. Faces without a line keep their normal value. [h2]Tuning[/h2] Throw speed, spin, tray size, wall bounciness, floor slipperiness, peak spacing and more are listed with explanations at the top of the script, if you want to tweak the feel. [h2]Notes[/h2] [list] [*]Keep the outlined tray area clear of game pieces. [*]Very large handfuls are released as a stack, so they take a moment longer to settle. [*][b]Untested in multiplayer.[/b] It has only been tested in single-player so far. Feedback from multiplayer games is very welcome in the comments. [/list] [h2]Credits[/h2] Inspired by [b]Roll-O-Matic[/b] by MrStump, whose scripted dice roller was the starting point for this project.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10083942795162574577/A51008C6EDD5F37089559878C44733369101774E/",
+      "preview": "https://images.steamusercontent.com/ugc/10083942795162574577/A51008C6EDD5F37089559878C44733369101774E/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-20T14:48:50+00:00",
+      "found_at": "2026-11-20T21:51:04.772698+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842955714",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842955714",
+      "title": "Bloom Kingdom [Scripted]",
+      "creator": "",
+      "description": "[url=https://boardgamegeek.com/boardgame/465127/bloom-kingdom][img]https://i.ibb.co/SXXCqBvW/cta-bgg.png[/img][/url] [url=https://steamcommunity.com/id/Malixx]ABOUT THIS MOD[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] Flourishing times in the kingdom! With every card played, the kingdom’s display grows in power – but only your last two cards in hand will score at the end of the round. Will you build up a character’s strength, or go for their victory points? And are the conditions met for a particularly lucrative scoring? Bloom Kingdom is a clever card game with stunning artwork. On each turn, players simultaneously choose character cards from their hands and play them into a common display. Your goal is to manipulate the display in your favor and make certain character types more valuable than others. However, to make a character type more valuable, this usually means you have to add cards of that type to the display. But you also want to keep such cards as your final two in your hand, in order to score them at the end of the round. This way, the display and the scoring potential grows over 3 rounds and whoever has the most points at the end of the third round wins. [h3]Key Features[/h3] • One-Click Setup • Automatic Score Calculation • Snap Points [url=https://steamcommunity.com/id/Malixx]CREDITS[/url] [img]https://i.ibb.co/pB4pBJWm/separator.png[/img] [b]Designer:[/b] Christian Kudahl, Thomas Weber (III) [b]Artist:[/b] Cuculum [b]Publisher:[/b] Deep Print Games [b]Modder:[/b] Malixx [code][b]Disclaimer[/b]: This is a non-official, fan-made mod. All rights and trademarks related to this game remain the property of their original creators and publishers. This project is not affiliated with or supported by the official creators or publishers. It is shared out of passion to help players discover the original game. If you enjoy this mod, please support the creators by purchasing the official game. For any removal requests, please contact me at [b]malixx.quilt499@slmail.me[/b] and I will respond promptly.[/code]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10062951715045919975/27C13FCDBFE40DE71B01042CD9F71EE74847C959/",
+      "preview": "https://images.steamusercontent.com/ugc/10062951715045919975/27C13FCDBFE40DE71B01042CD9F71EE74847C959/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-20T15:14:46+00:00",
+      "found_at": "2026-11-20T21:51:04.772698+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3842973285",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842973285",
+      "title": "Super Mario Party: Board Game Expansion + Kirby Air Riders",
+      "creator": "",
+      "description": "[h3] Hold Up! [/h3] This requires Super Mario Party: Board Game Expansion as well as a copy of Kirby Air Riders for the Nintendo Switch 2 to play! Don't worry about the former. This will auto-subscribe to the mod upon subscribing to this one. [h1] START YOUR ENGINES! [/h1] In celebration of Kirby Air Riders' birthday, November 20th, 2025, a game that once took the world by storm being a racing game standing with the likes of your plumber's and your hedgehog's, has since sat dormant as time would go on. So let's make his birthday a true party! A Mario Party! Bring the racing world of Kirby Air Riders to the board game of Super Mario Party! [h2] Locate Air Ride Machines across the board! [/h2] Scattered across the board maps of SMP lay Air Ride Machines populating locations tinted with star energy. These machines will help you in minigames! Rent out Kirby's default Warp Star as a starter, then locate machines that can get the minigame job easier! This isn't one size fits all though, hoho, some machines are made for racing, others for battle, others are better at flying, and others are just better at maneuvering! Adapt by swapping your machines, or tough it out with a single one! The choice is yours! [h2] Speaking of Minigames! [/h2] This addon contains 62 minigames, all playable modes and courses in Kirby Air Riders! This addon once again ditches the 1v3 minigames (except for maybe one of them) and keeps it either Free-4-Alls or 2-v-2s! These minigames however are not locked behind these team setups, but rather are fluent in either! All minigames can be played in either team modes! With the additional flexible rules settings that Air Riders provides, feel free to set the rules to your liking if the book's fine print isn't your style! We also introduce to you a new type of minigame: [b] Finale Minigames! [/b] These minigames are meant to be the ultimate victory lap and are played only on the Final Turn! Fellow Air Riders might know what one of these minigames are, to no surprise! [h2] Additional Features! [/h2] [list] [*]2 brand new Items: Kirby's Phone & The Minigame Codex! [*]A new VS. Space minigame: VS. Boss! [*]Cards of all of your Riders to let you see who everyone is running! [*]An extensive guidebook that contains the rules, catalog of Machines and Riders, and some preset rules settings if you want to get started on adjusting the game to your lobby's liking, or perhaps try something new! [*][strike] The birthday cake for the 1st anniversary! [/strike] Kirby ate it. [/list] [h1] Happy 1 year anniversary, Kirby Air Riders! [/h1]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10754599269855965618/47F911602C886D6FF25C70F7A8220F921833D057/",
+      "preview": "https://images.steamusercontent.com/ugc/10754599269855965618/47F911602C886D6FF25C70F7A8220F921833D057/",
+      "keywords": [
+        "Stamp Swap"
+      ],
+      "created_at": "2026-11-20T15:48:54+00:00",
+      "found_at": "2026-11-20T21:51:04.772698+00:00",
+      "is_new": true
+    },
+    {
       "id": "3841912506",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3841912506",
       "title": "Mistborn: The Deckbuilding Game (SCRIPTED)",
@@ -125,7 +203,7 @@
       ],
       "created_at": "2026-11-18T12:49:39+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842120002",
@@ -140,7 +218,7 @@
       ],
       "created_at": "2026-11-18T20:24:08+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842143736",
@@ -156,7 +234,7 @@
       ],
       "created_at": "2026-11-18T21:18:04+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842218298",
@@ -171,7 +249,7 @@
       ],
       "created_at": "2026-11-19T00:48:29+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842242386",
@@ -186,7 +264,7 @@
       ],
       "created_at": "2026-11-19T02:15:30+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842253872",
@@ -201,7 +279,7 @@
       ],
       "created_at": "2026-11-19T02:58:21+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842262630",
@@ -216,7 +294,7 @@
       ],
       "created_at": "2026-11-19T03:31:31+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842362085",
@@ -231,7 +309,7 @@
       ],
       "created_at": "2026-11-19T10:31:29+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842590174",
@@ -246,7 +324,7 @@
       ],
       "created_at": "2026-11-19T19:53:47+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842617745",
@@ -261,7 +339,7 @@
       ],
       "created_at": "2026-11-19T20:59:12+00:00",
       "found_at": "2026-11-19T22:11:31.335808+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841707465",
