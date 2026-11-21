@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-20T21:51:14.145196+00:00",
+    "completed_at": "2026-11-21T20:33:29.206710+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-20T21:51:04.772698+00:00",
+    "started_at": "2026-11-21T20:33:20.898810+00:00",
     "window_days": 7,
-    "created_after": 1794953498,
-    "created_before": 1795211464,
+    "created_after": 1795038674,
+    "created_before": 1795293200,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-20T21:51:14.145196+00:00",
-    "new_items_added": 5,
+    "last_successful_scan": "2026-11-21T20:33:29.206710+00:00",
+    "new_items_added": 8,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,128 @@
   ],
   "items": [
     {
+      "id": "3843144366",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843144366",
+      "title": "The Great Brain Robbery Unscripted",
+      "creator": "",
+      "description": "The zombies from Friedey’s are at it again. This time, they are robbing a train in the Old West, and everyone will end up with a brain. The Great Brain Robbery is a madcap board game for 3 to 7 players. Players assume the role of zombies attempting to rob a speeding train full of brains. The game is played on a board made up of train carriages, printed on eight double-sided boards. As the players move forward through the carriages, new ones are added and old ones fall off, giving a varied and changing game board. The Great Brain Robbery was one of the original Cheapass Games, #028. Release Year: 2000 Game Type: Board Game Designer: James Ernest Artist: Brian Snoddy Players: 3 to 7 Playing Time: 1 Hour If you like this game, please consider tossing the shop 5$! They have archived a lot of old Cheapass board games, and provide the pdfs for free so people can still play them. I do not own the rights to this game, and this is my first TTS workshop. I'm just a fan who grew up playing these with my dad. https://crabfragmentlabs.com/shop/p/great-brain-robbery",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13144024072397183526/86E8FD38D9AA3940D741789E80BA186DD0195DBC/",
+      "preview": "https://images.steamusercontent.com/ugc/13144024072397183526/86E8FD38D9AA3940D741789E80BA186DD0195DBC/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-20T21:37:25+00:00",
+      "found_at": "2026-11-21T20:33:20.898810+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843243636",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843243636",
+      "title": "Poke-Lock (Deadlock x Pokemon card game)",
+      "creator": "",
+      "description": "A card game inspired by Deadlock, Pokemon, and the Overwatch custom game mode: Poke-Watch. Each player is a patron who commands a team of six heroes, with the goal of defeating the other patron’s six heroes that they command. This game is still in early playtesting, just like the original Deadlock. Some heroes are not available yet, and the balance is non-existent. If you have suggestions, questions, or just wanna say “hello”, feel free to comment! Rules: https://docs.google.com/document/d/1ewR9NF328og2y8tK8Pb65sqkjuxfQCMfIpGwnx5V_0M/edit?usp=sharing",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13916215013795720683/2FF5A1F606CB0D40B747426508757A45AC09D8AE/",
+      "preview": "https://images.steamusercontent.com/ugc/13916215013795720683/2FF5A1F606CB0D40B747426508757A45AC09D8AE/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-21T02:08:33+00:00",
+      "found_at": "2026-11-21T20:33:20.898810+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843246022",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843246022",
+      "title": "WFB CHAOS photoscanned models",
+      "creator": "",
+      "description": "A collection containing only good-looking photoscanned models for all the armies of Chaos in Warhammer Fantasy Battles. Credits are due to the many original model uploaders.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13725363469146604124/3D8A6C7E33EFE5196F640F00E9CDD57D0ECF1944/",
+      "preview": "https://images.steamusercontent.com/ugc/13725363469146604124/3D8A6C7E33EFE5196F640F00E9CDD57D0ECF1944/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-21T02:15:37+00:00",
+      "found_at": "2026-11-21T20:33:20.898810+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843248970",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843248970",
+      "title": "WFB MEN & DWARVES photoscanned models",
+      "creator": "",
+      "description": "A collection containing only good-looking photoscanned models for the forces of men and dwarves in Warhammer Fantasy Battles. Credits are due to the many original model uploaders.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9456369612150718547/369F5EDD9FFFB7719E1A33CB57F8A175D5900D14/",
+      "preview": "https://images.steamusercontent.com/ugc/9456369612150718547/369F5EDD9FFFB7719E1A33CB57F8A175D5900D14/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-21T02:23:57+00:00",
+      "found_at": "2026-11-21T20:33:20.898810+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843250251",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843250251",
+      "title": "WFB ELVES photoscanned models",
+      "creator": "",
+      "description": "A collection containing only good-looking photoscanned models for the High Elves, Dark Elves and Wood Elves in Warhammer Fantasy Battles. Credits are due to the many original model uploaders.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13741709036236451225/1EBD0177F47439F42C66C6A63816C84F92D9440C/",
+      "preview": "https://images.steamusercontent.com/ugc/13741709036236451225/1EBD0177F47439F42C66C6A63816C84F92D9440C/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-21T02:27:16+00:00",
+      "found_at": "2026-11-21T20:33:20.898810+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843252056",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843252056",
+      "title": "WFB OTHERS photoscanned models collection",
+      "creator": "",
+      "description": "A collection containing only good-looking photoscanned models for armies such as the Orcs and Goblins, the Tomb Kings, the Ogres Kindgoms etc... in Warhammer Fantasy Battles. Credits are due to the many original model uploaders.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11207747765348047100/D43C26D7C07E58402D732E90407BB763ADAFB00D/",
+      "preview": "https://images.steamusercontent.com/ugc/11207747765348047100/D43C26D7C07E58402D732E90407BB763ADAFB00D/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-21T02:32:01+00:00",
+      "found_at": "2026-11-21T20:33:20.898810+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843258084",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843258084",
+      "title": "Pirate Villainous Reskin - Lunatic Cultist",
+      "creator": "",
+      "description": "A Pirate Villainous reskin that turns Gecko Moria into the Lunatic Cultist from Terraria. All fanart used is credited in the descriptions of the cards and Realm. Please support the original artists.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16299909833619212991/2F76FFE6882B64D78CEE8139720A7A9083A5EDAA/",
+      "preview": "https://images.steamusercontent.com/ugc/16299909833619212991/2F76FFE6882B64D78CEE8139720A7A9083A5EDAA/",
+      "keywords": [
+        "Origin Story",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-21T02:49:55+00:00",
+      "found_at": "2026-11-21T20:33:20.898810+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843337659",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843337659",
+      "title": "What The Fish! An Unofficial Go Fish for Freaks Expansion Pack.",
+      "creator": "",
+      "description": "A card pack for GFFF that I made that I filled with random things. Contains various characters from different medias that I like, drawings of my weird OCs, (including the one on the card back,) pictures of random objects and memes, and one very... let's say \"special\" card. So special in fact, that I added a secondary description on the card signifying where it came from, and more importantly that I did not draw it. Anyways, I hope you enjoy this nonsense. Of course, with how many other GFFF packs there are, I can't guarantee that all of these cards are only found in this pack. Regardless, what you might see as an inconvenience, I see as an extra trigger of the Special Rule, adding more chaos to your game! (Or, you could just remove them if it's too bothersome, I guess...) If you don't like any of the cards in this set, (couldn't imagine why,) then feel free to remove any of the cards before adding the deck to your GFFF collection. Credit to my friends for suggesting things to add to this amalgamation.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17558935336000230595/2FDED40C96B84402387374E1506FA5D3DF15A444/",
+      "preview": "https://images.steamusercontent.com/ugc/17558935336000230595/2FDED40C96B84402387374E1506FA5D3DF15A444/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-21T06:53:52+00:00",
+      "found_at": "2026-11-21T20:33:20.898810+00:00",
+      "is_new": true
+    },
+    {
       "id": "3842721686",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3842721686",
       "title": "Vtuber's Haunted Roleplay!",
@@ -126,7 +248,7 @@
       ],
       "created_at": "2026-11-20T02:00:40+00:00",
       "found_at": "2026-11-20T21:51:04.772698+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842813655",
@@ -141,7 +263,7 @@
       ],
       "created_at": "2026-11-20T08:35:16+00:00",
       "found_at": "2026-11-20T21:51:04.772698+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842941153",
@@ -156,7 +278,7 @@
       ],
       "created_at": "2026-11-20T14:48:50+00:00",
       "found_at": "2026-11-20T21:51:04.772698+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842955714",
@@ -173,7 +295,7 @@
       ],
       "created_at": "2026-11-20T15:14:46+00:00",
       "found_at": "2026-11-20T21:51:04.772698+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842973285",
@@ -188,7 +310,7 @@
       ],
       "created_at": "2026-11-20T15:48:54+00:00",
       "found_at": "2026-11-20T21:51:04.772698+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3841912506",
