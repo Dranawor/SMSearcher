@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-21T20:33:29.206710+00:00",
+    "completed_at": "2026-11-22T20:44:34.595920+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-21T20:33:20.898810+00:00",
+    "started_at": "2026-11-22T20:44:27.656258+00:00",
     "window_days": 7,
-    "created_after": 1795038674,
-    "created_before": 1795293200,
+    "created_after": 1795120409,
+    "created_before": 1795380267,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-21T20:33:29.206710+00:00",
-    "new_items_added": 8,
+    "last_successful_scan": "2026-11-22T20:44:34.595920+00:00",
+    "new_items_added": 3,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,52 @@
   ],
   "items": [
     {
+      "id": "3843734295",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843734295",
+      "title": "Horrified D&D Ravenloft (Scripted)",
+      "creator": "",
+      "description": "I have made my first ever Workshop game and it is scripted! I want to say thanks for giving this a chance and for letting me know of anything that has an issue. The Twig Blights will need to be placed manually during monster setup according to the rules Music by: Travis Savoie (He is The Ancient, He is The Land) https://www.youtube.com/watch?v=0zvJTgq3PLQ Background by: paintevil on Deviantart https://www.deviantart.com/paintevil/art/4k-Wallpaper-|-Misty-Forest-827373606",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12017336210650831828/D610BF5856A7F9B4EF19D3006C810469FAD9DBAA/",
+      "preview": "https://images.steamusercontent.com/ugc/12017336210650831828/D610BF5856A7F9B4EF19D3006C810469FAD9DBAA/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-21T20:39:18+00:00",
+      "found_at": "2026-11-22T20:44:27.656258+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843747832",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843747832",
+      "title": "Horrified D&D (Scripted)",
+      "creator": "",
+      "description": "Originally made by DragonCrystal, I was given permission to post the SCRIPTED version! Hope you all have fun with this just like we have. I was inspired by Montresaurus Rex's Horrified script for the original game (re-uplaoded by xenotron) to learn to do this. Original by DragonCrystal - https://steamcommunity.com/sharedfiles/filedetails/?id=3573416598&tscn=1795298479 Script Inspiration - https://steamcommunity.com/sharedfiles/filedetails/?id=3829812549",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15005366523073046033/FD55714B08E84A0F6B3039DB75E2CC05F09E4CE9/",
+      "preview": "https://images.steamusercontent.com/ugc/15005366523073046033/FD55714B08E84A0F6B3039DB75E2CC05F09E4CE9/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-21T21:05:13+00:00",
+      "found_at": "2026-11-22T20:44:27.656258+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3843785610",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843785610",
+      "title": "NESTFALL",
+      "creator": "",
+      "description": "NESTFALL is a highly diplomatic mini-4x game for 2-5 players. It's basically wingspan but everthing opposite.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12553872634992420213/0F0E359104A641AFE978D276590A9AD25683534F/",
+      "preview": "https://images.steamusercontent.com/ugc/12553872634992420213/0F0E359104A641AFE978D276590A9AD25683534F/",
+      "keywords": [
+        "Wingspan",
+        "Wingspan Pocket"
+      ],
+      "created_at": "2026-11-21T22:17:27+00:00",
+      "found_at": "2026-11-22T20:44:27.656258+00:00",
+      "is_new": true
+    },
+    {
       "id": "3843144366",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843144366",
       "title": "The Great Brain Robbery Unscripted",
@@ -126,7 +172,7 @@
       ],
       "created_at": "2026-11-20T21:37:25+00:00",
       "found_at": "2026-11-21T20:33:20.898810+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843243636",
@@ -141,7 +187,7 @@
       ],
       "created_at": "2026-11-21T02:08:33+00:00",
       "found_at": "2026-11-21T20:33:20.898810+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843246022",
@@ -156,7 +202,7 @@
       ],
       "created_at": "2026-11-21T02:15:37+00:00",
       "found_at": "2026-11-21T20:33:20.898810+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843248970",
@@ -171,7 +217,7 @@
       ],
       "created_at": "2026-11-21T02:23:57+00:00",
       "found_at": "2026-11-21T20:33:20.898810+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843250251",
@@ -186,7 +232,7 @@
       ],
       "created_at": "2026-11-21T02:27:16+00:00",
       "found_at": "2026-11-21T20:33:20.898810+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843252056",
@@ -201,7 +247,7 @@
       ],
       "created_at": "2026-11-21T02:32:01+00:00",
       "found_at": "2026-11-21T20:33:20.898810+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843258084",
@@ -217,7 +263,7 @@
       ],
       "created_at": "2026-11-21T02:49:55+00:00",
       "found_at": "2026-11-21T20:33:20.898810+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843337659",
@@ -232,7 +278,7 @@
       ],
       "created_at": "2026-11-21T06:53:52+00:00",
       "found_at": "2026-11-21T20:33:20.898810+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3842721686",
