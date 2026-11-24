@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-24T01:42:00.207405+00:00",
+    "completed_at": "2026-11-24T23:29:39.395633+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-24T01:41:54.000155+00:00",
+    "started_at": "2026-11-24T23:29:32.267073+00:00",
     "window_days": 7,
-    "created_after": 1795207474,
-    "created_before": 1795484514,
+    "created_after": 1795311720,
+    "created_before": 1795562972,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-24T01:42:00.207405+00:00",
-    "new_items_added": 9,
+    "last_successful_scan": "2026-11-24T23:29:39.395633+00:00",
+    "new_items_added": 6,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,102 @@
   ],
   "items": [
     {
+      "id": "3845120049",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845120049",
+      "title": "Go Fish for Freaks: Niko's Pictures Folder",
+      "creator": "",
+      "description": "For use with Go Fish for Freaks: https://steamcommunity.com/sharedfiles/filedetails/?id=3386559046 Random pictures I found on my computer and compiled into multiple decks of cards WARNING: certain cards contain suggestive text/imagery and some of them WILL make me look like a weirdo I apologize if there are any duplicates - do tell me if you find any so I can fix the issue ASAP",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14609132821767930429/5E2B86205D6F4FF06FBD088F2E59730477BB292B/",
+      "preview": "https://images.steamusercontent.com/ugc/14609132821767930429/5E2B86205D6F4FF06FBD088F2E59730477BB292B/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-24T06:27:52+00:00",
+      "found_at": "2026-11-24T23:29:32.267073+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845179554",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845179554",
+      "title": "GoT Risk (TommyKay version)",
+      "creator": "",
+      "description": "This is the GoT risk TommyKay and his friends played on stream: https://youtu.be/pUPtNjSrlGk RISK: The Battle for Westeros A custom Game of Thrones RISK variant inspired by The Lord of the Rings RISK mechanics and the version played by TommyKay and his friends. Features: - Custom Westeros map with 60 territories and 9 regions. - Regional reinforcement bonuses. - Castles that generate troops and provide defensive bonuses. - Leaders with combat bonuses. - Adventure Cards with special abilities. - Territory Cards with fixed reinforcement rewards. - Naval invasions, rivers and strategic crossings. - Diplomacy, alliances and betrayal. - Optional Valar Morghulis endgame. Recommended players: 5 - You can add more players via Zone → Hands → Add Hand. - Copy an existing player bag and game pieces. - Assign a new player color. Starting setup (per player): - 4 players: 15 territories, 45 troops (30 additional troops after claiming territories). - 5 players: 12 territories, 36 troops (24 additional troops after claiming territories). - 6 players: 10 territories, 30 troops (20 additional troops after claiming territories). Randomly distribute Territory Cards to determine starting territories. Place one troop on each territory, return the cards to the deck, shuffle and deploy the remaining troops. Each player also receives: - 2 Leaders. - 3 Adventure Cards. - 1 Territory Card. Optional Valar Morghulis endgame: - Randomly insert the Valar Morghulis card into the bottom half of the Territory Deck. - When this card is drawn, the game ends immediately. - The winner is determined by the agreed scoring system. An English PDF rulebook is included in the game. Feel free to adjust the rules to your group's preferred playstyle. Credits: To Bjorn who made the game originally When you play the Game of Thrones, you win or you die.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12499208353541580996/B9D5CC6DCEA63BE22338C41944F877A56C7F74E8/",
+      "preview": "https://images.steamusercontent.com/ugc/12499208353541580996/B9D5CC6DCEA63BE22338C41944F877A56C7F74E8/",
+      "keywords": [
+        "Between Two Castles",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-24T10:28:26+00:00",
+      "found_at": "2026-11-24T23:29:32.267073+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845189374",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845189374",
+      "title": "Goths Save the Queen",
+      "creator": "",
+      "description": "In Goths Save The Queen, two two-player clans fight to save the Queen hidden in the middle of the table. Each clan is composed of one player giving orders (the King) and another one trying to understand which order has been given (the Warchief). To give an order, the King chooses a card and flips it onto the table to reveal two orders on its back, with no clue as to which is the right one. The Warchief checks the battlefield, then tries to choose the right order with a card in hand. When both clans have chosen their cards, all of them are revealed, and if both cards match on a clan, then the order is carried out. Some examples of orders: loading the catapult, firing with the catapult, progressing toward the Queen, looking at hidden cards in the middle to find the Queen, and avoiding traps... Of course, within a clan it is absolutely prohibited to make any sign or say anything to help the partner to guess which order is intended. When playing 1-vs-1 or 1-vs-2, the game is a bit different: The single player team cannot play the same order twice, one turn after another. With multiple copies of Goths Save The Queen, you can compete in a 3-vs-3, 3-vs-4 or 4-vs-4 format.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11442439487797726601/C5977445D9179CD7D85200FC94386528C53115B7/",
+      "preview": "https://images.steamusercontent.com/ugc/11442439487797726601/C5977445D9179CD7D85200FC94386528C53115B7/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-24T11:01:46+00:00",
+      "found_at": "2026-11-24T23:29:32.267073+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845267774",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845267774",
+      "title": "Boss Monster Junior",
+      "creator": "",
+      "description": "It's time for a new generation to take over the dungeons! In Boss Monster Junior, little monsters take on the dungeon-building and hero-scaring adventures. Collect coins to pay for rooms in your dungeon, draft heroes to visit your dungeon, and slay them to collect their treasures! Each treasure is worth 1 Victory Point, and whoever has the most of each treasure type gains 3 Victory Points at the end of the game. As a standalone game, Boss Monster Junior contains everything needed for 2-4 players.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/18437318937861651384/8745C78A571D68AADA2D26350D2F84316A6BE141/",
+      "preview": "https://images.steamusercontent.com/ugc/18437318937861651384/8745C78A571D68AADA2D26350D2F84316A6BE141/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-24T14:27:47+00:00",
+      "found_at": "2026-11-24T23:29:32.267073+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845273220",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845273220",
+      "title": "The Maze Between Us",
+      "creator": "",
+      "description": "",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17958358613250193515/7E9B8B66C687014DDFA954B50A5DC0EF5EABAE55/",
+      "preview": "https://images.steamusercontent.com/ugc/17958358613250193515/7E9B8B66C687014DDFA954B50A5DC0EF5EABAE55/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-24T14:39:50+00:00",
+      "found_at": "2026-11-24T23:29:32.267073+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845285350",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845285350",
+      "title": "Wolf in the Woods",
+      "creator": "",
+      "description": "[h1]Wolf in the Woods[/h1] A forest race for 2–4 players, ages 5 and up. Fully scripted: just roll and play! [i]Based on the rules of the classic children's game \"Pass auf, der Wolf!\" (Ravensburger, 1981), with all-new artwork.[/i] [h2]How to play[/h2] [list] [*][b]Roll the dice[/b]: 1 to 5 moves your pawn forward along the arrows. The wolf face makes the wolf spin! [*][b]Pick your path[/b]: the outer path is longer, but 12 trees hide you from the wolf. The inner path is faster, but out in the open. Short links let you switch between them. [*][b]Beware the wolf![/b]: after it spins, it stares at one slice of the woods (shown in red). Every pawn caught in the open there goes back 4 spaces. While it watches a slice, you can only stop there behind a tree. [*][b]Race home[/b]: land on a pawn in the open to send it back home. After a full lap, get back into your house with the exact roll. First one home wins! [/list] [h2]Features[/h2] [list] [*]Everything is automated: turns, legal moves, captures, the wolf and the winner [*]Numbered buttons on the board show where you can go (or drag your pawn onto a glowing circle) [*]The wolf's zone is highlighted in red, and a red arrow shows where it is looking [*]Options: automatic moves, enforced turns, stricter wolf, free mode (move pawns by hand) [*]English and Italian interface and rules: switch with the Language button in the New game panel [*]Play hotseat on one computer or online with friends [/list] [h2]Getting started[/h2] Load the game, choose the colors that play and who goes first (usually the youngest), then press [b]START GAME[/b]. The full rules are under the [b]Rules[/b] button and in the Notebook. [hr][/hr] [i]Unofficial fan-made adaptation. Not affiliated with or endorsed by Ravensburger. \"Pass auf, der Wolf!\" is a trademark of its respective owner.[/i]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11484231462504029820/631F5C08383AB65CABDF5D16CA8DD3D55A27795D/",
+      "preview": "https://images.steamusercontent.com/ugc/11484231462504029820/631F5C08383AB65CABDF5D16CA8DD3D55A27795D/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Red Rising",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-24T15:04:25+00:00",
+      "found_at": "2026-11-24T23:29:32.267073+00:00",
+      "is_new": true
+    },
+    {
       "id": "3844007160",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844007160",
       "title": "Jump Masters! - Neon Knight Games | Rulebook included",
@@ -126,7 +222,7 @@
       ],
       "created_at": "2026-11-22T08:31:16+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3844409368",
@@ -141,7 +237,7 @@
       ],
       "created_at": "2026-11-22T20:49:47+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3844528582",
@@ -156,7 +252,7 @@
       ],
       "created_at": "2026-11-23T01:31:16+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3844619637",
@@ -172,7 +268,7 @@
       ],
       "created_at": "2026-11-23T06:53:48+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3844643271",
@@ -189,7 +285,7 @@
       ],
       "created_at": "2026-11-23T08:27:05+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3844719440",
@@ -206,7 +302,7 @@
       ],
       "created_at": "2026-11-23T12:31:31+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3844866875",
@@ -222,7 +318,7 @@
       ],
       "created_at": "2026-11-23T18:02:07+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3844989600",
@@ -237,7 +333,7 @@
       ],
       "created_at": "2026-11-23T22:43:15+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845031785",
@@ -253,7 +349,7 @@
       ],
       "created_at": "2026-11-24T00:53:54+00:00",
       "found_at": "2026-11-24T01:41:54.000155+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843734295",
