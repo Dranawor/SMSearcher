@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-22T20:44:34.595920+00:00",
+    "completed_at": "2026-11-24T01:42:00.207405+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-22T20:44:27.656258+00:00",
+    "started_at": "2026-11-24T01:41:54.000155+00:00",
     "window_days": 7,
-    "created_after": 1795120409,
-    "created_before": 1795380267,
+    "created_after": 1795207474,
+    "created_before": 1795484514,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-22T20:44:34.595920+00:00",
-    "new_items_added": 3,
+    "last_successful_scan": "2026-11-24T01:42:00.207405+00:00",
+    "new_items_added": 9,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,149 @@
   ],
   "items": [
     {
+      "id": "3844007160",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844007160",
+      "title": "Jump Masters! - Neon Knight Games | Rulebook included",
+      "creator": "",
+      "description": "In Jump Masters, players command a drafted team of heroes in a skirmish. Taking turns, players jump their heroes around the arena to defeat their opponents and gain victory points! When you jump over a friendly hero, you gain energy! When you jump over an opposing hero, you attack, reducing the two heroes’ energy until one is defeated! Chain multiple jumps together to pull off more powerful turns. Each hero has its own unique ability; Drafting the right combination of heroes and using their abilities to your advantage are key to success! Terrain will block you (or empower you!), so you’ll need to plan accordingly. Be the first to collect the required amount of victory points by defeating your opponents, and you’ll be declared the Jump Master!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15730784291633292556/67416AB5523C9D12BD8FECEF351080737F95BDF9/",
+      "preview": "https://images.steamusercontent.com/ugc/15730784291633292556/67416AB5523C9D12BD8FECEF351080737F95BDF9/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-22T08:31:16+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3844409368",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844409368",
+      "title": "The Pit: The Boardgame (ES)",
+      "creator": "",
+      "description": "Traducción al español del juego de mesa The Pit: The Boardgame En el lejano mundo de Arbuda IV se encuentra THE PIT, un diabólico superlaboratorio alienígena donde se llevan a cabo los experimentos científicos más demenciales de toda la galaxia. Sois soldados de SolForce, enviados a THE PIT para encontrar la cura de la enfermedad que actualmente está asolando el planeta y derrotar al genio alienígena que controla las instalaciones. The Pit: The Board Game es un juego de mesa cooperativo de exploración de mazmorras con temática de ciencia ficción, diseñado para entre 1 y 4 jugadores. Basado en el popular videojuego, este juego de mesa lleva los icónicos personajes, monstruos, armas y objetos del original Sword of the Stars: The Pit a vuestra mesa de juego (¡también a la virtual!). ¿Podréis tú y tus amigos sobrevivir a los espantosos arsenales y las crueles cafeterías de The Pit? ¿Seréis capaces de derrotar a sus retorcidos esbirros y soportar la inquietante música de sus ascensores? ¡Solo los equipos más hábiles y valientes conseguirán llegar hasta el fondo! MANUAL DE REGLAS: http://kerberos-productions.com/thepitbg/pittheboardgamemanual-TTS.pdf (Manual en español dentro del juego)",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12185388159296508602/4BF9A4E756832234F3577B8D9797CC30D81D134A/",
+      "preview": "https://images.steamusercontent.com/ugc/12185388159296508602/4BF9A4E756832234F3577B8D9797CC30D81D134A/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-22T20:49:47+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3844528582",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844528582",
+      "title": "China's War (SCRIPTED)",
+      "creator": "",
+      "description": "July 7, 1937: a nighttime skirmish at the Marco Polo Bridge near Beijing erupts into an invasion and occupation of China by the Imperial Japanese Army that would not end until 1945. Western sources call it the “Second Sino-Japanese War”; in China, it is the “War of Resistance”; and in Japan, it is blandly referred to as “the China Incident.” China’s War: 1937-1941 is a 13th chapter in acclaimed GMT Games COIN series. This time players examine the first five years of the Chinese-Japanese conflict, when China stood alone against the Japanese Empire. Each player takes the role of a Faction seeking to attack or defend the Republic of China: the aggressive Japanese, the harried Government (represented by the Guomindang party), the rebellious Chinese Communist Party, or the unruly, fractious Warlords who are obedient when convenient but have their eye on gaining state power. Using military, political, and economic actions and exploiting various events, players build and maneuver forces to influence or control the population, extract resources, or otherwise achieve their Faction’s aims. A deck of cards regulates turn order, events, victory checks, and other processes. The rules can run non-player Factions, enabling solitaire, 2-player, or multi-player games. You can check my other Coin mod Cuba Libre: https://steamcommunity.com/sharedfiles/filedetails/?id=3611932698 If you want support me you can aid me with coffee :) https://buymeacoffee.com/banan26973",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12203157193817342970/74AB11B3B12E288B1ADCE51DC1CA8A239818F28D/",
+      "preview": "https://images.steamusercontent.com/ugc/12203157193817342970/74AB11B3B12E288B1ADCE51DC1CA8A239818F28D/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-23T01:31:16+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3844619637",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844619637",
+      "title": "Bridge City",
+      "creator": "",
+      "description": "In Bridge City, you are an architect who has recently moved to a new city. This city is flooded with canals that run between each and every block. You’ve been hired to construct bridges to go over these canals to increase accessibility for everyone in town. But building bridges isn’t easy. It takes time. You’ll be recruiting people, gaining wisdom, and generating enough energy in order to build these bridges. The player who scores the most points from cards in their deck, bridges, completed tasks, and even trashed cards will be the winner and crowned Chief Architect of Bridge City.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15398372187024133109/AAD16162425FFD979E828C6BC747A758ECA2D4B4/",
+      "preview": "https://images.steamusercontent.com/ugc/15398372187024133109/AAD16162425FFD979E828C6BC747A758ECA2D4B4/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-23T06:53:48+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3844643271",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844643271",
+      "title": "Your Turn To Boardgame (A Your Turn To Die Boardgame)",
+      "creator": "",
+      "description": "[h1] Do you know what a majority vote is? [/h1] It's when the majority turns on the individual to get their point across. Venture through floors of goodies, traps and most importantly- enemies that could turn out to be your saving grace... or your death sentence. Take turns exploring, looting and plotting against eachother- until it all falls down at the MAIN GAME. -------------------------------------------------------------------------------------------- This has been sitting on my harddrive for half of a year. And even so it's still [u] (somewhat) unfinished [/u] but in a [b] playable state.[/b] How it is intended to be played is to have a group of 6-10 start at Floor 1. Have your play-session until chapter 1 is over, then the survivors gather again to do Ch 2, finish that, and on another play-session, you do Ch 3. Since Ch 2 is not playtested much, and Ch 3 isn't even made, play however you want! Really, just cause it's intended doesn't mean you can't just play one chapter and be done with it. Currently finished things: [list] [*]All Playable Characters of the Main Cast [*]All Cards besides Headmaster Cards [*]Floor 1 & 2 [*]Floor 3 (Not playtested thoroughly) [*]Working Main-Game (Little scuffed due to no scripting knowledge) [/list] Currently UNFINISHED things: [list] [*]Rule Booklet is a little empty and unfinished. Need to update it eventualy. [*]Rework Pink-Room Event [*]Floor 4/5. [*]More intuitive layout/design of some things. [*]Hallucination Cards [*]Rebalancing of characters (Did not have enough playtesting done) [/list] [h3] Credits [/h3] Myself for everything not noted below. Ishii for making the standees, some balancing help here and there, aswell as the modeler for the Blue Room, 11th Attraction and G U N. Also for making the Voting Cards and the idea of using Stamps for voting. My previous version for voting was very scuffed. Things I did not make include the Big Kraken Table, The Music Player, The Roll-calculator thing, the Timer, The Blindfolder, any of the image assets used from YTTD or on the Item Cards, [u] If you wish to play this, either in a group or with me for playtesting reasons, then you can join this discord[/u] https://discord.gg/Gjf8UrX2P4",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15275181190246768812/D21DD002EA2BFEDDD1B18DB4CDB9EFE989B1B700/",
+      "preview": "https://images.steamusercontent.com/ugc/15275181190246768812/D21DD002EA2BFEDDD1B18DB4CDB9EFE989B1B700/",
+      "keywords": [
+        "My Little Scythe",
+        "Rolling Realms",
+        "Stamp Swap"
+      ],
+      "created_at": "2026-11-23T08:27:05+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3844719440",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844719440",
+      "title": "Against the Iron Ring",
+      "creator": "",
+      "description": "[b]A game by Masahiro Yamazaki[/b] AGAINST THE IRON RING is an operational simulation portraying events in the Don River Basin area from November to December 1942, capturing a pivotal moment in history – often referred to as the turning point of the Second World War. This game marks the Soviet Red Army’s notable operational triumph over the Wehrmacht. Designed for two players, one commands the Soviet Red Army, while the other directs the German and Romanian forces. The game offers 3 distinct scenarios, each playable independently. Each game turn spans three days. Scenarios 1 & 3 (Campaign) start on November 19th, 1942, Scenario 2 starts on December 10th, 1942. Scenario 1 ends on November 27th, 1942. Scenario 2 & 3 end on December 24th, 1942. Mod created with permission by VUCA Simulations",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13611933676932154634/9B18EAD99FEF7C4C6ADE57E902231364B1E98B31/",
+      "preview": "https://images.steamusercontent.com/ugc/13611933676932154634/9B18EAD99FEF7C4C6ADE57E902231364B1E98B31/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Red Rising"
+      ],
+      "created_at": "2026-11-23T12:31:31+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3844866875",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844866875",
+      "title": "Prime Location: \"Good Neighbors\"",
+      "creator": "",
+      "description": "Scarce resources, fierce competition, and questionable neighborly spirit: Prove your strategic skill and build your lead brick by brick. In Prime Location: \"Good Neighbors\", players compete to shape a growing city district. The board is built from interlocking puzzle pieces featuring buildings, parks, streets, and intersections—and every piece you place changes the value of the neighborhood. Your goal is to generate the highest possible rental income. To do this, you draw building cards into your hand and place them onto the board next to open streets. To complete a building, you must supply it with the required materials and craftsmen, which slot directly into the card. Materials and craftsmen are acquired through tense blind auctions. Three types of materials and three types of craftsmen are up for grabs, and every player submits secret bids—highest bidder takes the lot. Once completed, a building pays out its printed rent each round. However, location is everything: buildings exert positive or negative effects along their edges. By carefully rotating your puzzle pieces as you place them, you can maximize bonuses for your own properties while sticking your rivals with the drawbacks. Parks generate no rent of their own, but significantly boost the rental income of adjacent buildings. The first player to reach the target rental income wins the game. Playtesting & Feedback This is an actively developed prototype, and I’d love to hear how your games go! Whether you have questions about a rule, thoughts on the balance of the auctions and edge effects, or just want to share who ruined whose neighborhood—feel free to drop a comment below. Every bit of feedback helps shape the game! All Rights Reserved – Commercial Rights Reserved: © 2026 Daniel Ortwein. All rights reserved. This game—including its rules, mechanics, card texts, UI, 3D assets, and visual design—is an original prototype protected by copyright. Access via the Steam Workshop is granted solely for personal, non-commercial playtesting and feedback. Any commercial use, reproduction, modification, public distribution, or derivative works are strictly prohibited without prior written permission from the author.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/12372405581691575232/319748A8A0E1F3125C80E6E4EF3A8113256206F7/",
+      "preview": "https://images.steamusercontent.com/ugc/12372405581691575232/319748A8A0E1F3125C80E6E4EF3A8113256206F7/",
+      "keywords": [
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-23T18:02:07+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3844989600",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3844989600",
+      "title": "Outer Wilds Fluxx",
+      "creator": "",
+      "description": "Fluxx with an Outer Wilds twist! The unofficial Outer Wilds edition of Fluxx. This version of the renowned card game was created as a personal project by my own means. Fluxx is the card game where the rules are always changing. Collect Keepers to match the current goal to win! Play action cards, and adapt to the rules as you venture into the Outer Wilds! Outer Wilds trademark & copyright of Mobius Digital Fluxx is a registered trademark of Looney Labs",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11004825805311535907/049DC29B1DA1697DC90DDAF4E2C2868B0887FFC7/",
+      "preview": "https://images.steamusercontent.com/ugc/11004825805311535907/049DC29B1DA1697DC90DDAF4E2C2868B0887FFC7/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-23T22:43:15+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845031785",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845031785",
+      "title": "Spirit Island [By MJ & iakona] (5p Fix)",
+      "creator": "",
+      "description": "Small Fix: 5p scripting is fixed (or has been for 10 games that we've tested it). All credit to the original designer, scripters, and enthusiasts who made this game as popular as it is. A few of us just made this small fix so niche groups that like 5p games can still play this amazingly quality build mod without issues. And now... the original information.... -------------------------------------------------------------------------------------------------- We strongly recommend you purchase the Handelabra Games created official Steam Game (at https://store.steampowered.com/app/1236720/Spirit_Island/), which is also available on other platforms, such as Android and iOS, to support the Handelabra team. Not only have they allowed us to have this mod available on Tabletop Simulator, but they have also created such a great digital version of Spirit Island, with features such: -automated Invader Phases -original dynamic music -unique Presence for each Spirit -online multiplayer accessibility (even cross-platform) -and more This is an unofficial Spirit Island mod of the Board Game \"Spirit Island\" by R. Eric Reuss, and contains Branch & Claw, Jagged Earth, Feather & Flame, Horizons of Spirit Island, and Nature Incarnate expansions. Many features of this Spirit Island mod are scripted, and/or are quality of life features: -Remaining up-to-date on errata'd changes (e.g. +1 Blight on the Blight Card due to https://querki.net/u/darker/spirit-island-faq/#!one-more-blight-errata ) -Optional \"Exploratory\" changes to the game, which are too speculative for offical Playtesting, however Eric is still interested in how it affects game play (reports can be shared in the Discord linked below) -Automatic setup of the Island Boards -Automatic setup of various Decks -Automatic Fear Card gaining -Automatic Difficulty calculation -The tracking of Elements and Energy cost for the Power Cards played -A helpful UI containing a Turn Order, any additional Adversary rules and much more -Support for homebrew Spirits and Adversaries (see the notebook for a template) -Randomisers for Adversary, Island Board layout, and Spirits -Coloured Invader pieces to indicate any Adversary rules This was based on Bone White's mod https://steamcommunity.com/sharedfiles/filedetails/?id=1396185597 also of Spirit Island, but with many improvements. If you're looking for a place to find others to play Spirit Island, there's a discord just for that! https://discord.gg/G84zRCrJZa ---- Summary of the Game ---- In this game you play as vast Spirits guarding Spirit Island - which you inhabit - there are intruding colonists, who are attempting to harm the land, and your goal is to prevent that in whatever way possible. Spirits can do this through defending the land, directly attacking the invaders, asking the native \"Dahan\" for help, or even harming the land, to heal at a later date. A key part of being these spirits, is learning new abilities, through the gaining Power Cards, and in the process Forgetting old Powers. This makes it so, by the end of the game, each player may have developed a brand new set of skills to work with. The invaders actions are fairly predictable, each turn they perform three steps, harming the land, building new Towns/Cities, and then finally Exploring further into the island, due to this pattern, players are able to develop strategies in advance. There are adversaries which you can choose from to make the invaders a greater threat - currently there are seven, Brandenburg-Prussia, England, Sweden, France, Habsburg, Russia and Scotland, based on an alternate history set in the 1700/1800s - these add different features to the game, spicing it up for players who want a challenge.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/15184693960922670117/7C150750EFDA5A42197402B92AAF9EEEFF803D3C/",
+      "preview": "https://images.steamusercontent.com/ugc/15184693960922670117/7C150750EFDA5A42197402B92AAF9EEEFF803D3C/",
+      "keywords": [
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-24T00:53:54+00:00",
+      "found_at": "2026-11-24T01:41:54.000155+00:00",
+      "is_new": true
+    },
+    {
       "id": "3843734295",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3843734295",
       "title": "Horrified D&D Ravenloft (Scripted)",
@@ -125,7 +268,7 @@
       ],
       "created_at": "2026-11-21T20:39:18+00:00",
       "found_at": "2026-11-22T20:44:27.656258+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843747832",
@@ -140,7 +283,7 @@
       ],
       "created_at": "2026-11-21T21:05:13+00:00",
       "found_at": "2026-11-22T20:44:27.656258+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843785610",
@@ -156,7 +299,7 @@
       ],
       "created_at": "2026-11-21T22:17:27+00:00",
       "found_at": "2026-11-22T20:44:27.656258+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3843144366",
