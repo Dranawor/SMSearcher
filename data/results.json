@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-24T23:29:39.395633+00:00",
+    "completed_at": "2026-11-25T23:07:47.619670+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-24T23:29:32.267073+00:00",
+    "started_at": "2026-11-25T23:07:42.344342+00:00",
     "window_days": 7,
-    "created_after": 1795311720,
-    "created_before": 1795562972,
+    "created_after": 1795390179,
+    "created_before": 1795648062,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-24T23:29:39.395633+00:00",
-    "new_items_added": 6,
+    "last_successful_scan": "2026-11-25T23:07:47.619670+00:00",
+    "new_items_added": 4,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,66 @@
   ],
   "items": [
     {
+      "id": "3845606302",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845606302",
+      "title": "Make It Worse: A Party Game of Escalating Chaos",
+      "creator": "",
+      "description": "[h1]MAKE IT WORSE![/h1] [b]Welcome to the coziest place to ruin a perfectly good evening.[/b] [b]MAKE IT WORSE! — A Party Game of Escalating Chaos[/b], presented by RamenKing Games. [hr][/hr] [h1]THE GAME[/h1] [b]One player tells a story. Everyone else tries to make their life miserable.[/b] Start with an awkward Situation, then throw increasingly outrageous Complications and Directions at the Storyteller. Can they survive five Escalations and somehow bring their disaster of a story to a satisfying conclusion? Or will they crack under the pressure and hand victory to the very people responsible for their suffering? [b]3–6 Players | 15–30 Minutes | Zero Dignity Required[/b] [hr][/hr] [hr][/hr] [h1]HOW TO PLAY[/h1] Click the [b]INSTRUCTIONS[/b] button in-game to access the illustrated rules. [b]First player to collect 3 Situation Cards wins![/b] [hr][/hr] [h2]RamenKing Games Presents: MAKE IT WORSE![/h2] [i]Because every good story deserves a terrible decision.[/i] Pull up a chair, pour yourself a drink, and remember: [b]Whatever happens next, you can always make it worse.[/b]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10352514949074501184/E68C04B36B7AB6F53020D11C3A56AB39DD176ABF/",
+      "preview": "https://images.steamusercontent.com/ugc/10352514949074501184/E68C04B36B7AB6F53020D11C3A56AB39DD176ABF/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-25T06:09:59+00:00",
+      "found_at": "2026-11-25T23:07:42.344342+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845690234",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845690234",
+      "title": "Digimon Reimagined",
+      "creator": "",
+      "description": "Inspired by the automated Magic: The Gathering table and built upon the work of previous Digimon TCG Workshop creators, I've put together a renewed and heavily automated Digimon table. I hope you enjoy it! What's included: - Tokens for all 44 keywords in the comprehensive rulebook. - Automated deck importing and game setup. - Automated drawing, hatching, revealing, recovery, unsuspending, security checks and mulligans. - Context menus for seamless gameplay, including both native TTS context menus and custom on-card menus. - Adjustable DP counters and status effect markers. - Automated security counters and memory tracking. - Notifications for various gameplay state changes. - Dedicated scripting for handling Digimon and their digivolution sources. The aim of this workshop is to streamline gameplay without restricting player agency or enforcing card interactions. Full disclosure: AI was used to assist with coding, keyword research and troubleshooting during the development of this workshop. Credits: - Original Zaffy's Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2042884945 - Cake's Automated Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2330775492 - Zonda Zecarius' Automated Mod: https://steamcommunity.com/sharedfiles/filedetails/?id=2692441096 - Deck Builder and Importer by Orangeswim: https://digimoncard.dev - Boxes by ThatRobHuman: https://steamcommunity.com/sharedfiles/filedetails/?id=889898114 - Digivice model by Oliverzalez: https://sketchfab.com/3d-models/digivice-10-60b0ffe2953b4ef7b4cf8f4022e3da6e - Previous Workshop upon which this project was built, by Noboruwu: https://steamcommunity.com/sharedfiles/filedetails/?id=3303484555 Feedback, suggestions and bug reports are welcome!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16238895419903130695/C8B6289281D195A8EBF35FB6951E998FA2D7E899/",
+      "preview": "https://images.steamusercontent.com/ugc/16238895419903130695/C8B6289281D195A8EBF35FB6951E998FA2D7E899/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-25T11:41:24+00:00",
+      "found_at": "2026-11-25T23:07:42.344342+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845923307",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845923307",
+      "title": "Red Dragon Inn (Türkçe)",
+      "creator": "",
+      "description": "[h1]The Red Dragon Inn — Tam Türkçe Sürüm[/h1] Red Dragon Inn’de macera zindanlarda değil, maceradan döndükten sonra başlar! Sen ve arkadaşların, tehlikeli görevlerden sağ salim dönmüş bir grup maceracısınız. Şimdi Red Dragon Inn’de dinlenme, içki içme, kumar oynama ve kazandığınız altınları harcama zamanı. Fakat dikkatli olun: İçkiler sert, kumar masası acımasız ve arkadaşlarınız elinizdeki son altını almak için her türlü numarayı yapmaya hazır! [h2]Oyun Nasıl Oynanır?[/h2] Her oyuncu kendine özgü kartlara, yeteneklere ve oyun tarzına sahip bir karakter seçer. Turunuz sırasında karakter kartlarınızı kullanarak: [list] [*]Diğer oyuncuların Dayanıklılığını azaltabilir, [*]Onların daha fazla içmesini sağlayabilir, [*]İçeceklerin etkilerini değiştirebilir, [*]Kumar turu başlatabilir, [*]Altın kazanabilir veya rakiplerinizin Altın kaybetmesini sağlayabilir, [*]Size karşı oynanan kartları yok sayabilir veya etkilerini azaltabilirsiniz. [/list] Her turun sonunda Beni İç! Yığınınızdaki İçeceği içersiniz. İçkiler Alkol Seviyenizi yükseltirken diğer oyuncuların kartları Dayanıklılığınızı azaltabilir. Alkol Seviyeniz Dayanıklılığınıza ulaşırsa bayılırsınız ve oyun dışı kalırsınız. Bütün Altınınızı kaybederseniz Red Dragon Inn’den atılır ve yine oyun dışı kalırsınız. Ayakta kalan son oyuncu oyunu kazanır! [h2]Neden Red Dragon Inn?[/h2] Red Dragon Inn; blöf, şans, kart kombinasyonları, oyuncu etkileşimi ve bol miktarda eğlenceli sabotaj içeren rekabetçi bir parti kart oyunudur. Her karakter farklı şekilde oynanır. Bazıları güçlü saldırılar yaparken bazıları içecekleri manipüle eder, kumarda üstünlük sağlar, özel kaynaklar kullanır veya tamamen kendine özgü mekaniklerle oynar. Çok sayıdaki karakter, içecek destesi, özel oyun modu ve ek içerik sayesinde her oyun farklı gelişir. [h2]Bu Türkçe Sürümde Neler Var?[/h2] [list] [*]Bütün karakterlerin kartları [*]Karakter panoları ve özel yetenek açıklamaları [*]Karakterlere özel oynanış rehberleri [*]Normal ve özel İçecek Desteleri [*]İçki Etkinlikleri [*]Ödül kartları [*]Han Gezisi içerikleri [*]Ana oyun ve genişleme kuralları [*]Türkçeleştirilmiş butonlar, menüler ve oyuncu mesajları [*]Oyuna hazırlığı kolaylaştıran otomatik Lua sistemi [/list] Türkçe sürüm hazırlanırken orijinal çizimler, karakter tasarımları, kart sıraları, oyun mekanikleri ve otomasyon sistemi mümkün olduğunca korunmuştur. [h2]Orijinal Mod ve Teşekkür[/h2] Bu mod, Noy2222 tarafından hazırlanan kapsamlı Red Dragon Inn Workshop modunun gayriresmî Türkçe yerelleştirmesidir. Orijinal modun otomasyon sistemi, Lua betikleri, oyun düzeni ve içerik derlemesi Noy2222’ye aittir. Orijinal Workshop modu: [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1392822598]Red Dragon Inn — Noy2222[/url] Kapsamlı Tabletop Simulator uyarlaması ve yıllar boyunca yapılan güncellemeler için Noy2222’ye teşekkür ederiz. Red Dragon Inn oyunu, karakterleri, kuralları ve görsel varlıkları SlugFest Games’in mülkiyetindedir. Bu çalışma resmî olmayan ve ticari amaç taşımayan bir hayran çevirisidir. Red Dragon Inn’i seviyorsanız SlugFest Games’in resmî oyunlarını satın alarak yapımcıları desteklemeyi unutmayın: [url=https://slugfestgames.com]SlugFest Games[/url] [h2]Hata Bildirimi ve Geri Bildirim[/h2] Modda çevrilmemiş bir metin, yanlış çeviri, eksik görsel, beyaz kural sayfası, yüklenmeyen kart veya oyun mekaniğiyle ilgili bir sorun görürseniz lütfen Workshop yorumlarında bildirin. Sorunu daha hızlı çözebilmemiz için mesajınıza mümkünse şunları ekleyin: [list] [*]Karakterin, kartın veya destenin adı [*]Sorunun kısa açıklaması [*]Varsa ekran görüntüsü [*]Sorunun oyun sahibinde mi yoksa katılan oyuncuda mı oluştuğu [*]Hangi işlemden sonra meydana geldiği [/list] Eski veya hatalı kart görselleri görünüyorsa Tabletop Simulator ayarlarından Mod Caching özelliğini geçici olarak kapatıp Steam ve oyunu yeniden başlatmayı deneyebilirsiniz. Bu proje çok sayıda karakter, kart, rehber ve genişleme içerdiğinden gözden kaçan çeviri veya teknik sorunlar bulunabilir. Yapıcı geri bildirimler, düzeltmeler ve terim önerileri memnuniyetle karşılanır. İyi oyunlar ve Red Dragon Inn’de bol eğlenceler!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17380635144099279280/6B0BC1F0C04393EB3F4F5ECE988EB0CFCD7F5631/",
+      "preview": "https://images.steamusercontent.com/ugc/17380635144099279280/6B0BC1F0C04393EB3F4F5ECE988EB0CFCD7F5631/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-11-25T20:42:27+00:00",
+      "found_at": "2026-11-25T23:07:42.344342+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3845951305",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845951305",
+      "title": "Fizzytastic Expansion (Security Training)",
+      "creator": "",
+      "description": "A Fanmade pack of custom characters for Security Training! Go play it!!! this is NOT OFFICIAL. Link to Original: https://steamcommunity.com/sharedfiles/filedetails/?id=2829044695",
+      "thumbnail": "https://images.steamusercontent.com/ugc/17067513517223956266/615E22DF645C087B4F1F7F5751020987E5EC3BBF/",
+      "preview": "https://images.steamusercontent.com/ugc/17067513517223956266/615E22DF645C087B4F1F7F5751020987E5EC3BBF/",
+      "keywords": [
+        "Origin Story"
+      ],
+      "created_at": "2026-11-25T21:52:03+00:00",
+      "found_at": "2026-11-25T23:07:42.344342+00:00",
+      "is_new": true
+    },
+    {
       "id": "3845120049",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845120049",
       "title": "Go Fish for Freaks: Niko's Pictures Folder",
@@ -125,7 +185,7 @@
       ],
       "created_at": "2026-11-24T06:27:52+00:00",
       "found_at": "2026-11-24T23:29:32.267073+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845179554",
@@ -141,7 +201,7 @@
       ],
       "created_at": "2026-11-24T10:28:26+00:00",
       "found_at": "2026-11-24T23:29:32.267073+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845189374",
@@ -157,7 +217,7 @@
       ],
       "created_at": "2026-11-24T11:01:46+00:00",
       "found_at": "2026-11-24T23:29:32.267073+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845267774",
@@ -172,7 +232,7 @@
       ],
       "created_at": "2026-11-24T14:27:47+00:00",
       "found_at": "2026-11-24T23:29:32.267073+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845273220",
@@ -188,7 +248,7 @@
       ],
       "created_at": "2026-11-24T14:39:50+00:00",
       "found_at": "2026-11-24T23:29:32.267073+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845285350",
@@ -206,7 +266,7 @@
       ],
       "created_at": "2026-11-24T15:04:25+00:00",
       "found_at": "2026-11-24T23:29:32.267073+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3844007160",
