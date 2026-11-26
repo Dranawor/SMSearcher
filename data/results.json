@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-25T23:07:47.619670+00:00",
+    "completed_at": "2026-11-26T23:01:29.514948+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-25T23:07:42.344342+00:00",
+    "started_at": "2026-11-26T23:01:19.729821+00:00",
     "window_days": 7,
-    "created_after": 1795390179,
-    "created_before": 1795648062,
+    "created_after": 1795475267,
+    "created_before": 1795734079,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-25T23:07:47.619670+00:00",
-    "new_items_added": 4,
+    "last_successful_scan": "2026-11-26T23:01:29.514948+00:00",
+    "new_items_added": 10,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,162 @@
   ],
   "items": [
     {
+      "id": "3845917392",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845917392",
+      "title": "Winzul - Auf der Suche nach dem Schatz",
+      "creator": "",
+      "description": "Ein Dschungel voller Geheimnisse – und du mittendrin: In Winzul schlüpfst du in die Rolle eines von acht einzigartigen Charakteren, die auf einer abgelegenen Insel gestrandet sind. Deine Mission: Finde die versteckten Edelsteine, meistere gefährliche Begegnungen und öffne die Pforte zum sagenumwobenen Schatz im Herzen des Dschungels. Doch der Weg ist tückisch: Gegner lauern im Dickicht, Ereignisse stellen dich vor unerwartete Herausforderungen, und nur mit klugem Einsatz deiner Ressourcen – Gold, Gegenstände und Fähigkeiten – kannst du dich behaupten. Jeder Spielzug birgt neue Entscheidungen, jede Partie ein anderes Abenteuer. Dank der Kombination aus Würfelglück, Gedächtnisleistung und strategischem Denken entsteht ein fesselndes Spielerlebnis für die ganze Familie. Ob du nun den listigen Nerd, die mutige Reporterin oder den kampferprobten Soldaten wählst – jede Figur bringt ihre eigenen Stärken mit. Und mit optionalen Erweiterungen wie „Auf dem Basar“ oder „Gefahr aus dem Weltall“ bleibt der Spielspaß stets frisch und abwechslungsreich. Merkmale: Abenteuerliches Familienspiel für 2–4 Spieler ab 10 Jahren Spieldauer: ca. 60–180 Minuten Hoher Wiederspielwert durch variablen Spielaufbau und Ereignisse Liebevoll gestaltetes Retro-Design mit detailreichem Spielmaterial Entwickelt und produziert in Europa vom Arsonists Verlag",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11502158089522977837/BF5B33D3C32B1F0C42AA73AFD786E170C0DD482B/",
+      "preview": "https://images.steamusercontent.com/ugc/11502158089522977837/BF5B33D3C32B1F0C42AA73AFD786E170C0DD482B/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-25T20:31:07+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846028623",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846028623",
+      "title": "Kenobi's Black Death City Map #1",
+      "creator": "",
+      "description": "",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14510920801976613613/1D85427CFB0019808E68606C5F1EB50F0E0D50C6/",
+      "preview": "https://images.steamusercontent.com/ugc/14510920801976613613/1D85427CFB0019808E68606C5F1EB50F0E0D50C6/",
+      "keywords": [
+        "Between Two Cities"
+      ],
+      "created_at": "2026-11-26T01:49:52+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846045647",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846045647",
+      "title": "Fate/Domination - Kukulkan",
+      "creator": "",
+      "description": "This is the custom Foreigner servant Kukulkan for Fate/Domination. My Intention with this set of servants is that they all fit in with the general \"vibe\" and power level of the base game. Pending more testing, this will get edited in the future.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/13128884081148725500/0E6467E414D56159901DFF296305B6C468E390F3/",
+      "preview": "https://images.steamusercontent.com/ugc/13128884081148725500/0E6467E414D56159901DFF296305B6C468E390F3/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-26T02:51:24+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846071915",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846071915",
+      "title": "Disney Villainous Custom - Dr. Blowhole (The Penguins of Madagascar)",
+      "creator": "",
+      "description": "\"Just try to stop me, and your fuzzy little friend sleeps with the fishes!\" Play as Dr. Blowhole from The Penguins of Madagascar as you flood your realm to get revenge from the humans who forced you to jump through hoops.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9997228431649005008/C4BBA583D1E502CDCF0F32086D4FACF27C3C896F/",
+      "preview": "https://images.steamusercontent.com/ugc/9997228431649005008/C4BBA583D1E502CDCF0F32086D4FACF27C3C896F/",
+      "keywords": [
+        "My Little Scythe",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-26T04:31:42+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846161067",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846161067",
+      "title": "Elden Ring: Board Game (All Boxes) + Models 3D",
+      "creator": "",
+      "description": "An unofficial upload of the Elden Ring Board Game by Steamforged Games. Original mod: https://steamcommunity.com/sharedfiles/filedetails/?id=3481845683 Autor: God of Light11 Table is the Chimera Table, https://steamcommunity.com/sharedfiles/filedetails/?id=1222553243 I will upload the table until finish all models from all expansions. The table only have all models for the base game and all the tarnisheds. Its my first upload but remember go to the original creator to say thanks this is only a part of my passion for the game that i want to share with all of you.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16117934232968379153/C03C055082A248490E197AF8DB38D3173C081D53/",
+      "preview": "https://images.steamusercontent.com/ugc/16117934232968379153/C03C055082A248490E197AF8DB38D3173C081D53/",
+      "keywords": [
+        "My Little Scythe",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-26T10:35:40+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846173377",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846173377",
+      "title": "Spellforge",
+      "creator": "",
+      "description": "cardgame me and my friends work on, takes elements from magic, one piece, riftbound, and union arena.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11023136302505579728/A89E18540E0DC443CB813574D80F7E36CA851446/",
+      "preview": "https://images.steamusercontent.com/ugc/11023136302505579728/A89E18540E0DC443CB813574D80F7E36CA851446/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-26T11:17:57+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846187451",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846187451",
+      "title": "Jurassic Park TCG",
+      "creator": "",
+      "description": "Introducing the Jurassic Park Trading Card Game. The Jurassic Park Trading Card Game is a strategic trading card game in which two players face off 1:1. Players command fierce battles centered on Dinosaur cards, making use of Event and Character cards. Each card has its own Attack/Counter abilities and a variety of effects, demanding strategic judgement at every moment. After fierce battles, the player who raises the opponent's \"Damage Level\" to 4 (a cumulative 20 damage) siezes victory. The cards carry the original story and special designs of the Jurassic franchise, adding to the immersion. Through booster packs and expansion packs of diverse composition, experience the appeal of your own ever-evolving deck and strategy.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/11280138039497730323/0975DD718DDCA65A503C76437167C670F44FB9E0/",
+      "preview": "https://images.steamusercontent.com/ugc/11280138039497730323/0975DD718DDCA65A503C76437167C670F44FB9E0/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-26T12:03:33+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846294775",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846294775",
+      "title": "Unofficial Umamusume TCG",
+      "creator": "",
+      "description": "Bring the world of **Umamusume: Pretty Derby** to the tabletop with this **unofficial fan-made trading card game for Tabletop Simulator!** Build a 40-card deck using two Flower Types, assemble your team of Umamusume, and send them into races where cards, abilities, and dice rolls determine who crosses the finish line first. Earn Reputation by placing well in races, and be the first Trainer to reach **8 Reputation** to claim victory. Designed for **2–4 players** with games lasting roughly **45–75 minutes**. Includes the cards and components needed to play digitally. Grab some friends, build your deck, and see whose team has what it takes to become Japan’s most famous!",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10027685914833687344/BCF2DECF222E9A2077693F16494C9675E5C668F9/",
+      "preview": "https://images.steamusercontent.com/ugc/10027685914833687344/BCF2DECF222E9A2077693F16494C9675E5C668F9/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-26T16:15:31+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846421488",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846421488",
+      "title": "fobjopoly",
+      "creator": "",
+      "description": "my awesome monopoly reskin featuring custom player pieces, completely arbitrary properties, a new money system, new wacky chance cards, and marvin gardens!! currently work in progress but it'll be done soon probably",
+      "thumbnail": "https://images.steamusercontent.com/ugc/10505093920430718541/383894348B2E175E97B32B4B02A40BE253E70789/",
+      "preview": "https://images.steamusercontent.com/ugc/10505093920430718541/383894348B2E175E97B32B4B02A40BE253E70789/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-26T20:57:46+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846446732",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846446732",
+      "title": "Star Wars Map Kamino",
+      "creator": "",
+      "description": "[h1] Star Wars Map Kamino ported by Mellow[/h1] [h2] DISCLAIMER [/h2] [b] I did not create this map, this map was ported from Jakob | KingPommes Kamino map on GMOD[/b] [hr][/hr] [b][u]Please go check out Jakob | KingPommes and give him some love![/u][/b] [url=https://steamcommunity.com/id/jakobsailer] Jakob | KingPommes [/url] [b][u]Also check out the Star Wars Legion mod! [/u][/b] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2361950023] Star Wars Legion Mod [/url] [hr][/hr] [b] Some Features Include: [/b] [list] [*] Rain effects [*] Kamino SUITE Music [*] Trident class assault ship [/list] [i] I appreciate you checking out the map! Please also go take a look at my collection here: [/i] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3375963495][/url] Also be sure to checkout the SWRPG discord server! [url=https://discord.gg/starwarsrpg] Star Wars RPG[/url] [spoiler] Tags: Star Wars, Clone Wars, Clone Troopers, Clone Minifigures, Clone Figurines, Star Wars Figurines, Star Wars Minifigures, Clone Commandos, Star Wars Republic, Star Wars GAR, GAR, Grand Army, Mellow's, Mellow's Grand Army [/spoiler]",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14787226213938219014/4CEBE0E490EFABAD5CC267F0EBD545C01FABFB36/",
+      "preview": "https://images.steamusercontent.com/ugc/14787226213938219014/4CEBE0E490EFABAD5CC267F0EBD545C01FABFB36/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-26T22:00:01+00:00",
+      "found_at": "2026-11-26T23:01:19.729821+00:00",
+      "is_new": true
+    },
+    {
       "id": "3845606302",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845606302",
       "title": "Make It Worse: A Party Game of Escalating Chaos",
@@ -125,7 +281,7 @@
       ],
       "created_at": "2026-11-25T06:09:59+00:00",
       "found_at": "2026-11-25T23:07:42.344342+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845690234",
@@ -140,7 +296,7 @@
       ],
       "created_at": "2026-11-25T11:41:24+00:00",
       "found_at": "2026-11-25T23:07:42.344342+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845923307",
@@ -155,7 +311,7 @@
       ],
       "created_at": "2026-11-25T20:42:27+00:00",
       "found_at": "2026-11-25T23:07:42.344342+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845951305",
@@ -170,7 +326,7 @@
       ],
       "created_at": "2026-11-25T21:52:03+00:00",
       "found_at": "2026-11-25T23:07:42.344342+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845120049",
