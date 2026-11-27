@@ -1,6 +1,6 @@
 {
   "scan": {
-    "completed_at": "2026-11-26T23:01:29.514948+00:00",
+    "completed_at": "2026-11-27T22:44:53.897188+00:00",
     "initialized": true,
     "baseline_keywords": [
       "Apiary",
@@ -68,15 +68,15 @@
     },
     "historical_pages_checked": 1,
     "sort": "mostrecent",
-    "started_at": "2026-11-26T23:01:19.729821+00:00",
+    "started_at": "2026-11-27T22:44:44.225615+00:00",
     "window_days": 7,
-    "created_after": 1795475267,
-    "created_before": 1795734079,
+    "created_after": 1795561289,
+    "created_before": 1795819484,
     "keywords_scanned": 29,
     "results_per_page": 50,
     "baseline_at": "2026-10-16T23:00:04.157499+00:00",
-    "last_successful_scan": "2026-11-26T23:01:29.514948+00:00",
-    "new_items_added": 10,
+    "last_successful_scan": "2026-11-27T22:44:53.897188+00:00",
+    "new_items_added": 5,
     "older_unseen_items_rejected": 0,
     "unavailable_items_rejected": 0
   },
@@ -113,6 +113,83 @@
   ],
   "items": [
     {
+      "id": "3846497109",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846497109",
+      "title": "Temple of the Crushing Wave",
+      "creator": "",
+      "description": "The Cult of the Crushing Wave maintains its headquarters in the southeast quarter of ancient Tyar-Besil. Long ago, this portion of Tyar-Besil contained storehouses. The Dark Stream provided a safe, navigable waterway linking the stronghold with the Dessarin River and the surface dominions of the realm. Gar Shatterkeel, the Prophet of Water, instructed his followers to claim as much of the quarter as they could and to entice monsters friendly to the cult's cause to establish lairs nearby.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/9756919380278191280/4E120022164FE675BAE34FF1684C2568CDA15219/",
+      "preview": "https://images.steamusercontent.com/ugc/9756919380278191280/4E120022164FE675BAE34FF1684C2568CDA15219/",
+      "keywords": [
+        "Rolling Realms"
+      ],
+      "created_at": "2026-11-27T00:28:29+00:00",
+      "found_at": "2026-11-27T22:44:44.225615+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846819839",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846819839",
+      "title": "Dresden Files Miniatures",
+      "creator": "",
+      "description": "Models of the characters from The Dresden Files series of novels by Jim Butcher. Current roster: -Harry Dresden (2 variations) -Karrin Murphy -Thomas Raith -Michael Carpenter -Molly Carpenter -Mouse -Bianca St. Claire -Red Court Vampire Fair Warning: All the included models were made with generative AI.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16173871329908555385/43355B088735A07D14398123B5189341ADD1FE5A/",
+      "preview": "https://images.steamusercontent.com/ugc/16173871329908555385/43355B088735A07D14398123B5189341ADD1FE5A/",
+      "keywords": [
+        "Red Rising"
+      ],
+      "created_at": "2026-11-27T16:55:24+00:00",
+      "found_at": "2026-11-27T22:44:44.225615+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846855058",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846855058",
+      "title": "Gorgons Grimoire Universal Table Square with GM Staging",
+      "creator": "",
+      "description": "Gorgons Grimoire Universal Table Square with GM Staging Set up several adventure locations on one table, or use the entire 16′ × 16′ playfield for a large wargame. Eight pull-out player trays keep dice, cards, and reference materials handy. Behind the Game Master’s screen, a separate dark cherry staging table gives the GM room to prepare figures, terrain, and upcoming encounters. Table Dimensions - Playfield: 16′ × 16′ (192″ × 192″) - AM staging table: 4′ × 4′ (48″ × 48″), level with the open GM station - Fully extended footprint: 21′8″ wide × 25′8″ long (260″ × 308″), including the trays and staging table The square playfield has twice the playable area of the original 16′ × 8′ Gorgons Grimoire Universal Table. Map Coverage by Scale - At 1″ = 5′, the full playfield represents 960′ × 960′. A 4′ × 4′ section covers 240′ × 240′, and an 8′ × 8′ section covers 480′ × 480′. - At 1″ = 10′, the full playfield represents 1,920′ × 1,920′. A 4′ × 4′ section covers 480′ × 480′, and an 8′ × 8′ section covers 960′ × 960′. - At 1″ = 10 yards, the full playfield represents 1,920 × 1,920 yards, or about 1.09 miles per side. A 4′ × 4′ section covers 480 × 480 yards, and an 8′ × 8′ section covers 960 × 960 yards. Table and Environment Controls - GG Table Controls opens and closes each of the eight player trays independently. It also extends and retracts the AM station and raises or lowers the four-panel AM screen. - GG Environment Controls changes the lighting and playfield surface. Switch from daylight to dusk or moonlight, and choose from Green Felt, Water, Desert, Mountain, and Starfield. Set Up Multiple Locations - Four 8′ × 8′ areas give you room for larger scenes. Build a village, a river crossing, a ruined keep, and a forest camp, then move the party between them as the adventure unfolds. - Sixteen 4′ × 4′ areas let you prepare smaller locations such as interiors, street encounters, and dungeon rooms. - Mix section sizes to fit your session. Give the main encounter an 8′ × 8′ area, use smaller sections for nearby scenes, and stage hidden figures and reinforcements behind the AM screen. Use the Whole Field for Wargames The full playfield gives you room for opposing deployment zones, terrain, and objectives, with space for formations to maneuver. Keep reserves, scenario pieces, and figures waiting to enter play on the AM staging table.",
+      "thumbnail": "https://images.steamusercontent.com/ugc/14870148011285308832/456DD0513243C4767A1780AF4ED41CCCD899A017/",
+      "preview": "https://images.steamusercontent.com/ugc/14870148011285308832/456DD0513243C4767A1780AF4ED41CCCD899A017/",
+      "keywords": [
+        "Between Two Castles",
+        "Between Two Cities",
+        "Origin Story"
+      ],
+      "created_at": "2026-11-27T18:03:47+00:00",
+      "found_at": "2026-11-27T22:44:44.225615+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846886639",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846886639",
+      "title": "ARCADIA",
+      "creator": "",
+      "description": "this is a small and a little poor quality board game I had made for an rpg I was working on for a while. it's pretty rough and has most of its rules in the notebook listed it's mostly ripped off from something along the lines of root where races have slight different gameplay for each one, though I let you play as multiple at once just that you have to make them the right color",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16376223519708063822/6C8A7AC1C1EAA4CE2D28C7A151EF909FD4F1CB27/",
+      "preview": "https://images.steamusercontent.com/ugc/16376223519708063822/6C8A7AC1C1EAA4CE2D28C7A151EF909FD4F1CB27/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-27T19:01:34+00:00",
+      "found_at": "2026-11-27T22:44:44.225615+00:00",
+      "is_new": true
+    },
+    {
+      "id": "3846928183",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3846928183",
+      "title": "Curse of Strahd Minis",
+      "creator": "",
+      "description": "A couple minis i used in the last campaign i ran with my group They were all decimated to be very lightweight",
+      "thumbnail": "https://images.steamusercontent.com/ugc/16326010780684623052/A8C56ACC5062FF474CCEB7103AC1599E4020BDC8/",
+      "preview": "https://images.steamusercontent.com/ugc/16326010780684623052/A8C56ACC5062FF474CCEB7103AC1599E4020BDC8/",
+      "keywords": [
+        "My Little Scythe"
+      ],
+      "created_at": "2026-11-27T20:27:34+00:00",
+      "found_at": "2026-11-27T22:44:44.225615+00:00",
+      "is_new": true
+    },
+    {
       "id": "3845917392",
       "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3845917392",
       "title": "Winzul - Auf der Suche nach dem Schatz",
@@ -125,7 +202,7 @@
       ],
       "created_at": "2026-11-25T20:31:07+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846028623",
@@ -140,7 +217,7 @@
       ],
       "created_at": "2026-11-26T01:49:52+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846045647",
@@ -155,7 +232,7 @@
       ],
       "created_at": "2026-11-26T02:51:24+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846071915",
@@ -171,7 +248,7 @@
       ],
       "created_at": "2026-11-26T04:31:42+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846161067",
@@ -187,7 +264,7 @@
       ],
       "created_at": "2026-11-26T10:35:40+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846173377",
@@ -202,7 +279,7 @@
       ],
       "created_at": "2026-11-26T11:17:57+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846187451",
@@ -219,7 +296,7 @@
       ],
       "created_at": "2026-11-26T12:03:33+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846294775",
@@ -236,7 +313,7 @@
       ],
       "created_at": "2026-11-26T16:15:31+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846421488",
@@ -251,7 +328,7 @@
       ],
       "created_at": "2026-11-26T20:57:46+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3846446732",
@@ -266,7 +343,7 @@
       ],
       "created_at": "2026-11-26T22:00:01+00:00",
       "found_at": "2026-11-26T23:01:19.729821+00:00",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "3845606302",
